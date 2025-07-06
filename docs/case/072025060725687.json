@@ -8,11 +8,11 @@
     "COORDINATE": "120.198744773606,23.0036563813845",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "2025\/07\/06 19:19:21 受傷1人 - 路樹倒塌壓到人.員警已到場",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "2025\/07\/06 19:19:21  - 路樹倒塌壓到人.員警已到場",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "沈儀昌",
-    "INJURED_NO": 1,
+    "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2025-07-06 19:45:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/07\/06 19:19:21 受傷1人 - 路樹倒塌壓到人.員警已到場",
+            "new_value": "2025\/07\/06 19:19:21  - 路樹倒塌壓到人.員警已到場",
+            "timestamp": "2025-07-06 19:55:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-06 19:55:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2025-07-06 19:55:04"
         }
     ]
 }
