@@ -101,19 +101,16 @@ foreach ($lines as $line) {
             }
         }
         
-        // If there are changes, update the logs
+        // Preserve existing logs
+        if (isset($existingData['logs'])) {
+            $caseData['logs'] = $existingData['logs'];
+        } else {
+            $caseData['logs'] = [];
+        }
+        
+        // If there are changes, add them to the logs
         if (!empty($changes)) {
-            if (!isset($existingData['logs'])) {
-                $existingData['logs'] = [];
-            }
-            $existingData['logs'] = array_merge($existingData['logs'], $changes);
-            
-            // Update the data fields
-            foreach ($caseData as $key => $value) {
-                $existingData[$key] = $value;
-            }
-            
-            $caseData = $existingData;
+            $caseData['logs'] = array_merge($caseData['logs'], $changes);
             echo "Updated case {$caseData['CASE_ID']} with " . count($changes) . " changes\n";
         }
     } else {
