@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2025\/07\/06 22:52:38 - 地點描述：屏東縣屏東市重慶路、成功路路口路樹倒塌110轉報人員：謝裕光消防局:受理警察局轉報並與報案人確認無人受傷2025\/07\/06 22:54:56 - 地點描述：屏東縣屏東市重慶路、成功路路口路樹倒塌110轉報人員：謝裕光消防局:受理警察局轉報並與報案人確認無人受傷　／　2025\/07\/06 23:08:52 - 路樹倒塌橫跨約2\/3的路面.無人員受傷.麻煩派人前往協助",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 01:31:04"
+        }
+    ]
 }
