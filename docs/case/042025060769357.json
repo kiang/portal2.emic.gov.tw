@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "電線桿電線掉落",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "110",
+    "PERSON_ID": "塗厝派出所高先生",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "110",
+            "new_value": "塗厝派出所高先生",
+            "timestamp": "2025-07-07 06:31:04"
+        }
+    ]
 }
