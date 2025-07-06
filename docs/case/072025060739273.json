@@ -7,11 +7,11 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.265081236133,23.2826703008678",
     "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "2025\/07\/07 01:43:02 - 太宮派出所:房屋倒塌1位09333663122025\/07\/07 01:45:02 - 太宮派出所:房屋倒塌1位0933366312",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-07 02:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "請求（協助）疏散撤離",
+            "timestamp": "2025-07-07 05:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119",
+            "timestamp": "2025-07-07 05:01:04"
         }
     ]
 }
