@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "五分局警員",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "120.2068735,23.01012179",
             "new_value": "120.214571,23.003685",
             "timestamp": "2025-07-06 22:35:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-06 22:45:03"
         }
     ]
 }
