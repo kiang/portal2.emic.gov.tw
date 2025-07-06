@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/7\/7 上午 05:38:00",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "莿桐鄉",
-    "CASE_LOC": "雲林縣莿桐鄉埔尾村縣道154乙[雲林縣莿桐鄉興桐村16鄰新莊1之7號]",
+    "CASE_LOC": "雲林縣莿桐鄉埔尾村縣道154乙[雲林縣莿桐鄉埔尾村6鄰油車53之12號]",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.4944896,23.7633536",
+    "COORDINATE": "120.52988101495086,23.742697767516162",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹傾倒",
+    "CASE_DESCRIPTION": "縣道154乙路樹傾倒影響通行",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張義豐",
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 06:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣莿桐鄉埔尾村縣道154乙[雲林縣莿桐鄉興桐村16鄰新莊1之7號]",
+            "new_value": "雲林縣莿桐鄉埔尾村縣道154乙[雲林縣莿桐鄉埔尾村6鄰油車53之12號]",
+            "timestamp": "2025-07-07 07:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.4944896,23.7633536",
+            "new_value": "120.52988101495086,23.742697767516162",
+            "timestamp": "2025-07-07 07:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹傾倒",
+            "new_value": "縣道154乙路樹傾倒影響通行",
+            "timestamp": "2025-07-07 07:11:04"
         }
     ]
 }
