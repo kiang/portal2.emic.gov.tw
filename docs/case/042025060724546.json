@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "【1999報災情】民眾通報樹木樹皮搖搖欲墜，在七堵區五堵國小內人行道，靠近福一街與百一街交叉口，民眾表示目前有多棵椰子樹樹皮懸在半空中，希派員改善。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "0",
     "INJURED_NO": 0,
@@ -18,5 +18,13 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false
+    "IS_SERIOUS": false,
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-06 17:55:04"
+        }
+    ]
 }
