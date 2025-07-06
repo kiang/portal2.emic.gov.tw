@@ -8,7 +8,7 @@
     "COORDINATE": "120.2659871,22.85724171",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "高雄市路竹區潭漧路84巷(耀豪汽車).移動式車棚遭強風吹走,目前掉落在隔壁車棚上,怕有意外",
+    "CASE_DESCRIPTION": "高雄市路竹區潭漧路84巷(耀豪汽車).移動式車棚遭強風吹走,占用巷道",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "洪先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "高雄市路竹區潭漧路84巷(耀豪汽車).移動式車棚遭強風吹走,目前掉落在隔壁車棚上,怕有意外",
+            "new_value": "高雄市路竹區潭漧路84巷(耀豪汽車).移動式車棚遭強風吹走,占用巷道",
+            "timestamp": "2025-07-06 21:55:04"
+        }
+    ]
 }
