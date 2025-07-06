@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/7\/7 上午 04:10:00",
     "COUNTY_N": "嘉義縣",
     "TOWN_N": "溪口鄉",
-    "CASE_LOC": "嘉義縣溪口鄉",
+    "CASE_LOC": "嘉義縣溪口鄉157線崙尾雜姓公",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.4010282,23.59353089",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "嘉義縣溪口鄉",
+            "new_value": "嘉義縣溪口鄉157線崙尾雜姓公",
+            "timestamp": "2025-07-07 04:31:04"
+        }
+    ]
 }
