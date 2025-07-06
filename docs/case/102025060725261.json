@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC民眾反映：仁德區中正路一段251巷10號，對面工廠鐵皮都掉下來恐造成危險，請派員協助處理，煩請承辦卓處。承辦不清楚可聯繫市民",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡小姐",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "廣告招牌掉落",
             "new_value": "圍牆(籬)倒塌",
             "timestamp": "2025-07-06 19:15:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-06 19:35:04"
         }
     ]
 }
