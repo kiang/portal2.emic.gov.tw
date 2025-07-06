@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "報案人表示房屋快倒了需協助　／　2025\/07\/07 00:58:54 - 地點描述：雲林縣水林鄉松中路15號上述地點有民眾稱房子快垮了需要員警協助，請速派員處理並注意本身安全及到達時間。 110轉報人員：李僑偉　／　村民呂芳玉等祖孫三人住宅屋頂快被颱風掀開，需公所協助撤離至安全場所。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "姚信旭",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 06:51:04"
+        }
+    ]
 }
