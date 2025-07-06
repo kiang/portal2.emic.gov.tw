@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "渠反映該址2樓屋內現有淹水倒灌情事，建請查處。(已派員處理)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡雅卉",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "蔡雅卉",
             "timestamp": "2025-07-06 22:25:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-06 23:01:04"
         }
     ]
 }
