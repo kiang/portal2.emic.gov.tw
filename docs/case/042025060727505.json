@@ -3,15 +3,15 @@
     "CASE_DT": "2025\/7\/6 下午 09:04:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "梓官區",
-    "CASE_LOC": "高雄市梓官區中正二街與中正四街",
+    "CASE_LOC": "高雄市梓官區中正二街與中正四街與中正六街61巷",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.259555,22.727186",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "中正二街與中正四街和通港路 全線路燈未亮",
+    "CASE_DESCRIPTION": "中正二街與中正四街和通港路 全線路燈未亮與中正六街61巷停電",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "陳怡華",
+    "PERSON_ID": "許正哲",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "中正二街與中正四街和通港路 全線住戶沒電",
             "new_value": "中正二街與中正四街和通港路 全線路燈未亮",
             "timestamp": "2025-07-06 21:35:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "高雄市梓官區中正二街與中正四街",
+            "new_value": "高雄市梓官區中正二街與中正四街與中正六街61巷",
+            "timestamp": "2025-07-07 01:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "中正二街與中正四街和通港路 全線路燈未亮",
+            "new_value": "中正二街與中正四街和通港路 全線路燈未亮與中正六街61巷停電",
+            "timestamp": "2025-07-07 01:21:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "陳怡華",
+            "new_value": "許正哲",
+            "timestamp": "2025-07-07 01:21:04"
         }
     ]
 }
