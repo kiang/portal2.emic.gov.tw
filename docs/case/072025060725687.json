@@ -11,13 +11,26 @@
     "CASE_DESCRIPTION": "2025\/07\/06 19:19:21 受傷1人 - 路樹倒塌壓到人.員警已到場",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "沈儀昌",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "沈儀昌",
+            "timestamp": "2025-07-06 19:45:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-07-06 19:45:04"
+        }
+    ]
 }
