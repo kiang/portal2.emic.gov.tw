@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/7\/6 下午 11:02:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "安定區",
-    "CASE_LOC": "臺南市安定區港尾里",
+    "CASE_LOC": "臺南市安定區",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.23451,23.106233",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "港尾里、文科里、管寮里、新吉里、中沙里均停電",
+    "CASE_DESCRIPTION": "港尾里、文科里、管寮里、新吉里、中沙里及安加里安定268-18號到268-35號，均停電",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "安定區公所",
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-06 23:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市安定區港尾里",
+            "new_value": "臺南市安定區",
+            "timestamp": "2025-07-06 23:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "港尾里、文科里、管寮里、新吉里、中沙里均停電",
+            "new_value": "港尾里、文科里、管寮里、新吉里、中沙里及安加里安定268-18號到268-35號，均停電",
+            "timestamp": "2025-07-06 23:51:03"
         }
     ]
 }
