@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "1.新興路與尊南街口之新興洗車場直立招牌過於突出，每次颱風季節一到，帆布招牌就會破損，在空中亂甩，支架也猛烈晃動，影響用路人與附近居民安全。2.轉角處置放洗車場招牌，影響尊南街右轉車輛視線，又臨近斑馬線，尊南街口綠燈時，右轉車輛無法及時看到斑馬線上的行人，極為危險。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡佩君",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 04:01:04"
+        }
+    ]
 }
