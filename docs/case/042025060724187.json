@@ -8,10 +8,10 @@
     "COORDINATE": "120.399797,22.502039",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
-    "CASE_DESCRIPTION": "高雄市林園區沿海路與東林西路、王公路口電桿搖晃",
+    "CASE_DESCRIPTION": "高雄市林園區沿海路與東林西路、王公路口電桿搖晃，路牌鬆動",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "許易淳",
+    "PERSON_ID": "陳玫玲",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "高雄市林園區沿海路與東林西路、王公路口電桿搖晃",
+            "new_value": "高雄市林園區沿海路與東林西路、王公路口電桿搖晃，路牌鬆動",
+            "timestamp": "2025-07-06 18:35:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "許易淳",
+            "new_value": "陳玫玲",
+            "timestamp": "2025-07-06 18:35:03"
+        }
+    ]
 }
