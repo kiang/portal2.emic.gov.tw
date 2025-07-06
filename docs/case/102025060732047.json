@@ -6,8 +6,8 @@
     "CASE_LOC": "東區府連路跟大同路一段交叉口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC 派工東區府連路跟大同路一段交叉口，幸福家不動產的招牌搖搖欲墜，請派員協助管制人車，煩請相關單位卓處。承辦若不清楚，可聯繫通報人，並請結案時將處理結果電話回覆民眾。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 00:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2025-07-07 00:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2025-07-07 00:31:04"
         }
     ]
 }
