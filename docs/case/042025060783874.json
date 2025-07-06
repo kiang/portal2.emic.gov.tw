@@ -3,9 +3,9 @@
     "CASE_DT": "2025\/7\/7 上午 07:32:00",
     "COUNTY_N": "彰化縣",
     "TOWN_N": "北斗鎮",
-    "CASE_LOC": "彰化縣北斗鎮舊西路二段112號",
+    "CASE_LOC": "彰化縣北斗鎮舊溪路二段112號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.5331566,23.867574",
+    "COORDINATE": "120.499688,23.887508",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌壓斷電線",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "彰化縣北斗鎮舊西路二段112號",
+            "new_value": "彰化縣北斗鎮舊溪路二段112號",
+            "timestamp": "2025-07-07 07:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.5331566,23.867574",
+            "new_value": "120.499688,23.887508",
+            "timestamp": "2025-07-07 07:51:04"
+        }
+    ]
 }
