@@ -7,8 +7,8 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.4609622,23.11480926",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "玉井區中山路246前大指示牌基座鬆脫，請協助指派公路局雲嘉南區養護工程分局曾文工務段",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "玉井區中山路246前大指示牌基座倒塌，請協助指派公路局雲嘉南區養護工程分局曾文工務段",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳星光",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2025-07-06 23:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "玉井區中山路246前大指示牌基座鬆脫，請協助指派公路局雲嘉南區養護工程分局曾文工務段",
+            "new_value": "玉井區中山路246前大指示牌基座倒塌，請協助指派公路局雲嘉南區養護工程分局曾文工務段",
+            "timestamp": "2025-07-06 23:31:04"
+        }
+    ]
 }
