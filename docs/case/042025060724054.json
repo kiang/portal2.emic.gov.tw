@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "華山溪「創價學會」旁，崩塌處現況。 崩塌礫石堆積，河道剩1\/4，溪流狀況尚可",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "廖奕翔",
     "INJURED_NO": 0,
@@ -18,5 +18,13 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false
+    "IS_SERIOUS": false,
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-06 17:45:03"
+        }
+    ]
 }
