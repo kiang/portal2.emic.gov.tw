@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "114年7月7日03:00時水上分局通報，北港路2段85號前面大型招牌掉在路中間，影響通行",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳大興",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 03:51:04"
+        }
+    ]
 }
