@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "EMIC北門區北門里井子腳13之10號，住家屋頂塌下來，積水也越來越高，住家內有4位大人需要先協助安置，煩卓處承辦若不清楚，可聯繫通報人。。。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
@@ -31,6 +31,12 @@
             "old_value": "林先生",
             "new_value": "林先生\/優先聯繫侯小姐(0921517133)",
             "timestamp": "2025-07-07 02:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "請求（協助）疏散撤離",
+            "timestamp": "2025-07-07 05:21:04"
         }
     ]
 }
