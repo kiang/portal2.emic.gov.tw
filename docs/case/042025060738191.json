@@ -6,8 +6,8 @@
     "CASE_LOC": "臺南市學甲區台19上華宗路與中華路交界往南方向",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.1841865,23.25219805",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "路燈倒一整排",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-07 05:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路燈故障",
+            "timestamp": "2025-07-07 05:11:04"
+        }
+    ]
 }
