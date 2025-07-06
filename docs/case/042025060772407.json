@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "臺南市安南區安和路五段366巷因廣告招牌掉落路中，影響通行",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "康瀚仁",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "臺南市安南區五段366巷因廣告招牌掉落路中，影響通行",
             "new_value": "臺南市安南區安和路五段366巷因廣告招牌掉落路中，影響通行",
             "timestamp": "2025-07-07 07:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 07:31:04"
         }
     ]
 }
