@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工西港區中山路448巷內,位於西港國中北側圍牆處,有路樹倒塌,目前車流量不大,暫不影響交通,請速派員協助路樹問題,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄭先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 18:01:05"
         }
     ]
 }
