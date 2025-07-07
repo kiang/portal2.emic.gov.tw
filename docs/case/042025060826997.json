@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "電線掉落",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "葉榮州",
+    "PERSON_ID": "尤東林",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "葉榮州",
+            "new_value": "尤東林",
+            "timestamp": "2025-07-07 11:01:04"
+        }
+    ]
 }

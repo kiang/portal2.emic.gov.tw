@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "道路落石",
     "CASE_DESCRIPTION": "邊坡落石滾落路面，影響通行",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李嬋娟里長",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-07 09:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 11:01:04"
         }
     ]
 }
