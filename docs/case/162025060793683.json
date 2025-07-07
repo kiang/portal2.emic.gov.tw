@@ -8,7 +8,7 @@
     "COORDINATE": "120.4532754,23.4749918",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "過溝里吳鳳北路35巷4號前，有1棵路樹傾倒，影響道路通行.",
+    "CASE_DESCRIPTION": "過溝里吳鳳北路35巷4號前，有1棵路樹傾倒，影響道路通行（路樹已移除，可正常通車）.",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "羅旭弘",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 09:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "過溝里吳鳳北路35巷4號前，有1棵路樹傾倒，影響道路通行.",
+            "new_value": "過溝里吳鳳北路35巷4號前，有1棵路樹傾倒，影響道路通行（路樹已移除，可正常通車）.",
+            "timestamp": "2025-07-07 16:21:04"
         }
     ]
 }
