@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工位於麻豆區台84快速道路與高鐵橋下交叉口,下新中交流道要往麻豆、西庄方向,民眾指出自家柚子園( 麻豆區寮?里1329地號)內的柚子樹,因路樹倒塌,有壓到民眾的柚子樹,樹枝斷裂,望派員盡速處理路樹問題與洽談賠償一事,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 16:51:04"
         }
     ]
 }
