@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC 你好：知道清潔隊今天很辛苦，但是原定晚上7:30的垃圾車，到晚上10:45還沒來，難道不能在臺南市政府line公告一下，說垃圾量太大，無法清運完嗎？整條路的人等了3小時，還有飛落的鐵皮。都能公告明天停課，難道不能公告一下垃圾車無法清運完成嗎？",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉冠吟",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 23:41:04"
+        }
+    ]
 }
