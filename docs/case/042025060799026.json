@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/7\/7 上午 08:44:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "林園區",
-    "CASE_LOC": "高雄市林園區鳳林路三段920巷",
+    "CASE_LOC": "高雄市林園區鳳林路三段920巷圳溝旁",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.404475,22.531694",
-    "DISASTER_MAIN_TYPE": "道路、隧道災情",
-    "DISASTER_SUB_TYPE": "路基流失",
-    "CASE_DESCRIPTION": "圳溝旁的道路多處掏空塌陷，竹林雜草重生導致排水溝無法順利排水",
+    "DISASTER_MAIN_TYPE": "水利設施災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "圳溝旁竹林雜草重生導致排水溝無法順利排水",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳素雲",
@@ -25,6 +25,30 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-07 09:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "高雄市林園區鳳林路三段920巷",
+            "new_value": "高雄市林園區鳳林路三段920巷圳溝旁",
+            "timestamp": "2025-07-07 09:31:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "道路、隧道災情",
+            "new_value": "水利設施災情",
+            "timestamp": "2025-07-07 09:31:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路基流失",
+            "new_value": "其他",
+            "timestamp": "2025-07-07 09:31:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "圳溝旁的道路多處掏空塌陷，竹林雜草重生導致排水溝無法順利排水",
+            "new_value": "圳溝旁竹林雜草重生導致排水溝無法順利排水",
+            "timestamp": "2025-07-07 09:31:05"
         }
     ]
 }
