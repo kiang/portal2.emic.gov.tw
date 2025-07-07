@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】地點:仁愛區仁二路137巷，信義國小後面疑似有樹枝因風吹掉到高壓電線，造成附近電線及電箱有冒火花(目前已無煙)並有稍微跳電，擔心有高壓電漏電疑慮，希通知派員查察，詳情可洽任先生。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "任先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 13:11:04"
+        }
+    ]
 }
