@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "嘉義市東區芳草里彌陀路239號前，交通號誌損壞未正常運作。車輛經過放慢車速。11:30已修復完成。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "吳忠和",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 11:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 12:01:05"
         }
     ]
 }
