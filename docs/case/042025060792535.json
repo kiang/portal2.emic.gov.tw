@@ -8,7 +8,7 @@
     "COORDINATE": "120.628589,23.8092402",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "152縣往民間方向",
+    "CASE_DESCRIPTION": "152縣往名間方向",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "152縣往民間方向",
+            "new_value": "152縣往名間方向",
+            "timestamp": "2025-07-07 08:31:04"
+        }
+    ]
 }
