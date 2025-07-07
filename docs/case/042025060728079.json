@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "高雄市路竹區潭漧路84巷(耀豪汽車).移動式車棚遭強風吹走,占用巷道(7\/7日05:56通報人來電反映車棚落至他人民宅,怕有意外)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "洪先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 06:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 08:01:05"
         }
     ]
 }
