@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "渠反映該址旁路樹持續往民宅傾斜，目前樹枝已打到玻璃，其擔憂會將玻璃弄破，建請查處。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李冠萱",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "",
             "new_value": "李冠萱",
             "timestamp": "2025-07-07 07:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 10:21:04"
         }
     ]
 }
