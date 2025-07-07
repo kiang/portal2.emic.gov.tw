@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-路樹倒塌派工歸仁區高發二路與歸仁十五路路口，路樹倒塌往中央研究院南部分院的方向，倒進台南分院裡的景觀花圃，及外面的人行道上，目前分院單位有先圍起來擺放三角錐警示，請儘快派員前往移除路樹，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "余小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 17:51:04"
+        }
+    ]
 }
