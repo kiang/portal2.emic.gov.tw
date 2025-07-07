@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "EMIC柳營區中山西路一段352巷2號(屋主為:丁先生),昨天(7月6日)颱風過後,屋頂被掀起來,導致電的開關都會被雨水滲透,恐有危險性,民眾欲了解單位是否能協助建物的公共安全問題?請單位說明,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 12:11:04"
+        }
+    ]
 }
