@@ -8,7 +8,7 @@
     "COORDINATE": "120.383591,23.07883",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "延路竹子倒了，已由廠商進行處理中。",
+    "CASE_DESCRIPTION": "延路竹子倒了，已由廠商進行處理中。本案屬公所權請改派。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "董里長",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "延路竹子倒了，已由廠商進行處理中。",
+            "new_value": "延路竹子倒了，已由廠商進行處理中。本案屬公所權請改派。",
+            "timestamp": "2025-07-07 09:11:04"
+        }
+    ]
 }
