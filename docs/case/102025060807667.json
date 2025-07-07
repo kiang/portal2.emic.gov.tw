@@ -6,10 +6,10 @@
     "CASE_LOC": "台中市西屯區惠來里臺灣大道三段２６８號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.645071466634,24.1655613156453",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "西屯區台灣大道三段268號，側溝蓋旁的水泥破損，影響行車安全，陳請協處",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -17,7 +17,32 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-07-07 09:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-07-07 09:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 09:41:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-07-07 09:41:04"
+        }
+    ]
 }

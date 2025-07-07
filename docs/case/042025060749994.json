@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "嘉義市西區文化里中山路（ 文化路至忠義街）, 中正路（ 文化路至忠義街）光彩街（ 文化路至忠義街）, 蘭井街（ 文化路至忠義街）, 延平街（ 文化路至忠義街）, 國華街（ 中山路至民族路）, 忠義街（ 中山路至民族路） 停電　／　嘉義市西區文化里中山路（ 文化路至忠義街）, 中正路（ 文化路至忠義街）光彩街（ 文化路至忠義街）, 蘭井街（ 文化路至忠義街）, 延平街（ 文化路至忠義街）, 國華街（ 中山路至民族路）, 忠義街（ 中山路至民族路） 停電",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "鄭光男",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 09:41:04"
+        }
+    ]
 }
