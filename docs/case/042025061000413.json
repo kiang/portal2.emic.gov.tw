@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1:校園榕樹全倒:數量9棵。2.小葉欖仁全倒:數量7棵。3.樟樹全倒:數量7棵。4.肯氏南洋杉全倒:數量1棵。5.升旗台旗桿斷裂後更新:數量1支 。6.籃球架籃球板及籃框斷裂更新:數量1座。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "徐勝鏞",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 21:51:04"
+        }
+    ]
 }
