@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC民眾反映：東區崇德路491號，吊在半空中的旋轉燈招牌被颱風吹壞，現搖搖欲墜有掉落危險，且掉下來的話會在路中間，恐砸傷人車。因廠商最快要明天中午才能前來修復，擔心招牌撐不到那時候，希請派員協助處理，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "待處理",
+    "CASE_TYPE": "已處理",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_TYPE",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 21:21:04"
+        }
+    ]
 }
