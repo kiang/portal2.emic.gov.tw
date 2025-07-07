@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工東區大同路二段249號、251號,因颱風關係,住家門前有許多吹落的招牌、樹枝等散落物,民眾指出自身已拜託鄰長的兒子協助清掃到電信箱旁邊,後續環保局清潔人員卻把這些垃圾又掃到民眾住家旁的水溝,造成環境髒亂,此情況不只發生過一次,請單位速處理,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "朱老師",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 17:21:04"
         }
     ]
 }
