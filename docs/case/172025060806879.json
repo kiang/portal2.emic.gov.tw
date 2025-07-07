@@ -8,7 +8,7 @@
     "COORDINATE": "120.6232895,23.11655",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "數路倒塌",
+    "CASE_DESCRIPTION": "數路倒塌(路樹倒塌公所已派工處理)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "升睿",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 10:01:15"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "數路倒塌",
+            "new_value": "數路倒塌(路樹倒塌公所已派工處理)",
+            "timestamp": "2025-07-07 11:11:04"
         }
     ]
 }
