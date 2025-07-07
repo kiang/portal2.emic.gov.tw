@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/07\/07 01:34:44 - 人在車上，無法通過鯉魚大橋回去市區。2025\/07\/07 01:39:07 - 人在車上，無法通過鯉魚大橋回去竹山市區。2025\/07\/07 01:39:50 - 人在車上，無法通過鯉魚大橋回去竹山市區，要繞道距離遠。2025\/07\/07 01:40:05 - 人在車上，無法通過鯉魚大橋回去竹山市區，無危險之虞，要繞道距離遠。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 16:11:04"
+        }
+    ]
 }

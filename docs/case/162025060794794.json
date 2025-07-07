@@ -8,7 +8,7 @@
     "COORDINATE": "120.4523514,23.4742534",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "過濾里垂楊路288號前，有大型廣告看板掉落，影響行人通行.",
+    "CASE_DESCRIPTION": "過溝里垂楊路288號前，有大型廣告看板掉落，影響行人通行.（掉落的廣告招牌已移除）",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "羅旭弘",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 09:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "過濾里垂楊路288號前，有大型廣告看板掉落，影響行人通行.",
+            "new_value": "過溝里垂楊路288號前，有大型廣告看板掉落，影響行人通行.（掉落的廣告招牌已移除）",
+            "timestamp": "2025-07-07 16:11:04"
         }
     ]
 }

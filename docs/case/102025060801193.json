@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC-佈告欄及遮雨棚倒塌安南區郡安路四段跟建安街口，嘉南大圳的河堤上有一個佈告欄及遮雨棚傾斜、快倒塌，且河堤步道上有很多雜物、樹枝，請派人清理，望相關單位確認，煩請相關單位卓處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 11:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 16:11:04"
         }
     ]
 }
