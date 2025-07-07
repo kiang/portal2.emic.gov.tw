@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車輛因災毀損",
     "CASE_DESCRIPTION": "體育路停車場自小客車玻璃遭毀損",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "110通報",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 14:51:04"
+        }
+    ]
 }

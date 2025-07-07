@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMICOPEN1999派工巷口雞蛋花樹因颱風刮倒，橫躺路面，導致居民無法進出。請協助移除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "田孝威",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 03:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 14:51:05"
         }
     ]
 }
