@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "路面玻璃碎片(如附圖)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "呂基正(里長)",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 21:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 01:31:04"
         }
     ]
 }

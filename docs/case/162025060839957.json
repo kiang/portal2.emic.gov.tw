@@ -8,7 +8,7 @@
     "COORDINATE": "120.438072,23.451768",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "電箱毀損",
+    "CASE_DESCRIPTION": "電箱已修復完成",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "謝文騰",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 14:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "電箱毀損",
+            "new_value": "電箱已修復完成",
+            "timestamp": "2025-07-08 01:31:04"
         }
     ]
 }
