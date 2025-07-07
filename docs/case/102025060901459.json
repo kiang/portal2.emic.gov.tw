@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車輛因災毀損",
     "CASE_DESCRIPTION": "EMIC-車輛毀損學甲區美豐67之60號至62號-美豐新城，車輛是停在社區內，社區後方有魚塭，目前共有六台車子被水塔砸到，玻璃及鈑金都損毀，連後視鏡也不見了，請問處理流程及後續如何求償，請相關單位協助，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "江小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-07 15:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 17:41:04"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC派工大內區石湖里新厝子28之17號,路樹傾倒在路上,早上通報公所後,人員只處理山內的,較多人行走的部分未處理,暫不影響交通,請盡快派員移除改善,煩請卓處若承辦不清楚可聯繫民眾，並請結案時務必將處理結果以電話回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "曾小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 17:41:04"
+        }
+    ]
 }
