@@ -6,12 +6,12 @@
     "CASE_LOC": "屏東縣高樹鄉田子村聖恩內科醫院前[屏東縣高樹鄉勝利路132號]",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.578994320636,22.8049809102732",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "2025\/07\/06 21:46:29 - 地點描述：屏東縣高樹鄉田子村聖恩醫院前電纜線疑似短路，一直發出火星。110轉報人員：謝裕光",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "7960396",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-06 22:05:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-07 08:11:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2025-07-07 08:11:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "7960396",
+            "timestamp": "2025-07-07 08:11:05"
         }
     ]
 }

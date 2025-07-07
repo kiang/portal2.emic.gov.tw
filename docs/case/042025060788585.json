@@ -8,8 +8,8 @@
     "COORDINATE": "120.3357964,23.03394545",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "救護送醫案件",
-    "CASE_DESCRIPTION": "由新化EMT陪同步入急診，病人自訴因颱風颳破玻璃窗，玻璃碎片割傷右手前臂致2.5公分撕裂傷、出血不止、故入",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "由新化EMT陪同步入急診，病人自訴因颱風颳破玻璃窗，玻璃碎片割傷右手前臂致2.5公分撕裂傷、出血不止、故入。檢傷3級",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "衛生局",
     "INJURED_NO": 1,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "由新化EMT陪同步入急診，病人自訴因颱風颳破玻璃窗，玻璃碎片割傷右手前臂致2.5公分撕裂傷、出血不止、故入",
+            "new_value": "由新化EMT陪同步入急診，病人自訴因颱風颳破玻璃窗，玻璃碎片割傷右手前臂致2.5公分撕裂傷、出血不止、故入。檢傷3級",
+            "timestamp": "2025-07-07 08:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 08:11:05"
+        }
+    ]
 }
