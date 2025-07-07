@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC您好，我是在宜蘭工作的學甲遊子，昨日風災家裡滿目瘡痍，目前依舊斷水斷電斷訊無法聯絡家人，妹夫、妹妹皆為職業軍人今早已返營，返營途中方才能聯絡上我並告知我家中情形，門前鐵皮雨遮整片吹至三連路中央，家母須獨自育未滿兩歲的姪子，家父罹癌第四期目前治療中，實在無能為力善後，雖然求助者眾多但妹夫及妹妹目前也身負替國家救災之責，期盼市政府能給軍眷家屬多一點照顧，謝謝！",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳昱齊",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 00:41:03"
+        }
+    ]
 }
