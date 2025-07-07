@@ -8,8 +8,8 @@
     "COORDINATE": "120.211527,23.42483",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
-    "CASE_DESCRIPTION": "屋簷翻落",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "屋簷翻落及積水",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張豐欣理事長",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "屋簷翻落",
+            "new_value": "屋簷翻落及積水",
+            "timestamp": "2025-07-07 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 08:41:04"
+        }
+    ]
 }

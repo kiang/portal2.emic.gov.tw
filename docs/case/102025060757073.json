@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/7\/7 上午 04:37:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "楠西區",
-    "CASE_LOC": "楠西區175線",
+    "CASE_LOC": "楠西區175線曾文一號橋附近",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -12,12 +12,37 @@
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "謝小姐",
-    "INJURED_NO": 0,
-    "DEATH_NO": 0,
+    "INJURED_NO": 1,
+    "DEATH_NO": 1,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "楠西區175線",
+            "new_value": "楠西區175線曾文一號橋附近",
+            "timestamp": "2025-07-07 08:41:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-07-07 08:41:04"
+        },
+        {
+            "field": "DEATH_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-07-07 08:41:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-07-07 08:41:04"
+        }
+    ]
 }
