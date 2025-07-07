@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-路樹倒塌派工通報麻豆區北勢里北勢寮70-11號，真理大學附近路樹倒塌 ，請承辦卓處。(承辦不清楚可聯繫市民，並請結案時將處理結果用電話回復市民)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "胡先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 19:41:04"
         }
     ]
 }

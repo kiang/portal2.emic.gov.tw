@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC安南區海佃路一段328號，此店家的招牌主體支架歪斜，有部份斷掉垂在半空中，約在行人頭部位子，已有聯絡招牌公司，但需要排隊處理，因擔心掉落會發生危險，希望派員前往處理，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 19:41:04"
+        }
+    ]
 }
