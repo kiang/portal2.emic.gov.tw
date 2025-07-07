@@ -8,7 +8,7 @@
     "COORDINATE": "120.47076,23.48762",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "反映五福街90號已停電將近24小時且撥打1911皆無人接聽，要求轉報，建請查處。",
+    "CASE_DESCRIPTION": "已完成復電。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "洪先生",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 23:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "反映五福街90號已停電將近24小時且撥打1911皆無人接聽，要求轉報，建請查處。",
+            "new_value": "已完成復電。",
+            "timestamp": "2025-07-08 02:11:04"
         }
     ]
 }
