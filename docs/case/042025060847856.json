@@ -6,10 +6,10 @@
     "CASE_LOC": "新仁路8-1號前臺南市南區",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.1903743,22.95561863",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "電線垂落妨礙通行(警)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "謝昆泰",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-07 13:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2025-07-07 13:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 13:01:04"
+        }
+    ]
 }

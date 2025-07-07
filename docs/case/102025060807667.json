@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "西屯區台灣大道三段268號，側溝蓋旁的水泥破損，影響行車安全，陳請協處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 13:01:04"
         }
     ]
 }
