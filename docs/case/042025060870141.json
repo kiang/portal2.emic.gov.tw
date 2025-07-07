@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "校樹全倒10棵，半倒約20棵，車棚屋頂骨架斷裂，送餐車2輛擋風玻璃受損，特教車角燈破損，室外飲水機2台被風吹垮，水管斷裂，側門捲門吹翻2座，無法開啟，停水停電中，網路線不通，無法通報校安",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳威良",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 13:51:04"
+        }
+    ]
 }

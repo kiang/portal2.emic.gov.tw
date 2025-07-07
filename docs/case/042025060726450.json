@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "高雄市梓官區港四、港五、港六、港七街至中正二街（(查詢台電系統已搶修完成)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "呂勝源",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "高雄市梓官區港四、港五、港六、港七街至中正二街（路燈未亮部份民宅停電）",
             "new_value": "高雄市梓官區港四、港五、港六、港七街至中正二街（(查詢台電系統已搶修完成)",
             "timestamp": "2025-07-07 13:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 13:51:04"
         }
     ]
 }
