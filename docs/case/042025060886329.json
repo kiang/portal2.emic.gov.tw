@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "教室屋頂瓦片區域性嚴重脆裂、破損.偶戲教室落地門2扇和落地窗兩扇損壞、窗簾和櫥櫃門四片損壞三樓教室窗戶損壞兩片停車場烤漆板屋頂被樹木壓壞.遊戲場全遮陽網破損.樹木歪斜或傾倒者12棵東南側電動門被樹木壓壞",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "曾南薰",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 15:11:04"
         }
     ]
 }
