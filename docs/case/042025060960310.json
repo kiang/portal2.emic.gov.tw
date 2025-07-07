@@ -18,6 +18,13 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-07-07 18:41:04"
+        }
+    ]
 }
