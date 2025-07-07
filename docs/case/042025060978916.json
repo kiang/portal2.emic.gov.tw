@@ -8,7 +8,7 @@
     "COORDINATE": "120.44856,23.50178",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "反映忠孝路599號凱旋門大樓昨晚停電至今未復電，造成民眾困擾，線上告知須通報台電，惟民眾撥打過無人接聽不願自行撥打，要求1999代為通報。",
+    "CASE_DESCRIPTION": "已完成復電。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "王先生",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 20:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "反映忠孝路599號凱旋門大樓昨晚停電至今未復電，造成民眾困擾，線上告知須通報台電，惟民眾撥打過無人接聽不願自行撥打，要求1999代為通報。",
+            "new_value": "已完成復電。",
+            "timestamp": "2025-07-08 02:51:04"
         }
     ]
 }
