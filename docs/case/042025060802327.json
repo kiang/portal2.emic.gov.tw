@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.校門鐵捲門被風吹歪，偏離軌道，1組。 2.校門旁樹木倒塌，約6棵。 3.遊戲場、籃球場、遮陽網被吹開、吹壞共10組。 4.補強工程尚未完成，目前沒有窗戶，原本教室的木地板所有帆布包起來，但是有浸水。 5.伸縮遮陽網被吹落，1組。 6.圖書室標示牌被吹落，1組。 7.補強工程借用重寮社區活動中心上課，一門窗破損，借用2台觸控大屏、電腦，尚需確認是否有受損？",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林杏芳",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 09:21:04"
+        }
+    ]
 }

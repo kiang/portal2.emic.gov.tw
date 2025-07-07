@@ -2,10 +2,10 @@
     "CASE_ID": "042025060733658",
     "CASE_DT": "2025\/7\/7 上午 12:15:00",
     "COUNTY_N": "臺南市",
-    "TOWN_N": "北區",
-    "CASE_LOC": "臺南市北區和緯路四段291號前",
+    "TOWN_N": "中西區",
+    "CASE_LOC": "臺南市中西區和緯路四段291號前",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.189381,23.007973",
+    "COORDINATE": "120.187027,23.006955",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "帆布廣告招牌快掉落",
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 06:21:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "北區",
+            "new_value": "中西區",
+            "timestamp": "2025-07-07 09:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市北區和緯路四段291號前",
+            "new_value": "臺南市中西區和緯路四段291號前",
+            "timestamp": "2025-07-07 09:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.189381,23.007973",
+            "new_value": "120.187027,23.006955",
+            "timestamp": "2025-07-07 09:21:04"
         }
     ]
 }
