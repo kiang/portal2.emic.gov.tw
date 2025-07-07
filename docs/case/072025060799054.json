@@ -8,10 +8,10 @@
     "COORDINATE": "120.4432499574,23.4709000039359",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "雨遮掉落",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "民眾",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 09:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "雨遮掉落",
+            "timestamp": "2025-07-07 14:01:06"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "民眾",
+            "timestamp": "2025-07-07 14:01:06"
         }
     ]
 }

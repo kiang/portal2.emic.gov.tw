@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC-電線垂落派工鹽水區悅津路55巷42號，隔壁屋頂被颱風吹走台電的線路被鐵片勾住，電線垂落，影響交通，請派員警疏導，請派人盡快處理，煩請相關單位卓處。承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "侯先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 14:01:05"
+        }
+    ]
 }
