@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工地點：佳里區公園路186巷巷口承A-TB-2025-66379，再次反映，公園路兩邊路樹倒塌，導致車輛無法進出，望相關單位先清除樹木，開通一個車輛可出入的空間，至少裡面住戶可開車去其它地點避難，請派員前往移除樹木，煩請卓處，承辦若不清楚，可聯繫通報人",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 15:51:04"
         }
     ]
 }
