@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工新營區大同路5之1號，店家前看有飛來很大片鐵皮，目前在路邊暫不影響交通，但用路人經過怕會有危險，也影響店家出入，請派員前往移除，煩請相關單位卓處承辦可聯繫民眾，並請員警結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 16:01:04"
         }
     ]
 }
