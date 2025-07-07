@@ -8,8 +8,8 @@
     "COORDINATE": "120.2068735,23.0101218",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "小東路275號、279號路樹倒塌、招牌掉落",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "小東路275號、279號路樹倒塌、招牌掉落，嚴重的影響交通",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳逸恬",
     "INJURED_NO": 0,
@@ -17,7 +17,26 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "小東路275號、279號路樹倒塌、招牌掉落",
+            "new_value": "小東路275號、279號路樹倒塌、招牌掉落，嚴重的影響交通",
+            "timestamp": "2025-07-07 10:01:16"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-07-07 10:01:16"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-07-07 10:01:16"
+        }
+    ]
 }
