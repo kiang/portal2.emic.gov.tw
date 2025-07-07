@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "小東路275號、279號路樹倒塌、招牌掉落，嚴重的影響交通",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳逸恬",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2025-07-07 10:01:16"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 11:41:05"
         }
     ]
 }

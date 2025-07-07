@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC-民眾反映北區和緯路三段花園夜市對面，鐵皮圍籬倒塌造成車損，民眾表示先前已反映該圍籬係嚴重違建並未拆除，煩請卓處。承辦不清楚可聯繫，並請結案時將處理結果以電話回覆民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-07 11:41:04"
+        }
+    ]
 }

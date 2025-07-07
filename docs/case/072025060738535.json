@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/07\/07 01:37:48 - 地點描述：嘉義縣水上鄉吳竹街138號彰化縣110:接獲朋友訊息稱上址房屋倒塌，有5-6人受困，需救援。1132回撥後報案仁表示皆已躲至隔壁安全的屋內110轉報人員：林明宏",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-07 02:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 11:41:05"
         }
     ]
 }
