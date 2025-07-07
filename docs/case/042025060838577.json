@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "反映公義路(彌陀路往大雅路方向)車道上有多棵路樹倒塌，影響通行，另有一路樹倒塌於民眾車輛 (BAY-6266)上方，盼能協助移除，另反映彌陀路298號有一厚壓克力燈箱與兩個大型花盆碎裂，另彌陀路288號有壓克力碎片，盼能協助清理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 12:21:04"
         }
     ]
 }
