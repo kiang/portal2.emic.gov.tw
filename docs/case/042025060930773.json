@@ -3,9 +3,9 @@
     "CASE_DT": "2025\/7\/7 下午 04:21:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "安南區",
-    "CASE_LOC": "臺南市安南區大衆五街36巷內",
+    "CASE_LOC": "臺南市安南區四草大道686巷12號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.1526189,23.04869681",
+    "COORDINATE": "120.133252,23.013397",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "電桿傾倒",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市安南區大衆五街36巷內",
+            "new_value": "臺南市安南區四草大道686巷12號",
+            "timestamp": "2025-07-07 18:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.1526189,23.04869681",
+            "new_value": "120.133252,23.013397",
+            "timestamp": "2025-07-07 18:11:04"
+        }
+    ]
 }

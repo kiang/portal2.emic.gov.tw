@@ -18,13 +18,19 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
+    "IS_SERIOUS": true,
     "logs": [
         {
             "field": "CASE_DESCRIPTION",
             "old_value": "校園內樹倒塌",
             "new_value": "校園內樹倒塌，7\/10、7\/11、7\/12校內舉行對外考試",
             "timestamp": "2025-07-07 17:21:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-07-07 18:11:04"
         }
     ]
 }
