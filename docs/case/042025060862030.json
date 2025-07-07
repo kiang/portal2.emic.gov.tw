@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "樹木全倒折斷樹木十幾棵，活動中心內部輕鋼架受損修復，活動中心地下停車場入口捲門被吹掀幼兒園遊戲場遮陽網吹掀，外牆二丁掛磚和抿石子牆面吹落復原走廊採光遮雨棚被斷樹擊破修復",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "莊政道",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-07 13:41:04"
+        }
+    ]
 }

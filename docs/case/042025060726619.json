@@ -8,7 +8,7 @@
     "COORDINATE": "120.267815,22.7516",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "同安路民生巷同安路166號（電箱爆炸）",
+    "CASE_DESCRIPTION": "同安路民生巷同安路166號（已復電)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "呂勝源",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-06 21:05:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "同安路民生巷同安路166號（電箱爆炸）",
+            "new_value": "同安路民生巷同安路166號（已復電)",
+            "timestamp": "2025-07-07 13:41:05"
         }
     ]
 }

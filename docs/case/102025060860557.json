@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "EMPC-停水新營區隋唐街61號：1.【派工】今天7\/7凌晨3點左右開始停水，想知道何時可以恢復供水？2.住家後面有條房子與房子間的小巷，只有人可以行走的大小，因昨晚風大，有鐵片飛來掉落到後面巷子，堵住住家後門，請相關單位協助移除鐵片",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-07 13:41:04"
+        }
+    ]
 }
