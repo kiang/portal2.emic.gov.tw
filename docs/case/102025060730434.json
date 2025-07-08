@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC此為派工案件請立即處理民眾反映：安平區平豐路122號社區，鐵捲門被颱風吹壞，有一部分橫出路面妨礙通行，且路上散落不知從哪來的大型鐵皮，請派員協助處理，煩請承辦卓處。承辦不清楚可聯繫市民",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 03:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 22:51:04"
         }
     ]
 }
