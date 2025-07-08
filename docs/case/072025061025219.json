@@ -6,12 +6,12 @@
     "CASE_LOC": "台南市白河區仙草里仙草62-20號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.480199216055,23.3429682128205",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "2025\/07\/07 23:05:09 - 台南市白河區仙草里仙草62-20號-水都滿出來(需要台水協助)聯絡報案人-請撥打市話68303012025\/07\/07 23:08:17 受傷1人 - 台南市白河區仙草里仙草62-20號-水都滿出來(需要台水協助)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "1999",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-08 00:11:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-08 08:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "自來水停水",
+            "timestamp": "2025-07-08 08:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "1999",
+            "timestamp": "2025-07-08 08:41:04"
         }
     ]
 }

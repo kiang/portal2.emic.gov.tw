@@ -8,10 +8,10 @@
     "COORDINATE": "120.25367315624,23.4459939301645",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2025\/07\/08 03:03:26 - 里長報案指稱鄰居家屋頂水塔一直漏水 但住戶未住於此處 目前因水塔漏水 有淹水之情形",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "朴子市已聯繫里長協助將該戶進水開關關閉",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "紀海檬",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-08 05:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/07\/08 03:03:26 - 里長報案指稱鄰居家屋頂水塔一直漏水 但住戶未住於此處 目前因水塔漏水 有淹水之情形",
+            "new_value": "朴子市已聯繫里長協助將該戶進水開關關閉",
+            "timestamp": "2025-07-08 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 08:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "紀海檬",
+            "timestamp": "2025-07-08 08:41:04"
         }
     ]
 }
