@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "EMIC-建物毀損新營區東興六街49號，北台南家扶中心，頂樓6樓的的鐵棍、鐵條一直因颱風掉下來，目前找不到吊車廠商處理，擔心颱風一直吹引發危險，請派人協助處理，煩請相關單位卓處。承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 16:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 16:21:05"
         }
     ]
 }
