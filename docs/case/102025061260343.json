@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "EMIC因7\/6日颱風過後，路面坑洞，易對過往車輛造成損害",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳怡仁",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 15:21:04"
         }
     ]
 }
