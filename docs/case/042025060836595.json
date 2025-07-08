@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "反映自強街16之3號遭飛落水塔砸壞廣告燈排與牆壁龜裂，希相關單位協助查明屋主，建請查處。備註:1.陳情人為晟暉商行業主。2.陳情人7\/9出國於7\/14回國，希避免此時段聯繫。3.表示水塔為馨園日式料理店(已歇業)所屬。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "洪先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 23:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 17:41:05"
         }
     ]
 }
