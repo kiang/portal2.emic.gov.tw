@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "樹木折斷",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "新興里里長",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "臺南市南區夏林路210號(新興社區活動中心前三角公園)該區塊為校地教育局轄管",
             "new_value": "臺南市南區(新興社區活動中心前三角公園)該區塊為校地教育局轄管",
             "timestamp": "2025-07-07 10:01:15"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 09:21:04"
         }
     ]
 }
