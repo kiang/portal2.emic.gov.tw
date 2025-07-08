@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "樹木全倒..永慶樓大辦公室旁停車場遮陽布幕被吹落北3門遮陽布幕被吹破育英堂玻璃吹破更換籃球板及籃框 雨撲滿儲水槽被吹倒導致管線破裂修復排路分校連根拔除倒塌大樹10顆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "康春媺",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 15:31:04"
+        }
+    ]
 }
