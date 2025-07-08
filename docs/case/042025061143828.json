@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "中傷",
     "CASE_STATUS": "三級",
     "CASE_TYPE": "急診留觀",
-    "PERSON_ID": "未指派",
+    "PERSON_ID": "已處理",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 1,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 08:21:04"
+        }
+    ]
 }
