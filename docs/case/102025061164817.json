@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "EMIC派工官田區南?里150號前十字路口，附近住戶無停電，雙向紅綠燈不知是故障還是無電關係無運作，需交通疏導，請協助派員查修，煩請卓處，若不清楚可聯繫民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊小姐",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-08 14:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 20:31:04"
         }
     ]
 }
