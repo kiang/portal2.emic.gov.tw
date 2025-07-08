@@ -3,9 +3,9 @@
     "CASE_DT": "2025\/7\/7 上午 11:08:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "南區",
-    "CASE_LOC": "新建路51巷口南側臺南市南區",
+    "CASE_LOC": "臺南市南區新建路51巷口北側",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.1903743,22.95561863",
+    "COORDINATE": "120.185494,22.966404",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "菩提樹傾倒壓到公寓牆壁請速處理",
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 13:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新建路51巷口南側臺南市南區",
+            "new_value": "臺南市南區新建路51巷口北側",
+            "timestamp": "2025-07-08 10:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.1903743,22.95561863",
+            "new_value": "120.185494,22.966404",
+            "timestamp": "2025-07-08 10:21:04"
         }
     ]
 }
