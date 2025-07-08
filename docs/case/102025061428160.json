@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC此為派工案件請立即處理民眾反映：柳營區士林里仁愛路，約200多戶目前仍停電，已兩天不能煮飯、沒有熱水，但都沒看到有人來修，請儘速派員修復，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "待處理",
+    "CASE_TYPE": "處理中",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-09 01:31:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 01:41:04"
         }
     ]
 }
