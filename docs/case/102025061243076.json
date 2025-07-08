@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-路樹倒塌派工颱風過後，佳里區子龍里已經停電第三天，還是沒有人來處理，也沒有人來勘災，電桿及樹都倒在路上，阻礙通行，到現在已經第三天沒有人來處理，請問到底什麼時候要來處理？ 目前斷電斷訊斷網，一直都沒有修復，向外求救困難，通報台電及中華電信都是罐頭訊息，請給我們一個確切的修復排程。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許庭玉",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-08 13:51:04"
+        }
+    ]
 }
