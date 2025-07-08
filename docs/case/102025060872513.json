@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC-電線垂落派工麻豆區海埔里，麻興高幹4M9832BE65，三條電線都垂落在地面上，電線一直發出爆炸聲，不影響交通，不需員警前往，煩請相關單位卓處。承辦可聯繫里長，並請承辦人員結案時將處理結果電話回復里長。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "麻豆區海埔里莊里長",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 13:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 00:41:04"
         }
     ]
 }
