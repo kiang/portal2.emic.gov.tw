@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC鐵皮屋頂鐵片掉落掉在路間鐵片條掛在電線上面電線掉落鐵皮屋頂吹落砸壞窗戶三窗",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "郭美利",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "圍牆(籬)倒塌",
             "timestamp": "2025-07-08 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 00:21:04"
         }
     ]
 }
