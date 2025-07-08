@@ -6,10 +6,10 @@
     "CASE_LOC": "北區文賢路313巷跟和緯路四段197巷",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電力停電",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC-派工1.北區文賢路313巷跟和緯路四段197巷，先前的道路工程回填不實，目前有路面下陷，加上颱風氣候關係恐影響行車，請派員修繕2.手機撥打1999兩三次，卻被語音告知無法識別地區所在，請協助查明煩請相關單位卓處，如有問題可聯繫，並請結案時將處理結果電話回復。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "其他災情",
+            "timestamp": "2025-07-08 18:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電力停電",
+            "new_value": "其他",
+            "timestamp": "2025-07-08 18:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-08 18:41:04"
+        }
+    ]
 }
