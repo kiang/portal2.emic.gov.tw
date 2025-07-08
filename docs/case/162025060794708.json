@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "垂楊路699巷5號前大型屋簷鐵皮調落阻礙，無法通行，請速至現場移除，謝謝感恩。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林廣茂",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "垂楊路699巷5號前",
             "new_value": "垂楊路699巷5號前大型屋簷鐵皮調落阻礙，無法通行，請速至現場移除，謝謝感恩。",
             "timestamp": "2025-07-07 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 14:51:05"
         }
     ]
 }
