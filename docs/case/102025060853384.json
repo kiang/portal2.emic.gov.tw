@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "建商工地柵欄施工隨便，颱風來，鐵皮鐵管被風吹飛，造成社區民眾生命財產受到威脅，懇請貴單位介入處理。鐵皮柵欄是拆除一旁違建鐵皮屋的鐵皮做的，違建衍生出的違建，工務局至今未拆除違建，實在太危險，甚至有鐵皮捲到一層樓高。提供鄰居拍攝之影片，鐵皮吹飛，甚至吹上天。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃玄慈",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 16:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 12:21:04"
         }
     ]
 }

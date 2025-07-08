@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "1.食農教育溫室設備1座，屋頂鋼構歪斜有安全之虞。2.資源回收室鐵皮屋頂翻掀，有安全之虞。3.烹飪教室及語言教室採光罩2座破裂。4.活動中心大門毀損，2扇。5.防曬遮陽網斷裂2條 6.樹木半倒全倒數棵：操場周圍全倒5棵、半倒2棵，中庭全倒6棵、半倒7棵，校門口半倒6棵、大王椰子1棵斷頭。7.勤學樓屋頂玻璃破裂一面",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許琬婷",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 12:21:04"
+        }
+    ]
 }

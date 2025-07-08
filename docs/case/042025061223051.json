@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "飲水機1台、洗衣機5台、鐵衣櫃6座、鞋櫃3組、夜間校牌燈1個字、正門不銹鋼伸縮門2組、西側電動鐵門1組、停車場遮陽棚一座、腳踏車棚鐵皮1座、網球場圍籬1片、升旗桿1支、電梯1座故障平房屋頂1座半毀",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許琬婷",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 12:21:04"
+        }
+    ]
 }

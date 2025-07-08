@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "後壁區福安里自從7月6日晚上停水至今已有兩天，後壁區自來水公司今日停班，電話連絡不上，請協助聯絡儘快恢復供水，以應民生所需。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 12:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 12:21:04"
         }
     ]
 }

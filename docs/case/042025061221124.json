@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.樹木傾倒:大型樹木2棵.小型樹木5棵。2.校門口雨遮:一座，面積約9坪。3.圍牆上方欄杆:一座(400公分*90公分)4.水源損壞:1處5.屋頂琉璃瓦:2處，面積約8坪6.籃球框:2組",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許琬婷",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 12:21:04"
+        }
+    ]
 }
