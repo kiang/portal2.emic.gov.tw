@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC此為派工案件請立即處理民眾反映：柳營區育英街101號，截至目前仍在停電中，請儘速恢復供電，並回覆預計何時可復原，否則老人家就一直傻等不願意撤，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "待處理",
+    "CASE_TYPE": "處理中",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 02:11:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 17:31:04"
         }
     ]
 }

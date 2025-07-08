@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "電線卡在路樹上",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "廖先生",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "民眾",
             "new_value": "廖先生",
             "timestamp": "2025-07-07 16:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 17:31:04"
         }
     ]
 }
