@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "反映世賢路三段275號前機車道有路樹倒塌，建請處理",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蕭小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "待處理",
             "timestamp": "2025-07-08 19:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 21:01:05"
         }
     ]
 }
