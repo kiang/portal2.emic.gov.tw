@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC柳營區長榮路四段-平和段439地號，颱風天路樹傾倒後單位來鋸樹，將木頭垃圾丟在民眾田裡，去年也有此狀況已有向單位反映過，樹幹太多太重民眾搬不了，已造成民眾困擾，望清員前往清除鋸斷路樹的樹幹，煩請卓處，若不清楚可聯繫民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-08 09:31:03"
+        }
+    ]
 }

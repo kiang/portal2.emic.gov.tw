@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "施EMIC-採光罩掉落北區臨安路二段169巷24號，因昨天7\/6颱風關係，今天早上發現二樓採光罩上面有飛來一塊採光罩，擔心若下雨還是有風會掉下去砸到路人，請派員前往協助，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "施小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 20:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 09:31:04"
         }
     ]
 }
