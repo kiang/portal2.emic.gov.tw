@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC-派工六甲區龜港里全里，從7\/6晚上10點斷電，至今都尚未恢復，連通訊也無法，請問這是被邊緣化的地區嗎，台電搶修確實很辛苦，但能否給個時間，好讓人民有後續安排，而不是苦苦祈求電趕快來",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃紫翎",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 23:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 23:51:04"
         }
     ]
 }
