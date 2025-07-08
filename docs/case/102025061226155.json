@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC派工永康區仁愛路391號後方停車場，永康區三民段1750、1733地號，路樹一顆傾倒在停車場出入口，此樹標示:落葉林，省市100%持有，且同一側還有藤類植物攀爬到場區的柵欄，請一併清除，請先連繫想確認清理進度，煩卓處。承辦不清楚可聯繫民眾，並請結案時將處理結果用電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 12:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 19:11:05"
         }
     ]
 }
