@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工新營區五興里秀才14之1號附近到新橋國小，綠色隧道的路樹都倒塌，對外的道路只剩下堤防道路，請派員協助。煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 09:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 16:51:04"
         }
     ]
 }
