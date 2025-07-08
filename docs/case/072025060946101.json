@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "火災",
     "DISASTER_SUB_TYPE": "建築物",
     "CASE_DESCRIPTION": "2025\/07\/07 16:37:54 - 戶外發電機有些火煙2025\/07\/07 16:41:41 - 戶外發電機有些火煙0913866050",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 00:31:04"
+        }
+    ]
 }
