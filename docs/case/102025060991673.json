@@ -6,8 +6,8 @@
     "CASE_LOC": "麻豆區新生南路800號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "EMIC民眾反映：麻豆區新生南路800號，交會路口告示牌被颱風吹到腰折倒在地上，影響加油站出入，請儘速派員移除，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
     "CASE_TYPE": "已處理",
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-08 06:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-08 09:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2025-07-08 09:01:04"
         }
     ]
 }
