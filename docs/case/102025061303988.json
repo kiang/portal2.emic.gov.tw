@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "安南區媽祖宮路170號,民眾住家靠近魚塭,因前天（7月6日）颱風關係,損失慘重,目前尚在停電階段,但是今天（7月8日）卻未在停止上班上課的區域範圍內,民眾認為安南區範圍很大,且自家所在位置尚屬偏僻,也急需放假來進行災後的修補,故民眾要求將此案件讓勞工局及市長知悉,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-08 17:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-08 17:51:04"
         }
     ]
 }
