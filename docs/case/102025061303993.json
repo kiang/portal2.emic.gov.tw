@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工地址：安南區安中路四段560號承案件A-TB-2025-67195，民眾再次反映，因幼兒園在增建，目前二棵大路樹倒塌擋到工程出入口，請派員盡速清除，煩請卓處，若不清楚可聯繫民眾，並請結案時將處理結果電話回復民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "畢小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-08 18:21:04"
+        }
+    ]
 }
