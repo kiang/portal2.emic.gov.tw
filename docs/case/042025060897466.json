@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "反映軍輝路251號屋頂遭鐵片砸破且目前仍有一片位於採光罩上，擔憂隨時有掉落危險性，其為獨居老人且里長早上已前往察看惟無法協助，建請查處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "王小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-07 15:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 14:31:04"
         }
     ]
 }
