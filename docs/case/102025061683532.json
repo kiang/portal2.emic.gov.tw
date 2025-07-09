@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "民眾住佳里區塭內里外渡頭12-9號，停電至今日已第5天，考量到家裡大人小孩及長者身體不適的問題，昨日入住台南旅館，一晚要價4千多元，太貴，今日準備到高雄較便宜的旅館住宿，到現在還不確定明天佳里區是否要上班，今晚是否能復電，倘若能復電，他們就不需要跑到高雄住旅館。停電這些天有通報台電，也多次向市政府陳情，剛還跟應變中心通過電話，都無法給予確切的答案，請問市府，誰能來通知我復電時間及明日佳里區是否要上班。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "游小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-09 19:31:04"
+        }
+    ]
 }
