@@ -8,7 +8,7 @@
     "COORDINATE": "120.308051,23.2766",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "民眾表示7\/6凌晨開始停電至今尚未復電，大約200多戶，請協助盡快復電",
+    "CASE_DESCRIPTION": "民眾表示7\/6凌晨開始停電至今尚未復電，大約200多戶，請協助盡快復電，7點49分民眾再度來電反映已經3天無電力，再度協助請求盡快復電",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡鄰長",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "民眾表示7\/6凌晨開始停電至今尚未復電，大約200多戶，請協助盡快復電",
+            "new_value": "民眾表示7\/6凌晨開始停電至今尚未復電，大約200多戶，請協助盡快復電，7點49分民眾再度來電反映已經3天無電力，再度協助請求盡快復電",
+            "timestamp": "2025-07-09 08:11:04"
+        }
+    ]
 }
