@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.樹木半倒全倒30棵修剪10萬元2.廁所天花板10萬元3.幼兒園遊戲器材遮陽棚20萬元4.花園攀藤廊道頂木頭櫸木45萬元5.鄰近田地圍牆毀損大王椰子樹35萬元",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李全泰",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 11:01:04"
+        }
+    ]
 }
