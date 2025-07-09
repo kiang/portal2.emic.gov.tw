@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "颱風之後到現在7\/8 17:31 ，六甲區曾文街都沒電，今天回去看，那邊很多老人，停電很久了，很危險，但是路上都還沒看到工程車在維修，知道現在派工很難，但那邊老人真的很多，希望可以先派工過去，希望早日恢復供電。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "曾筠筑",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-09 08:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 08:41:04"
         }
     ]
 }
