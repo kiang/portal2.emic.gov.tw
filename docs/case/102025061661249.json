@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC派工麻豆區海埔里大山、埤子尾、莊禮里,里長指出海埔里內有一半的饋線(配電線路)是可以使用的(電源來自麻豆區),但一半的饋線因是從學甲配送過來,目前仍然無電源可以使用,民眾建議單位直接將麻豆有電的饋線連接到目前尚未有電使用的住戶,不要乾等學甲這端的饋線修復,因為修復時間不曉得有多漫長,里民們無法等候,故請單位重視,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊里長",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 22:51:04"
+        }
+    ]
 }
