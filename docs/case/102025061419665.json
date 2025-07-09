@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾反映：安南區國安街156巷193號旁，電箱上有被颱風不知道從哪裡吹來的採光罩蓋在上面，需派員協助清除，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "已處理",
+    "CASE_TYPE": "處理中",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-09 01:31:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 08:31:04"
         }
     ]
 }
