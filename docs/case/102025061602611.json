@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾本身為新興里里長,於前天(7月7日)麻豆區公所召開會議,僅召集其中6里的里長開會,有關於颱風過後,柚子農損的議題,但麻豆區本身有將近20里,有其中14里的里長都不知道此事,民眾認為麻豆區公所怠忽職守,且針對路燈損壞的部分,民眾覺得麻豆區公所的承辦很敷衍,故要投訴此問題,煩卓處，若不清楚可致電里長洽詢。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉里長",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-09 13:21:04"
+        }
+    ]
 }
