@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC派工蔡麗青議員服務處-陳助理反映:安南區海佃路三段2號,該處招牌搖搖欲墜,恐有危險性,請速派員警到場警示疏導交通,並協助處理招牌一事,煩卓處,不清楚可電洽議員助理,並請將結果以電話回覆議員助理。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡麗青議員服務處-陳助理",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-08 18:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-09 08:51:04"
         }
     ]
 }
