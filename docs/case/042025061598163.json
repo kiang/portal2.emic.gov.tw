@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "龍井區護岸路土地公廟附近，十七輪中排水溝的水快滿出來了",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "歐先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-09 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 14:41:04"
         }
     ]
 }
