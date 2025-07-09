@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC麻豆區安正段2730273地號,此為民眾的農地,民眾欲了解若針對此次颱風農損申請部分,假若所有權人、地號去年與今年都沒有任何變動,是否可以沿用,無須再度申請?請農業局協助說明,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-09 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 11:51:04"
         }
     ]
 }
