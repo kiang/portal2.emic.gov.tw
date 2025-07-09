@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "市長大人好這次丹娜絲颱風來襲，我柳營區東昇里的住家自7月6日半夜停電至今已經超過2天48小時，打電話到柳營區公所，經辦說要問台電，他們也無能為力，打電話給台電也都沒人接，所以結論是沒有人知道我家停電還要停多久？懇請市長大人幫忙我們這群被台電遺忘的用電戶，沒電所造成的生活不便應該可以將心比心，冰箱的食物都壞光了，沒冷氣要如何睡覺懇請市長大老爺幫幫忙至少告訴我何時可以恢復供電",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳信榮",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-09 14:01:04"
+        }
+    ]
 }
