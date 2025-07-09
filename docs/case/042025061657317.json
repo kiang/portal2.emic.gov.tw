@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "樹木折斷或傾倒招牌整組傾倒校門口電線桿電線遭吹落教學大樓中廊布告欄.採光罩.窗戶.飲水機.輕鋼架.燈具.太陽能板.跑馬燈燈.專科大樓屋頂部分鐵皮.鐵門水塔管線破裂.冷氣主機及室內機遭強風吹壞分離.廚房柴油槽破裂.風雨走廊(採光罩)吹掀.籃球場3座籃框籃板遭吹掀操場西側圍牆約200公尺傾倒",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李全泰",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 17:11:04"
+        }
+    ]
 }
