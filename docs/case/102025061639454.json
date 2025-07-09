@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-路樹倒塌\/路燈不亮派工安南區府安路七段360號之1，路樹倒塌在電桿上，導致目前路燈不亮、停電，已多日停電，民眾表示已多日住宿在外，要求相關單位盡快處理，並回覆如何賠償，煩請相關單位卓處。承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-09 16:21:04"
+        }
+    ]
 }
