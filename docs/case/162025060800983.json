@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "林森里-忠孝路364巷鐵皮圍籬倒塌，阻礙民眾通行（民眾已自行清理可雙向通行車輛",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "羅光志",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-07 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 14:11:05"
         }
     ]
 }
