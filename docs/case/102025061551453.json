@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾是服務西港區的長照2.0服務員，民眾反映若要停班停課，要考慮到行業別，這會造成民眾有工作上的困擾，民眾不能過去服務個案，個案也一直催民眾過去服務，如果民眾過去服務，公司也沒辦法申請補助款，因為停班停課的關係單位不核銷，很多個案都需要照服務前往協助處理，希望市長知悉此情況，讓民眾可以去服務個案，也希望能協助讓公司可以核銷，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄭小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-09 17:41:04"
+        }
+    ]
 }
