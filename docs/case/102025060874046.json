@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "OPEN1999  A-TB-2025-66457轉ECP-EMIC錄案EMIC-紅綠燈故障有關受丹娜絲颱風侵襲影響導致北門區有多處路燈、紅綠燈等損壞，請相關單位應積極處理 尤其是環境清理等以及民宅受損是否能申請補助，請民政局或相關單位說明 讓居民能早日安心",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "Andy",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 09:31:04"
+        }
+    ]
 }
