@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "護鎮里(鹽後高幹105右10)*35戶沒電、(鹽後高幹72右14)*18戶沒電、(鹽後高幹90左3)*18戶沒電、鹽後高幹90左7右7電線掉落地面妨礙交通、(鹽後高幹105左2-1)*42戶沒電，詳細位置請直接找護鎮里長或看群組通報，謝謝",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "護鎮里長陳添龍",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 23:51:04"
+        }
+    ]
 }
