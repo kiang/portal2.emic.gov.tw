@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "EMIC下營區茅營里中營1288之7號附近，水溝已滿水淹出，附近大排快淹入，疑似未開抽水機，請派員盡快協助。煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-10 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 16:31:04"
         }
     ]
 }
