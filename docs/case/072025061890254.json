@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2025\/07\/10 08:33:42 - 地點描述：屏東縣南州鄉同安村 \/同安路\/牛埔橋電線起火，請派員查處。110轉報人員：林志遠2025\/07\/10 08:36:52 - 地點描述：屏東縣南州鄉同安村 \/同安路\/牛埔橋電線起火，請派員查處。110轉報人員：林志遠08:35已通知南州台電:吳先生受理.",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0955210431",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0955210431",
+            "timestamp": "2025-07-10 09:01:04"
+        }
+    ]
 }
