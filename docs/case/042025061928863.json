@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "臺南市安南區府安路四段176巷口及116號前大型斷樹枝卡在高壓電上，請轉中華電信幫忙移除",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "施建安",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "臺南市安南區府安路四段176巷口及116號前大型斷樹枝卡在高壓電上，請台電幫忙移除",
             "new_value": "臺南市安南區府安路四段176巷口及116號前大型斷樹枝卡在高壓電上，請轉中華電信幫忙移除",
             "timestamp": "2025-07-10 16:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 17:21:04"
         }
     ]
 }
