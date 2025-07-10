@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC白河區甘宅里45之27號，老公自己一個人居住在該地方沒有東西吃，也連絡不到，民眾有通報區公所，區公所里幹事回答不知道地址在哪裡，要民眾跟他說，一個里幹事有很多方法可以找為什麼要民眾跟他說，請局處派員前往找尋並協助提供物資，煩請相關單位卓處承辦可聯繫民眾，並請結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 16:41:04"
         }
     ]
 }
