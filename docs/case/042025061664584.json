@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "復興路430巷40號路樹倒塌壓到電線",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "新北里長",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-09 23:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 09:21:04"
         }
     ]
 }
