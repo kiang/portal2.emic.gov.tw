@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC北區府安公園內，因颱風造成樹木傾倒在人行道上，而成功里鄭景元里長有委派人員到場鋸樹，  但因樹枝及果實未清理，導致家人到公園散步而滑倒受傷，請單位派員查明，並晚上6點過後聯絡回復，煩請相關單位卓處承辦可在晚上6點過後與聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-09 09:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 09:41:04"
         }
     ]
 }
