@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "EMIC七股區十份里59號，此處為碾米廠，目前該廠的遮雨棚被風吹落在繼承道路上，導致影響到民眾進出，希望可以派員協助清理，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "杜先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 11:31:04"
         }
     ]
 }

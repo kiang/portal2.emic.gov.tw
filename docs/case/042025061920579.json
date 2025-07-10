@@ -3,13 +3,13 @@
     "CASE_DT": "2025\/7\/10 上午 10:58:00",
     "COUNTY_N": "彰化縣",
     "TOWN_N": "田中鎮",
-    "CASE_LOC": "彰化縣田中鎮大社路一段702巷旁",
+    "CASE_LOC": "彰化縣田中鎮大社路一段702巷旁[彰化縣田中鎮龍潭里10鄰大社路一段758號]",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.578405,23.867443",
+    "COORDINATE": "120.57712069007292,23.86759647445524",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "田中鎮大社路一段(彰95)道路側溝，受稻草阻塞，導致上游排水無法宣洩，造成積淹水。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "柳銘輝",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "彰化縣田中鎮大社路一段702巷旁",
+            "new_value": "彰化縣田中鎮大社路一段702巷旁[彰化縣田中鎮龍潭里10鄰大社路一段758號]",
+            "timestamp": "2025-07-10 11:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.578405,23.867443",
+            "new_value": "120.57712069007292,23.86759647445524",
+            "timestamp": "2025-07-10 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 11:31:04"
+        }
+    ]
 }
