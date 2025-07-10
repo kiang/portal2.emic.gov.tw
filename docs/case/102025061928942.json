@@ -8,8 +8,8 @@
     "COORDINATE": "120.1649949,22.99008437",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "本庄已停水停電長達4天，家中及庄裡多為獨居老人，到底何時才能解決這些基礎設施的問題？",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "本案無確切地址，無法處理，逕予結案！本庄已停水停電長達4天，家中及庄裡多為獨居老人，到底何時才能解決這些基礎設施的問題？",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李英婷",
     "INJURED_NO": 0,
@@ -43,6 +43,18 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-10 15:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "本庄已停水停電長達4天，家中及庄裡多為獨居老人，到底何時才能解決這些基礎設施的問題？",
+            "new_value": "本案無確切地址，無法處理，逕予結案！本庄已停水停電長達4天，家中及庄裡多為獨居老人，到底何時才能解決這些基礎設施的問題？",
+            "timestamp": "2025-07-10 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 15:41:04"
         }
     ]
 }
