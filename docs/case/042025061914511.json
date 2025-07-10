@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "鹽水區天佑護理之家表示原本有發電機但於7\/9晚間壞掉，目前尚無電源，原外膳廠商無法供餐，供餐已由機構自行烹煮處理，23位住民照護正常，已告知應變中心連絡電話，表示有問題會再聯繫。機構詢問電力復原進度並且協助儘速復電",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "楊正偉",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 11:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 12:41:04"
         }
     ]
 }
