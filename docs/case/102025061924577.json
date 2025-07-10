@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "市長您好，我這邊是佳里區番仔寮應元宮旁，因為有鐵皮和鐵條懸掛在高壓電上，民間單位來看完說這個要請台電處理，台電工程師來看一看說這個太塊，沒有吊車不能處理，拜託工程師聯絡台電配合的吊車，工程師說好，但是早上7:00到現在都沒下文。一度接到台電來電，還要求我們自己想辦法移出異物。是否政府單位能幫忙想想辦法，處理這兩塊鐵皮和貼片，不然這一區遲遲無法復電。我是旁邊住戶敝姓黃，黃小姐，電話067222046。拜託市長幫忙，拜託。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃思瑜",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-10 13:41:10"
+        }
+    ]
 }
