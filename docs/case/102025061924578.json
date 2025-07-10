@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "市長您好:此次颱風重創臺灣，造成臺南多處災情，您愛民如子，體恤災民家園被天災摧毀無法上班，北臺南（溪北地區）從周一至周四連續放假，連公部門也連續放假，但您的美意又造成民眾的另一困擾，有些案件急急急急急需送公部門審核，卻因放假而遲遲無法遞送案件。希望您能考量民眾急急急急急需送公部門審核案件的心情，能有更妥善的政策。（公部門能正常上班）",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張嘉玲",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-10 12:11:04"
+        }
+    ]
 }
