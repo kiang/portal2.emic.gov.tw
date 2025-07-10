@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "大型斷樹枝卡在高壓電線，搖搖欲墜很危險",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "施建安",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-10 17:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 21:51:05"
         }
     ]
 }
