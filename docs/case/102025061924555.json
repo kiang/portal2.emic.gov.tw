@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾陳情資訊如下：受文者???? ： 臺南市政府移文處理註記?： 信件編號：2025016694.1標?????? 題：台南七股西療急需救援內?????? 容：這個地方受颱風重創，沒電沒水沒人清理垃圾，屋頂還被掀翻，等待修理，大部分住的都是老人家，現在房子不能住，又沒電沒水沒人清理垃圾，急需政府派國軍工兵支援，大型機械清理鐵皮樹枝垃圾，希望政府能幫助。台灣加油發信日期：2025-07-09驗證日期：2025-07-09",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張雪美",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-10 12:21:04"
+        }
+    ]
 }
