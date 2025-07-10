@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "台南市麻豆區民族路2號（傑昇通信前）路口有個黑色的電線（或第四台訊號線）因風災垂掉下來，若有大型車輛經過恐易勾到該電線造成不安全疑慮，請協助派員勘查是否有安全性問題並協助將電線拉直以策安全，謝謝",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王柏堯",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-10 09:51:04"
+        }
+    ]
 }
