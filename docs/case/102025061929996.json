@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC派工安平區劍獅公園往承天橋方向,路邊有一個施工告示牌,因颱風關係搖搖欲墜,目前有往機車道傾倒的情況,恐會影響機車族行駛,請派員警到場協助疏導交通並修繕,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "郭先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 17:11:03"
         }
     ]
 }
