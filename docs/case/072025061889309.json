@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/10 08:25:05 - 車輛受困省道上，靠近尚武休息站，淹水路段，人無受傷。0840電聯報案人自行找廠商拖吊車輛。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 09:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 10:51:03"
         }
     ]
 }
