@@ -8,8 +8,8 @@
     "COORDINATE": "120.434555, 23.993269",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "防汛道路銜接永順橋處路基淘空。",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "永順橋處路基淘空，已封閉道路。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "吳憲昌",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "防汛道路銜接永順橋處路基淘空。",
+            "new_value": "永順橋處路基淘空，已封閉道路。",
+            "timestamp": "2025-07-10 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-10 18:51:04"
+        }
+    ]
 }
