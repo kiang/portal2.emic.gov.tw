@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "EMIC新營區民生路420巷100號 (社區名稱:新營家),民眾指出因颱風關係,社區入口轉彎吹來一整個銳利的採光罩,請單位針對建物公共安全部分介入處理,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 13:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 00:01:04"
         }
     ]
 }
