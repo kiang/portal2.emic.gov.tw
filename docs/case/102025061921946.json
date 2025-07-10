@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "抽水站受災",
     "CASE_DESCRIPTION": "EMIC柳營區五軍營-崇溪1號水門，為柳營區公所顧抽水站承包商的員工，此活動水門目前有堵塞、排水不順暢狀況，之前有反映給相關單位，都沒有處理，望相關單位重視水門堵塞問題、積極管理巡水門問題，不然像這次颱風天、下大雨時抽水站無發揮作用，地區就會淹水，煩請卓處，若不清楚可聯繫民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄭先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-10 11:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-10 12:01:04"
         }
     ]
 }
