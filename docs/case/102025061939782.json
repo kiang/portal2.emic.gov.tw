@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC-停電派工佳里區南南勢里電錶號碼：60611801，停電已要6天，冰箱食物都壞掉，請派人盡快復電，煩請相關單位卓處。承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "尤榮興",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-11 16:51:04"
+        }
+    ]
 }
