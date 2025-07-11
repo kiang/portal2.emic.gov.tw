@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC安南區淵中里里民活動中心斜對面、靠近海東國小西側門正對面，土地管轄屬於水利局，有棵桃花心木樹被颱風吹裂成分叉狀斷一半，斷掉掛在樹上的這一半很危險，風大會掉下來砸到行人跟車輛，望相關單位盡速修剪清除斷樹問題，煩請卓處，若不清楚可聯繫民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "杜先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 14:41:04"
+        }
+    ]
 }

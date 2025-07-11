@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電力停電",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工案件新市區潭頂里潭頂447號，路中央停止線，有一處路面坑洞，煩請相關單位卓處。承辦不清楚可聯繫，並請結案時將處理結果以電話回覆民眾",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "1999報災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電力停電",
+            "new_value": "其他",
+            "timestamp": "2025-07-11 14:41:03"
+        }
+    ]
 }
