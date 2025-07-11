@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC-路樹傾倒派工東區北門路二段34號，小東路地下道前面，路樹有一顆大榕樹傾倒在人行道上，連帶紅色的步磚有翹起，擔心行人通行危險，且現人行道上很多袋樹枝、樹葉的垃圾袋未清，請盡快處理，煩請相關單位卓處。承辦若不清楚，可聯繫通報人。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 14:21:04"
+        }
+    ]
 }
