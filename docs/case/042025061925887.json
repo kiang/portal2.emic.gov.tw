@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
     "CASE_DESCRIPTION": "水位過高淹水，7月11日13時15分解封。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林科宏",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "水位過高淹水",
             "new_value": "水位過高淹水，7月11日13時15分解封。",
             "timestamp": "2025-07-11 16:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 16:11:04"
         }
     ]
 }
