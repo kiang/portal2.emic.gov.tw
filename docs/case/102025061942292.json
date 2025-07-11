@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "EMIC【派工】安南區永續十八街與生態街交叉路口，路邊堆放倒塌的路樹、樹枝，部分已裝袋，請派員一併清運，煩卓處。承辦可聯繫民眾，並請結案時將處理結果電話回覆民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "環境汙染",
             "timestamp": "2025-07-11 23:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-11 23:31:04"
         }
     ]
 }
