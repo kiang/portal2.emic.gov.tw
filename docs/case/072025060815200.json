@@ -6,12 +6,12 @@
     "CASE_LOC": "台南市安南區府安路五段150號-電箱火花",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.198421338293,23.0230504143161",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "2025\/07\/07 09:42:02 - 警轉 員警已轉報台電",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "1999",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-07 10:31:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-11 15:41:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2025-07-11 15:41:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "1999",
+            "timestamp": "2025-07-11 15:41:05"
         }
     ]
 }
