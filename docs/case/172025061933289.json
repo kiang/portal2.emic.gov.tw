@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "三地門鄉口社村村民反映（185縣道13k+250處）因豪雨路段土石堆積情形，相關單位業清理過程將部分土石堆放於村民私人土地上，建請該單位盡速處理，免影響地主農作使用。（溫先生0936706266）",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "陳杰",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未受理",
             "new_value": "處理中",
             "timestamp": "2025-07-10 19:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 13:21:03"
         }
     ]
 }
