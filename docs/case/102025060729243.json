@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "EMIC反映安平區健康路三段333號心悅城後方國平北路上建築工地旁的建築材料沒有固定飛到路中間擔心會砸到車輛還是影響交通，煩卓處承辦若不清楚，可聯繫通報人",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "建物輕微受損",
             "timestamp": "2025-07-07 00:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 15:11:05"
         }
     ]
 }
