@@ -6,8 +6,8 @@
     "CASE_LOC": "萬皇路300巷182號附近臺南市南區",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.1903743,22.95561863",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "10多戶停電　／　10多戶停電",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-11 15:51:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電力停電",
+            "timestamp": "2025-07-11 15:51:05"
+        }
+    ]
 }
