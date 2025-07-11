@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工民為北門區海埔新生地高幹埔中編號50-60電桿當地養殖戶，因丹娜絲颱風侵襲造成高壓電纜線斷落電桿折腰橫躺在整條運輸道路上該公司未能及時清除障礙物已造成養殖戶二次悲慘生計傷害，請台電公司在未復電之前先將橫躺運輸道路上的電桿電線先移除放置於道路兩旁，讓養殖戶能重機械進入災區搶救生計",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡悦樂",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-11 13:31:03"
+        }
+    ]
 }
