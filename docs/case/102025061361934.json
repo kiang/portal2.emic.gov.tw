@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾反映：市長原本說下午18點要全數復電，後來又改口午夜24點前，但佳里區六安里116之5號前電線桿被樹壓到造成停電，到現在都沒有人來修，怎麼可能午夜前可以復電？請市長要說到做到，如果做不到就乾脆不要說，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "待處理",
+    "CASE_TYPE": "處理中",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_TYPE",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-12 00:31:05"
+        }
+    ]
 }

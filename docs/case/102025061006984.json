@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC派工七股區玉成里54之1號，住家至今仍停電，附近有些地區下午已恢復供電，有問說17點半會恢復也沒有，因為他們是次等公民嗎? 請快恢復供電，煩請相關單位卓處。承辦若不清楚，可聯繫通報人，並請結案時將處理結果電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-12 00:31:05"
+        }
+    ]
 }
