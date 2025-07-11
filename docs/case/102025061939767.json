@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC-【派工】從7／6晚上停電至今台電停電查詢昨天預計昨天1700維修完成後改2300今天早上改為7／11 1200到了現在又改為7／11 1700是否能有確切時間，我知道台電人員很忙很辛苦，但給了時間又一再延遲，讓人感覺距離結束停電遙遙無期！",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡宗軒",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-11 17:01:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-12 01:11:04"
         }
     ]
 }
