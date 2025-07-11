@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "疑似違章廢棄金屬回收場，無門牌且時常早上4～7點使用大型機械處理金屬（之前已多次報警處理，但每次只是被勸導而已，常常過一陣子又開始），且此處無配套措施外也使金屬粉塵亂飛大型機械操作及金屬從高處落下的撞擊聲擾民，且時常於鐵皮屋頂上放置廢棄物鐵皮片數片，7\/6颱風陣風強大以至於他們放置的大片鐵片隨風亂飛亂撞十分危險位置大概在（23.0518535， 120.1720425）巷子內的鐵拉門處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林宜蓁",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-11 10:51:06"
+        }
+    ]
 }
