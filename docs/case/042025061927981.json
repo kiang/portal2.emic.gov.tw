@@ -8,7 +8,7 @@
     "COORDINATE": "120.250245,23.062521",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "積水造成水溝淤積.積水及魚塭水淹上狗狗園區.狗狗有生命危險",
+    "CASE_DESCRIPTION": "積水造成水溝淤積.積水及魚塭水淹上狗狗園區.狗狗有生命危險；7\/11致電需要趕快排水",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許小姐",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "積水造成水溝淤積.積水及魚塭水淹上狗狗園區.狗狗有生命危險",
+            "new_value": "積水造成水溝淤積.積水及魚塭水淹上狗狗園區.狗狗有生命危險；7\/11致電需要趕快排水",
+            "timestamp": "2025-07-11 09:31:04"
+        }
+    ]
 }
