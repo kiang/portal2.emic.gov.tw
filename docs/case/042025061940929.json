@@ -8,7 +8,7 @@
     "COORDINATE": "118.24934187153121,24.427424437158137",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "東林市場淹水",
+    "CASE_DESCRIPTION": "東林市場積水",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林月仙",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "東林市場淹水",
+            "new_value": "東林市場積水",
+            "timestamp": "2025-07-11 19:31:05"
+        }
+    ]
 }
