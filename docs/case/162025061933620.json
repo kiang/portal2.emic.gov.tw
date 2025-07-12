@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "本里東站路燈全亮，以下不亮1，東華街路燈整排不亮(開關跳脫)2，東山中路與東山三路的（東平街路段開關跳脫)3，東信街615431，615432路燈燈具歪斜615434歪斜45°請協助修復謝謝。如台電不清楚請直接聯繫中營里里長 電話0932846215",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "梁蕙蘭",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-11 17:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-12 12:01:04"
         }
     ]
 }
