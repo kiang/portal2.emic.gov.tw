@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC鹽水區月津路12巷29弄26號1.一盞路燈,因風災造成燈面傾斜90度,燈會照到居民住家內,希望調整角度改善2.派工 -風災造成路樹傾倒在電線上3.地上有大型樹枝待清以上煩請卓處若承辦不清楚可聯繫民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "翁先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-12 23:51:04"
+        }
+    ]
 }
