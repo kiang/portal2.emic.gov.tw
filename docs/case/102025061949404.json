@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC1.派工-東區裕信一街9號,一盞路燈故障,煩請卓處2.東區裕和路南聖公園內,因風災吹倒多棵路樹,至今未處理以上煩請卓處若承辦不清楚可聯繫民眾，並請結案時務必將處理結果以電話回覆",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-12 20:11:04"
+        }
+    ]
 }
