@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工中西區海安路一段上,從保安市場到福生肉燥飯（小食店）,路面上很多因風災造成的落葉／樹枝待清,煩請卓處若承辦不清楚可聯繫南廠里蔡里長，並請結案時務必將處理結果以電話回覆0911里長稍早通報地址錯誤，地址更正為中西區海安路一段116到170號。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡里長",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-12 12:31:04"
+        }
+    ]
 }
