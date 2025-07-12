@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC派工鹽水區忠孝路321號-全民家具行通報:因風災造成很多家具毀損(已損失千萬元),里長跟區長都告知只要將家具清到外面都可以請環保局清,但環保局人員今天到場表示長官說算營業用廢棄物無法清運,覺得不合理,自己是受災戶並沒有營利,請盡快派員協助清運,請承辦2小時內回復,否則要把所有家具丟路上,煩請卓處若承辦不清楚可聯繫民眾，並請結案時務必將處理結果以電話回覆",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-07-12 15:41:04"
+        }
+    ]
 }
