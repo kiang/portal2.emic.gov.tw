@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "東山區公園路22號這排6間無電.四周都有電.對面公園籃球場電燈很亮.我打台電台電說預計明天晚上.11點完成.今天又公布下午5點完成.又說預計晚上11點，從颱風到今天我看是台南停電最久.這些家庭家裡冰箱的東西全掛了.請市長幫幫忙.還是有人在搞鬼.",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄭文堅",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-10 13:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 17:41:05"
         }
     ]
 }
