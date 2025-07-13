@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC鹽水區武廟路82之5號1樓，大樓車庫的屋頂鐵皮卡在巷口處房屋上方，都聯繫不到鐵工，不然就是要等很久，擔心掉落，請派員協助，煩請相關單位卓處。承辦若不清楚，可聯繫通報人，並請結案時將處理結果電話回覆民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "魏小姐",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-13 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 17:21:04"
         }
     ]
 }
