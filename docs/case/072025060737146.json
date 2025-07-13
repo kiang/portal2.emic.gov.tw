@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "火災",
     "DISASTER_SUB_TYPE": "危險物品",
     "CASE_DESCRIPTION": "2025\/07\/07 01:13:15 - 地點描述：南投縣竹山鎮桶頭里往山上(公墓附近)鯉南路390號附近疑似台電電氣箱爆炸，現場冒煙，請派員處理。110轉報人員：陳志豪",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-07 16:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-13 09:41:07"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "EMIC仁德區正義路跟正義路263巷,宗大青田建案旁路邊有一反射鏡因風災折斷,煩請卓處若承辦不清楚可聯繫民眾",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2025-07-12 18:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "待處理",
+            "timestamp": "2025-07-13 09:41:06"
         }
     ]
 }

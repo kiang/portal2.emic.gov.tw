@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "位在金華路三段248號一品大廈前面的電線掉下來(低垂下來，如圖)",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "淺草里陳建國里長",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-12 01:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "待處理",
+            "timestamp": "2025-07-13 09:41:06"
         }
     ]
 }

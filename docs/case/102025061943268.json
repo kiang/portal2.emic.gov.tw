@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "丹娜絲風災，本屋屋頂全被掀開，掉落馬路面的鐵皮已清理，但仍有多片倒掛在房屋三樓牆上的大片鐵皮，鐵皮高掛空中，相當具有危險性；本人積極聯絡，實在找不到工人廠商，因為需要大型機具，懇請政府協助。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃宗雄",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2025-07-12 03:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "待處理",
+            "timestamp": "2025-07-13 09:41:06"
         }
     ]
 }
