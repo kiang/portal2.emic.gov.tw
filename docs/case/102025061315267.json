@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC-派工1.北區文賢路313巷跟和緯路四段197巷，先前的道路工程回填不實，目前有路面下陷，加上颱風氣候關係恐影響行車，請派員修繕2.手機撥打1999兩三次，卻被語音告知無法識別地區所在，請協助查明煩請相關單位卓處，如有問題可聯繫，並請結案時將處理結果電話回復。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -55,6 +55,12 @@
             "old_value": "其他災情",
             "new_value": "道路、隧道災情",
             "timestamp": "2025-07-11 14:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 15:11:05"
         }
     ]
 }
