@@ -6,8 +6,8 @@
     "CASE_LOC": "台南市七股區台南市七股區樹林里看坪45之10號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "23.5744167000000,120.3013742000000",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "EMIC1、因丹娜絲颱風。受損外電纜線轉入、民宅電纜線。外牆電纜線拉桿損壞。2、因應颱風過後、災區復電工作。苗栗區營業去、維修工程專員。有接受民眾陳情訴求。架設臨時電纜線支架。3、因現在災區復電工作繁忙。懇請另安排時間、施工陳情該案。4、地點：台南市七股區樹林里看坪45-10號（樹林里看坪活動中心西南側、獨棟民宅）",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
@@ -31,6 +31,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-13 08:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-07-13 08:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2025-07-13 08:41:04"
         }
     ]
 }
