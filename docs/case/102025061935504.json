@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC-停電派工白河區新厝子71之52號-周遭住戶已經恢復供電，僅有這裡的聯外道路一條電線斷掉所以還在停電中，已向台電反映多次，牧場內有上萬頭的豬停電多日現在僅能用發電機發電，請台電盡快協助搶修，煩卓處承辦若不清楚，可聯繫通報人",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-11 05:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 13:11:04"
         }
     ]
 }
