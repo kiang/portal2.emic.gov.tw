@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC新營區埤寮里82號後面，颱風造成空屋空地上有滿地的鐵皮，今天有公所的人員前往把鐵皮安置在路邊，因擔心風大把鐵皮吹走造成危險，希望派員前往協助清理，煩請相關單位卓處承辦若不清楚，可聯繫民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-13 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 11:51:04"
         }
     ]
 }
