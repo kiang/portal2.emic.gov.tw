@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC此為派工案件請立即處理民眾反映：西港區永樂里，桿號 永樂高幹66左12右14右2 M9312GC96 電桿電桶爆炸後停電，需派員修復，煩請承辦卓處。承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許淑美",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-09 05:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-13 08:51:05"
         }
     ]
 }
