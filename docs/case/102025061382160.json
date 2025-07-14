@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-派工白河區玉豐里大排竹，沿線多處路樹的樹枝地落於路面，有車輛因此撞到，已影響交通安全，請派員清理，煩卓處，如有問題可聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2025-07-11 14:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-14 11:31:04"
         }
     ]
 }
