@@ -8,7 +8,7 @@
     "COORDINATE": "120.267591,23.500734",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "屋頂破損急需帆布等物資",
+    "CASE_DESCRIPTION": "屋頂破損急需帆布等物資、圍牆倒塌等",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "侯小姐",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "屋頂破損急需帆布等物資",
+            "new_value": "屋頂破損急需帆布等物資、圍牆倒塌等",
+            "timestamp": "2025-07-14 08:51:04"
+        }
+    ]
 }
