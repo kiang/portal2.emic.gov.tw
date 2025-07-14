@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC派工颱風來襲，各地搶救困難，這邊不是真的非常嚴重，但還是先做通報。1.路燈編號255523旁樹木倒下，有稍微擋到道路。2.濱南路700巷，馬場這個轉角有一片樹木倒塌，附上google地圖。3.台17及興南街待轉格旁樹木傾倒，然後台17左轉進興南街，左邊樹木傾倒壓到電線。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "曾小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2025-07-13 09:41:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-15 00:51:04"
         }
     ]
 }
