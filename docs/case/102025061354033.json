@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "EMIC-派工安南區同安路跟海佃路二段、義安街跟安吉路二段等，以上兩處路口大範圍路燈故障不亮，請派員修繕，煩卓處，如有問題可聯繫",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "郭清華議員服務處-吳助理",
     "INJURED_NO": 0,
@@ -55,6 +55,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-13 11:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-14 09:41:04"
         }
     ]
 }
