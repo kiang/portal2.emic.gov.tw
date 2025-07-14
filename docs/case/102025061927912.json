@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC後壁區153之25-富芮德國際有限公司附近，民眾表示此公司一直到巴掌溪附近的河川內水位已經很高，要先通報給相關單位知悉防範淹水，煩請卓處，若不清楚可聯繫民眾，並請結案時將處理結果電話回復民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "池先生",
     "INJURED_NO": 0,
@@ -67,6 +67,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-13 14:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-14 17:11:04"
         }
     ]
 }
