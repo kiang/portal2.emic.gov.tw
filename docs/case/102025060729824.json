@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC中西區濟生街10號對面建築工地鷹架搖搖欲墜有半截在空中擔心會砸下來，請派員處理，煩卓處可聯繫通報人",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "其他",
             "new_value": "廣告招牌欲墜",
             "timestamp": "2025-07-11 16:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-14 17:41:05"
         }
     ]
 }
