@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC安南區公學路七段與安明路四段口，往南方向約100公尺，約在台17線 164K附近，此處中央分隔島上有路桿(上面掛很多監視器)倒榻在南下車道，現場已有員警在交管，希望派員前往協助處理，煩請相關單位卓處承辦若不清楚，可聯繫民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "五區公路總局交控中心黃先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-13 09:41:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-14 08:21:04"
         }
     ]
 }
