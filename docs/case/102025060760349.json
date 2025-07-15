@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC鹽水區忠孝路321號全民傢具行二樓鐵皮掀起來，招牌倒在路邊佔用一個車道，傢具行內漏水，請派員協助處理，煩卓處承辦若不清楚，可聯繫通報人",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-14 17:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-15 09:01:05"
         }
     ]
 }

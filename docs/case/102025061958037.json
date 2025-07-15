@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC派工鹽水區南門路201巷33弄48號,民眾表示該處今天(7\/13)早上8點無預警停電,目前已經下午14點多,還是沒有復電,請台電務必盡速搶修災後容易跳電的情況,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "呂先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-13 21:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-15 09:01:04"
         }
     ]
 }
