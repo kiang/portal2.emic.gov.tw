@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "EMIC-路樹倒塌派工官田區台1線，電桿編號：隆營高幹42-1 N1035GB70，路樹掛在電線上，台電的工程在現場告知民眾路樹太大故無法處理，目前風大擔心會掉落，不需員警前往疏導，煩請相關單位卓處。承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-07-11 20:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-16 17:41:04"
         }
     ]
 }
