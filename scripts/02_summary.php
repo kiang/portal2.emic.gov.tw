@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Asia/Taipei');
 $caseDir = __DIR__ . '/../docs/case';
 $docsDir = __DIR__ . '/../docs';
 
