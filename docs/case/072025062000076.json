@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "2025\/07\/19 08:04:59 - 地點描述：臺東縣海端鄉南橫公路-台20線155K報案人(於該處工作)稱道路遭土石封閉，請求協助110轉報人員：李皓鉞",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "利稻分隊",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-19 10:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-19 16:41:04"
         }
     ]
 }
