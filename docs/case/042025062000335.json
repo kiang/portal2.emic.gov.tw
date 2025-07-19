@@ -8,8 +8,8 @@
     "COORDINATE": "121.0175672,23.11478528",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
-    "CASE_DESCRIPTION": "土石坍塌在道路影響交通",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "土石坍塌在道路影響交通，公路局結報10:55已搶通恢復通行",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-19 09:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "土石坍塌在道路影響交通",
+            "new_value": "土石坍塌在道路影響交通，公路局結報10:55已搶通恢復通行",
+            "timestamp": "2025-07-19 11:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-19 11:11:04"
         }
     ]
 }
