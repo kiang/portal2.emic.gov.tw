@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "反映地點:花蓮市中山路416之8號(民眾住家)事由:民眾反映上述地點騎樓外面的汙水管堵塞，表示目前雨很大逆流倒灌進家中，希望派員協助。民眾表示單位前往前希望可先聯繫。(提醒:民眾來電顯示手機號碼與留電不符)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-20 10:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-20 10:51:03"
         }
     ]
 }
