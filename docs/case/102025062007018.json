@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:富里鄉 台九線293.5k處往南方向至291.5k處 事由:民眾表示293.5k處道路中間有大坑洞，周邊有許多小坑洞，在以上路段的路旁有許多枯木及碎石，民眾擔心雨勢若又變大會將枯木及碎石沖至路中，對用路人造成危險，希望請相關單位協助填補並立即清除。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-20 09:11:03"
+        }
+    ]
 }
