@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "民眾來電表示住家較為低漥,因安通溪堤防潰堤水淹進家中,擔心會因淹水引起電線走火,希望台電能先斷電,民眾本身可自行疏散撤離",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-19 20:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-26 04:11:04"
         }
     ]
 }
