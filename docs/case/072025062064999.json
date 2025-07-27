@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2025\/07\/28 02:32:17 - 路樹倒塌，壓到停芳路邊車輛，並影響民眾出入。2025\/07\/28 02:44:49 - 路樹倒塌，壓到停芳路邊車輛，並影響民眾出入。0243大里02：路樹半倒，壓到民眾1輛自小客車，無人受傷受困。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 03:11:04"
+        }
+    ]
 }
