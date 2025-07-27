@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651221885012,
+                    24.3745986324393
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072025062064657",
+                "CASE_DT": "2025\/7\/28 上午 12:27:54",
+                "DISASTER_MAIN_TYPE": "積淹水災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
