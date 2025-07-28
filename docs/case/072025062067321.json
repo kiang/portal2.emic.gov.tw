@@ -8,10 +8,10 @@
     "COORDINATE": "120.255467635582,23.4639921358328",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
-    "CASE_DESCRIPTION": "2025\/07\/28 11:02:16 受傷2人",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "2025\/07\/28 11:02:16 受傷2人  (已安置於朴子市公所)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "紀海檬",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/07\/28 11:02:16 受傷2人",
+            "new_value": "2025\/07\/28 11:02:16 受傷2人  (已安置於朴子市公所)",
+            "timestamp": "2025-07-28 15:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-28 15:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "紀海檬",
+            "timestamp": "2025-07-28 15:01:04"
+        }
+    ]
 }
