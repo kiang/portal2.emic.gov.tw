@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾反映：西港區中山路521號，南寶樹脂寶益廠，明天已宣布停班停課，公司卻在群組公告要求員工一定要去上班。若家裡有狀況、風大雨大的人要怎麼辦？請明天派員前往稽查，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "未指派",
+    "CASE_TYPE": "待處理",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_TYPE",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 23:41:04"
+        }
+    ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民生二路靠近河東路口，民生路整條機車道一度積水達15公分，目前雨勢較小已稍退，除暴雨因素外，該址因京城京梧桐京城正在蓋大樓位置，亦常有泥水排入水溝，疑也是造成洩水不及的原因",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林俊佑",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 23:41:04"
+        }
+    ]
 }
