@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/28 13:20:44 待援1人 - 2025\/07\/28 13:27:48 - 協助德昌診所1名護理師至區公所活動中心",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 13:41:03"
+        }
+    ]
 }

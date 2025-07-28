@@ -6,6 +6,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.370937,
+                    23.429831
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062068402",
+                "CASE_DT": "2025\/7\/28 下午 01:31:00",
+                "DISASTER_MAIN_TYPE": "積淹水災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30315499045,
+                    23.5436605562939
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072025062068397",
+                "CASE_DT": "2025\/7\/28 下午 01:27:17",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.335948812345,
                     23.3788400221948
                 ]
@@ -14,7 +50,7 @@
                 "CASE_ID": "072025062068370",
                 "CASE_DT": "2025\/7\/28 下午 01:20:44",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -1004,7 +1040,7 @@
                 "CASE_ID": "072025062066748",
                 "CASE_DT": "2025\/7\/28 上午 07:35:00",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
