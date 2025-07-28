@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "護國里辦公處通報:位虎頭溪穗芳橋下游段右側護岸(萬聖堂至龍慶宮間)防汛道路逢大雨必嚴重積淹水，希望水利局派員勘查妥處，建議加大沿線護岸排(洩)水孔。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張里長",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 19:21:04"
+        }
+    ]
 }
