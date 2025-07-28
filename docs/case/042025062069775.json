@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.田徑場室內空間南、北側走廊積水、科技運動館、消防機房、會議室、儲藏室、武術教室、室內跑道積水 2.游泳池大小池滿出來、走廊積水、前方廣場積水 3.七主宮滑輪冰練習場及籃球場積水 4.棒球場室內多處積水",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李全泰",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-28 17:21:03"
+        }
+    ]
 }
