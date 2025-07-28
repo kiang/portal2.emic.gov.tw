@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "EMIC新營區長榮路一段560巷，之前有反映過這條路淹水問題，也經過很多次會勘，當時區公所告知會儘量在梅雨之前做好排水系統，後來有請人來清淤但效果不大，昨天7／28從深夜到現在還是一樣有淹水情況，附近只有這條巷子較嚴重，區公所後面給的答案要民眾自己想辦法，想了解是否有其它可以解決淹水的方式，讓附近民眾不要再受淹水之苦，煩請相關單位卓處承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "邱先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-28 18:01:03"
+        }
+    ]
 }
