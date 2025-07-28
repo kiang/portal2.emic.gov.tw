@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾反映：台南只是局部區域大風大雨就要全部停班停課，明天民眾成大排了3個門診要怎麼辦？1個還可以再打電話約，3個要怎麼辦？應可以風雨大的區域停班課就好，煩請承辦卓處。",
     "CASE_STATUS": "承辦不清楚可聯繫市民，並請結案時將處理結果以電話回覆市民",
-    "CASE_TYPE": "待處理",
+    "CASE_TYPE": "已處理",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-29 01:21:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-29 01:31:04"
         }
     ]
 }
