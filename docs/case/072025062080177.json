@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/30 06:27:24 - 地點描述：屏東縣潮州鎮太平路\/高速公路橋下積淹水，需要警示110轉報人員：陳慶富2025\/07\/30 06:30:49 - 地點描述：屏東縣潮州鎮太平路\/高速公路橋下積淹水已輪胎高，需要警示110轉報人員：陳慶富",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-30 07:01:04"
+        }
+    ]
 }
