@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/29 21:08:21 - 地點描述：嘉義縣水上鄉82中和交流道下175線道永欽2號橋路段上址發生道路積水嚴重，多部車輛動彈不得（通報119先生），請派員協助管制。 請派員了解並通知相關單位協助處理。0522110轉報人員：侯銘諺",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-07-30 00:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-30 00:11:04"
         }
     ]
 }
