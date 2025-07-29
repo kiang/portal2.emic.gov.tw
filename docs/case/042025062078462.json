@@ -3,13 +3,13 @@
     "CASE_DT": "2025\/7\/29 下午 08:36:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "苓雅區",
-    "CASE_LOC": "高雄市苓雅區建軍路168巷1弄",
+    "CASE_LOC": "高雄市苓雅區建軍路168巷1弄路燈不亮",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.342661,22.631136",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "路燈故障",
-    "CASE_DESCRIPTION": "高雄市苓雅區建軍路168巷1弄全巷路燈不亮",
-    "CASE_STATUS": "未指派",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "高雄市苓雅區建軍路168巷1弄全巷無電",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蘇昆明",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "高雄市苓雅區建軍路168巷1弄",
+            "new_value": "高雄市苓雅區建軍路168巷1弄路燈不亮",
+            "timestamp": "2025-07-29 21:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路燈故障",
+            "new_value": "電力停電",
+            "timestamp": "2025-07-29 21:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "高雄市苓雅區建軍路168巷1弄全巷路燈不亮",
+            "new_value": "高雄市苓雅區建軍路168巷1弄全巷無電",
+            "timestamp": "2025-07-29 21:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-29 21:01:04"
+        }
+    ]
 }
