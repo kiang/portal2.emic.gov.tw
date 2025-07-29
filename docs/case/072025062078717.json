@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2025\/07\/29 21:18:18 受傷1人 - 私人土地擋土牆土石水流入民宅15戶水淹10公分",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "劉敏慧",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "劉敏慧",
+            "timestamp": "2025-07-29 21:41:04"
+        }
+    ]
 }
