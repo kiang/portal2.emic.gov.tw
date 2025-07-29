@@ -8,10 +8,10 @@
     "COORDINATE": "120.421239604119,23.454652386422",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "經聯繫該戶廖姓女屋主，確認此次通報之屋頂破損係因先前颱風所致，相關情形已於當時通報水上鄉公所處理。本次再次通報，經說明後，屋主了解後續處理將由公所持續辦理，並表示目前無立即安置需求，故本案無需啟動收容或安置措施。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "鄰居",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "經聯繫該戶廖姓女屋主，確認此次通報之屋頂破損係因先前颱風所致，相關情形已於當時通報水上鄉公所處理。本次再次通報，經說明後，屋主了解後續處理將由公所持續辦理，並表示目前無立即安置需求，故本案無需啟動收容或安置措施。",
+            "timestamp": "2025-07-30 07:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-30 07:41:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "鄰居",
+            "timestamp": "2025-07-30 07:41:03"
+        }
+    ]
 }
