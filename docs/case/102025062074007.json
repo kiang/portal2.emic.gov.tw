@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC新營區復興路左轉金華路上，今天適逢大雨天停班停課，目前有一個工人站在快速道路、割分隔島上的草，因只有一個人、前後無警示很危險，開車轉過去會被嚇到、亦可能有撞上的危險，請派員告誡及警示",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-29 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-07-29 10:11:04"
         }
     ]
 }
