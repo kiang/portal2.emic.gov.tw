@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "大型樹頭塞住水溝，水已漫到道路上",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "徐詩吟",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "120.369776,23.116448",
             "new_value": "120.36948448313893,23.116710368542144",
             "timestamp": "2025-07-29 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-29 15:01:05"
         }
     ]
 }
