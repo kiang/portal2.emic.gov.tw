@@ -8,10 +8,10 @@
     "COORDINATE": "120.672724970856,23.9235634609326",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "消防局目前將相關資料傳至工務處相關承辦人員",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "消防局目前將相關資料傳至工務處相關承辦人員",
+            "timestamp": "2025-07-31 04:51:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0",
+            "timestamp": "2025-07-31 04:51:04"
+        }
+    ]
 }
