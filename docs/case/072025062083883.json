@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2025\/07\/30 15:22:39 - 地點描述：台中市霧峰區新生路往山上方向2K處稱遇土石流受困該處無信號，道路坍崩無法出去110轉報人員：林展徹2025\/07\/30 16:06:42 - 地點描述：台中市霧峰區新生路往山上方向2K處稱遇路樹倒塌該處無信號，道路坍崩無法出去110轉報人員：林展徹",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-30 16:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-07-30 16:51:03"
         }
     ]
 }
