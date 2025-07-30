@@ -2,10 +2,10 @@
     "CASE_ID": "102025062070941",
     "CASE_DT": "2025\/7\/28 下午 07:39:00",
     "COUNTY_N": "臺南市",
-    "TOWN_N": "安平區",
-    "CASE_LOC": "0",
+    "TOWN_N": "善化區",
+    "CASE_LOC": "臺南市善化區",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": ",",
+    "COORDINATE": "120.2988274,23.14031072",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC民眾表示：明天有跟善化戶政事務所預約登記結婚，急迫想了解明天是否還可以辦理登記，若無法辦理登記，之後前往是否還能登記為明日的日期，要求戶政單位立刻確認並回電告知他，煩請相關單位卓處。承辦若不清楚，可聯繫通報人，並請結案時將處理結果電話回覆民眾。",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "TOWN_N",
+            "old_value": "安平區",
+            "new_value": "善化區",
+            "timestamp": "2025-07-30 19:01:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "0",
+            "new_value": "臺南市善化區",
+            "timestamp": "2025-07-30 19:01:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": ",",
+            "new_value": "120.2988274,23.14031072",
+            "timestamp": "2025-07-30 19:01:03"
+        }
+    ]
 }
