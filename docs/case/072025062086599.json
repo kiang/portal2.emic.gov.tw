@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "2025\/07\/30 23:24:08 - 5人自行撤出 請派公所人員前往協助(消防局聯繫中寮公所，公所即刻聯繫相關人員進行處置)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "0",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "",
             "new_value": "0",
             "timestamp": "2025-07-30 23:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-07-31 00:11:04"
         }
     ]
 }
