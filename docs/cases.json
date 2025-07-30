@@ -6,6 +6,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.76520178128,
+                    23.9296473433678
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072025062086599",
+                "CASE_DT": "2025\/7\/30 下午 11:24:08",
+                "DISASTER_MAIN_TYPE": "土石災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.6970865,
                     24.13733209
                 ]
@@ -32,7 +50,7 @@
                 "CASE_ID": "042025062086496",
                 "CASE_DT": "2025\/7\/30 下午 10:27:00",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -140,7 +158,7 @@
                 "CASE_ID": "042025062086146",
                 "CASE_DT": "2025\/7\/30 下午 09:40:00",
                 "DISASTER_MAIN_TYPE": "土石災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -304,6 +322,24 @@
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
                 "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67401,
+                    22.527214
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062086588",
+                "CASE_DT": "2025\/7\/30 下午 04:50:00",
+                "DISASTER_MAIN_TYPE": "土石災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": true,
                 "IS_SERIOUS": false
             }
         },
