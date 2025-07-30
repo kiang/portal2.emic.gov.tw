@@ -8,10 +8,10 @@
     "COORDINATE": "120.66649596084,23.9441137401687",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "2025\/07\/31 06:39:25 - 貓羅溪水位高漲，民眾表示家中快淹水目測水位剩下80公分即淹到房子",
+    "CASE_DESCRIPTION": "2025\/07\/31 06:39:25 - 貓羅溪水位高漲，民眾表示家中快淹水目測水位剩下80公分即淹到房子，目前已有一台抽水機協助，已連繫相關單位是否可以調度協助抽水",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/07\/31 06:39:25 - 貓羅溪水位高漲，民眾表示家中快淹水目測水位剩下80公分即淹到房子",
+            "new_value": "2025\/07\/31 06:39:25 - 貓羅溪水位高漲，民眾表示家中快淹水目測水位剩下80公分即淹到房子，目前已有一台抽水機協助，已連繫相關單位是否可以調度協助抽水",
+            "timestamp": "2025-07-31 07:11:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119",
+            "timestamp": "2025-07-31 07:11:03"
+        }
+    ]
 }
