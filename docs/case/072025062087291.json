@@ -3,13 +3,13 @@
     "CASE_DT": "2025\/7\/31 上午 04:05:58",
     "COUNTY_N": "臺中市",
     "TOWN_N": "霧峰區",
-    "CASE_LOC": "台中市霧峰區自強路121號",
+    "CASE_LOC": "台中市霧峰區自強路121號@EMIC",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.709200257233,24.0715232404739",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "台中市霧峰區自強路121號",
+            "new_value": "台中市霧峰區自強路121號@EMIC",
+            "timestamp": "2025-07-31 04:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-31 04:31:03"
+        }
+    ]
 }
