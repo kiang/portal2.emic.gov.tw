@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "EMIC-排水溝積水新營區護鎮里後鎮墳墓到垃圾場的排水溝，有雜草及木頭淤積，現在下雨有積水，請盡快派人處理，煩請相關單位卓處。承辦若不清楚，可聯繫通報人。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "吳先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2025-07-29 15:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-30 11:11:03"
         }
     ]
 }
