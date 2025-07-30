@@ -8,10 +8,10 @@
     "COORDINATE": "120.677127446072,23.8511148810165",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "聯繫相關單位處理中",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "聯繫相關單位處理中",
+            "timestamp": "2025-07-31 07:51:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0",
+            "timestamp": "2025-07-31 07:51:04"
+        }
+    ]
 }
