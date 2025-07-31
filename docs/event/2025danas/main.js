@@ -16,7 +16,7 @@ let typhoonLayer = null;
 async function loadTyphoonData() {
     try {
         // First, let's try fetching as binary data
-        const response = await fetch('https://kiang.github.io/alerts.ncdr.nat.gov.tw/typhoon.kmz');
+        const response = await fetch('https://kiang.github.io/alerts.ncdr.nat.gov.tw/event/2025danas.kmz');
         const arrayBuffer = await response.arrayBuffer();
         
         let kmlContent = null;
@@ -72,7 +72,7 @@ async function loadTyphoonData() {
         console.error('Error loading typhoon data:', error);
         // Try alternative approach - load as KML directly
         try {
-            const kmlUrl = 'https://kiang.github.io/alerts.ncdr.nat.gov.tw/typhoon.kml';
+            const kmlUrl = 'https://kiang.github.io/alerts.ncdr.nat.gov.tw/event/2025danas.kml';
             const response = await fetch(kmlUrl);
             const kmlText = await response.text();
             
@@ -737,7 +737,7 @@ fetch('cases.json')
         }, 100);
         
         // Load typhoon data
-        //loadTyphoonData();
+        loadTyphoonData();
     })
     .catch(error => {
         console.error('Error loading GeoJSON:', error);
