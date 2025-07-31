@@ -8,10 +8,10 @@
     "COORDINATE": "120.802235563619,23.9878107389882",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "台14線32k處，道路已雙向搶通",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "南投工務段",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2025-07-31 11:11:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "台14線32k處，道路已雙向搶通",
+            "timestamp": "2025-07-31 19:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "南投工務段",
+            "timestamp": "2025-07-31 19:31:04"
         }
     ]
 }
