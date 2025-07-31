@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025年丹娜絲颱風災情地圖 - EMIC</title>
+    
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="2025年丹娜絲颱風災情地圖 - EMIC">
+    <meta property="og:description" content="2025年丹娜絲颱風災情回報與查看地圖">
+    <meta property="og:image" content="https://kiang.github.io/portal2.emic.gov.tw/event/2025danas/og_image.jpg">
+    <meta property="og:url" content="https://kiang.github.io/portal2.emic.gov.tw/event/2025danas/">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="2025年丹娜絲颱風災情地圖 - EMIC">
+    <meta name="twitter:description" content="2025年丹娜絲颱風災情回報與查看地圖">
+    <meta name="twitter:image" content="https://kiang.github.io/portal2.emic.gov.tw/event/2025danas/og_image.jpg">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="style.css" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FJ1JR851SJ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-FJ1JR851SJ');
+    </script>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="loading" id="loading">載入中...</div>
+    
+    <!-- Event info banner -->
+    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.95); padding: 10px 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.2); z-index: 1000; text-align: center;">
+        <h3 style="margin: 0; color: #d32f2f;">🌀 2025年丹娜絲颱風災情紀錄</h3>
+        <p style="margin: 5px 0 0 0; font-size: 14px; color: #666;">資料時間：2025-07-26 03:31</p>
+    </div>
+    
+    <!-- Button to open major disasters popup -->
+    <button class="major-disasters-btn" id="majorDisastersBtn" title="查看重大災情" style="top: 80px;">
+        🚨 重大災情
+    </button>
+    
+    <!-- Major disasters popup -->
+    <div class="major-disasters-popup" id="majorDisastersPopup">
+        <div class="popup-content">
+            <div class="popup-header">
+                <h3>重大災情列表</h3>
+                <button class="popup-close" id="popupClose">&times;</button>
+            </div>
+            <div class="popup-body" id="popupBody">
+                <!-- Cases will be populated here -->
+            </div>
+        </div>
+    </div>
+    
+    <!-- Location input button -->
+    <button class="location-input-btn" id="locationInputBtn" title="輸入座標定位" style="top: 130px;">
+        📍 定位
+    </button>
+    
+    <!-- Location input popup -->
+    <div class="location-input-popup" id="locationInputPopup">
+        <div class="popup-content">
+            <div class="popup-header">
+                <h3>輸入座標定位</h3>
+                <button class="popup-close" id="locationPopupClose">&times;</button>
+            </div>
+            <div class="popup-body">
+                <form id="locationForm">
+                    <div class="form-group">
+                        <label for="coordinates">座標 (緯度, 經度):</label>
+                        <div class="input-group">
+                            <input type="text" id="coordinates" placeholder="例如: 23.5, 121.0" required>
+                            <button type="button" class="btn-geolocation" id="getCurrentLocation" title="取得目前位置">
+                                🌐
+                            </button>
+                        </div>
+                        <div class="form-help">請輸入格式：緯度, 經度 (例如: 23.5, 121.0)</div>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-primary">定位</button>
+                        <button type="button" class="btn-secondary" id="cancelLocation">取消</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/jszip@3.10.1/dist/jszip.min.js"></script>
+    <script src="main.js"></script>
+    
+    <div class="author-credit">
+        <a href="https://github.com/kiang/portal2.emic.gov.tw" target="_blank">資料來源：EMIC 災情平台</a>
+    </div>
+</body>
+</html>
