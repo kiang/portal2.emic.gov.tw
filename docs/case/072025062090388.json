@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/07\/31 12:53:12 - 地點描述：屏東縣牡丹鄉199縣道旁邊的山路(屏東往台東方向，剛經過旭海約8分鐘處，約4.5公里)稱該處有泥沙及樹枝倒塌，擋住整個車道，影響通行，稱機車也被卡住，請派員協助。(報案人無法陳述詳細位置，請直接聯繫報案人確認位置，如現場查看需通報相關單位，請同仁記得做相關通報)110轉報人員：龔俊宇",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-07-31 14:21:04"
+        }
+    ]
 }
