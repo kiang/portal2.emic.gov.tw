@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2025\/07\/31 17:23:57 - 原始報案人林小姐",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-31 18:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "林小姐",
+            "timestamp": "2025-07-31 18:31:03"
         }
     ]
 }
