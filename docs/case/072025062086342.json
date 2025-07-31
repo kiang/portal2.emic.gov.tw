@@ -11,9 +11,9 @@
     "CASE_DESCRIPTION": "2025\/07\/30 21:25:01 - 草水檢查哨2025\/07\/30 21:31:33 - 草水檢查哨附近.摔落山谷2025\/07\/30 21:39:37 - 草水檢查哨附近.摔落山谷-5人2025\/07\/30 21:47:18 - 草水檢查哨靠近廁所附近.摔落山谷-5人2025\/07\/30 21:49:28 - 草水檢查哨靠近廁所附近.摔落山谷-5人(疑似一家人)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "陳奕安",
     "INJURED_NO": 0,
-    "DEATH_NO": 0,
+    "DEATH_NO": 1,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-07-31 08:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "陳奕安",
+            "timestamp": "2025-07-31 15:01:03"
+        },
+        {
+            "field": "DEATH_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-07-31 15:01:03"
         }
     ]
 }
