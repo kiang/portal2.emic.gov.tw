@@ -222,6 +222,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.4441211,
+                    23.2783187
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062094072",
+                "CASE_DT": "2025\/7\/31 下午 05:30:00",
+                "DISASTER_MAIN_TYPE": "橋梁災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.607802600797,
                     24.0755791304331
                 ]
@@ -2102,7 +2120,7 @@
                 "CASE_ID": "072025062088670",
                 "CASE_DT": "2025\/7\/31 上午 09:18:24",
                 "DISASTER_MAIN_TYPE": "土石災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
