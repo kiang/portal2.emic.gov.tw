@@ -11,10 +11,10 @@
     "CASE_DESCRIPTION": "2025\/07\/31 16:54:10 受傷1人 - 病患因淹水需要協助脫困",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "報案人",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 0,
+    "TRAPPED_NO": 1,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
@@ -31,6 +31,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-31 17:31:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "報案人",
+            "timestamp": "2025-07-31 19:41:04"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-07-31 19:41:04"
         }
     ]
 }
