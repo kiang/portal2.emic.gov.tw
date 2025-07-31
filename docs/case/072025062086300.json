@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/30 22:24:15 - 下雨淹水 請通知公所抽水機(消防局已連繫工務處，工務處表示為水利溝匯入的問題！非抽水機能處置！)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "0",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-31 09:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-31 11:01:04"
         }
     ]
 }
