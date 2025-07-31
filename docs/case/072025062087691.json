@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/07\/31 06:39:25 - 該處位於天龍府附近，目前已有2台大型移動式抽水機抽水中，已請南投市公所派員至現場勘查，必要時再請第三河川分署支援",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-07-31 09:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-07-31 11:41:04"
         }
     ]
 }
