@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "土石崩落廠商持續沿路反覆清除作業中",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭思妤",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "土石崩落",
             "new_value": "土石崩落廠商持續沿路反覆清除作業中",
             "timestamp": "2025-08-01 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-01 13:31:04"
         }
     ]
 }
