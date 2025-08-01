@@ -8,10 +8,10 @@
     "COORDINATE": "120.602411461535,23.8713909644991",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "目前水位已退",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "李芃叡",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -37,6 +37,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-07-31 21:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "目前水位已退",
+            "timestamp": "2025-08-01 14:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "李芃叡",
+            "timestamp": "2025-08-01 14:01:04"
         }
     ]
 }
