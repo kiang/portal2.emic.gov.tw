@@ -8,7 +8,7 @@
     "COORDINATE": "120.809182,24.250247",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋地下室淹水",
-    "CASE_DESCRIPTION": "連續強降雨，雨水從廢棄房屋（17戶）流入地下室，致其地下室淹水。",
+    "CASE_DESCRIPTION": "連續強降雨，雨水從廢棄房屋流入地下室，致其地下室淹水，共5戶受影響。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張鳳梅",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2025-08-01 11:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "連續強降雨，雨水從廢棄房屋（17戶）流入地下室，致其地下室淹水。",
+            "new_value": "連續強降雨，雨水從廢棄房屋流入地下室，致其地下室淹水，共5戶受影響。",
+            "timestamp": "2025-08-01 13:41:04"
         }
     ]
 }
