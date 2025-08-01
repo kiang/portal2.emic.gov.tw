@@ -9,11 +9,11 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "人員落水",
     "CASE_DESCRIPTION": "2025\/07\/31 07:24:39 受傷1人 - 一、員警報案南投市彰南路一段290巷149弄201號疑似有民眾無視道路封路於積水處溺水二、現場OHCA",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "簡宏儒",
     "INJURED_NO": 0,
-    "DEATH_NO": 0,
+    "DEATH_NO": 1,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-31 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-01 10:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "簡宏儒",
+            "timestamp": "2025-08-01 10:01:04"
+        },
+        {
+            "field": "DEATH_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-08-01 10:01:04"
         }
     ]
 }
