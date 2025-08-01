@@ -8,7 +8,7 @@
     "COORDINATE": "120.8008099,22.75990478",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "全鄉停電",
+    "CASE_DESCRIPTION": "全鄉停電 8\/1 14:35已電聯台電處理",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "沈佳蓉",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "全鄉停電",
+            "new_value": "全鄉停電 8\/1 14:35已電聯台電處理",
+            "timestamp": "2025-08-01 14:41:03"
+        }
+    ]
 }
