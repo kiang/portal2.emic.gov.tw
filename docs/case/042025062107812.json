@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "水閘門故障",
     "CASE_DESCRIPTION": "江菜橋東岸雞舍後方水閘門一個無法開啟一個開到一半就卡死請盡速派員勘查維修因為這裡好幾百甲的田和台糖農場的水要排如無法大量排水會淹很慘",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "翁振家",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 19:31:04"
+        }
+    ]
 }
