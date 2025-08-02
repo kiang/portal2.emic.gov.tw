@@ -2,16 +2,16 @@
     "CASE_ID": "072025062105055",
     "CASE_DT": "2025\/8\/2 下午 12:16:48",
     "COUNTY_N": "臺南市",
-    "TOWN_N": "新市區",
-    "CASE_LOC": "台南市新市區大順六路1075號",
+    "TOWN_N": "善化區",
+    "CASE_LOC": "台南市善化區大順六路1075號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.290264123185,23.1030400445491",
+    "COORDINATE": "120.288568,23.123894",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "2025\/08\/02 12:23:25 - 3.4個 配合區公所疏散",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,30 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-02 12:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新市區",
+            "new_value": "善化區",
+            "timestamp": "2025-08-02 13:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "台南市新市區大順六路1075號",
+            "new_value": "台南市善化區大順六路1075號",
+            "timestamp": "2025-08-02 13:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.290264123185,23.1030400445491",
+            "new_value": "120.288568,23.123894",
+            "timestamp": "2025-08-02 13:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119",
+            "timestamp": "2025-08-02 13:01:04"
         }
     ]
 }
