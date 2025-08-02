@@ -8,8 +8,8 @@
     "COORDINATE": "120.178593,23.1669941",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "福南山莊往篤加方向目前有淹水(即福南山莊往鴨母寮，南32及南29線路口)",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "0925佳里分局回報：現場因豪雨路面積水約100公尺水位達50公分，目前已拉起封鎖線實施警戒。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "文新里幹事",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "福南山莊往篤加方向目前有淹水(即福南山莊往鴨母寮，南32及南29線路口)",
+            "new_value": "0925佳里分局回報：現場因豪雨路面積水約100公尺水位達50公分，目前已拉起封鎖線實施警戒。",
+            "timestamp": "2025-08-02 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 15:31:04"
+        }
+    ]
 }
