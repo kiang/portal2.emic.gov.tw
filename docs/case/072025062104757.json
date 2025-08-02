@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/08\/02 11:38:57 - (代為上傳)110案件地點描述：嘉義縣鹿草鄉三角村毛蟹行鐘福宮報案稱上址2處埤塘疑似滿出來致路面，請警方到場查看是否需要管制。1132110轉報人員：耿銘佑",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-02 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 12:11:04"
         }
     ]
 }
