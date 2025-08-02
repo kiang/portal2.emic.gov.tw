@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "除部分路段及較低窪地點仍有4~12cm左右積水外(22:14回報)，其餘位置已退水，抽水機持續抽水中",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許嘉顯",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "外五間寮低窪地區積淹水約10cm",
             "new_value": "除部分路段及較低窪地點仍有4~12cm左右積水外(22:14回報)，其餘位置已退水，抽水機持續抽水中",
             "timestamp": "2025-08-02 23:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-02 23:31:04"
         }
     ]
 }
