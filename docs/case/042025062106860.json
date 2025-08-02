@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/8\/2 下午 04:41:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "新化區",
-    "CASE_LOC": "臺南市新化區",
+    "CASE_LOC": "臺南市新化區168-3線",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.3357964,23.03394545",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
-    "CASE_DESCRIPTION": "電線桿倒",
+    "CASE_DESCRIPTION": "台南市新化區大坑里南168線6K處\/桿號：大坑06號，聯絡人:鄭警員\/065982924，電線桿倒",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "謝玉秀",
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-02 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市新化區",
+            "new_value": "臺南市新化區168-3線",
+            "timestamp": "2025-08-02 21:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "電線桿倒",
+            "new_value": "台南市新化區大坑里南168線6K處\/桿號：大坑06號，聯絡人:鄭警員\/065982924，電線桿倒",
+            "timestamp": "2025-08-02 21:11:04"
         }
     ]
 }
