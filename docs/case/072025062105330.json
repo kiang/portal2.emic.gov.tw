@@ -8,8 +8,8 @@
     "COORDINATE": "120.178301403812,23.1665220117583",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "176子龍側封路",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "16:30水位稍退，封鎖線已撤除。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "黃嘉貞",
     "INJURED_NO": 0,
@@ -49,6 +49,18 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2025-08-02 15:01:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "176子龍側封路",
+            "new_value": "16:30水位稍退，封鎖線已撤除。",
+            "timestamp": "2025-08-02 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-02 17:11:04"
         }
     ]
 }
