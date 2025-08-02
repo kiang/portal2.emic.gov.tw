@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/8\/2 下午 03:15:00",
     "COUNTY_N": "屏東縣",
     "TOWN_N": "潮州鎮",
-    "CASE_LOC": "崁頂往潮州鐵道園區方向",
+    "CASE_LOC": "崁頂往潮州鐵道園區方向\/屏76線1公里處",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.5568063,22.53642947",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "崁頂往潮州鐵道園區方向",
+            "new_value": "崁頂往潮州鐵道園區方向\/屏76線1公里處",
+            "timestamp": "2025-08-02 17:41:03"
+        }
+    ]
 }
