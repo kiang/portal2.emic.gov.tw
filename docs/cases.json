@@ -11,6 +11,60 @@
                 ]
             },
             "properties": {
+                "CASE_ID": "042025062108617",
+                "CASE_DT": "2025\/8\/2 下午 09:27:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2281858,
+                    22.98178202
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062108595",
+                "CASE_DT": "2025\/8\/2 下午 09:22:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2281858,
+                    22.98178202
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062108572",
+                "CASE_DT": "2025\/8\/2 下午 09:20:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2281858,
+                    22.98178202
+                ]
+            },
+            "properties": {
                 "CASE_ID": "042025062108499",
                 "CASE_DT": "2025\/8\/2 下午 08:48:00",
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -231,6 +285,24 @@
                 "CASE_DT": "2025\/8\/2 下午 07:02:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
                 "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": true,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455662,
+                    22.527787
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062108565",
+                "CASE_DT": "2025\/8\/2 下午 06:55:00",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": true,
                 "IS_SERIOUS": false
             }
