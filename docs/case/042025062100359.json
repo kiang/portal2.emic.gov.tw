@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "獅子一巷27-5號(獅子村和平部落)堤坊崩塌",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "內獅派出所",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-08-01 22:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 08:11:04"
         }
     ]
 }
