@@ -8,8 +8,8 @@
     "COORDINATE": "120.5694208,24.07532909",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "已設交維，無人傷亡",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "已恢復交通通行",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李芃叡",
     "INJURED_NO": 0,
@@ -17,7 +17,7 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": true,
+    "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
     "logs": [
         {
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-07-31 12:11:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "已設交維，無人傷亡",
+            "new_value": "已恢復交通通行",
+            "timestamp": "2025-08-02 19:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 19:41:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2025-08-02 19:41:04"
         }
     ]
 }
