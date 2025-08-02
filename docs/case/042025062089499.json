@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "強降雨排水宣洩不及淹入民宅，水未退。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "徐宇玄",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-08-01 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 11:01:04"
         }
     ]
 }

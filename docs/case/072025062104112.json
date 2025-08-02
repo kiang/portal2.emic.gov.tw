@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "2025\/08\/02 09:54:28 - 後方平房淹水，無人受傷受困，報案人來電，有1民眾(老人)需收容安置。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "119",
             "timestamp": "2025-08-02 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 11:01:04"
         }
     ]
 }
