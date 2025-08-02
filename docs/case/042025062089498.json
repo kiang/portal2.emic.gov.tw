@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "已恢復交通通行",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李芃叡",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": true,
             "new_value": false,
             "timestamp": "2025-08-02 19:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-02 19:51:04"
         }
     ]
 }

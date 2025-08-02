@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2025\/08\/02 18:28:29 - 報案人表示該路面淹水",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "FB我是萬金人",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "FB我是萬金人",
+            "timestamp": "2025-08-02 19:51:04"
+        }
+    ]
 }
