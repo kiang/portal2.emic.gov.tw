@@ -8,16 +8,16 @@
     "COORDINATE": "120.178301403812,23.1665220117583",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "2025\/08\/02 12:16:00 - 地點描述：台南市佳里區麻佳路二段靠近大潤發上述地發生【積水】，影響行車安全，請派員設立警示封鎖。 110轉報人員：賴漢祥",
+    "CASE_DESCRIPTION": "176子龍側封路",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "黃嘉貞",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
     "logs": [
         {
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-02 14:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/08\/02 12:16:00 - 地點描述：台南市佳里區麻佳路二段靠近大潤發上述地發生【積水】，影響行車安全，請派員設立警示封鎖。 110轉報人員：賴漢祥",
+            "new_value": "176子龍側封路",
+            "timestamp": "2025-08-02 15:01:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "黃嘉貞",
+            "timestamp": "2025-08-02 15:01:03"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-08-02 15:01:03"
         }
     ]
 }
