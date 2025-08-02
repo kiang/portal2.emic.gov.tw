@@ -8,7 +8,7 @@
     "COORDINATE": "120.741944,23.275008",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "目前廠商持續清理作業",
+    "CASE_DESCRIPTION": "目前廠商持續清理作業，有幾處路基已經下陷",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "余秀晏",
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-01 13:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "目前廠商持續清理作業",
+            "new_value": "目前廠商持續清理作業，有幾處路基已經下陷",
+            "timestamp": "2025-08-02 11:41:04"
         }
     ]
 }
