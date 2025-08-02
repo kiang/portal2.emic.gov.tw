@@ -8,7 +8,7 @@
     "COORDINATE": "120.4845044,22.7316677",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "九如鄉黃金路積水漫過路面",
+    "CASE_DESCRIPTION": "九如鄉黃金路積水漫過路面，目前積水仍未退去，不得開放通行汽機車。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黃哲輝",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-02 08:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "九如鄉黃金路積水漫過路面",
+            "new_value": "九如鄉黃金路積水漫過路面，目前積水仍未退去，不得開放通行汽機車。",
+            "timestamp": "2025-08-02 15:21:03"
         }
     ]
 }
