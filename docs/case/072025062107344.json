@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/08\/02 17:52:07 - 地點描述：台南市安定區定順路【市府1999專線通報】：上述地點( 淹水有車子?錨在路中   )，請速派員處理，查處情形回覆1999   小姐 110轉報人員：賴慶宜報案人稱 無人員受傷受困",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-02 18:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-02 18:21:03"
         }
     ]
 }
