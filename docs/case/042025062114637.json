@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/8\/3 下午 05:54:00",
     "COUNTY_N": "屏東縣",
     "TOWN_N": "九如鄉",
-    "CASE_LOC": "屏東縣九如鄉",
+    "CASE_LOC": "屏東縣九如鄉堤防路往屏東方向",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.4845044,22.7316677",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
@@ -43,6 +43,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-08-03 18:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "屏東縣九如鄉",
+            "new_value": "屏東縣九如鄉堤防路往屏東方向",
+            "timestamp": "2025-08-03 21:31:04"
         }
     ]
 }
