@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "東勢區慶福里中46號道路，往彩虹奇菁露營區，道路坍方的坍方，樹倒的樹倒，水切道路，道路從中裂開，無法通行，範圍約一公里，陳情人表示為水利局管轄權責，請派員處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "詹先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-03 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 16:01:04"
         }
     ]
 }
