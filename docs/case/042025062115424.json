@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "1.金崙溪堤防潰堤，溪水暴漲從堤防下方50米處衝破土提，一路淹到路面上。2.目前週邊田地及農路無法通行，待積水稍緩後再行協助清理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "利思賢",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "金崙溪堤防潰堤",
             "new_value": "1.金崙溪堤防潰堤，溪水暴漲從堤防下方50米處衝破土提，一路淹到路面上。2.目前週邊田地及農路無法通行，待積水稍緩後再行協助清理。",
             "timestamp": "2025-08-03 20:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-03 22:21:03"
         }
     ]
 }
