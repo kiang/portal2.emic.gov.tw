@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋墩基礎沖刷",
     "CASE_DESCRIPTION": "石龜溪糖廠鐵橋因雨沖刷橋墩有損毀之虞，依據文化資產科張科長指示，煩請貴中心業管單位協助勘災及告示提醒。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "文觀處(邱先生)",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-03 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 20:01:03"
         }
     ]
 }
