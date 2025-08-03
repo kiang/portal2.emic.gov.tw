@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "惠來溪(朝馬國運旁)護岸遭大水沖刷崩落",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "運動局",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "臺中市西屯區",
             "new_value": "臺中市西屯區惠來溪(朝馬國運旁)護岸",
             "timestamp": "2025-08-01 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 13:01:03"
         }
     ]
 }

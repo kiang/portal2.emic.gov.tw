@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "目前水位已退，地下道先行封閉",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "李芃叡",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "李芃叡",
             "timestamp": "2025-08-03 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 13:01:03"
         }
     ]
 }
