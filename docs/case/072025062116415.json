@@ -8,10 +8,10 @@
     "COORDINATE": "120.528359286755,22.6716314362182",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
-    "CASE_DESCRIPTION": "2025\/08\/03 23:15:34 - 椰子樹倒塌壓到電線正在冒火花無人受傷",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "2025\/08\/03 23:15:34 - 椰子樹倒塌壓到電線正在冒火花無人受傷、停電",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0966862570",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/08\/03 23:15:34 - 椰子樹倒塌壓到電線正在冒火花無人受傷",
+            "new_value": "2025\/08\/03 23:15:34 - 椰子樹倒塌壓到電線正在冒火花無人受傷、停電",
+            "timestamp": "2025-08-03 23:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-08-03 23:31:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0966862570",
+            "timestamp": "2025-08-03 23:31:03"
+        }
+    ]
 }
