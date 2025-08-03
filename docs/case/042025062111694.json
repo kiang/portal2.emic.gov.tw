@@ -8,7 +8,7 @@
     "COORDINATE": "120.44064893615315,24.006047799575114",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "樹倒在埔鹽排水上影響排水",
+    "CASE_DESCRIPTION": "經查樹無傾倒，因水面過高導致樹淹沒區域排水中，目前尚無影響通水。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "施金章",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹倒在埔鹽排水上影響排水",
+            "new_value": "經查樹無傾倒，因水面過高導致樹淹沒區域排水中，目前尚無影響通水。",
+            "timestamp": "2025-08-03 12:51:03"
+        }
+    ]
 }
