@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2025\/08\/03 11:48:19 - 地點描述：雲林縣斗南鎮建國二路375號(建國三路路段)報案人為消防局蕭副局長，目前縣長在現場，因道路淹水，目前要進行封路會勘，需警方協助交通管制，請派員前往處理。110轉報人員：郭達藝",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-03 12:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 14:31:03"
         }
     ]
 }
