@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
     "CASE_DESCRIPTION": "水利處通知三結橋水位達警戒值，本所派廠商先行封橋，請轄區派出所協助交管",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "王若菁",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-08-03 17:21:04"
+        }
+    ]
 }
