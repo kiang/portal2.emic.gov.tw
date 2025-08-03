@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "新虎尾溪潰堤",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "莿桐鄉公所",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-03 13:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-03 15:01:04"
         }
     ]
 }
