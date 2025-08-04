@@ -8,7 +8,7 @@
     "COORDINATE": "120.558102,22.737326",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋墩基礎沖刷",
-    "CASE_DESCRIPTION": "路面與橋端處掏空",
+    "CASE_DESCRIPTION": "路面與橋端處掏空\/1440聯繫公所請其確認",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路面與橋端處掏空",
+            "new_value": "路面與橋端處掏空\/1440聯繫公所請其確認",
+            "timestamp": "2025-08-04 14:51:03"
+        }
+    ]
 }
