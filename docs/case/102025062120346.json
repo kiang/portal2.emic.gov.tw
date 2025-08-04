@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "抽水站受災",
     "CASE_DESCRIPTION": "EMIC安定區港尾里9之21號,目前該處低窪的地方,都持續在淹水,民眾表示有詢問區公所,公所人員告知因跳電,故抽水機無法運作,目前現階段,區公所人員已通報台電處理,民眾希望單位能暫時性調派一台靠油運作的抽水機,以防止淹水的情況發生,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "周先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-08-04 14:11:03"
+        }
+    ]
 }
