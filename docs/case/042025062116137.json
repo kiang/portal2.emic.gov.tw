@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "南屯區永春路36之18號，一大坑洞，約占一個車道，有先以交通錐警示，請盡快檢修。　／　南屯區永春路36之18號(振宇五金)前方，路面凹陷，安全措施不足，僅在凹陷處放置一個三角錐，未圍出緩衝空間，導致許多民眾看到警示錐，再煞車已來不及，目前民眾直接撞上三角錐，建請派員立即到場改善。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黎明派出所葉先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-04 16:41:04"
+        }
+    ]
 }
