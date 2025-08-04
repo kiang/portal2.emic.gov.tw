@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "落石掉落",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳貞伸",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "120.64716111374447,23.6320352120092",
             "new_value": "120.661919,23.640067",
             "timestamp": "2025-08-04 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-04 15:51:03"
         }
     ]
 }
