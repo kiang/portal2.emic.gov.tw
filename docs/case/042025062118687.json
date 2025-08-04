@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/8\/4 上午 07:29:00",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "林內鄉",
-    "CASE_LOC": "雲林縣林內鄉林北村林北大坑",
+    "CASE_LOC": "雲林縣林內鄉林北村林北大坑附近[雲林縣林內鄉林北村9鄰中正東路55巷15之1號]",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.645456,23.766627",
+    "COORDINATE": "120.625017,23.762953",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "林北村林北大坑土石崩落",
+    "CASE_DESCRIPTION": "林北村林北大坑土石崩落，因原定位位移，重新定位",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡錦騰",
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-04 10:31:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣林內鄉林北村林北大坑",
+            "new_value": "雲林縣林內鄉林北村林北大坑附近[雲林縣林內鄉林北村9鄰中正東路55巷15之1號]",
+            "timestamp": "2025-08-04 10:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.645456,23.766627",
+            "new_value": "120.625017,23.762953",
+            "timestamp": "2025-08-04 10:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "林北村林北大坑土石崩落",
+            "new_value": "林北村林北大坑土石崩落，因原定位位移，重新定位",
+            "timestamp": "2025-08-04 10:51:03"
         }
     ]
 }
