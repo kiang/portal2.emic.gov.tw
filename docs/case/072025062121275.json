@@ -17,7 +17,7 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
     "logs": [
         {
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "仁化分隊",
             "timestamp": "2025-08-04 16:21:03"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-08-04 16:31:04"
         }
     ]
 }
