@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/08\/04 19:58:36 - 地點描述：台中市沙鹿區興安路  (佑昌回收場) 旁產業道路往 中華路道路坍崩，影響行車安全，請派員前往處理。 (同B01111408043037)110轉報人員：蔡宗恒",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-04 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-04 22:21:03"
         }
     ]
 }
