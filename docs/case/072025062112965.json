@@ -11,8 +11,8 @@
     "CASE_DESCRIPTION": "2025\/08\/03 13:22:37 受傷1人 - 2025\/08\/03 13:36:45 受傷1人 - 平房倒塌 一人受困 意識清楚",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "水利處",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-08-03 14:21:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "水利處",
+            "timestamp": "2025-08-04 09:21:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-08-04 09:21:04"
         }
     ]
 }
