@@ -3,9 +3,9 @@
     "CASE_DT": "2025\/8\/4 下午 03:11:00",
     "COUNTY_N": "南投縣",
     "TOWN_N": "竹山鎮",
-    "CASE_LOC": "南投縣竹山鎮桶頭里內寮聚落149甲線有落石",
+    "CASE_LOC": "南投縣竹山鎮桶頭里內寮聚落149甲線有落石[南投縣竹山鎮桶頭里7鄰大坪巷32號]",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.634714,23.638977",
+    "COORDINATE": "120.64716111374447,23.6320352120092",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "落石掉落",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "南投縣竹山鎮桶頭里內寮聚落149甲線有落石",
+            "new_value": "南投縣竹山鎮桶頭里內寮聚落149甲線有落石[南投縣竹山鎮桶頭里7鄰大坪巷32號]",
+            "timestamp": "2025-08-04 15:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.634714,23.638977",
+            "new_value": "120.64716111374447,23.6320352120092",
+            "timestamp": "2025-08-04 15:31:04"
+        }
+    ]
 }
