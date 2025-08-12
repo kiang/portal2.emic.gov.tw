@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "因文昌里地勢較低，易成積淹水地區，需三台抽水機協助抽排作業，羊稠厝橋南、北各一台，番寮橋1台",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林廷遠",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-12 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-12 14:41:03"
         }
     ]
 }
