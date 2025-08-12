@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "因車禍撞斷消防栓，致淹水現象",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳啟惠",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2025-08-13 07:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 07:51:04"
         }
     ]
 }
