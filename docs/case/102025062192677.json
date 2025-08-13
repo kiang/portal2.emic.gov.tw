@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "綠島鄉南寮村230號，體諒台電人員辛苦，讓他們先處理溫泉，現在大部分綠島鄉都有電，唯獨我們這裡還沒電，持續通報台電，約十分鐘前才有一位台電人員來看，還是騎車過來最後說要回去準備材料，至今等不到人，民眾表示台電到他家不到500公尺，從停電至今千拜託萬拜託，還不趕快來修，要求台電人員儘速協助，不需電覆(11408130210)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-08-13 22:11:03"
+        }
+    ]
 }
