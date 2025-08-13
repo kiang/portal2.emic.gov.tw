@@ -3,13 +3,13 @@
     "CASE_DT": "2025\/8\/13 下午 06:46:00",
     "COUNTY_N": "臺東縣",
     "TOWN_N": "臺東市",
-    "CASE_LOC": "臺東縣臺東市豐谷北路638號前",
+    "CASE_LOC": "臺東縣臺東市豐谷北路368號前",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.116067,22.752569",
+    "COORDINATE": "121.121752,22.747817",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "兩條電線掉落",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "賴允文里長",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺東縣臺東市豐谷北路638號前",
+            "new_value": "臺東縣臺東市豐谷北路368號前",
+            "timestamp": "2025-08-13 19:01:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.116067,22.752569",
+            "new_value": "121.121752,22.747817",
+            "timestamp": "2025-08-13 19:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-08-13 19:01:03"
+        }
+    ]
 }
