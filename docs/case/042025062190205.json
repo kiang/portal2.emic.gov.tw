@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2025\/08\/13 15:39:30 - 地點描述：宜蘭縣冬山鄉義成路一段468號前[簡訊報案] 你好，冬山義成路一段468號前，路樹倒塌，謝謝110轉報人員：游挺叡　／　路樹倒塌",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "",
+    "PERSON_ID": "宜蘭知識+",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "宜蘭知識+",
+            "timestamp": "2025-08-13 16:31:04"
+        }
+    ]
 }

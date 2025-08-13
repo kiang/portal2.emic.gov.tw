@@ -8,10 +8,10 @@
     "COORDINATE": "121.135683599594,22.7473169129521",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2025\/08\/13 13:12:08 - 警報動作,1526會電聯報案人表示警報仍持續動作,無法確認有無火煙狀況.",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "1614分隊長陳國疆回報現場確認無火煙為誤報，設備復歸後人車返隊",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "鍾昌修",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/08\/13 13:12:08 - 警報動作,1526會電聯報案人表示警報仍持續動作,無法確認有無火煙狀況.",
+            "new_value": "1614分隊長陳國疆回報現場確認無火煙為誤報，設備復歸後人車返隊",
+            "timestamp": "2025-08-13 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 16:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "鍾昌修",
+            "timestamp": "2025-08-13 16:31:04"
+        }
+    ]
 }

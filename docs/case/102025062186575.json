@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC新營區家樂福對面八駿馬公園,剛好位在金華路、健康路與長榮路的三角地帶,今天(8\/13)颱風天卻有區公所的人員在割草,相當危險,此外割完的草都堆放在水溝上方,民眾認為若草堆被沖進去水溝內造成堵塞,淹水,後續誰要負責?請區公所務必改善,煩卓處，若不清楚可致電民眾洽詢。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "謝先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 09:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 16:31:04"
         }
     ]
 }
