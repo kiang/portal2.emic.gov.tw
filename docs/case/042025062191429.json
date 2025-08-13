@@ -8,7 +8,7 @@
     "COORDINATE": "119.563637,23.566386",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "因颱風吹斷電線導致停電",
+    "CASE_DESCRIPTION": "(1999案件)因颱風吹斷電線導致停電",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭小姐",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 19:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "因颱風吹斷電線導致停電",
+            "new_value": "(1999案件)因颱風吹斷電線導致停電",
+            "timestamp": "2025-08-13 19:41:03"
         }
     ]
 }
