@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2025\/08\/13 18:26:22 - 地點描述：雲林縣土庫鎮78快速道路往東17公里處 內側車道上述地點路樹倒塌，妨害行車安全，請速派員處理並注意本身安全及到達時間。 110轉報人員：林慶昌",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-13 18:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-13 18:51:04"
         }
     ]
 }
