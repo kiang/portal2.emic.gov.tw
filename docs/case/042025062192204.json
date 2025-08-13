@@ -1,17 +1,17 @@
 {
-    "CASE_ID": "042025062192143",
-    "CASE_DT": "2025\/8\/13 下午 08:13:00",
+    "CASE_ID": "042025062192204",
+    "CASE_DT": "2025\/8\/13 下午 08:21:00",
     "COUNTY_N": "新竹縣",
     "TOWN_N": "竹東鎮",
-    "CASE_LOC": "新竹縣竹東鎮上庄40(電線杆號)",
+    "CASE_LOC": "新竹縣竹東鎮員棟子1鄰",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.0753632,24.73075802",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌影響通行",
+    "CASE_DESCRIPTION": "路樹傾倒",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "莊鎔",
+    "PERSON_ID": "莊榮",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,12 +19,5 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": [
-        {
-            "field": "CASE_STATUS",
-            "old_value": "待處理",
-            "new_value": "處理中",
-            "timestamp": "2025-08-13 20:31:04"
-        }
-    ]
+    "logs": []
 }
