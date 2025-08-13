@@ -8,7 +8,7 @@
     "COORDINATE": "121.2517917,22.98006921",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "東河鄉都蘭五線12鄰東43縣道1.8K處電信桿倒壓到電線",
+    "CASE_DESCRIPTION": "東河鄉都蘭五線12鄰東43縣道1.8K處電信桿傾斜，非電桿",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "田國義",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "東河鄉都蘭五線12鄰東43縣道1.8K處電信桿倒壓到電線",
+            "new_value": "東河鄉都蘭五線12鄰東43縣道1.8K處電信桿傾斜，非電桿",
+            "timestamp": "2025-08-13 19:11:04"
+        }
+    ]
 }
