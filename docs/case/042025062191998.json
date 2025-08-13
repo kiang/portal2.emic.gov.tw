@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "木棧板等木製裝潢廢棄物，因風大物品亂飛",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "環境汙染",
             "timestamp": "2025-08-13 20:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-14 00:01:04"
         }
     ]
 }
