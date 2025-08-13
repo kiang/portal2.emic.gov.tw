@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/08\/13 10:10:32 受傷1人 - 里長報案:一名傷者老人家掉入水溝,高度不清楚,因不在現場,患者意識呼吸不清楚,沒有現場關係人電話可以聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "鍾昌修",
     "INJURED_NO": 1,
@@ -43,6 +43,12 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2025-08-13 11:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 00:51:04"
         }
     ]
 }
