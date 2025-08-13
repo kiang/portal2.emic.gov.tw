@@ -9,9 +9,9 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/08\/13 15:05:05 - 地點描述：宜蘭縣冬山鄉冬山路一段600號附近住家鐵皮被吹起刮到汽車，無人受傷，請派員前往處理。 110轉報人員：游挺叡",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "游挺叡",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 15:21:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "游挺叡",
+            "timestamp": "2025-08-13 15:21:03"
+        }
+    ]
 }

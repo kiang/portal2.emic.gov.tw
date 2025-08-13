@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：台9丙 13K南下方向事由：民眾表示08\/ 12 12:00左右路過現場，13K標示牌往南一點有個電線桿，發現有一棵枯木掛在電纜上，請相關單位協助移除避免發生危險。(民眾表示該處靠近慕谷慕魚。)8\/12 作業管制組14:08通知花蓮縣台電調度中心，表示會派員前去查看。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-12 21:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 15:21:04"
         }
     ]
 }
