@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/8\/14 上午 04:37:00",
     "COUNTY_N": "澎湖縣",
     "TOWN_N": "白沙鄉",
-    "CASE_LOC": "澎湖縣白沙鄉中屯村永安宮前有樹木倒塌路中",
+    "CASE_LOC": "澎湖縣白沙鄉中屯村永安宮前",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "119.605224,23.61194",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "澎湖縣白沙鄉中屯村永安宮前有樹木倒塌路中",
+            "new_value": "澎湖縣白沙鄉中屯村永安宮前",
+            "timestamp": "2025-08-14 05:11:04"
+        }
+    ]
 }
