@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "EMIC派工麻豆區寮子?3之26號 (此為民眾住家地址),民眾指出住家目前停電,並表示每次只要稍微風大、雨大就會停電,深覺困擾,且曾經反映過停電問題,人員卻在事發後的第15天、16天才回覆電話,民眾認為效率極差,請單位重視此問題,煩卓處,不清楚可電洽民眾,並請將結果以電話回覆民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "丁先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 18:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 22:21:03"
         }
     ]
 }
