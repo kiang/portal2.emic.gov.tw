@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC地點：安南區安中一街50號民眾反映該處前方整排的樹木是建商所種的，稍早有樹枝斷掉且已有人先移到該處旁的花圃，因樹枝很大擔心影響通行，望派員協助處理，建請查處。承辦可聯繫民眾，並請結案時將處理結果電話回復民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "洪小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 18:11:04"
+        }
+    ]
 }
