@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "反映台東市中華路二段732號中油豐里加油站，目前施工圍籬已被風吹到道路上，影響用路人安全，建請查處。(不詳可洽；通報人:賴里長(豐里里)0937391403)不需回覆(11408130028)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "賴里長(豐里里)",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-08-13 10:41:03"
+        }
+    ]
 }
