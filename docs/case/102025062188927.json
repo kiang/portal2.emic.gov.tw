@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "東區青年路232巷16號，颱風後屋頂鐵片快要掉下來很危險、風一吹就有很大的聲音，請派員通知屋主盡速修繕，煩請卓處，若不清楚可聯繫民眾",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳麗如",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-08-13 14:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-13 15:01:04"
         }
     ]
 }

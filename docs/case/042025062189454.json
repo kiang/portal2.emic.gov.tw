@@ -8,7 +8,7 @@
     "COORDINATE": "120.286765,22.624314",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "人行道上路樹倒塌已移至不阻礙交通，請協助清運",
+    "CASE_DESCRIPTION": "人行道上路樹倒塌已移至不阻礙交通處，請協助清運",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黃昭翔",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "人行道上路樹倒塌已移至不阻礙交通，請協助清運",
+            "new_value": "人行道上路樹倒塌已移至不阻礙交通處，請協助清運",
+            "timestamp": "2025-08-13 15:01:04"
+        }
+    ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "EMIC南區第六分局勤指中心-薛員警代鹽埕派出所通報:南區鯤鯓路10之2號旁邊,有鐵皮圍籬倒塌,請速派員處理,煩卓處，若不清楚可致電鹽埕派出所洽詢。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鹽埕派出所",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2025-08-13 14:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-13 15:01:04"
         }
     ]
 }
