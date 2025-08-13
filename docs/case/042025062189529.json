@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/8\/13 下午 02:54:00",
     "COUNTY_N": "澎湖縣",
     "TOWN_N": "馬公市",
-    "CASE_LOC": "（1999）澎湖縣馬公市新店路398號（全聯百麗店至7-11北岸門市）至359號",
+    "CASE_LOC": "澎湖縣馬公市新店路398號（全聯百麗店至7-11北岸門市）至359號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "119.59234,23.55534",
+    "COORDINATE": "119.581828,23.562857",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "路面上許多棕櫚樹大型落葉",
+    "CASE_DESCRIPTION": "（1999案件）路面上許多棕櫚樹大型落葉",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張小姐",
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-08-13 17:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "（1999）澎湖縣馬公市新店路398號（全聯百麗店至7-11北岸門市）至359號",
+            "new_value": "澎湖縣馬公市新店路398號（全聯百麗店至7-11北岸門市）至359號",
+            "timestamp": "2025-08-13 19:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "119.59234,23.55534",
+            "new_value": "119.581828,23.562857",
+            "timestamp": "2025-08-13 19:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路面上許多棕櫚樹大型落葉",
+            "new_value": "（1999案件）路面上許多棕櫚樹大型落葉",
+            "timestamp": "2025-08-13 19:51:03"
         }
     ]
 }

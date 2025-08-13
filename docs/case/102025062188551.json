@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
     "CASE_DESCRIPTION": "1.台東市漢陽北路55號晃成藥局對面汙水工程施工圍籬倒塌；2.台東市漢陽北路195號大豐全家店旁的雙利檳榔攤招牌垂落一半，擔心危險。(通報人:施里長(豐榮里)0909301689)不需電覆(11408130060)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "施里長(豐榮里)",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-13 14:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-13 19:51:03"
         }
     ]
 }

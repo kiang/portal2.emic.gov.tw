@@ -3,13 +3,13 @@
     "CASE_DT": "2025\/8\/13 下午 03:15:00",
     "COUNTY_N": "澎湖縣",
     "TOWN_N": "馬公市",
-    "CASE_LOC": "(1999)文東加油站前",
+    "CASE_LOC": "文東加油站前",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "119.59234,23.55534",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "紅綠燈快掉落僅剩電線支撐",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "(1999案件)紅綠燈快掉落僅剩電線支撐",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 19:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "(1999)文東加油站前",
+            "new_value": "文東加油站前",
+            "timestamp": "2025-08-13 19:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "紅綠燈快掉落僅剩電線支撐",
+            "new_value": "(1999案件)紅綠燈快掉落僅剩電線支撐",
+            "timestamp": "2025-08-13 19:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 19:51:03"
         }
     ]
 }
