@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "EMIC該地址對面路燈明顯晃動，隨時有掉落砸傷人或物品的風險",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李秉睿",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 18:41:04"
         }
     ]
 }
