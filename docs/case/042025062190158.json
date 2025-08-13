@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/8\/13 下午 03:56:00",
     "COUNTY_N": "屏東縣",
     "TOWN_N": "恆春鎮",
-    "CASE_LOC": "屏東縣恆春鎮159線山腳湖內路交接口",
+    "CASE_LOC": "屏東縣恆春鎮159線湖內路360號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.7632537,21.98531645",
     "DISASTER_MAIN_TYPE": "土石災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "屏東縣恆春鎮159線山腳湖內路交接口",
+            "new_value": "屏東縣恆春鎮159線湖內路360號",
+            "timestamp": "2025-08-13 16:51:04"
+        }
+    ]
 }
