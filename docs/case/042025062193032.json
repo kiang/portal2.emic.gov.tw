@@ -8,8 +8,8 @@
     "COORDINATE": "120.191688,22.996967",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "招牌掉落，110巡邏發現轉報",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "招牌掉落，110巡邏發現轉報(08132358補充：經電話尋求工務局協助，確認工務局可協派廠商處理)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "110二分局",
     "INJURED_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 23:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "招牌掉落，110巡邏發現轉報",
+            "new_value": "招牌掉落，110巡邏發現轉報(08132358補充：經電話尋求工務局協助，確認工務局可協派廠商處理)",
+            "timestamp": "2025-08-14 00:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 00:11:04"
         }
     ]
 }
