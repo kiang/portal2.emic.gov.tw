@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "瓦斯管線毀損",
     "CASE_DESCRIPTION": "2025\/08\/13 12:47:58 - 地點描述：臺東縣台東市文心街52號8樓之1(東海國宅)報案人表示颱風將廚房門吹到關緊無法打開，瓦斯還在燒，急需請求協助其共同破門，將瓦斯關掉110轉報人員：黎茗",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-13 13:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 13:21:04"
         }
     ]
 }
