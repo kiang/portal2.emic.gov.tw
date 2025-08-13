@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "道路側面積淹水",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳士豪",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "南下道路側面積淹水積淹水\/目前積水已退，惟仍留有大量泥沙，怕致用路人滑倒，請協助清淤",
             "new_value": "道路側面積淹水",
             "timestamp": "2025-08-13 18:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-13 20:11:04"
         }
     ]
 }
