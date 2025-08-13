@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "EMIC北區西門路四段跟北安路一段交叉口，彰化銀行旁有塊金吉全校教塑膠工廠直營門市的招牌搖搖欲墜，請派員協助先行拆除，煩請相關單位卓處。承辦若不清楚，可聯繫通報人，並請結案時將處理結果電話回覆民眾。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉警員",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-13 22:31:03"
+        }
+    ]
 }
