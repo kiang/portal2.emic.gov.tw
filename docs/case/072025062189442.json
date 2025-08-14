@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2025\/08\/13 14:45:38 受傷1人 - 地點描述：嘉義縣朴子市長庚醫院對面、半畝田牛肉麵前報稱上址有路樹倒塌，壓倒路邊多部機車及電線，請派員處理。(0915)110轉報人員：鄭詩螢",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-08-13 15:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-14 09:51:04"
         }
     ]
 }

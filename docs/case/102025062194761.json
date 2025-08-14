@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "台東市中興路四段380巷11號，有兩棵樹木倒塌，一棵壓到住家屋頂，一棵壓到電線杆橫空倒塌，不需電覆(11408140022)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-14 08:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-08-14 09:51:04"
         }
     ]
 }
