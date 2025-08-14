@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/08\/14 06:34:18 - 地點描述：屏東縣滿州鄉199線道旁邊小岔路進去往旭海方向(山野旭日灣在下一點的地方)稱遭路樹擋住道路路上也都是雜物很難騎車需協助。110轉報人員：林湘祐，經聯繫滿州鄉公所表示該地點為牡丹鄉所轄",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "110",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "",
             "new_value": "110",
             "timestamp": "2025-08-14 10:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 11:01:03"
         }
     ]
 }
