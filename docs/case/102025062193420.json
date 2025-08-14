@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "渠反映公車八德南路站，旗桿式站牌傾倒在慢車道上，建請查處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-08-14 01:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 08:11:04"
         }
     ]
 }
