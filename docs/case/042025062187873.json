@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
     "CASE_DESCRIPTION": "南世牌樓邊坡土石持續流入路面，造成交通阻斷雙向不通。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "楊登福",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2025-08-13 14:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 12:21:04"
         }
     ]
 }
