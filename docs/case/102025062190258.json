@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "EMIC里長反映：東區生產路504號旁，電線桿上有條粗鐵線垂落，雖有暫時綁起來，但大車經過仍會影響通行，請儘速派員處理，煩請承辦卓處。",
     "CASE_STATUS": "承辦可聯繫里長，並請結案時將處理結果以電話回覆里長",
-    "CASE_TYPE": "處理中",
+    "CASE_TYPE": "已處理",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-08-13 23:11:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-08-14 10:01:05"
         }
     ]
 }
