@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "197縣道嘉武往南興(寶華)方向路段(google座標:23°01'33.9\"N 121°10'41.8\"E)邊坡土石滑落、崩落，堆積於道旁，請權管單位進行處置，以免於汛期間，該易致災點造成更嚴重之土石災情，傷及用路人。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "曹永宜里長",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-08-18 09:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-08-18 11:31:04"
         }
     ]
 }
