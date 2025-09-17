@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/9\/17 上午 09:00:00",
     "COUNTY_N": "宜蘭縣",
     "TOWN_N": "宜蘭市",
-    "CASE_LOC": "宜蘭縣宜蘭市宜蘭縣宜蘭市",
+    "CASE_LOC": "宜蘭縣宜蘭市台鐵宜蘭站",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.7569358,24.75021184",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "宜蘭縣宜蘭市宜蘭縣宜蘭市",
+            "new_value": "宜蘭縣宜蘭市台鐵宜蘭站",
+            "timestamp": "2025-09-17 13:51:03"
+        }
+    ]
 }
