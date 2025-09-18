@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112025062439958",
-    "CASE_DT": "2025\/9\/18 上午 10:12:00",
+    "CASE_DT": "2025\/9\/18 上午 09:00:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中港路240號",
+    "CASE_LOC": "新莊區新北市新莊區中正路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45407,25.04323",
+    "COORDINATE": "121.43531,25.03266",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]已指技師前往，現況外牆磁磚剝落，暫無危險性。",
+    "CASE_DESCRIPTION": "1.[現場狀況]新莊區中正路與明中街交叉口，該處有一科圍牆倒塌，請相關單位妥處。本案係由新莊區中港派出所王警官轉通報",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 10:12:00",
+            "new_value": "2025\/9\/18 上午 09:00:00",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中港路240號",
+            "new_value": "新莊區新北市新莊區中正路",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45407,25.04323",
+            "new_value": "121.43531,25.03266",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]已指技師前往，現況外牆磁磚剝落，暫無危險性。",
+            "new_value": "1.[現場狀況]新莊區中正路與明中街交叉口，該處有一科圍牆倒塌，請相關單位妥處。本案係由新莊區中港派出所王警官轉通報",
+            "timestamp": "2025-09-18 12:51:03"
+        }
+    ]
 }

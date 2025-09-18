@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112025062439977",
-    "CASE_DT": "2025\/9\/18 上午 09:52:00",
+    "CASE_DT": "2025\/9\/18 上午 09:00:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區化成路354號 2樓",
+    "CASE_LOC": "新莊區新北市新莊區新泰路 中正路交叉路口",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.46593,25.04924",
+    "COORDINATE": "121.44878,25.03539",
     "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
     "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]磁磚有輕微掉落情形",
+    "CASE_DESCRIPTION": "1.[現場狀況]新北市新莊區新泰路 中正路交叉路口重陽2號接獲民眾報案表示該路口的變電箱附近招牌快掉落了。重陽2號未留下報案電話。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:52:00",
+            "new_value": "2025\/9\/18 上午 09:00:00",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區化成路354號 2樓",
+            "new_value": "新莊區新北市新莊區新泰路 中正路交叉路口",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.46593,25.04924",
+            "new_value": "121.44878,25.03539",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]磁磚有輕微掉落情形",
+            "new_value": "1.[現場狀況]新北市新莊區新泰路 中正路交叉路口重陽2號接獲民眾報案表示該路口的變電箱附近招牌快掉落了。重陽2號未留下報案電話。",
+            "timestamp": "2025-09-18 12:51:03"
+        }
+    ]
 }

@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025060726632",
-    "CASE_DT": "2025\/7\/6 下午 07:22:43",
+    "CASE_DT": "2025\/9\/18 上午 09:00:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "淡水區",
-    "CASE_LOC": "淡水區新北市淡水區 淡水捷運站 外",
+    "TOWN_N": "新莊區",
+    "CASE_LOC": "新莊區新北市新莊區中正路508巷5弄",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.44555,25.16782",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.2025-07-06 19:24:09  報案人表示有很大的樹枝在路中間，影響交通",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.43552,25.03352",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
+    "CASE_DESCRIPTION": "1.[現場狀況]新莊區中正路508巷5弄底，有一個「民政局都更」字樣圍籬倒塌，占據1\/3一個車道，請單位儘速處理。",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/7\/6 下午 07:22:43",
+            "new_value": "2025\/9\/18 上午 09:00:00",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "淡水區",
+            "new_value": "新莊區",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "淡水區新北市淡水區 淡水捷運站 外",
+            "new_value": "新莊區新北市新莊區中正路508巷5弄",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.44555,25.16782",
+            "new_value": "121.43552,25.03352",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.2025-07-06 19:24:09  報案人表示有很大的樹枝在路中間，影響交通",
+            "new_value": "1.[現場狀況]新莊區中正路508巷5弄底，有一個「民政局都更」字樣圍籬倒塌，占據1\/3一個車道，請單位儘速處理。",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "未指派",
+            "timestamp": "2025-09-18 12:51:03"
+        }
+    ]
 }

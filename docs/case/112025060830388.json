@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112025060830388",
-    "CASE_DT": "2025\/9\/18 上午 10:32:00",
+    "CASE_DT": "2025\/9\/18 上午 09:00:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中正路694巷48號1樓",
+    "CASE_LOC": "新莊區新北市新莊區龍安路345號1樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41791,25.02915",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.道路受損中斷",
+    "COORDINATE": "121.42274,25.01917",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
+    "CASE_DESCRIPTION": "1.[現場狀況]新莊區龍安路345號1樓外面的行人紅磚道，因地震導致自來水管線破裂，進而造成路面滲水，水流量不大、不影響交通且水質清澈，故請單位查處。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張靜芬",
@@ -18,7 +18,7 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
+    "IS_SERIOUS": false,
     "logs": [
         {
             "field": "CASE_DT",
@@ -73,6 +73,48 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2025-09-18 10:41:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 10:32:00",
+            "new_value": "2025\/9\/18 上午 09:00:00",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中正路694巷48號1樓",
+            "new_value": "新莊區新北市新莊區龍安路345號1樓",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41791,25.02915",
+            "new_value": "121.42274,25.01917",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "建物毀損",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "圍牆(籬)倒塌",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.道路受損中斷",
+            "new_value": "1.[現場狀況]新莊區龍安路345號1樓外面的行人紅磚道，因地震導致自來水管線破裂，進而造成路面滲水，水流量不大、不影響交通且水質清澈，故請單位查處。",
+            "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2025-09-18 12:51:03"
         }
     ]
 }
