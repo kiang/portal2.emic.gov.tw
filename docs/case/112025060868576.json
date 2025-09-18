@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025060868576",
-    "CASE_DT": "2025\/7\/7 下午 12:14:00",
+    "CASE_DT": "2025\/9\/18 上午 09:29:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "三重區",
-    "CASE_LOC": "三重區三重區成功路與集成路",
+    "TOWN_N": "新莊區",
+    "CASE_LOC": "新莊區新北市新莊區幸福路590號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.48802,25.05135",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.三重區成功路與集成路口，往新莊方向的交通號誌燈不亮，目前無塞車，請單位派員維修。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.45358,25.04941",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
+    "CASE_DESCRIPTION": "1.[現場狀況]110轉：招牌搖搖欲墜  [各單位處置作為]@警察局：已通報轄區所員警到場協助處理。  @環境保護局：已通知公所派員處理。  @交通局：非本單位處理之案件  @新莊區公所：本所工務組已完成招牌拆除  @工務局：新店區公所工務課已派員拆除招牌  @消防局：已處理完畢(本案件已處理完畢。)",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李良彬",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/7\/7 下午 12:14:00",
+            "new_value": "2025\/9\/18 上午 09:29:00",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "三重區",
+            "new_value": "新莊區",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "三重區三重區成功路與集成路",
+            "new_value": "新莊區新北市新莊區幸福路590號",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.48802,25.05135",
+            "new_value": "121.45358,25.04941",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.三重區成功路與集成路口，往新莊方向的交通號誌燈不亮，目前無塞車，請單位派員維修。",
+            "new_value": "1.[現場狀況]110轉：招牌搖搖欲墜  [各單位處置作為]@警察局：已通報轄區所員警到場協助處理。  @環境保護局：已通知公所派員處理。  @交通局：非本單位處理之案件  @新莊區公所：本所工務組已完成招牌拆除  @工務局：新店區公所工務課已派員拆除招牌  @消防局：已處理完畢(本案件已處理完畢。)",
+            "timestamp": "2025-09-18 11:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "未指派",
+            "timestamp": "2025-09-18 11:01:04"
+        }
+    ]
 }
