@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "太麻里鄉大王村太峰路306巷內，靠近巷口為一條電線垂落約機車騎過去至騎士的脖子或胸口位置，另一條電線斷掉靠近涵洞旁，不需電覆(11409220171)",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-09-22 20:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-23 02:31:04"
         }
     ]
 }
