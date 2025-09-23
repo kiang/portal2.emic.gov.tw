@@ -8,10 +8,10 @@
     "COORDINATE": "121.438522915029,23.6677146399555",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2025\/09\/24 00:06:50 - 李小姐0910-976-510，0932-521-243，0989-974-182  花蓮縣光復鄉佛祖街272巷2號(2名受困)  https:\/\/maps.app.goo.gl\/pZX99shwPckpuSPo6",
+    "CASE_DESCRIPTION": "2025\/09\/24 00:06:50 - 李小姐0910-976-510，0932-521-243，0989-974-182  花蓮縣光復鄉佛祖街272巷2號(2名受困)  https:\/\/maps.app.goo.gl\/pZX99shwPckpuSPo6；9\/24 01:15民眾再次來電希望能盡快派人救援",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "家人",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/09\/24 00:06:50 - 李小姐0910-976-510，0932-521-243，0989-974-182  花蓮縣光復鄉佛祖街272巷2號(2名受困)  https:\/\/maps.app.goo.gl\/pZX99shwPckpuSPo6",
+            "new_value": "2025\/09\/24 00:06:50 - 李小姐0910-976-510，0932-521-243，0989-974-182  花蓮縣光復鄉佛祖街272巷2號(2名受困)  https:\/\/maps.app.goo.gl\/pZX99shwPckpuSPo6；9\/24 01:15民眾再次來電希望能盡快派人救援",
+            "timestamp": "2025-09-24 01:21:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "家人",
+            "timestamp": "2025-09-24 01:21:04"
+        }
+    ]
 }
