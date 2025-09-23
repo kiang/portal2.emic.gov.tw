@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/09\/24 07:17:50 待援2人 - 報案人(0988896650)表示,本身為身障者,在光復鄉光復國中3樓(701教室)避難,目前下不去,需要人員搬運,現場還有一位老師",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-24 07:41:03"
+        }
+    ]
 }
