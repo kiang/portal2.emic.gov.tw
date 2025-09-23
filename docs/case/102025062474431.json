@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "地點：花蓮縣新城鄉佳林村115之2~115之8號事由：該處兩旁都是農田，永慶房屋設立之售地看板有傾斜情形，已經影響到車輛通行，看板上寫『永慶不動產，請洽張小姐0910468689』，民眾表示因為看板已經向著路面傾斜，請縣府相關單位盡快排除。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "1999報災情",
-    "PERSON_ID": "未留",
+    "PERSON_ID": "1999",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "未留",
+            "new_value": "1999",
+            "timestamp": "2025-09-23 11:41:04"
+        }
+    ]
 }
