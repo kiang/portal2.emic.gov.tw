@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/9\/23 下午 05:52:00",
     "COUNTY_N": "花蓮縣",
     "TOWN_N": "光復鄉",
-    "CASE_LOC": "花蓮縣光復鄉糖廠街19號(糖廠南邊)",
+    "CASE_LOC": "花蓮縣光復鄉糖廠街19號(糖廠南邊日式建築附近)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.420631,23.658676",
     "DISASTER_MAIN_TYPE": "積淹水災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "花蓮縣光復鄉糖廠街19號(糖廠南邊)",
+            "new_value": "花蓮縣光復鄉糖廠街19號(糖廠南邊日式建築附近)",
+            "timestamp": "2025-09-23 18:11:03"
+        }
+    ]
 }
