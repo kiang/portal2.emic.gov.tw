@@ -14,10 +14,17 @@
     "PERSON_ID": "姓名不詳(65歲受困男性)",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 0,
+    "TRAPPED_NO": 2,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2025-09-23 17:21:04"
+        }
+    ]
 }
