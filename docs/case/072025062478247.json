@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/09\/23 16:45:15 - 地點描述：花蓮縣光復鄉中正路一段212號宜蘭縣政府警察局110邱員轉報：報案人李小姐稱接獲母陳小娥（聯絡電話0937181366）稱上述地點淹水，目前2人受困該處(距離水約1M)，急需協助，本案轉報花蓮縣警察局派員前往處理。台11甲線191K 110轉報人員：陳德彰",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-23 20:01:04"
+        }
+    ]
 }
