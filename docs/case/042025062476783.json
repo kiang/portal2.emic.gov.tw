@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "居家服務人員報案表示，受服務老人失聯",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "不詳",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2025-09-23 17:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-24 14:11:04"
         }
     ]
 }
