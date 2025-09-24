@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "民眾報案2人受困(93歲女，65歲男)，表示皆無生命危險",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "姓名不詳(65歲受困男性)",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": 0,
             "new_value": 2,
             "timestamp": "2025-09-23 17:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-24 12:41:03"
         }
     ]
 }
