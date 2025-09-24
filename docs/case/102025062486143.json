@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉大華村中華路362巷6號事由:民眾為光復鄉堰塞湖受災戶，家門前總共有六台車被沖刷至此，堵住了民眾家出入口，導致民眾遲遲無法清理家園，且台電也告知需先將車輛移除才能修復變電箱復電，希望相關單位能夠盡快派員移除。0918100080 周小姐",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-24 21:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-24 22:21:03"
         }
     ]
 }
