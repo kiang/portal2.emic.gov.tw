@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1名70歲失聯；24日01:32中央災害應變中心與李小姐(0921271746)連絡上，表示人員平安。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭原齊",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "李小姐",
             "new_value": "郭原齊",
             "timestamp": "2025-09-24 02:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-24 16:11:04"
         }
     ]
 }
