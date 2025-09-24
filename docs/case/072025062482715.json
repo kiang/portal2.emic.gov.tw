@@ -8,10 +8,10 @@
     "COORDINATE": "121.422032410404,23.6627297190336",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "1名80歲有慢性病老人家，家屬聯繫不上(報案人:林小姐0937649168)",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-24 13:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "1名80歲有慢性病老人家，家屬聯繫不上(報案人:林小姐0937649168)",
+            "timestamp": "2025-09-24 15:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "林小姐",
+            "timestamp": "2025-09-24 15:01:04"
         }
     ]
 }
