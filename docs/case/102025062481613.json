@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "承前案B114-062069\/24 09:17民眾表示目前皆已脫困，不需救援。-----------------------------------前案內文:地點：光復鄉大同村林森路36號事由：總共有五個人兩隻狗，目前位於二樓擔心水位會再上漲，而且沒有東西吃，希望協助收容到其他安全地點。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-09-24 12:51:04"
+        }
+    ]
 }

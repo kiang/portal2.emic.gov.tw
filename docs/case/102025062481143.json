@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "反映地點:光復鄉大同村學智街160巷9號2樓事由:民眾通報舅舅林聰敏與舅媽藍小姐因一樓有40、50公分泥土，導致鐵門弄歪無法開啟，目前缺乏食物跟水，希望單位協助提供物資。舅舅手機:0982615511林聰敏",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林聰敏",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-09-24 12:51:04"
+        }
+    ]
 }
