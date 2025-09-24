@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "反映地點:玉里鎮源城里水源路10號事由:民眾表示昨天已有通報過災情，有人員前往處理，但目前上述地點擋水的沙子又被沖刷掉，表示下面有一戶比較低窪，擔心可能已經有淹水情形，希望單位派員協助。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-24 03:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-09-24 19:01:03"
         }
     ]
 }
