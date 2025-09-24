@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/09\/23 22:37:31 待援1人 - 藍色小貨車(BRD-9726)被水流走,失聯者:男性,陳春木(約70)綠上衣,人車被流走,報案人0977551104,是自行脫困；23:46陳春木家屬(陳小姐0983-160301)再次來電詢問人是否找到",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "",
             "new_value": "陳小姐",
             "timestamp": "2025-09-24 00:01:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-24 14:01:04"
         }
     ]
 }
