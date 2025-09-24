@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "",
     "CASE_STATUS": "光復鄉公園街受困需要物資地點:光復鄉公園街15號事由:民眾一人獨居，目前因災情，沒辦法出去，從昨晚上到目前都無食物，希望單位提供食物民眾表示單位不了解之處可致電詢問",
-    "CASE_TYPE": "未指派",
+    "CASE_TYPE": "待處理",
     "PERSON_ID": "1999報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_TYPE",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-24 11:51:03"
+        }
+    ]
 }
