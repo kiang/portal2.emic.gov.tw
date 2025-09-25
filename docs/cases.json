@@ -14,7 +14,7 @@
                 "CASE_ID": "072025062490052",
                 "CASE_DT": "2025\/9\/25 上午 11:26:48",
                 "DISASTER_MAIN_TYPE": "環境汙染",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -429,24 +429,6 @@
                 "CASE_DT": "2025\/9\/25 上午 07:13:26",
                 "DISASTER_MAIN_TYPE": "其他災情",
                 "CASE_STATUS": "已處理",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.431402488063,
-                    23.6633234274372
-                ]
-            },
-            "properties": {
-                "CASE_ID": "072025062488093",
-                "CASE_DT": "2025\/9\/25 上午 07:04:13",
-                "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -983,10 +965,10 @@
                 ]
             },
             "properties": {
-                "CASE_ID": "072025062485866",
+                "CASE_ID": "042025062490199",
                 "CASE_DT": "2025\/9\/24 下午 04:40:15",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "已處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
