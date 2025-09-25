@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/09\/24 16:40:15 ，報案人0933996558 \/ OHCA(邱益富)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林益民",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "林益民",
             "timestamp": "2025-09-25 12:01:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-09-25 15:41:04"
         }
     ]
 }
