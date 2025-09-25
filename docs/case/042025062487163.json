@@ -8,7 +8,7 @@
     "COORDINATE": "121.436336,23.66581",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "救護送醫案件",
-    "CASE_DESCRIPTION": "2名老人家(林佑臻、王續盛)及1位孩童(陳宥沂)失聯，生還者陳宥忻（6歲） 、林佑臻(70歲）失蹤、姑丈王續盛(72歲）OHCA",
+    "CASE_DESCRIPTION": "2名老人家(林佑臻、王續盛)及1位孩童(陳宥沂)受困，生還者陳宥忻（6歲） 、林佑臻(70歲）失蹤、姑丈王續盛(72歲）OHCA(前者救出；後者仍困於淤泥)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "白小姐",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2名老人家(林佑臻、王續盛)及1位孩童(陳宥沂)失聯，生還者陳宥忻（6歲） 、林佑臻(70歲）失蹤、姑丈王續盛(72歲）OHCA",
+            "new_value": "2名老人家(林佑臻、王續盛)及1位孩童(陳宥沂)受困，生還者陳宥忻（6歲） 、林佑臻(70歲）失蹤、姑丈王續盛(72歲）OHCA(前者救出；後者仍困於淤泥)",
+            "timestamp": "2025-09-25 11:21:09"
+        }
+    ]
 }
