@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:193縣道太巴塱(往北方向，不清楚幾k處)事由:民眾表示今天早上到光復救災就已經塞車，甚至有看到大貨車載運樹木的也開進去，反映今天已經工作一整天了，回程也是塞得動彈不得，因光復的道路非常小條，希望相關單位可以有完善的規劃疏通車流，如有不了解之處可以致電聯繫。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "魏先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-26 19:01:04"
+        }
+    ]
 }
