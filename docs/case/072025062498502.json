@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "火災",
     "DISASTER_SUB_TYPE": "建築物",
     "CASE_DESCRIPTION": "2025\/09\/26 15:02:02 - 廚房插座冒煙",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-26 17:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-09-26 17:21:03"
         }
     ]
 }
