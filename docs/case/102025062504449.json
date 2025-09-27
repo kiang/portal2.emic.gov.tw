@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "事由:承前案B114-06400，民眾表示尚未收到局處單位後續聯繫，希望相關單位盡快協助將漂流車輛移置。------B114-06400前案內文-----地點:光復鄉中興路568號(台9線旁)事由:上述地點為獸醫院，門口原有三台漂流車，目前已拖走一輛，剩餘兩輛，白色車牌為2622-H7，另一台車牌已沖走，希望單位安排將車輛移置。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊醫師",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-27 14:21:04"
+        }
+    ]
 }

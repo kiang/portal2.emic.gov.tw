@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾表示在網路上看到很多災民反映:1.災民要去領便當領不到，被告知需要有證明才可以拿，不解為何需要證明，是否也可以分派人力主動發放。2.看到其他資訊表示物資站目前物資是非常充足的不需要再捐贈，但災民反映實際上非常缺物資，不解是有什麼樣的誤會。3.去現場救災的人員有反映現場縣府第一線人員妹妹臉很臭，理解很辛苦但稍有些不洽當。 民眾表示不希望縣府被大家誤會，希望單位協助了解及改善。(民眾不願留姓氏及聯電)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "未留",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-27 14:21:04"
+        }
+    ]
 }
