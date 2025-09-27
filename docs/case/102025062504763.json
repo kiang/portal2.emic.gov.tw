@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "花蓮郵局郵股股長來電，表示目前全台湧進急難救助物資，原先光復倉庫爆倉，改到瑞穗又爆倉，希望有關單位是否有對口可協助，是否可弄個大禮堂統一把物資收下來，不然整個郵局物資都出不去。希望單位盡快致電聯繫。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-27 17:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-09-27 18:51:04"
         }
     ]
 }
