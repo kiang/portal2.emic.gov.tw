@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:台11線61.5k左右事由:上述地點由於分流，許多車都走台11線，目前大約61.5k左右，有單位將災區的泥土做成混泥土肉粽，要載運海邊，由於施作與運送過程，造成現場塵土飛揚，已經有影響台11線用路人行車視野，目前會看不清楚道路，建議單位現場施作要灑水，才不會影響路上的車輛與周邊居民空氣品質問題。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-27 12:21:04"
+        }
+    ]
 }
