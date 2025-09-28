@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "大平村失聯(張秋妹)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "曾培靈(大平村村長)",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "光復鄉公所民政課課長王詠濬",
             "new_value": "曾培靈(大平村村長)",
             "timestamp": "2025-09-28 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-28 10:21:04"
         }
     ]
 }
