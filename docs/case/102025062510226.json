@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：光復鄉敦厚路56號事由：敦厚路仁愛街十字路口往上是高職，往下是公車站，但是往高職方向，因為附近住戶暫時先將住家內淤泥以及廢棄家具清出並堆置在路上，目前道路已無法通行，影響機具進入協助，希望相關單位安排道路清淤。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許佑承",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-28 11:11:04"
+        }
+    ]
 }
