@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾表示與做工程的朋友共有3台怪手明天想要去光復救災，聽說現在需要有通行證才可以進災區，想詢問要在哪裡申請，希望人員致電回覆。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-28 20:21:03"
+        }
+    ]
 }
