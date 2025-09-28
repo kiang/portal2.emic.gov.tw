@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:台11甲 光豐公路(豐濱往光復)事由:民眾表示上述路段有許多物資車和機具車，因需救災所以車速都很快，且都是大型車輛轉彎時的內輪差會吃到黃線，民眾昨日開車行經時差點被撞到，希望相關單位協助宣導回程車車速不要開太快以及注意內輪差。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-28 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-09-28 13:51:04"
         }
     ]
 }
