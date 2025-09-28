@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：中正體育館事由：花蓮目前天氣炎熱，物資數量眾多，且現場有大量志工在協助，目前場內空氣狀況非常不好，已有志工出現頭暈腦脹喘不過氣狀況，希望可以延長空調開啟時間，至少開放到1800。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "未留",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-28 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-09-28 21:31:04"
         }
     ]
 }
