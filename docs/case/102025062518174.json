@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "事由:民眾是從外縣市來光復救災的志工，反映光復火車站現場因為人潮眾多，人工售票窗口大排長龍，自動售票機又限制發車前10分鐘班次無法由機台購票，可是人工窗口又無法因應龐大人潮，強烈要求相關單位能夠放寬自動售票機購票限制。(民眾不願意留下姓氏及聯絡電話)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "未留",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-29 15:01:04"
+        }
+    ]
 }
