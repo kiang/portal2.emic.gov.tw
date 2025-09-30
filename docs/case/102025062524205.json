@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.光復火車站左邊停車場積了汙沙，希望盡快排除。2.希望單位可以準備救生衣，發給各村村長，請村長發給鄰長，因為很多外地來這邊工作租屋的人，所以不能以戶為單位發放，要統計人數。3.希望縣府要將捐款專戶公開在網路上，不然大家都不知道。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-30 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-09-30 13:41:03"
         }
     ]
 }
