@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾表示昨天9\/29在FB上縣府研考處說有採購兩萬五千顆便當，想確認確實有嗎?任未縣府應要確實統計，其他民間義煮團有煮六千顆，還有民間捐贈，花蓮城隍廟也有訂便當，希望縣府離清及做帳必須清楚，對花蓮人、捐款社會大眾有好的交代，務必一定要落實做好跟清查，且救災物資、金錢流向應要公開更透明，紀載在網站上，因全台灣都在關注，網路消息很多讓大家可以清楚知道，或是請媒體協助。(民眾不願留電)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "賴小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-30 13:21:03"
+        }
+    ]
 }
