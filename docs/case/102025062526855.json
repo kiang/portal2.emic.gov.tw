@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉西富村16鄰事由:鄰長反映今日到阿美麻糬物資站領取物資看到非常混亂的現像，因災民在搶救現場也沒有時間無法到定點領取，建議相關單位物資分配部分是否可以統一請村長通知鄰長代領或是村長帶著鄰長一起去領取，比較可以平均分配物資避免發生爭搶衝突的狀況，再請相關單位協助，如有不了解之處可以致電聯繫。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄭鄰長",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-30 18:41:04"
+        }
+    ]
 }
