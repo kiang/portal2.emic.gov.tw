@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾為光復鄉公司戶，表示到光復鄉農會機構領錢，但因為光復鄉今日9\/30停班停課，故農會未對外營業，民眾對此感到不滿，認為銀行、醫院、警察都不應受停班停課限制，覺得ATM有連線了，農會內部也整理好了卻無法領錢，要求反映。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葛先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-09-30 10:21:04"
+        }
+    ]
 }
