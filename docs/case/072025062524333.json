@@ -8,10 +8,10 @@
     "COORDINATE": "121.424274601214,23.666967360142",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "報案人表示母親受困需要脫困",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "張先生",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "報案人表示母親受困需要脫困",
+            "timestamp": "2025-09-30 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-09-30 12:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "張先生",
+            "timestamp": "2025-09-30 12:11:04"
+        }
+    ]
 }
