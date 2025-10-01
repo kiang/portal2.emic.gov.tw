@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾住家:光復鄉大華村中山路二段237號事由:民眾表示看到網路上有很多人捐贈高壓水槍，想詢問要如何作申請?表示因為家裡離光復糖廠物資站有距離，且沒有交通工具，有使用需求希望單位回覆。民眾表示目前在花蓮市上班，單位聯繫後會再請家人配合如何取得。希望單位盡快聯繫。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-01 16:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-01 18:11:04"
         }
     ]
 }
