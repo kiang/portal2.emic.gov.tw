@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "民眾報案親屬受困家中需脫困，現場有4位72歲左右女性及1位9歲小孩　／　2025\/09\/23 20:33:04 - 報案人宋小姐0905296982，   現場人員需要物資民眾李女士0910-373-327，報案人表示需要物資。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-09-26 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-01 19:41:04"
         }
     ]
 }
