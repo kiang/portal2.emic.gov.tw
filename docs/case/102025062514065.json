@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾表示家裡的漂流車共兩台，今天9\/28下午有拖吊車拖出去，但民眾現在到大農大富平地森林園區只有看到三四台漂流車，且沒有民眾的車輛，希望協助查詢，煩請人員協助回覆。車牌:6717T6，民眾未提供另一台車牌。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-29 14:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-01 18:41:04"
         }
     ]
 }
