@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "受災地點:光復鄉大同村中正路一段360巷3之2號安置數量:3名(其中一名身障一名孩童)事由:民眾表是因此次災情住家已經無法正常居住，煩請相關單位協助民眾安排旅宿安置。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-01 16:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-01 19:51:04"
         }
     ]
 }
