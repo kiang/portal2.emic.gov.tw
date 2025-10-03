@@ -4,6 +4,93 @@
     <name>災情案例</name>
     <description>災情通報資料</description>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/10/3 下午 03:53:14</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>102025062546921<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/10/3 下午 03:53:14<br/><b>行政區：</b>花蓮縣 光復鄉<br/><b>發生地點：</b>花蓮縣光復鄉<br/><b>災情描述：</b>原居住地址:光復鄉佛祖街385號安置民眾/人數:柯春梅小姐、柯小姐女兒李憶鳳小姐及另外2位民眾，共四位大人事由:進線民眾為盧線一立委國會助理，表示上述災民經縣府協助造冊安排安置在虎爺旅宿，但遭旅宿人員通知今天就要移至地下室，希望相關單位盡快聯繫協助處理。另提供柯小姐女兒李憶鳳小姐 連絡電話:0913982016，希望一併回覆。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>邱小姐<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>102025062546921</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/10/3 下午 03:53:14</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>花蓮縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>光復鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>花蓮縣光復鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>原居住地址:光復鄉佛祖街385號安置民眾/人數:柯春梅小姐、柯小姐女兒李憶鳳小姐及另外2位民眾，共四位大人事由:進線民眾為盧線一立委國會助理，表示上述災民經縣府協助造冊安排安置在虎爺旅宿，但遭旅宿人員通知今天就要移至地下室，希望相關單位盡快聯繫協助處理。另提供柯小姐女兒李憶鳳小姐 連絡電話:0913982016，希望一併回覆。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>1999報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>邱小姐</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.151623,22.756157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -606,93 +693,6 @@
       </ExtendedData>
       <Point>
         <coordinates>121.151623,22.756157,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>路樹災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2025/10/3 下午 02:57:22</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>162025062546548<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2025/10/3 下午 02:57:22<br/><b>行政區：</b>臺南市 安平區<br/><b>發生地點：</b>臺南市安平區平通里31鄰永華路二段898號<br/><b>災情描述：</b>測試案件<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>李盈慶<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>162025062546548</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2025/10/3 下午 02:57:22</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>路樹災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>路樹傾斜</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺南市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>安平區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>臺南市安平區平通里31鄰永華路二段898號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>測試案件</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>LINE災情通報</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>李盈慶</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>120.1667759,22.9920182,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
