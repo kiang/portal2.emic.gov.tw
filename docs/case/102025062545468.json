@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.光復鄉大同活動中心流動廁所糞便都滿出來，向縣府反映三天都沒有處理，表示昨天10\/2社會處人員有來，也有向其反映，但依然未處理，希望單位務必盡快派員處理。2.光復鄉中學街與自強路空地上有一堆毀損車，表示縣府有提供免費拖吊，希望能盡快處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-03 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-03 13:31:04"
         }
     ]
 }
