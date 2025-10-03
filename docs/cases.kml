@@ -4,10 +4,10 @@
     <name>災情案例</name>
     <description>災情通報資料</description>
     <Placemark>
-      <name>102025062544581</name>
+      <name>102025062544674</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2025/10/3 上午 09:45:19</when>
+        <when>2025/10/3 上午 09:55:46</when>
       </TimeStamp>
       <description><![CDATA[
     <b>災情類別：</b>其他災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否
@@ -20,6 +20,52 @@
         <Data name="status">
           <displayName>處理狀態</displayName>
           <value>未指派</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.151623,22.756157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>102025062544668</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/10/3 上午 09:54:42</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>災情類別：</b>其他災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否
+  ]]></description>
+      <ExtendedData>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.151623,22.756157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>102025062544581</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/10/3 上午 09:45:19</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>災情類別：</b>其他災情<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否
+  ]]></description>
+      <ExtendedData>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
         </Data>
       </ExtendedData>
       <Point>
