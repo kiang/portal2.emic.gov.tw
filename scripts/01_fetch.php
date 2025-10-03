@@ -159,4 +159,84 @@ $geoJson = [
 file_put_contents($docsDir . '/cases.json', json_encode($geoJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 echo "Created GeoJSON with " . count($geoJsonFeatures) . " features\n";
 
+// Create KML using DOMDocument for proper XML formatting
+$dom = new DOMDocument('1.0', 'UTF-8');
+$dom->formatOutput = true;
+
+$kml = $dom->createElementNS('http://www.opengis.net/kml/2.2', 'kml');
+$dom->appendChild($kml);
+
+$document = $dom->createElement('Document');
+$kml->appendChild($document);
+
+$docName = $dom->createElement('name', '災情案例');
+$document->appendChild($docName);
+
+$docDesc = $dom->createElement('description', '災情通報資料');
+$document->appendChild($docDesc);
+
+foreach ($geoJsonFeatures as $feature) {
+    $props = $feature['properties'];
+    $coords = $feature['geometry']['coordinates'];
+
+    $placemark = $dom->createElement('Placemark');
+
+    $name = $dom->createElement('name', htmlspecialchars($props['CASE_ID'], ENT_XML1, 'UTF-8'));
+    $placemark->appendChild($name);
+
+    $visibility = $dom->createElement('visibility', '1');
+    $placemark->appendChild($visibility);
+
+    // Add timestamp if available
+    if (!empty($props['CASE_DT'])) {
+        $timeStamp = $dom->createElement('TimeStamp');
+        $when = $dom->createElement('when', htmlspecialchars($props['CASE_DT'], ENT_XML1, 'UTF-8'));
+        $timeStamp->appendChild($when);
+        $placemark->appendChild($timeStamp);
+    }
+
+    // Create description with HTML formatting
+    $description = '<b>災情類別：</b>' . htmlspecialchars($props['DISASTER_MAIN_TYPE'], ENT_XML1, 'UTF-8') . '<br/>';
+    $description .= '<b>處理狀態：</b>' . htmlspecialchars($props['CASE_STATUS'], ENT_XML1, 'UTF-8') . '<br/>';
+    $description .= '<b>交通障礙：</b>' . ($props['IS_TRAFFIC'] ? '是' : '否') . '<br/>';
+    $description .= '<b>重大災情：</b>' . ($props['IS_SERIOUS'] ? '是' : '否');
+
+    $descElement = $dom->createElement('description');
+    $descElement->appendChild($dom->createCDATASection("\n    " . $description . "\n  "));
+    $placemark->appendChild($descElement);
+
+    // Add ExtendedData
+    $extendedData = $dom->createElement('ExtendedData');
+
+    $dataType = $dom->createElement('Data');
+    $dataType->setAttribute('name', 'disaster_type');
+    $displayName = $dom->createElement('displayName', '災情類別');
+    $value = $dom->createElement('value', htmlspecialchars($props['DISASTER_MAIN_TYPE'], ENT_XML1, 'UTF-8'));
+    $dataType->appendChild($displayName);
+    $dataType->appendChild($value);
+    $extendedData->appendChild($dataType);
+
+    $dataStatus = $dom->createElement('Data');
+    $dataStatus->setAttribute('name', 'status');
+    $displayNameStatus = $dom->createElement('displayName', '處理狀態');
+    $valueStatus = $dom->createElement('value', htmlspecialchars($props['CASE_STATUS'], ENT_XML1, 'UTF-8'));
+    $dataStatus->appendChild($displayNameStatus);
+    $dataStatus->appendChild($valueStatus);
+    $extendedData->appendChild($dataStatus);
+
+    $placemark->appendChild($extendedData);
+
+    // Add Point coordinates
+    $point = $dom->createElement('Point');
+    $coordinates = $dom->createElement('coordinates', $coords[0] . ',' . $coords[1] . ',0');
+    $point->appendChild($coordinates);
+    $placemark->appendChild($point);
+
+    $document->appendChild($placemark);
+}
+
+// Save KML file
+$dom->save($docsDir . '/cases.kml');
+echo "Created KML with " . count($geoJsonFeatures) . " features\n";
+
 echo "Processing completed\n";
