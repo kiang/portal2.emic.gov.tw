@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:193線事由:民眾反映要從光復鄉走193線道，載山貓跟怪手回花蓮，但卻被現場指揮人員要求改走光豐公路，但民眾表示前兩天就因為載著機械走光豐公路而爆胎，雖話務人員已告知目前已開放8點後北上行駛，但民眾仍強烈要求盡快開放193雙向通行。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "杜小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-10-04 10:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-04 10:41:03"
         }
     ]
 }
