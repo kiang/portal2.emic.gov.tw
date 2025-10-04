@@ -210,6 +210,60 @@ $document->appendChild($docName);
 $docDesc = $dom->createElement('description', '災情通報資料');
 $document->appendChild($docDesc);
 
+// Define disaster types with colors and emojis (matching main.js)
+$disasterTypes = [
+    '路樹災情' => ['color' => '#228B22', 'icon' => '🌳'],
+    '民生、基礎設施災情' => ['color' => '#FF6347', 'icon' => '🏗️'],
+    '橋梁災情' => ['color' => '#8B4513', 'icon' => '🌉'],
+    '積淹水災情' => ['color' => '#4682B4', 'icon' => '💧'],
+    '土石災情' => ['color' => '#8B7355', 'icon' => '⛰️'],
+    '其他災情' => ['color' => '#708090', 'icon' => '⚠️'],
+    '建物毀損災情' => ['color' => '#DC143C', 'icon' => '🏠'],
+    '廣告招牌災情' => ['color' => '#FF8C00', 'icon' => '🪧'],
+    '交通號誌災情' => ['color' => '#FFD700', 'icon' => '🚦'],
+    '道路災情' => ['color' => '#696969', 'icon' => '🛣️']
+];
+
+// Create styles for each disaster type
+foreach ($disasterTypes as $type => $config) {
+    $style = $dom->createElement('Style');
+    $style->setAttribute('id', 'style_' . md5($type));
+
+    $iconStyle = $dom->createElement('IconStyle');
+
+    // Convert hex color to KML color format (aabbggrr)
+    $r = substr($config['color'], 1, 2);
+    $g = substr($config['color'], 3, 2);
+    $b = substr($config['color'], 5, 2);
+    $kmlColor = 'ff' . $b . $g . $r;
+
+    $colorElement = $dom->createElement('color', $kmlColor);
+    $iconStyle->appendChild($colorElement);
+
+    $icon = $dom->createElement('Icon');
+    $href = $dom->createElement('href', 'http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png');
+    $icon->appendChild($href);
+    $iconStyle->appendChild($icon);
+
+    $style->appendChild($iconStyle);
+    $document->appendChild($style);
+}
+
+// Create style for serious disasters
+$styleSerious = $dom->createElement('Style');
+$styleSerious->setAttribute('id', 'style_serious');
+$iconStyleSerious = $dom->createElement('IconStyle');
+$colorSerious = $dom->createElement('color', 'ff1431dc'); // Red in KML format
+$iconStyleSerious->appendChild($colorSerious);
+$scaleSerious = $dom->createElement('scale', '1.3');
+$iconStyleSerious->appendChild($scaleSerious);
+$iconSerious = $dom->createElement('Icon');
+$hrefSerious = $dom->createElement('href', 'http://maps.google.com/mapfiles/kml/shapes/star.png');
+$iconSerious->appendChild($hrefSerious);
+$iconStyleSerious->appendChild($iconSerious);
+$styleSerious->appendChild($iconStyleSerious);
+$document->appendChild($styleSerious);
+
 // Build KML from full-detail features
 foreach ($kmlFeatures as $feature) {
     $props = $feature['properties'];
@@ -217,8 +271,10 @@ foreach ($kmlFeatures as $feature) {
 
     $placemark = $dom->createElement('Placemark');
 
-    // Use 災情類別 as Placemark name/title
-    $name = $dom->createElement('name', htmlspecialchars($props['DISASTER_MAIN_TYPE'], ENT_XML1, 'UTF-8'));
+    // Use emoji + 災情類別 as Placemark name/title
+    $disasterType = $props['DISASTER_MAIN_TYPE'] ?? '';
+    $emoji = isset($disasterTypes[$disasterType]) ? $disasterTypes[$disasterType]['icon'] . ' ' : '';
+    $name = $dom->createElement('name', $emoji . htmlspecialchars($disasterType, ENT_XML1, 'UTF-8'));
     $placemark->appendChild($name);
 
     $visibility = $dom->createElement('visibility', '1');
@@ -277,6 +333,19 @@ foreach ($kmlFeatures as $feature) {
     $descElement = $dom->createElement('description');
     $descElement->appendChild($dom->createCDATASection("\n    " . $description . "\n  "));
     $placemark->appendChild($descElement);
+
+    // Add style based on disaster type and severity
+    $disasterType = $props['DISASTER_MAIN_TYPE'] ?? '';
+    $isSerious = !empty($props['IS_SERIOUS']);
+
+    if ($isSerious) {
+        $styleUrl = $dom->createElement('styleUrl', '#style_serious');
+    } else if (isset($disasterTypes[$disasterType])) {
+        $styleUrl = $dom->createElement('styleUrl', '#style_' . md5($disasterType));
+    } else {
+        $styleUrl = $dom->createElement('styleUrl', '#style_' . md5('其他災情'));
+    }
+    $placemark->appendChild($styleUrl);
 
     // Add ExtendedData with richer case details
     $extendedData = $dom->createElement('ExtendedData');
