@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉林森路239號事由:民眾表示在原本上述地點有擺放貨櫃屋，但是因為堰塞湖溢流將貨櫃屋沖到中華路305號的位置，今天下午去看的時候突然發現貨櫃屋不見了，詢問過附近居民才知道是被縣府人員載走了，因為貨櫃屋存放民眾家當，希望相關單位告知將貨櫃屋移至何處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-30 17:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-06 15:31:04"
         }
     ]
 }
