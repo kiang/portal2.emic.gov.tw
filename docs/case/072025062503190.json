@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2025\/09\/27 10:02:13 - 莊曜濃0906959597,朋友李先生0987365687，鳳林鎮長橋里中新埔透過經緯度轉換GIS座標(23.6881,121.4428)，表示自己安全，有足夠食物跟水，目前表示需要清理淤泥",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-27 17:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-06 16:01:04"
         }
     ]
 }
