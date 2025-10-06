@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "居住地址:光復鄉中山路二段253號事由:民眾為光復受災戶，家中共有兩位老人及兩位小孩，民眾表示雖然家中整理得差不多，但鐵門壞掉，家中東西都流走了，生活不便，民眾希望請相關單位協助民眾安排花蓮安置的旅宿。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-05 10:01:08"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-06 17:31:03"
         }
     ]
 }
