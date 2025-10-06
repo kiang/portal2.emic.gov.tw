@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "反映地點:光復鄉林森路239號2樓事由:民眾表示家人目前受困上述地點，現場水退了但是泥濘有一樓高，希望單位協助救援。48歲鍾沛晴 24歲陳尚鵬民眾留現場受困媽媽電話:0934004901林雪娥(電話有通)(9\/24 06:45通報災害應變中心)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林雪娥",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-24 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-06 16:41:03"
         }
     ]
 }
