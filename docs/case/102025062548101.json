@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "受災地點:光復鄉中正路一段155之1號事由:民眾表示今天發放慰問金到場領取時，發現民眾並不在造冊名單內，之前明明有相關單位還來現場登記卻遺漏的民眾的地址，民眾雖然是租客但已經在此處居住30年以上，村長也幫民眾家開立了實際居住證明，但門牌因此次天災因民眾受困家中救災人員為了破門搜救，門牌已經被破壞掉了無法提供，故進線1999反映希望相關單位能協助，盡快將民眾重新登記到造冊名單內。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "姚小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-07 00:21:03"
+        }
+    ]
 }
