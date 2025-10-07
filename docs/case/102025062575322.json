@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "事由:民眾為外地人，表示在9\/23下午3點半左右開貨車來光復工作，結果在堰塞湖第一波溢流時車子被沖走，後續雖然有找回車輛，但是維修費用相當可觀，想詢問關於這類財損的部分是否縣府有提供補償。(本案民眾要求務必致電回覆)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-10-07 18:41:04"
+        }
+    ]
 }
