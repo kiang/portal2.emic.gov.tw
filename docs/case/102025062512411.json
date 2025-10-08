@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：馬太鞍教會事由：民眾表示是今日在光復支援的志工，約十分鐘前聯繫教會，教會表示縣政府指示只能前往教會現場用餐，不能打包帶走，就算派人過去領也不行，認為場地不一定容納得下那麼多人，且造成志工群的不便，希望派員了解。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-09-28 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-08 08:31:04"
         }
     ]
 }
