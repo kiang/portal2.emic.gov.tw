@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "事由:民眾表示今天去光復送物資，現場志工說目前衣物充足，暫不需要衣物，但是民眾表示詢問過受災居民，居民表示分發衣物時因為無法確認衣服尺寸，都拿到尺碼不合身的衣物，建議相關單位將捐贈衣物直接拆封並依尺碼分類，讓災民依合身尺碼領取。(民眾不願意留下姓氏及聯絡電話)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "未留",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-08 19:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-08 20:21:04"
         }
     ]
 }
