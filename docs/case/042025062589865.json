@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "堰塞湖",
     "CASE_DESCRIPTION": "發現上述地點災情也嚴重都是泥巴卻未列在受災範圍,認為單位沒有調查清楚要求反映,希望單位評估應列入受災範圍並調查清楚",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-09 15:41:04"
+        }
+    ]
 }
