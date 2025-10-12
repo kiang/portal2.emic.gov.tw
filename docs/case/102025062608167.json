@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "光復鄉災民來電反映，指出光復糖廠物資站出現物資發放亂象，過去數日內多次發現有來自花蓮市，並非光復鄉的非當地災民領取物資，造成資源被非本地居民占用的情況。災民建議物資站應加強身分查核機制，發放物資時應要求出示身分證明，以確保物資優先提供給真正有需要的光復鄉災民，並避免不當領取行為持續發生。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "簡太太",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-10-12 12:11:03"
+        }
+    ]
 }
