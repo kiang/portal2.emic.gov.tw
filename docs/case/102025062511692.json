@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉大馬村中華路376號事由:民眾表示有自行聯繫大卡車協助清運災後廢土，於鄉公所辦理通行證，當時鄉公所人員表示通行證正本沒有了，故提供影本通行證，但民眾表示現場交管警方要求須出示正本的通行證才放行，民眾感到非常困擾，希望相關單位協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-09-28 15:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-12 16:11:04"
         }
     ]
 }
