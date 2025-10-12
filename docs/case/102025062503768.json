@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉光華街1號車牌:APB-9750 鐵灰色事由:民眾表示為淹水受災戶，因汽車泡水毀損廢棄在他人住家出入口，希望相關單位協助安排移置車輛，如有不了解之處可致電聯繫。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "范先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-10-12 16:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-12 17:11:04"
         }
     ]
 }
