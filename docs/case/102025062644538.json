@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉大華村事由:民眾是光復災民，有很多的問題需要村長處理，目前民眾有物資領取跟慰助金問題需要幫助，但民眾致電村長都未接聽，故申訴都找不到大華村長，並請相關單位協助，如有不了解之處可以致電聯繫。(民眾表示反映到光復鄉公所也沒有處理，強烈要求縣府協助。)(本案件需致電回覆民眾處理下文。)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-17 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-17 15:31:04"
         }
     ]
 }
