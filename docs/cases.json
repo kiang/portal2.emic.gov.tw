@@ -6,6 +6,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.747718,
+                    25.135762
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062669362",
+                "CASE_DT": "2025\/10\/20 下午 08:35:00",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71659,
+                    25.155732
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062669358",
+                "CASE_DT": "2025\/10\/20 下午 08:33:00",
+                "DISASTER_MAIN_TYPE": "建物毀損",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.731956,
                     25.127663
                 ]
@@ -32,7 +68,7 @@
                 "CASE_ID": "042025062669263",
                 "CASE_DT": "2025\/10\/20 下午 08:17:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -50,7 +86,7 @@
                 "CASE_ID": "042025062669254",
                 "CASE_DT": "2025\/10\/20 下午 08:17:00",
                 "DISASTER_MAIN_TYPE": "廣告招牌災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
