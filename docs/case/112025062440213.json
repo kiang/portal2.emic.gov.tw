@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440213",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 上午 06:33:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區化成路底九號越堤道",
+    "TOWN_N": "石碇區",
+    "CASE_LOC": "石碇區石碇區靜安路一段與靜安路二段",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.46534,25.06559",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]接獲民眾報案，在新莊區九號越堤道因溪水暴漲，往九號堤防道路路基流失、積水無法通行，有2人受困於此。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.70459,25.01830",
+    "DISASTER_MAIN_TYPE": "土石災情",
+    "DISASTER_SUB_TYPE": "土石流",
+    "CASE_DESCRIPTION": "[現場狀況]1.石碇區靜安路一段與靜安路二段口，石碇與平溪交界處，有土石滑落車道，請派員處理。  [各單位處置作為]@農業局：非本局養護農路@石碇區公所：已通知本所搶災廠商",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 上午 06:33:00",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "石碇區",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區化成路底九號越堤道",
+            "new_value": "石碇區石碇區靜安路一段與靜安路二段",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.46534,25.06559",
+            "new_value": "121.70459,25.01830",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "土石災情",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "土石流",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]接獲民眾報案，在新莊區九號越堤道因溪水暴漲，往九號堤防道路路基流失、積水無法通行，有2人受困於此。",
+            "new_value": "[現場狀況]1.石碇區靜安路一段與靜安路二段口，石碇與平溪交界處，有土石滑落車道，請派員處理。  [各單位處置作為]@農業局：非本局養護農路@石碇區公所：已通知本所搶災廠商",
+            "timestamp": "2025-10-21 06:51:08"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 06:51:08"
+        }
+    ]
 }
