@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062439953",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 下午 09:46:12",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區化成路211巷 中段",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區新北市瑞芳區 台2線82.6k",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.46521,25.05169",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]報案人來電，新莊區化成路211巷中段 有電線垂落，怕用路人會危險",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.90124,25.12033",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "1.道路落石",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -43,6 +43,54 @@
             "old_value": "1.[現場狀況]新莊區化成路112巷旁，該處有電線即將垂落，且有冒出火花，有安全疑慮，目前已派遣員警在場先行拉封鎖線，要求相關單位儘速前往處理，請相關單位妥處。",
             "new_value": "1.[現場狀況]報案人來電，新莊區化成路211巷中段 有電線垂落，怕用路人會危險",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 下午 09:46:12",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "瑞芳區",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區化成路211巷 中段",
+            "new_value": "瑞芳區新北市瑞芳區 台2線82.6k",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.46521,25.05169",
+            "new_value": "121.90124,25.12033",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "道路落石",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]報案人來電，新莊區化成路211巷中段 有電線垂落，怕用路人會危險",
+            "new_value": "1.道路落石",
+            "timestamp": "2025-10-20 22:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-20 22:51:04"
         }
     ]
 }
