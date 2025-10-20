@@ -1,17 +1,17 @@
 {
     "CASE_ID": "112025062440189",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 下午 10:48:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區瓊林路瓊英巷4弄17號",
+    "CASE_LOC": "新莊區中華路一段52巷2號1樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.44397,25.02821",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區瓊林路瓊英巷4弄17號，該址有一路樹因風勢較大已傾倒，請單位前去處理。",
-    "CASE_STATUS": "未指派",
-    "CASE_TYPE": "縣市報災情",
-    "PERSON_ID": "小王",
+    "COORDINATE": "121.45216,25.03802",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "[現場狀況]1.停電戶數 O 戶YYYY\/MM\/DD HH:MM 開始停電YYYY\/MM\/DD HH:MM 開始供電2.新莊區中華路一段52巷2號1樓，民眾10\/20 22:42發現該址及周邊有大範圍停電的情形，請相關單位儘快處理。",
+    "CASE_STATUS": "[各單位處置作為]@消防局：已派轄區單位查看@新莊區公所：11:03通知台電，台電已派人處理中@警察局：通報轄區中港所員警到場協助處理。",
+    "CASE_TYPE": "處理中",
+    "PERSON_ID": "縣市報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,60 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 下午 10:48:00",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區瓊林路瓊英巷4弄17號",
+            "new_value": "新莊區中華路一段52巷2號1樓",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.44397,25.02821",
+            "new_value": "121.45216,25.03802",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "電力停電",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區瓊林路瓊英巷4弄17號，該址有一路樹因風勢較大已傾倒，請單位前去處理。",
+            "new_value": "[現場狀況]1.停電戶數 O 戶YYYY\/MM\/DD HH:MM 開始停電YYYY\/MM\/DD HH:MM 開始供電2.新莊區中華路一段52巷2號1樓，民眾10\/20 22:42發現該址及周邊有大範圍停電的情形，請相關單位儘快處理。",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "[各單位處置作為]@消防局：已派轄區單位查看@新莊區公所：11:03通知台電，台電已派人處理中@警察局：通報轄區中港所員警到場協助處理。",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "縣市報災情",
+            "new_value": "處理中",
+            "timestamp": "2025-10-20 23:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "小王",
+            "new_value": "縣市報災情",
+            "timestamp": "2025-10-20 23:41:04"
+        }
+    ]
 }
