@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440237",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 下午 11:21:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中正路176號",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區薏仁坑路28號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45038,25.03582",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]民眾通報新北市新莊區中正路因地下箱涵破裂引起路基下陷，造成2戶民宅毀損及電線桿倒塌，導致附近地區暫時斷電。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.49652,24.96070",
+    "DISASTER_MAIN_TYPE": "土石災情",
+    "DISASTER_SUB_TYPE": "土石流",
+    "CASE_DESCRIPTION": "1.新店區薏仁坑路28號，該處有土石流，請派員處理。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 下午 11:21:00",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "新店區",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中正路176號",
+            "new_value": "新店區薏仁坑路28號",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45038,25.03582",
+            "new_value": "121.49652,24.96070",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "土石災情",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "土石流",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]民眾通報新北市新莊區中正路因地下箱涵破裂引起路基下陷，造成2戶民宅毀損及電線桿倒塌，導致附近地區暫時斷電。",
+            "new_value": "1.新店區薏仁坑路28號，該處有土石流，請派員處理。",
+            "timestamp": "2025-10-21 00:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 00:31:04"
+        }
+    ]
 }
