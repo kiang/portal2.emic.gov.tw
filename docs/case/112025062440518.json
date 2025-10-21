@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440518",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 08:55:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中德路21號",
+    "TOWN_N": "林口區",
+    "CASE_LOC": "林口區文化北路一段與忠福路口",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45081,25.05792",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]報案人稱路樹傾倒，路樹倒塌擋住門口。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.36169,25.07388",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "CASE_DESCRIPTION": "1.林口區文化北路一段與忠福路口，該路口交通號誌全熄，請單位派員維修。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 08:55:00",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "林口區",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中德路21號",
+            "new_value": "林口區文化北路一段與忠福路口",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45081,25.05792",
+            "new_value": "121.36169,25.07388",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]報案人稱路樹傾倒，路樹倒塌擋住門口。",
+            "new_value": "1.林口區文化北路一段與忠福路口，該路口交通號誌全熄，請單位派員維修。",
+            "timestamp": "2025-10-21 22:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 22:01:04"
+        }
+    ]
 }
