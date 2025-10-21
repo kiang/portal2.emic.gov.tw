@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440366",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 03:32:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中正路",
+    "TOWN_N": "八里區",
+    "CASE_LOC": "八里區八里區龍源里坪子頂5號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.43531,25.03266",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區中正路與瓊泰路口、中正路與公園一路口交通號誌整支倒塌，有安全疑慮，請相關單位妥處。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.45061,25.13186",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "1.八里區龍源里坪子頂5號為山區，此址僅有兩位老人居住，目前雨相當大，但從15:00左右停電至今，不知其他鄰居是否有相同狀況，通報人為上述老人的子女，通報人相當擔心老人，希望單位儘速協助復電。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 03:32:00",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "八里區",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中正路",
+            "new_value": "八里區八里區龍源里坪子頂5號",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.43531,25.03266",
+            "new_value": "121.45061,25.13186",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "電力停電",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區中正路與瓊泰路口、中正路與公園一路口交通號誌整支倒塌，有安全疑慮，請相關單位妥處。",
+            "new_value": "1.八里區龍源里坪子頂5號為山區，此址僅有兩位老人居住，目前雨相當大，但從15:00左右停電至今，不知其他鄰居是否有相同狀況，通報人為上述老人的子女，通報人相當擔心老人，希望單位儘速協助復電。",
+            "timestamp": "2025-10-21 16:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 16:41:03"
+        }
+    ]
 }
