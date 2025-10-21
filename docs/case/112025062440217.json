@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440217",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 上午 07:06:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區昌平街31巷6號",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區忠一街8巷61號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45449,25.05208",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區昌平街31巷6號「新莊天下居」A棟1樓，騎處現傳出瓦斯異味，疑為瓦斯外洩，請單位協助確認。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.62312,25.07276",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "1.汐止區忠一街8巷61號，有2至3顆大顆落石，有樹跟著土石滑下來了，會影響交通，請單位前往查處。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 上午 07:06:00",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "汐止區",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區昌平街31巷6號",
+            "new_value": "汐止區忠一街8巷61號",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45449,25.05208",
+            "new_value": "121.62312,25.07276",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "道路落石",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區昌平街31巷6號「新莊天下居」A棟1樓，騎處現傳出瓦斯異味，疑為瓦斯外洩，請單位協助確認。",
+            "new_value": "1.汐止區忠一街8巷61號，有2至3顆大顆落石，有樹跟著土石滑下來了，會影響交通，請單位前往查處。",
+            "timestamp": "2025-10-21 08:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 08:21:04"
+        }
+    ]
 }
