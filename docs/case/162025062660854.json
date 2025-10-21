@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌橫躺路面，已經與路過機車騎士搬至路旁，需要清潔隊清除，唯旁邊另一顆樹已腐爛有倒塌之虞。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林建勝",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 09:01:04"
+        }
+    ]
 }
