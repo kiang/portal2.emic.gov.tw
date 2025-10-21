@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440421",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 08:14:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區福營路227巷14弄4號",
+    "CASE_LOC": "新莊區新知三路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42958,25.02914",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區福營路227巷14弄4號(路燈編號:255510)，有一棵路樹傾倒壓在電 線，未造成停電，請派員移除。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.45568,25.06110",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.新莊區新知三路「A3光點」 建案，疑因風雨過大，導致整排圍籬倒塌，易影響行人通行安全。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 08:14:00",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區福營路227巷14弄4號",
+            "new_value": "新莊區新知三路",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42958,25.02914",
+            "new_value": "121.45568,25.06110",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "建物毀損",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區福營路227巷14弄4號(路燈編號:255510)，有一棵路樹傾倒壓在電 線，未造成停電，請派員移除。",
+            "new_value": "1.新莊區新知三路「A3光點」 建案，疑因風雨過大，導致整排圍籬倒塌，易影響行人通行安全。",
+            "timestamp": "2025-10-21 21:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 21:21:04"
+        }
+    ]
 }
