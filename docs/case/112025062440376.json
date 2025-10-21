@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440376",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 04:25:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區思源路405號",
+    "TOWN_N": "淡水區",
+    "CASE_LOC": "淡水區淡水區竹林路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45957,25.05206",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區思源路405號，該址有招牌(破損、字樣不詳)掉落於電線上(高空)，擔心有掉落危險，故請單位前往移除。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.46269,25.14339",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.淡水區竹林路靠近竹圍高中，由於大雨排水不及，導致人行道積水約10公分，請相關權責單位派員前往疏通排水系統。  2.淡水區竹林路至中正東路一帶，該處因排水溝堵塞導致下大雨無法排水，造成有積淹水情形，請單位前往協助。  3.案件類別更改：淹水->積水改為積水  4.併案案號147",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 04:25:00",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "淡水區",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區思源路405號",
+            "new_value": "淡水區淡水區竹林路",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45957,25.05206",
+            "new_value": "121.46269,25.14339",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區思源路405號，該址有招牌(破損、字樣不詳)掉落於電線上(高空)，擔心有掉落危險，故請單位前往移除。",
+            "new_value": "1.淡水區竹林路靠近竹圍高中，由於大雨排水不及，導致人行道積水約10公分，請相關權責單位派員前往疏通排水系統。  2.淡水區竹林路至中正東路一帶，該處因排水溝堵塞導致下大雨無法排水，造成有積淹水情形，請單位前往協助。  3.案件類別更改：淹水->積水改為積水  4.併案案號147",
+            "timestamp": "2025-10-21 17:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 17:41:04"
+        }
+    ]
 }
