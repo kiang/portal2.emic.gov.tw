@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440228",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 上午 11:56:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區文明里新莊國小",
+    "TOWN_N": "八里區",
+    "CASE_LOC": "八里區北50鄉道4.5K",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45612,25.03692",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]民眾通報，地震造成新北市新莊區文明里新莊國小附近天橋傾斜，同時天橋旁的大樓有龜裂的情況發生。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.41722,25.14632",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.八里區北50鄉道4.5K處，有一路樹傾斜於路中造成行車無法通行，請單位派員處理。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 上午 11:56:00",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "八里區",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區文明里新莊國小",
+            "new_value": "八里區北50鄉道4.5K",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45612,25.03692",
+            "new_value": "121.41722,25.14632",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "路樹傾斜",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]民眾通報，地震造成新北市新莊區文明里新莊國小附近天橋傾斜，同時天橋旁的大樓有龜裂的情況發生。",
+            "new_value": "1.八里區北50鄉道4.5K處，有一路樹傾斜於路中造成行車無法通行，請單位派員處理。",
+            "timestamp": "2025-10-21 13:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 13:11:04"
+        }
+    ]
 }
