@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062441469",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/22 上午 01:55:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區成功街120號",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區東山里姜子寮路20之1號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42331,25.01677",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區成功街120號，有鐵皮掉落壓在電線上。2.新莊區新樹路288號，施工圍籬遭風吹落在路中間。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.69847,25.06205",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.汐止區東山里姜子寮路20之1號豪雨淹水",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/22 上午 01:55:00",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "汐止區",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區成功街120號",
+            "new_value": "汐止區東山里姜子寮路20之1號",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42331,25.01677",
+            "new_value": "121.69847,25.06205",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆(籬)倒塌",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區成功街120號，有鐵皮掉落壓在電線上。2.新莊區新樹路288號，施工圍籬遭風吹落在路中間。",
+            "new_value": "1.汐止區東山里姜子寮路20之1號豪雨淹水",
+            "timestamp": "2025-10-22 03:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-22 03:01:04"
+        }
+    ]
 }
