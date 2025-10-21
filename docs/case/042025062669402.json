@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "四樓鐵皮懸掛半空　／　4樓鐵皮懸掛半空",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "余祥麟",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "建物屋頂掀飛",
             "new_value": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
             "timestamp": "2025-10-21 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:21:03"
         }
     ]
 }

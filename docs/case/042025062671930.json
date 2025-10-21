@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【1999報災情】市民反映外牆鐵皮，地址仁愛區忠四路7號，陳述應該是5樓住家外牆鐵皮快脫落，怕會砸到附近住戶及用路人，希業務單位人員協處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-10-21 09:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:21:03"
         }
     ]
 }
