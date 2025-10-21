@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440348",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 03:18:04",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中原路234號",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區新北市汐止區 秀峰國小 前 仁愛路前",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45305,25.05450",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區中原路234號，該址電線垂落，請單位移除。（本案係由新莊分局昌平派出所陳警官通報）。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.66145,25.06263",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.男性：秀峰國小仁愛路前，積水到腳踝，水溝水也都淹上來，希望有人查看或通知公所。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "000",
     "INJURED_NO": 0,
@@ -55,6 +55,54 @@
             "old_value": "1.受損車輛 O 輛",
             "new_value": "1.[現場狀況]新莊區中原路234號，該址電線垂落，請單位移除。（本案係由新莊分局昌平派出所陳警官通報）。",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 03:18:04",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "汐止區",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中原路234號",
+            "new_value": "汐止區新北市汐止區 秀峰國小 前 仁愛路前",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45305,25.05450",
+            "new_value": "121.66145,25.06263",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區中原路234號，該址電線垂落，請單位移除。（本案係由新莊分局昌平派出所陳警官通報）。",
+            "new_value": "1.男性：秀峰國小仁愛路前，積水到腳踝，水溝水也都淹上來，希望有人查看或通知公所。",
+            "timestamp": "2025-10-21 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 16:31:04"
         }
     ]
 }
