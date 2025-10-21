@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062392721",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 上午 01:41:59",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區新北市新店區安康路一段195巷8弄9號;1樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41783,25.02659",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]17號越堤道、重新堤外道路往台北橋嚴重淹大水、怕機車危險，請派員處理後回報。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.52645,24.96203",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.民眾稱家中有一條公用的排水溝經過，目前堵塞不通，家中淹水。系統轉報110",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "123",
     "INJURED_NO": 0,
@@ -49,6 +49,54 @@
             "old_value": "1.123456",
             "new_value": "1.[現場狀況]17號越堤道、重新堤外道路往台北橋嚴重淹大水、怕機車危險，請派員處理後回報。",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 上午 01:41:59",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "新店區",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區",
+            "new_value": "新店區新北市新店區安康路一段195巷8弄9號;1樓",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41783,25.02659",
+            "new_value": "121.52645,24.96203",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]17號越堤道、重新堤外道路往台北橋嚴重淹大水、怕機車危險，請派員處理後回報。",
+            "new_value": "1.民眾稱家中有一條公用的排水溝經過，目前堵塞不通，家中淹水。系統轉報110",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:41:04"
         }
     ]
 }

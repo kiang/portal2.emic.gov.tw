@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062392723",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 上午 12:37:23",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區天祥街73號3樓",
+    "TOWN_N": "淡水區",
+    "CASE_LOC": "淡水區新北市淡水區博愛街66號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41574,25.02917",
+    "COORDINATE": "121.44708,25.16858",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區天祥街73號3樓，該址房屋屋內牆面隆起、後陽台和廚房屋頂塌陷、公共樓梯間牆面剝落、地面有裂縫、有高低落差。",
-    "CASE_STATUS": "未指派",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.淡水分隊：接獲民眾報案，稱有招牌快掉落。系統轉報110",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "123",
     "INJURED_NO": 0,
@@ -55,6 +55,48 @@
             "old_value": "1.123",
             "new_value": "1.[現場狀況]新莊區天祥街73號3樓，該址房屋屋內牆面隆起、後陽台和廚房屋頂塌陷、公共樓梯間牆面剝落、地面有裂縫、有高低落差。",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 上午 12:37:23",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "淡水區",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區天祥街73號3樓",
+            "new_value": "淡水區新北市淡水區博愛街66號",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41574,25.02917",
+            "new_value": "121.44708,25.16858",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區天祥街73號3樓，該址房屋屋內牆面隆起、後陽台和廚房屋頂塌陷、公共樓梯間牆面剝落、地面有裂縫、有高低落差。",
+            "new_value": "1.淡水分隊：接獲民眾報案，稱有招牌快掉落。系統轉報110",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:41:04"
         }
     ]
 }

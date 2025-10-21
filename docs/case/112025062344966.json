@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062344966",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/19 下午 10:16:24",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區富國路63號",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區新北市板橋區 浮洲橋-板橋往樹林機車道  中段",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41969,25.02620",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.[現場狀況]報案人稱：電線垂落空中大車經過可能會勾到。新莊區富國路59號，該址目前因風大導致電線垂落在半空中。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.43922,24.99532",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.橋上積水，約快到機車的排煙管高報案人行經不敢繼續前行系統轉報110  2.單位加派：(新增單位)工務局",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "000",
     "INJURED_NO": 0,
@@ -91,6 +91,54 @@
             "old_value": "1.456",
             "new_value": "1.[現場狀況]報案人稱：電線垂落空中大車經過可能會勾到。新莊區富國路59號，該址目前因風大導致電線垂落在半空中。",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/19 下午 10:16:24",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "板橋區",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區富國路63號",
+            "new_value": "板橋區新北市板橋區 浮洲橋-板橋往樹林機車道  中段",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41969,25.02620",
+            "new_value": "121.43922,24.99532",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]報案人稱：電線垂落空中大車經過可能會勾到。新莊區富國路59號，該址目前因風大導致電線垂落在半空中。",
+            "new_value": "1.橋上積水，約快到機車的排煙管高報案人行經不敢繼續前行系統轉報110  2.單位加派：(新增單位)工務局",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:41:04"
         }
     ]
 }

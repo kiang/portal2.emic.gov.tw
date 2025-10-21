@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062439978",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 下午 03:25:22",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區新北大道",
+    "TOWN_N": "淡水區",
+    "CASE_LOC": "淡水區新北市淡水區新春街94號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41388,25.03023",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區新北大道二段282號，陳情人在家中看到台一線高架有一塊鐵片掉落在高架路面上，且有吹動問題，希望單位前往查處。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.43908,25.18237",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.淡水2號來電：民眾來電表示布條掉落，擔心發生危險。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -43,6 +43,54 @@
             "old_value": "1.[現場狀況]新莊區西盛街323巷14號13樓，廁所與隔壁相連之牆壁，因地震導致龜裂，且廁所門無法關閉，請單位前往檢視。",
             "new_value": "1.[現場狀況]新莊區新北大道二段282號，陳情人在家中看到台一線高架有一塊鐵片掉落在高架路面上，且有吹動問題，希望單位前往查處。",
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 下午 03:25:22",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "淡水區",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區新北大道",
+            "new_value": "淡水區新北市淡水區新春街94號",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41388,25.03023",
+            "new_value": "121.43908,25.18237",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "其他災情",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆(籬)倒塌",
+            "new_value": "其他",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區新北大道二段282號，陳情人在家中看到台一線高架有一塊鐵片掉落在高架路面上，且有吹動問題，希望單位前往查處。",
+            "new_value": "1.淡水2號來電：民眾來電表示布條掉落，擔心發生危險。",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:41:04"
         }
     ]
 }

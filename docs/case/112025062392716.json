@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062392716",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/20 上午 12:47:31",
     "COUNTY_N": "新北市",
     "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中正路851號",
+    "CASE_LOC": "新莊區新北市新莊區青山路一段30號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42024,25.02787",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆(籬)倒塌",
-    "CASE_DESCRIPTION": "1.[現場狀況]陸橋上電線掉落，現在有2條電線因風雨而垂落，目前無塞車，幸有員警幫忙管制，遂不致大型車遭勾到，通報者不清楚是哪一種類型的電線，請儘速處理。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.41076,25.02778",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.本來報車禍自摔，患者說不用救護車，是有落石大約30*20公分左右，民眾已搬到人行道。希望有公所相關單位到場移除。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "777",
     "INJURED_NO": 0,
@@ -61,6 +61,48 @@
             "old_value": true,
             "new_value": false,
             "timestamp": "2025-09-18 12:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/20 上午 12:47:31",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中正路851號",
+            "new_value": "新莊區新北市新莊區青山路一段30號",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42024,25.02787",
+            "new_value": "121.41076,25.02778",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "其他災情",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆(籬)倒塌",
+            "new_value": "其他",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]陸橋上電線掉落，現在有2條電線因風雨而垂落，目前無塞車，幸有員警幫忙管制，遂不致大型車遭勾到，通報者不清楚是哪一種類型的電線，請儘速處理。",
+            "new_value": "1.本來報車禍自摔，患者說不用救護車，是有落石大約30*20公分左右，民眾已搬到人行道。希望有公所相關單位到場移除。",
+            "timestamp": "2025-10-21 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 12:41:04"
         }
     ]
 }
