@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062440415",
-    "CASE_DT": "2025\/9\/18 上午 09:00:00",
+    "CASE_DT": "2025\/10\/21 下午 06:52:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區西盛街202號2樓",
+    "TOWN_N": "八里區",
+    "CASE_LOC": "八里區長道坑28號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42798,25.01821",
-    "DISASTER_MAIN_TYPE": "鐵路、高鐵捷運災情",
-    "DISASTER_SUB_TYPE": "道路中斷",
-    "CASE_DESCRIPTION": "1.[現場狀況]新莊區西盛街202號2樓，有一個建案的帆布廣告被吹斷一角，，陳情人擔心地震天發生意外，請相關單位妥處。",
-    "CASE_STATUS": "未指派",
+    "COORDINATE": "121.39597,25.10759",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.救護同仁來電：八里區長道坑發現路樹傾倒，參考路燈為399501。  2.八里區長道坑28號、位於路燈(編號:399501)周邊，現有一棵路樹，因強風造成傾倒、並佔用半個車道，導致單向無法通行，請單位儘快前往清除。  3.併案案號168",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/9\/18 上午 09:00:00",
+            "new_value": "2025\/10\/21 下午 06:52:00",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "八里區",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區西盛街202號2樓",
+            "new_value": "八里區長道坑28號",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42798,25.01821",
+            "new_value": "121.39597,25.10759",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "鐵路、高鐵捷運災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路中斷",
+            "new_value": "路樹傾斜",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.[現場狀況]新莊區西盛街202號2樓，有一個建案的帆布廣告被吹斷一角，，陳情人擔心地震天發生意外，請相關單位妥處。",
+            "new_value": "1.救護同仁來電：八里區長道坑發現路樹傾倒，參考路燈為399501。  2.八里區長道坑28號、位於路燈(編號:399501)周邊，現有一棵路樹，因強風造成傾倒、並佔用半個車道，導致單向無法通行，請單位儘快前往清除。  3.併案案號168",
+            "timestamp": "2025-10-21 20:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2025-10-21 20:01:04"
+        }
+    ]
 }
