@@ -6,7 +6,7 @@
     "CASE_LOC": "信義路四段239巷。臺北市大安區敦煌里008鄰信義路四段２５５號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5534,25.03433",
-    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】上述路段，捷運信義安和站5號出口旁，舊公寓的磁磚不斷被狂風吹落，持續噴到巷子中，民眾表示剛剛經過差點被打到，請單位儘快處理。。【一般案件】（本案地點座標異常，機關收辦時請以「發生地址、發生地點」所載資訊為準）。上述地點隔壁建物磁磚正在剝落，剝落到信義路四段239巷內，剛剛已經有路人砸到眼睛，路人已經離開沒有就醫需求，拉封鎖線，以避免其他路人再被砸到",
     "CASE_STATUS": "已處理",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "建物暨附屬設施災情",
+            "timestamp": "2025-10-21 08:41:04"
+        }
+    ]
 }
