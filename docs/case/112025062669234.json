@@ -6,7 +6,7 @@
     "CASE_LOC": "行義路",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.528,25.13857",
-    "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
+    "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】民眾表示北投區公車站福德廟(行義)往石牌方向，有營建施工單位搭建與公車站牌涼亭差不多高鷹架於人行道上，但底座沒有固定，而風很大導致鷹架一直搖晃，看起來快要傾倒，有公共安全疑慮故反映，目前無人員受傷無車禍",
     "CASE_STATUS": "已處理",
@@ -25,6 +25,12 @@
             "old_value": "建物毀損",
             "new_value": "建物暨附屬設施災情",
             "timestamp": "2025-10-21 08:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物暨附屬設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2025-10-21 16:01:03"
         }
     ]
 }

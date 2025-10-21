@@ -6,7 +6,7 @@
     "CASE_LOC": "臺北市士林區天山里015鄰中山北路七段１００巷４號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5321,25.12171",
-    "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
+    "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】大雨所致住戶屋簷排水槽砸落",
     "CASE_STATUS": "已處理",
@@ -25,6 +25,12 @@
             "old_value": "建物毀損",
             "new_value": "建物暨附屬設施災情",
             "timestamp": "2025-10-21 08:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物暨附屬設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2025-10-21 16:01:03"
         }
     ]
 }

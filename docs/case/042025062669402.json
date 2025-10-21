@@ -6,7 +6,7 @@
     "CASE_LOC": "基隆市中山區中和路200巷126號四樓",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.71659,25.155732",
-    "DISASTER_MAIN_TYPE": "建物暨附屬設施災情",
+    "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "四樓鐵皮懸掛半空　／　4樓鐵皮懸掛半空",
     "CASE_STATUS": "已處理",
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-10-21 12:21:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物暨附屬設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2025-10-21 16:01:03"
         }
     ]
 }
