@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "救護送醫案件",
     "CASE_DESCRIPTION": "38歲男機車摔車，右腳大拇指撕裂傷，自行於內湖三總就醫，到院意識清楚、生命徵象穩定，經急診處置後，於13:28離院。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 1,
@@ -43,6 +43,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-10-21 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-21 17:31:04"
         }
     ]
 }
