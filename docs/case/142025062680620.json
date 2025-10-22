@@ -3,15 +3,15 @@
     "CASE_DT": "2025\/10\/22 上午 08:20:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
-    "CASE_LOC": "臺北市文山區",
+    "CASE_LOC": "臺北市文山區景華街128巷86號",
     "GEOMETRY_TYPE": "",
-    "COORDINATE": "121.547600,24.995070",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "COORDINATE": "121.547923,24.993898",
+    "DISASTER_MAIN_TYPE": "土石災情",
+    "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "臺北市文山區景華街128巷",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "NCDR通報",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,42 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-22 18:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市文山區",
+            "new_value": "臺北市文山區景華街128巷86號",
+            "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.547600,24.995070",
+            "new_value": "121.547923,24.993898",
+            "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "土石災情",
+            "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "土石崩落",
+            "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "NCDR通報",
+            "timestamp": "2025-10-22 18:11:04"
         }
     ]
 }
