@@ -8,7 +8,7 @@
     "COORDINATE": "121.6181,25.07168",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "1020強降雨(水災).報案人述屋頂鐵條快掉落",
+    "CASE_DESCRIPTION": "1020強降雨(水災).報案人述屋頂鐵條快掉落。119通報民眾反映屋頂鐵條快掉落",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "屋主徐先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1020強降雨(水災).報案人述屋頂鐵條快掉落",
+            "new_value": "1020強降雨(水災).報案人述屋頂鐵條快掉落。119通報民眾反映屋頂鐵條快掉落",
+            "timestamp": "2025-10-22 19:41:04"
+        }
+    ]
 }
