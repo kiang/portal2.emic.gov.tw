@@ -6,6 +6,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.46143,
+                    25.14984
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062686011",
+                "CASE_DT": "2025\/10\/23 上午 07:24:00",
+                "DISASTER_MAIN_TYPE": "建物毀損",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52871,
+                    24.99948
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062686013",
+                "CASE_DT": "2025\/10\/23 上午 06:44:04",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43492,
+                    24.98756
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062686015",
+                "CASE_DT": "2025\/10\/23 上午 06:36:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.45916,
                     25.1435
                 ]
@@ -67,7 +121,7 @@
             "properties": {
                 "CASE_ID": "112025062685500",
                 "CASE_DT": "2025\/10\/23 上午 03:37:00",
-                "DISASTER_MAIN_TYPE": "土石災情",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
                 "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
