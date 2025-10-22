@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾住家：光復鄉佛祖街385號民眾表示自9月23日起，一家四口被安置於虎爺飯店，目前民眾接獲飯店通知，表示需於今日10月22日中午後搬至飯店地下室(疑因飯店需進行消毒或整理)，但民眾的岳母有復健需求，搬遷至地下室行動不便比較困難，故民眾希望能有替代安置方案，或協助安排至其他適合地點。希望有關單位予以協助及盡快回覆。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-22 20:11:04"
+        }
+    ]
 }
