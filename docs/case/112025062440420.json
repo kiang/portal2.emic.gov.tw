@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "1.淡水區中正東路二段88巷，現沿線巷弄內，疑因風災造成淹水，水位高度約汽車輪胎3分之2高，汽機車現都無法進出，請單位儘快前往排除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "小王",
     "INJURED_NO": 0,
@@ -67,6 +67,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-10-21 20:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-22 09:21:03"
         }
     ]
 }
