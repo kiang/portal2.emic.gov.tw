@@ -16,7 +16,7 @@
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
-    "SHELTER_NO": 0,
+    "SHELTER_NO": 21,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
     "logs": [
@@ -61,6 +61,12 @@
             "old_value": "",
             "new_value": "NCDR通報",
             "timestamp": "2025-10-22 18:11:04"
+        },
+        {
+            "field": "SHELTER_NO",
+            "old_value": 0,
+            "new_value": 21,
+            "timestamp": "2025-10-22 18:21:04"
         }
     ]
 }
