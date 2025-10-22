@@ -6,6 +6,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.4991,
+                    25.16082
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062681563",
+                "CASE_DT": "2025\/10\/22 下午 01:34:03",
+                "DISASTER_MAIN_TYPE": "土石災情",
+                "CASE_STATUS": "已處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.37449,
                     24.93586
                 ]
@@ -69,6 +87,42 @@
                 "CASE_DT": "2025\/10\/22 下午 12:51:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
                 "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537,
+                    25.11837
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062681561",
+                "CASE_DT": "2025\/10\/22 下午 12:44:36",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
+                "CASE_STATUS": "已處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5532,
+                    25.08594
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062681578",
+                "CASE_DT": "2025\/10\/22 下午 12:42:12",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
