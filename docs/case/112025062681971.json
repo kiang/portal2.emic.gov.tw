@@ -8,8 +8,8 @@
     "COORDINATE": "121.63092,25.06202",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.110轉報：磁磚掉落砸到車",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "[現場狀況]1.110轉報：磁磚掉落砸到車  [各單位處置作為]@警察局：.@汐止區公所：案址應為環河街68號工廠，現場已拉起警示帶，後續提報工務局@消防局：現場已拉封鎖線，並通報工務局後續處理。(本案件已處理完畢。)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.110轉報：磁磚掉落砸到車",
+            "new_value": "[現場狀況]1.110轉報：磁磚掉落砸到車  [各單位處置作為]@警察局：.@汐止區公所：案址應為環河街68號工廠，現場已拉起警示帶，後續提報工務局@消防局：現場已拉封鎖線，並通報工務局後續處理。(本案件已處理完畢。)",
+            "timestamp": "2025-10-22 16:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-22 16:21:04"
+        }
+    ]
 }
