@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉華新街192號(光復農會)後方空地車輛品牌\/特徵:PGO J-bubu 白色摩托車事由:民眾表示上週因災情摩托車卡在上述地點的淤泥，當時先將車牌移除且有留聯絡電話在車殼上面，後續有詢問大農大富車輛集中管理處及現場都找不到車輛，希望相關單位協助車輛協尋及後續連繫。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-10-06 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 09:11:04"
         }
     ]
 }
