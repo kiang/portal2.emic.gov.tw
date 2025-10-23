@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.民眾想詢問光復鄉鄉民甚麼時候可以開始清掃家裡?2.左鄰右舍已經開始整理，但家具家電都已經無法使用，縣府甚麼時候會派車子協助載走?3.堰塞湖會不會再次溢流?這個訊息必須讓鄉民知道。民眾表示聯繫不上鄉公所故進線詢問，但也沒有完整資訊感到不滿，希望有關單位能盡快提供資訊。本案件處理情形務必致電回覆。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "彭小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 15:11:04"
+        }
+    ]
 }

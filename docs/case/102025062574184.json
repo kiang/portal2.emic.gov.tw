@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "屏東縣富淼水產行表示，每週二固定會送貨至花蓮市，兒子於9月23日送貨途中遇上堰塞湖潰堤，整台車輛遭到淹沒，當時兒子受到驚嚇，並於當日被撤離至大進國小，因身為外地民眾，想詢問在此災情中是否有相關補助可申請，煩請相關單位協助致電回覆。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-07 12:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 15:11:04"
         }
     ]
 }
