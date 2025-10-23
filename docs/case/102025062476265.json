@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:吉安鄉吉安路三段與福興五街事由:民眾反映上述地點新鋪的柏油路有下陷情形，希望相關單位協助盡快派員勘查。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-09-24 04:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 15:21:04"
         }
     ]
 }

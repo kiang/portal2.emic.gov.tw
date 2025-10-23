@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:大同村敦厚路42巷25號事由:民眾為受災戶，目前淤泥在膝蓋以上，家裡門沒辦法開被堵住，鐵門完全無法開啟，因為家裡進泥土，沿路有看到挖土機行動，希望相關單位聯繫協助0989321159盧小姐",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "盧小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-09-26 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 15:21:04"
         }
     ]
 }
