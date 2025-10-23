@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "堰塞湖",
     "CASE_DESCRIPTION": "太魯閣燕子口堰塞湖，目前堰塞湖長度約800公尺、寬30至80公尺、深度約20公尺。壩體高度高於燕子口隧道（舊台8線道路），研判溢流後水流沿該隧道流出。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "新城分局",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-17 21:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 08:31:03"
         }
     ]
 }
