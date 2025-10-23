@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "2025\/10\/21 21:51:29 - 大里分隊回報：合興路往鐵路方向路面積淹水，泥水流動",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "陳家鴻",
     "INJURED_NO": 0,
@@ -55,6 +55,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-10-22 08:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 19:01:04"
         }
     ]
 }
