@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：光復鄉佛祖街385號事由：民眾一家共有三位成人與一位小孩，其中包含一位七十多歲長者。原先居住於佛祖街，因災情影響，目前暫時安置於瑞穗虎爺飯店。惟安置單位通知須於月底搬離，但原住處因受災嚴重，全屋被淤泥淹沒，尚未清理完成，暫時無法返回居住。懇請協助提供後續安置地點，以安頓全家生活。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-23 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-23 10:51:05"
         }
     ]
 }
