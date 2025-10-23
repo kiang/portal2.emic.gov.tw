@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉大安段608-11號、中學街75巷2弄、學士街160巷路邊事由:民眾表示光復鄉目前正在進行清淤，私有地被傾倒大量淤泥、廢棄物，擔心日後清理困難或遭人惡意檢舉，希望相關單位開徵用書等相關證明以保障地主權益。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-07 12:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-23 15:01:04"
         }
     ]
 }
