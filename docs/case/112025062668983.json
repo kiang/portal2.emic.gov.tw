@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/10\/20 上午 10:36:50",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中正區",
-    "CASE_LOC": "南海路-羅斯福路一段",
+    "CASE_LOC": "南海路-羅斯福路1段",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5181,25.03293",
     "DISASTER_MAIN_TYPE": "積淹水災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "南海路-羅斯福路一段",
+            "new_value": "南海路-羅斯福路1段",
+            "timestamp": "2025-10-25 02:31:04"
+        }
+    ]
 }
