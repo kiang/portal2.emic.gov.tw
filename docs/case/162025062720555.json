@@ -8,10 +8,10 @@
     "COORDINATE": "120.781205,24.6156265",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "道路雙向不通",
+    "CASE_DESCRIPTION": "已聯繫公園路燈管理所派員清理殘枝並移除，預計中午恢復通車",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
-    "PERSON_ID": "周瑞雄",
+    "PERSON_ID": "陳功業",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 1,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "道路雙向不通",
+            "new_value": "已聯繫公園路燈管理所派員清理殘枝並移除，預計中午恢復通車",
+            "timestamp": "2025-10-28 11:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "周瑞雄",
+            "new_value": "陳功業",
+            "timestamp": "2025-10-28 11:11:04"
+        }
+    ]
 }

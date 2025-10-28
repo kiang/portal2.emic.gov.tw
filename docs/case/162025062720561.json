@@ -8,7 +8,7 @@
     "COORDINATE": "121.21177,25.0638471",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "演練-地震導致路樹倒塌，影響通行",
+    "CASE_DESCRIPTION": "演練-地震導致路樹倒塌，影響通行，已派遣大園所員警前往設置阻絕設施，並於周邊道路加強交通疏導。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃振隆",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-地震導致路樹倒塌，影響通行",
+            "new_value": "演練-地震導致路樹倒塌，影響通行，已派遣大園所員警前往設置阻絕設施，並於周邊道路加強交通疏導。",
+            "timestamp": "2025-10-28 11:11:04"
+        }
+    ]
 }
