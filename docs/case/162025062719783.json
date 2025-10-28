@@ -8,7 +8,7 @@
     "COORDINATE": "121.1631969,23.0475958",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1028演練-豐泉里老人會館旁路樹倒塌，造成道路單向不通。",
+    "CASE_DESCRIPTION": "1028演練-豐泉里老人會館旁路樹倒塌，造成道路單向不通，已請本所開口契約廠商進行處置。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳廣隆",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1028演練-豐泉里老人會館旁路樹倒塌，造成道路單向不通。",
+            "new_value": "1028演練-豐泉里老人會館旁路樹倒塌，造成道路單向不通，已請本所開口契約廠商進行處置。",
+            "timestamp": "2025-10-28 10:01:05"
+        }
+    ]
 }

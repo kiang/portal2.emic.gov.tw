@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719615",
-    "CASE_DT": "2025\/10\/28 上午 09:29:14",
+    "CASE_DT": "2025\/10\/28 上午 09:50:00",
     "COUNTY_N": "嘉義縣",
     "TOWN_N": "中埔鄉",
     "CASE_LOC": "嘉義縣中埔鄉和美村忠義路20號",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.471956,23.452145",
     "DISASTER_MAIN_TYPE": "火災",
     "DISASTER_SUB_TYPE": "建築物",
-    "CASE_DESCRIPTION": "演練-民宅火警",
+    "CASE_DESCRIPTION": "演練-民宅火警，火勢已撲滅，人員待收容",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "曾淑瑩",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 2,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:29:14",
+            "new_value": "2025\/10\/28 上午 09:50:00",
+            "timestamp": "2025-10-28 10:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-民宅火警",
+            "new_value": "演練-民宅火警，火勢已撲滅，人員待收容",
+            "timestamp": "2025-10-28 10:01:04"
+        }
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719817",
-    "CASE_DT": "2025\/10\/28 上午 09:24:39",
+    "CASE_DT": "2025\/10\/28 上午 09:45:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "彌陀區",
     "CASE_LOC": "高雄市彌陀區中華路4號前",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.250639,22.781655",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "廣告招牌掉落砸傷1行人（演練）",
+    "CASE_DESCRIPTION": "廣告招牌掉落砸傷1行人，行人送醫治療後已離院，該掉落招牌現場已移除（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳慧萍",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:24:39",
+            "new_value": "2025\/10\/28 上午 09:45:00",
+            "timestamp": "2025-10-28 10:01:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "廣告招牌掉落砸傷1行人（演練）",
+            "new_value": "廣告招牌掉落砸傷1行人，行人送醫治療後已離院，該掉落招牌現場已移除（演練）",
+            "timestamp": "2025-10-28 10:01:05"
+        }
+    ]
 }

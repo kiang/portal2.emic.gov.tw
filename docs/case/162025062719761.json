@@ -8,7 +8,7 @@
     "COORDINATE": "120.326894,22.599516",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "（演練）高雄市前鎮區班超路18巷口有一塊招牌搖搖欲墜，部分牆磚剝落擊傷路過行人",
+    "CASE_DESCRIPTION": "（演練）高雄市前鎮區班超路18巷口有一塊招牌搖搖欲墜，部分牆磚剝落擊傷路過行人，救護車抵達現場將傷者送往阮綜合醫院，另外廠商已處理完成。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "周唐羽",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）高雄市前鎮區班超路18巷口有一塊招牌搖搖欲墜，部分牆磚剝落擊傷路過行人",
+            "new_value": "（演練）高雄市前鎮區班超路18巷口有一塊招牌搖搖欲墜，部分牆磚剝落擊傷路過行人，救護車抵達現場將傷者送往阮綜合醫院，另外廠商已處理完成。",
+            "timestamp": "2025-10-28 10:01:05"
+        }
+    ]
 }
