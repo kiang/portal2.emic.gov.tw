@@ -8,8 +8,8 @@
     "COORDINATE": "120.5694208,24.0753291",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "(演練初報)彰化市福山街50前鐵皮屋因地震影響倒塌",
-    "CASE_STATUS": "未受理",
+    "CASE_DESCRIPTION": "(演練續報)彰化市福山街50前因地震影響倒塌鐵皮屋已移除，道路交通恢復通行",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "張介翰",
     "INJURED_NO": 0,
@@ -17,7 +17,26 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(演練初報)彰化市福山街50前鐵皮屋因地震影響倒塌",
+            "new_value": "(演練續報)彰化市福山街50前因地震影響倒塌鐵皮屋已移除，道路交通恢復通行",
+            "timestamp": "2025-10-28 10:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未受理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 10:51:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 10:51:04"
+        }
+    ]
 }

@@ -8,7 +8,7 @@
     "COORDINATE": "120.395973,22.503689",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "（演練）民眾通報高雄市林園區東林里林園北路1號因地震造成廣告招牌掉落，有1名路過民眾受傷",
+    "CASE_DESCRIPTION": "（演練）民眾通報高雄市林園區東林里林園北路1號因地震造成廣告招牌掉落，有1名路過民眾受傷。並壓毀路邊機車(1輛)",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "鍾筱君",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）民眾通報高雄市林園區東林里林園北路1號因地震造成廣告招牌掉落，有1名路過民眾受傷",
+            "new_value": "（演練）民眾通報高雄市林園區東林里林園北路1號因地震造成廣告招牌掉落，有1名路過民眾受傷。並壓毀路邊機車(1輛)",
+            "timestamp": "2025-10-28 10:51:04"
+        }
+    ]
 }
