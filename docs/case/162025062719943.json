@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "演練發現廣告招牌掉落地上，已請清潔隊移除",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "孫瑛霞",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "發現廣告招牌掉落地上",
             "new_value": "演練發現廣告招牌掉落地上，已請清潔隊移除",
             "timestamp": "2025-10-28 10:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-10-28 10:11:08"
         }
     ]
 }
