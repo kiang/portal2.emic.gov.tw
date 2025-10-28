@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "11410240044、道路淹水、民眾反映地點：大園區?林里崁下72號之2 (?林往坑口捷運站方向過橋左轉)事由：上述路段要做航空城大道，但沒有做涵洞的緣故且位處低窪，這幾日連日大雨排水不利造成淹水，10\/23有派抽水機過去抽水但昨晚雨勢增長今早又再度淹起，希望多派幾部抽水機過去抽水。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳萬坤",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 08:51:04"
+        }
+    ]
 }
