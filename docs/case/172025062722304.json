@@ -8,8 +8,8 @@
     "COORDINATE": "120.49543,24.1067626",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "*演練*路樹倒塌",
-    "CASE_STATUS": "未受理",
+    "CASE_DESCRIPTION": "*演練*路樹倒塌，公所已派開口契約廠商移除樹木，道路恢復雙向交通。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "廖惠玲（彥佶🐟🐟、彥竣🦂）",
     "INJURED_NO": 0,
@@ -17,7 +17,26 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "*演練*路樹倒塌",
+            "new_value": "*演練*路樹倒塌，公所已派開口契約廠商移除樹木，道路恢復雙向交通。",
+            "timestamp": "2025-10-28 14:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未受理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 14:01:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 14:01:04"
+        }
+    ]
 }
