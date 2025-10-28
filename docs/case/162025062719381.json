@@ -8,7 +8,7 @@
     "COORDINATE": "120.327196,23.847524",
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車輛因災毀損",
-    "CASE_DESCRIPTION": "（演練）因天雨路滑，大貨車於潭墘路與上和路一段路口轉彎處打滑橫跨分隔島，無人傷亡",
+    "CASE_DESCRIPTION": "（演練）道路雙向不通，警方已封鎖路口，用路人需改到通行",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "馮嘉玉",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）因天雨路滑，大貨車於潭墘路與上和路一段路口轉彎處打滑橫跨分隔島，無人傷亡",
+            "new_value": "（演練）道路雙向不通，警方已封鎖路口，用路人需改到通行",
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

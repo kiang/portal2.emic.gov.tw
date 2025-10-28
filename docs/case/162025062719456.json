@@ -8,7 +8,7 @@
     "COORDINATE": "120.186031,22.888687",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
-    "CASE_DESCRIPTION": "故障路燈5盞「演練」",
+    "CASE_DESCRIPTION": "故障路燈5盞，預計2025-10-28 10時開始供電。「演練」",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "李燕華",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "故障路燈5盞「演練」",
+            "new_value": "故障路燈5盞，預計2025-10-28 10時開始供電。「演練」",
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

@@ -3,12 +3,12 @@
     "CASE_DT": "2025\/10\/28 上午 09:14:30",
     "COUNTY_N": "高雄市",
     "TOWN_N": "鳥松區",
-    "CASE_LOC": "高雄市鳥松區鳥松里29鄰松埔北巷4之5號鄰近鳥松國中（演練）",
+    "CASE_LOC": "高雄市鳥松區華美里8鄰美山路384巷7號（演練）",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.371756,22.666103",
+    "COORDINATE": "120.395781,22.659483",
     "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "（演練）鳥松國中側門道路傾斜恐影響人車通行",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "（演練）華美里北平路51巷路樹倒塌，已影響人車通行",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "鄭玉姍",
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "高雄市鳥松區鳥松里29鄰松埔北巷4之5號鄰近鳥松國中（演練）",
+            "new_value": "高雄市鳥松區華美里8鄰美山路384巷7號（演練）",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.371756,22.666103",
+            "new_value": "120.395781,22.659483",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "路樹倒塌",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）鳥松國中側門道路傾斜恐影響人車通行",
+            "new_value": "（演練）華美里北平路51巷路樹倒塌，已影響人車通行",
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

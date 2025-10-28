@@ -17,7 +17,14 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

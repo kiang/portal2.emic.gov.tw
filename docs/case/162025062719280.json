@@ -12,12 +12,25 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "賴振加",
-    "INJURED_NO": 3,
+    "INJURED_NO": 4,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 2,
+    "TRAPPED_NO": 3,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 3,
+            "new_value": 4,
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 2,
+            "new_value": 3,
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

@@ -8,7 +8,7 @@
     "COORDINATE": "120.6075335,23.4276567",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "工區及周邊區域損壞",
-    "CASE_DESCRIPTION": "【演練】工區及周邊區域損壞",
+    "CASE_DESCRIPTION": "【演練】工區及周邊區域損壞，坑洞補齊",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林祐聖",
@@ -17,7 +17,20 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": true,
+    "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "【演練】工區及周邊區域損壞",
+            "new_value": "【演練】工區及周邊區域損壞，坑洞補齊",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719363",
-    "CASE_DT": "2025\/10\/28 上午 09:22:03",
+    "CASE_DT": "2025\/10\/28 上午 09:30:00",
     "COUNTY_N": "嘉義縣",
     "TOWN_N": "六腳鄉",
     "CASE_LOC": "嘉義縣六腳鄉潭墘村8鄰潭子墘66號之17",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.27391,23.511042",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "演練-地震導致橋樑斷裂，無法通行",
+    "CASE_DESCRIPTION": "演練-餘震導致橋樑毀損更嚴重",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃玉嬌",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:22:03",
+            "new_value": "2025\/10\/28 上午 09:30:00",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-地震導致橋樑斷裂，無法通行",
+            "new_value": "演練-餘震導致橋樑毀損更嚴重",
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

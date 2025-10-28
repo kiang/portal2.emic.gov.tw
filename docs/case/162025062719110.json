@@ -8,16 +8,35 @@
     "COORDINATE": "121.101412,24.661913",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "路樹傾倒，擋住道路，無法通行（演練）",
+    "CASE_DESCRIPTION": "發現路樹壓到車輛，駕駛被困，（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "徐宇瑄",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 0,
+    "TRAPPED_NO": 1,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹傾倒，擋住道路，無法通行（演練）",
+            "new_value": "發現路樹壓到車輛，駕駛被困，（演練）",
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-28 09:41:05"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }

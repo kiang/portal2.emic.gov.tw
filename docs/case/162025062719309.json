@@ -8,7 +8,7 @@
     "COORDINATE": "120.8543445,23.6967321",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "因地震導致廣告招牌掉落（演練）",
+    "CASE_DESCRIPTION": "已派相關人員清潔處理（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "顏岳諾",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "因地震導致廣告招牌掉落（演練）",
+            "new_value": "已派相關人員清潔處理（演練）",
+            "timestamp": "2025-10-28 09:41:05"
+        }
+    ]
 }
