@@ -8,8 +8,8 @@
     "COORDINATE": "121.581,25.05818",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物半倒",
-    "CASE_DESCRIPTION": "行善路179號建物半倒",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "行善路179號建物半倒(演練)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "蘇怡樺",
     "INJURED_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2025-10-28 11:01:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "行善路179號建物半倒",
+            "new_value": "行善路179號建物半倒(演練)",
+            "timestamp": "2025-10-28 18:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 18:01:04"
         }
     ]
 }
