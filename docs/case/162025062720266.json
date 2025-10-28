@@ -13,11 +13,18 @@
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林姿妤",
     "INJURED_NO": 5,
-    "DEATH_NO": 0,
+    "DEATH_NO": 1,
     "TRAPPED_NO": 5,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DEATH_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

@@ -3,7 +3,7 @@
     "CASE_DT": "2025\/10\/28 上午 09:42:03",
     "COUNTY_N": "宜蘭縣",
     "TOWN_N": "蘇澳鎮",
-    "CASE_LOC": "宜蘭縣蘇澳鎮",
+    "CASE_LOC": "270宜蘭縣蘇澳鎮跨港路",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.8346892,24.5546706",
     "DISASTER_MAIN_TYPE": "橋梁災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "宜蘭縣蘇澳鎮",
+            "new_value": "270宜蘭縣蘇澳鎮跨港路",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

@@ -8,8 +8,8 @@
     "COORDINATE": "120.6294414,24.0062879",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "橋樑中斷演練",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "橋梁被大水沖斷. 指派機關單位 處理 >    橋樑中斷演練",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林威甫",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "橋樑中斷演練",
+            "new_value": "橋梁被大水沖斷. 指派機關單位 處理 >    橋樑中斷演練",
+            "timestamp": "2025-10-28 10:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

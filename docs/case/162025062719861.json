@@ -8,7 +8,7 @@
     "COORDINATE": "120.2672064,22.7607812",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物全倒",
-    "CASE_DESCRIPTION": "展寶路170號房屋倒塌",
+    "CASE_DESCRIPTION": "演練-展寶路170號房屋倒塌",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳怡華",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 5,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "展寶路170號房屋倒塌",
+            "new_value": "演練-展寶路170號房屋倒塌",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

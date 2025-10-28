@@ -17,7 +17,7 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
     "logs": [
         {
@@ -25,6 +25,12 @@
             "old_value": "（演練）路樹傾倒壓到民宅",
             "new_value": "（演練）路樹傾倒壓到民宅-多倒一顆",
             "timestamp": "2025-10-28 09:51:05"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 10:21:04"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719935",
-    "CASE_DT": "2025\/10\/28 上午 09:05:00",
+    "CASE_DT": "2025\/10\/28 上午 09:30:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "旗山區",
     "CASE_LOC": "高雄市旗山區延平一路500號",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.483228,22.889965",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "演練-上午9點5分許因地震導致廣告招牌掉落造成1人重傷",
+    "CASE_DESCRIPTION": "演練-上午9點5分許因地震導致廣告招牌掉落造成1人重傷，經醫治後已返家休養。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "鍾杰希",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:05:00",
+            "new_value": "2025\/10\/28 上午 09:30:00",
+            "timestamp": "2025-10-28 10:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-上午9點5分許因地震導致廣告招牌掉落造成1人重傷",
+            "new_value": "演練-上午9點5分許因地震導致廣告招牌掉落造成1人重傷，經醫治後已返家休養。",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

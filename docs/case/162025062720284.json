@@ -8,7 +8,7 @@
     "COORDINATE": "119.97071,26.213291",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "道路落石",
-    "CASE_DESCRIPTION": "（演練）因地震關係致白沙入村口邊坡落石掉落",
+    "CASE_DESCRIPTION": "（演練）因地震關係致白沙入村口邊坡多處落石掉落，為行車安全，採單向通車（續報）。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "唐湘菲",
@@ -17,7 +17,20 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）因地震關係致白沙入村口邊坡落石掉落",
+            "new_value": "（演練）因地震關係致白沙入村口邊坡多處落石掉落，為行車安全，採單向通車（續報）。",
+            "timestamp": "2025-10-28 10:21:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

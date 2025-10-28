@@ -15,9 +15,16 @@
     "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
-    "MISSING_NO": 0,
+    "MISSING_NO": 2,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "MISSING_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

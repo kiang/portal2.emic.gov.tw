@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719173",
-    "CASE_DT": "2025\/10\/28 上午 09:13:38",
+    "CASE_DT": "2025\/10\/28 上午 10:19:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
     "CASE_LOC": "臺北市北投區",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:13:38",
+            "new_value": "2025\/10\/28 上午 10:19:00",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }

@@ -12,7 +12,7 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "趙芊姵",
-    "INJURED_NO": 1,
+    "INJURED_NO": 2,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "新竹縣竹北市縣政二路路樹倒塌，",
             "new_value": "新竹縣竹北市縣政二路路樹倒塌(演練)",
             "timestamp": "2025-10-28 09:51:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 2,
+            "timestamp": "2025-10-28 10:21:04"
         }
     ]
 }

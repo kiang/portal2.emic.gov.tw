@@ -8,7 +8,7 @@
     "COORDINATE": "121.3018876,24.9939352",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "演練某?民宅鷹架倒塌造成交通中斷",
+    "CASE_DESCRIPTION": "演練某?民宅建築物已造成半倒",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "李鳳瑜",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練某?民宅鷹架倒塌造成交通中斷",
+            "new_value": "演練某?民宅建築物已造成半倒",
+            "timestamp": "2025-10-28 10:21:04"
+        }
+    ]
 }
