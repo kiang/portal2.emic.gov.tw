@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719043",
-    "CASE_DT": "2025\/10\/28 上午 09:04:40",
+    "CASE_DT": "2025\/10\/28 下午 10:44:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "大寮區",
     "CASE_LOC": "高雄市大寮區鳳林三路344巷15號",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.397862,22.603199",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "演練 該地址協前方道路樹木傾倒路上，影響車輛通行",
+    "CASE_DESCRIPTION": "演練 該地址協前方道路樹木傾倒路上，區公所已派廠商移除演練 該地址協前方道路銜牌快掉落，請派員處理",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "薛鈺琳",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:04:40",
+            "new_value": "2025\/10\/28 下午 10:44:00",
+            "timestamp": "2025-10-28 09:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練 該地址協前方道路樹木傾倒路上，影響車輛通行",
+            "new_value": "演練 該地址協前方道路樹木傾倒路上，區公所已派廠商移除演練 該地址協前方道路銜牌快掉落，請派員處理",
+            "timestamp": "2025-10-28 09:21:04"
+        }
+    ]
 }
