@@ -8,7 +8,7 @@
     "COORDINATE": "120.352554,23.233608",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "臺南市六甲區中正路673巷鐵皮屋倒塌，道路雙向不通",
+    "CASE_DESCRIPTION": "（演練）臺南市六甲區中正路673巷鐵皮屋倒塌，道路雙向不通",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "六甲區災害應變中心",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "臺南市六甲區中正路673巷鐵皮屋倒塌，道路雙向不通",
+            "new_value": "（演練）臺南市六甲區中正路673巷鐵皮屋倒塌，道路雙向不通",
+            "timestamp": "2025-10-28 10:31:04"
+        }
+    ]
 }

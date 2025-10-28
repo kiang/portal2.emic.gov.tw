@@ -12,12 +12,31 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "呂純守",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
-    "MISSING_NO": 0,
-    "SHELTER_NO": 0,
+    "MISSING_NO": 2,
+    "SHELTER_NO": 2,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-28 10:31:04"
+        },
+        {
+            "field": "MISSING_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2025-10-28 10:31:04"
+        },
+        {
+            "field": "SHELTER_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2025-10-28 10:31:04"
+        }
+    ]
 }

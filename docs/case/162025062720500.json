@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.8561966,24.3251017",
     "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_SUB_TYPE": "地貌突變（改變）",
     "CASE_DESCRIPTION": "（1028演練）地震造成道路旁圍籬倒塌。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "地貌突變（改變）",
+            "timestamp": "2025-10-28 10:31:04"
+        }
+    ]
 }

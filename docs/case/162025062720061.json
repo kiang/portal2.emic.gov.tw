@@ -8,16 +8,29 @@
     "COORDINATE": "120.4832687,22.888673",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物半倒",
-    "CASE_DESCRIPTION": "演練-於延平一路540號建物半倒，屋內有一名老人受困且被吊扇壓傷",
+    "CASE_DESCRIPTION": "演練-於延平一路540號建物半倒，屋內有一名老人受困且被吊扇壓傷，傷患經救出後送醫，目前住院觀察中",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "楊宜蓁",
     "INJURED_NO": 1,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 1,
+    "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-於延平一路540號建物半倒，屋內有一名老人受困且被吊扇壓傷",
+            "new_value": "演練-於延平一路540號建物半倒，屋內有一名老人受困且被吊扇壓傷，傷患經救出後送醫，目前住院觀察中",
+            "timestamp": "2025-10-28 10:31:04"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2025-10-28 10:31:04"
+        }
+    ]
 }
