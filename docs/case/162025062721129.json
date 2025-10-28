@@ -8,7 +8,7 @@
     "COORDINATE": "121.219795,24.955185",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "演練___中壢區中正路與康樂路口交通號誌桿傾斜。",
+    "CASE_DESCRIPTION": "演練___中壢區中正路與康樂路口交通號誌桿傾斜。已通報中壢派出所到場協助拉起封鎖線，協助交通疏導，因號誌桿傾斜嚴重有倒塌風險，通知工務局到場移除交通號誌桿。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "郭致呈",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練___中壢區中正路與康樂路口交通號誌桿傾斜。",
+            "new_value": "演練___中壢區中正路與康樂路口交通號誌桿傾斜。已通報中壢派出所到場協助拉起封鎖線，協助交通疏導，因號誌桿傾斜嚴重有倒塌風險，通知工務局到場移除交通號誌桿。",
+            "timestamp": "2025-10-28 11:41:03"
+        }
+    ]
 }
