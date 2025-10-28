@@ -8,7 +8,7 @@
     "COORDINATE": "120.853498,23.702173",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "因地震緣故導致路樹倒塌影響交通",
+    "CASE_DESCRIPTION": "已派員清理完畢（演練）受傷人員也就醫治療無大礙",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "顏岳諾",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "因地震緣故導致路樹倒塌影響交通",
+            "new_value": "已派員清理完畢（演練）受傷人員也就醫治療無大礙",
+            "timestamp": "2025-10-28 10:41:04"
+        }
+    ]
 }
