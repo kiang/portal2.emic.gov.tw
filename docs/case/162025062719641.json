@@ -8,7 +8,7 @@
     "COORDINATE": "120.562596,24.143412",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物半倒",
-    "CASE_DESCRIPTION": "一戶半倒，初判有一人在內（演練）",
+    "CASE_DESCRIPTION": "一戶半倒，消防員已確認無人員受困（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉士禎",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "一戶半倒，初判有一人在內（演練）",
+            "new_value": "一戶半倒，消防員已確認無人員受困（演練）",
+            "timestamp": "2025-10-28 09:51:05"
+        }
+    ]
 }

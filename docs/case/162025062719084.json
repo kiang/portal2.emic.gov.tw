@@ -8,7 +8,7 @@
     "COORDINATE": "120.4881541,22.6821909",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "水利處1028演練",
+    "CASE_DESCRIPTION": "【演練】倒塌路樹8(棵)，造成交通影響為道路雙向不通",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "鍾京翰",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "水利處1028演練",
+            "new_value": "【演練】倒塌路樹8(棵)，造成交通影響為道路雙向不通",
+            "timestamp": "2025-10-28 09:51:06"
+        }
+    ]
 }

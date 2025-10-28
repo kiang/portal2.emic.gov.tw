@@ -8,7 +8,7 @@
     "COORDINATE": "120.710399,24.149733",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "樹德路與育賢路交叉口之交通號誌（紅綠燈）故障（演練）",
+    "CASE_DESCRIPTION": "樹德路與育賢路交叉口之交通號誌（紅綠燈）已於今日上午9時40分修復完成（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "張子揚",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹德路與育賢路交叉口之交通號誌（紅綠燈）故障（演練）",
+            "new_value": "樹德路與育賢路交叉口之交通號誌（紅綠燈）已於今日上午9時40分修復完成（演練）",
+            "timestamp": "2025-10-28 09:51:05"
+        }
+    ]
 }

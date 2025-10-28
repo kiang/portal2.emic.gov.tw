@@ -8,7 +8,7 @@
     "COORDINATE": "121.2117877,24.8506495",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "（演練）路樹傾倒壓到民宅",
+    "CASE_DESCRIPTION": "（演練）路樹傾倒壓到民宅-多倒一顆",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "李昌庭",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）路樹傾倒壓到民宅",
+            "new_value": "（演練）路樹傾倒壓到民宅-多倒一顆",
+            "timestamp": "2025-10-28 09:51:05"
+        }
+    ]
 }

@@ -8,16 +8,29 @@
     "COORDINATE": "120.712456,22.069883",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "福安宮停車場公用廁所修繕鷹架傾倒",
+    "CASE_DESCRIPTION": "（演練）福安宮停車場公用廁所修繕鷹架傾倒，安裝廠商前往拆除，兩名工人被壓傷",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林舜鍾",
-    "INJURED_NO": 1,
+    "INJURED_NO": 5,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "福安宮停車場公用廁所修繕鷹架傾倒",
+            "new_value": "（演練）福安宮停車場公用廁所修繕鷹架傾倒，安裝廠商前往拆除，兩名工人被壓傷",
+            "timestamp": "2025-10-28 09:51:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 5,
+            "timestamp": "2025-10-28 09:51:05"
+        }
+    ]
 }
