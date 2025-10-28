@@ -8,7 +8,7 @@
     "COORDINATE": "120.6294241,22.3708978",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "老古華村莊路口電桿疑似漏電造成附近住家停電",
+    "CASE_DESCRIPTION": "已封鎖周邊道路並派員修復",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "高偉",
@@ -17,7 +17,20 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "老古華村莊路口電桿疑似漏電造成附近住家停電",
+            "new_value": "已封鎖周邊道路並派員修復",
+            "timestamp": "2025-10-28 14:31:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 14:31:04"
+        }
+    ]
 }
