@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物半倒",
     "CASE_DESCRIPTION": "演練-發現房屋半倒一間，已拉上封鎖線，禁止民眾靠近",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "麗萍",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2025-10-28 10:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 14:21:04"
         }
     ]
 }
