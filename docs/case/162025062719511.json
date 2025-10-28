@@ -6,9 +6,9 @@
     "CASE_LOC": "澎湖縣馬公市",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "119.59234,23.55534",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "〔 演練〕馬公光復路三多路口店家招牌因地震及強風掉落",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "〔 演練〕馬公光復路三多路口落石擋道",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "蔡柏欣",
@@ -31,6 +31,24 @@
             "old_value": "〔 演練〕馬公光復路三多路口店家招牌因強風掉落",
             "new_value": "〔 演練〕馬公光復路三多路口店家招牌因地震及強風掉落",
             "timestamp": "2025-10-28 10:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2025-10-28 11:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌掉落",
+            "new_value": "道路落石",
+            "timestamp": "2025-10-28 11:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "〔 演練〕馬公光復路三多路口店家招牌因地震及強風掉落",
+            "new_value": "〔 演練〕馬公光復路三多路口落石擋道",
+            "timestamp": "2025-10-28 11:21:04"
         }
     ]
 }

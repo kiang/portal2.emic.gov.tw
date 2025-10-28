@@ -8,7 +8,7 @@
     "COORDINATE": "121.234971,25.036515",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "廣告招牌懸掛欲墜",
+    "CASE_DESCRIPTION": "廣告招牌懸掛欲墜，已請吊卡卸除，無安全疑慮",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "宗承駿",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "廣告招牌懸掛欲墜",
+            "new_value": "廣告招牌懸掛欲墜，已請吊卡卸除，無安全疑慮",
+            "timestamp": "2025-10-28 11:21:04"
+        }
+    ]
 }
