@@ -8,7 +8,7 @@
     "COORDINATE": "121.2991023,25.0001604",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
-    "CASE_DESCRIPTION": "演練-桃園區成功路三段忠烈祠旁有土石流崩落於道路上，影響交通",
+    "CASE_DESCRIPTION": "演練-桃園區成功路三段忠烈祠旁有土石流崩落於道路上，影響交通，現場由員警實施交通管制並由相關單位搶修中。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "李少傑",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-桃園區成功路三段忠烈祠旁有土石流崩落於道路上，影響交通",
+            "new_value": "演練-桃園區成功路三段忠烈祠旁有土石流崩落於道路上，影響交通，現場由員警實施交通管制並由相關單位搶修中。",
+            "timestamp": "2025-10-28 11:01:04"
+        }
+    ]
 }

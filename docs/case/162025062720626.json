@@ -8,7 +8,7 @@
     "COORDINATE": "120.625499,24.338944",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "（演練）櫻花建設水美路大樓鷹架倒塌散落路面",
+    "CASE_DESCRIPTION": "（演練）櫻花建設水美路大樓鷹架倒塌散落路面廠商移除中",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "許惠蒨",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）櫻花建設水美路大樓鷹架倒塌散落路面",
+            "new_value": "（演練）櫻花建設水美路大樓鷹架倒塌散落路面廠商移除中",
+            "timestamp": "2025-10-28 11:01:04"
+        }
+    ]
 }

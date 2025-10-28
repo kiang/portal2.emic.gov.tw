@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062720328",
-    "CASE_DT": "2025\/10\/28 上午 10:04:06",
+    "CASE_DT": "2025\/10\/28 上午 10:50:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "臺北市士林區",
@@ -8,7 +8,7 @@
     "COORDINATE": "121.5508473,25.125467",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "路樹傾倒單向無法通行",
+    "CASE_DESCRIPTION": "〔10:48 警察局〕現場障礙已清除，恢復雙向通車。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "楊威麟",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 10:04:06",
+            "new_value": "2025\/10\/28 上午 10:50:00",
+            "timestamp": "2025-10-28 11:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹傾倒單向無法通行",
+            "new_value": "〔10:48 警察局〕現場障礙已清除，恢復雙向通車。",
+            "timestamp": "2025-10-28 11:01:04"
+        }
+    ]
 }

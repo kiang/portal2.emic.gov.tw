@@ -12,12 +12,19 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "柯曉芬",
-    "INJURED_NO": 2,
+    "INJURED_NO": 3,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 2,
+            "new_value": 3,
+            "timestamp": "2025-10-28 11:01:04"
+        }
+    ]
 }
