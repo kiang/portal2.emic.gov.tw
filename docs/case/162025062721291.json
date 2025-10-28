@@ -8,7 +8,7 @@
     "COORDINATE": "120.4439134,24.0479298",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "因為地震導致路數倒塌（演練）已派轄區派出所協助指揮交通",
+    "CASE_DESCRIPTION": "因為地震導致路數倒塌（演練）已派轄區派出所協助指揮交通以處理完竣",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林淑娟",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "因為地震導致路數倒塌（演練）已派轄區派出所協助指揮交通",
+            "new_value": "因為地震導致路數倒塌（演練）已派轄區派出所協助指揮交通以處理完竣",
+            "timestamp": "2025-10-28 12:41:03"
+        }
+    ]
 }
