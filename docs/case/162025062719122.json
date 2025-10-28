@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062719122",
-    "CASE_DT": "2025\/10\/28 上午 09:08:00",
+    "CASE_DT": "2025\/10\/28 上午 09:22:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "左營區",
     "CASE_LOC": "高雄市左營區",
@@ -8,7 +8,7 @@
     "COORDINATE": "120.2951588,22.683957",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "（1028演練）博愛四路1111號前，路樹倒塌1棵",
+    "CASE_DESCRIPTION": "（1028演練）博愛四路1111號前，路樹倒塌1棵，壓傷2名騎士，救護人員已到場將兩名傷患送醫",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃敬誠",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/28 上午 09:08:00",
+            "new_value": "2025\/10\/28 上午 09:22:00",
+            "timestamp": "2025-10-28 09:31:07"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（1028演練）博愛四路1111號前，路樹倒塌1棵",
+            "new_value": "（1028演練）博愛四路1111號前，路樹倒塌1棵，壓傷2名騎士，救護人員已到場將兩名傷患送醫",
+            "timestamp": "2025-10-28 09:31:07"
+        }
+    ]
 }

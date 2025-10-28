@@ -8,7 +8,7 @@
     "COORDINATE": "120.3156493,23.305683",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹因強風倒塌，致道路受阻",
+    "CASE_DESCRIPTION": "路樹因強風倒塌，致道路受阻（警察局通報）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳昭佑",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹因強風倒塌，致道路受阻",
+            "new_value": "路樹因強風倒塌，致道路受阻（警察局通報）",
+            "timestamp": "2025-10-28 09:31:07"
+        }
+    ]
 }

@@ -8,7 +8,7 @@
     "COORDINATE": "120.375303,23.077604",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "道路積淹水（演練）",
+    "CASE_DESCRIPTION": "道路積淹水，淹水高度達40公分（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "郭芷寧",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "道路積淹水（演練）",
+            "new_value": "道路積淹水，淹水高度達40公分（演練）",
+            "timestamp": "2025-10-28 09:31:07"
+        }
+    ]
 }

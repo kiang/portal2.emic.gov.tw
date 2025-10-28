@@ -8,7 +8,7 @@
     "COORDINATE": "120.7201645,23.2770014",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "因震災導致橋樑斷裂及路樹倒塌（演練）",
+    "CASE_DESCRIPTION": "因震災導致橋樑斷裂及路樹倒塌，路樹倒塌砸到車子，因橋樑雙向不通，車上2人受困輕傷（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "顏筱玟",
@@ -18,6 +18,19 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "因震災導致橋樑斷裂及路樹倒塌（演練）",
+            "new_value": "因震災導致橋樑斷裂及路樹倒塌，路樹倒塌砸到車子，因橋樑雙向不通，車上2人受困輕傷（演練）",
+            "timestamp": "2025-10-28 09:31:07"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-28 09:31:07"
+        }
+    ]
 }

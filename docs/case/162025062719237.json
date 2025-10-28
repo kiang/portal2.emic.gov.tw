@@ -8,7 +8,7 @@
     "COORDINATE": "120.8505904,24.5024969",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "路樹倒塌",
+    "CASE_DESCRIPTION": "樹木倒塌壓倒電線演練",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃辰希",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌",
+            "new_value": "樹木倒塌壓倒電線演練",
+            "timestamp": "2025-10-28 09:31:07"
+        }
+    ]
 }
