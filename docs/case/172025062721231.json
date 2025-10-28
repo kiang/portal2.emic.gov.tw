@@ -8,8 +8,8 @@
     "COORDINATE": "120.5694208,24.0753291",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "(演練初報)彰化市竹和路22前因地震影響導致廣告招牌掉落,砸毀1車輛",
-    "CASE_STATUS": "未受理",
+    "CASE_DESCRIPTION": "(演練續報)彰化市竹和路22前因地震影響掉落廣告招牌已由本所清潔隊清除，完成恢復道路暢通。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "張介翰",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(演練初報)彰化市竹和路22前因地震影響導致廣告招牌掉落,砸毀1車輛",
+            "new_value": "(演練續報)彰化市竹和路22前因地震影響掉落廣告招牌已由本所清潔隊清除，完成恢復道路暢通。",
+            "timestamp": "2025-10-28 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未受理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-28 11:31:04"
+        }
+    ]
 }

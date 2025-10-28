@@ -8,7 +8,7 @@
     "COORDINATE": "121.2913102,24.949689",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "演練-興豐路200號路樹倒塌，請派員前往處理",
+    "CASE_DESCRIPTION": "演練-已派員前往交通管制",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "邱致誠",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-興豐路200號路樹倒塌，請派員前往處理",
+            "new_value": "演練-已派員前往交通管制",
+            "timestamp": "2025-10-28 11:31:04"
+        }
+    ]
 }

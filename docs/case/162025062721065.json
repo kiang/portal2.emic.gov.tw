@@ -8,7 +8,7 @@
     "COORDINATE": "121.6044553,24.0394066",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "演練，道路雙向不通",
+    "CASE_DESCRIPTION": "演練，道路單向通行",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "謝京丞",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練，道路雙向不通",
+            "new_value": "演練，道路單向通行",
+            "timestamp": "2025-10-28 11:31:04"
+        }
+    ]
 }
