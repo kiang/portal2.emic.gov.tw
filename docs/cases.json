@@ -6,6 +6,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.537325,
+                    24.957933
+                ]
+            },
+            "properties": {
+                "CASE_ID": "162025062727581",
+                "CASE_DT": "2025\/10\/29 上午 09:59:27",
+                "DISASTER_MAIN_TYPE": "橋梁災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5418193,
+                    24.9680563
+                ]
+            },
+            "properties": {
+                "CASE_ID": "162025062727582",
+                "CASE_DT": "2025\/10\/29 上午 09:59:03",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5419485,
+                    24.9675439
+                ]
+            },
+            "properties": {
+                "CASE_ID": "162025062727590",
+                "CASE_DT": "2025\/10\/29 上午 09:58:55",
+                "DISASTER_MAIN_TYPE": "廣告招牌災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": true,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.5417722,
                     24.9680556
                 ]
@@ -3542,7 +3596,7 @@
                 "CASE_ID": "162025062719173",
                 "CASE_DT": "2025\/10\/28 上午 11:10:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
