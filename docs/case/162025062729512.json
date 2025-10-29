@@ -8,7 +8,7 @@
     "COORDINATE": "121.637663,25.221758",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "【演練】廣告招牌預墜",
+    "CASE_DESCRIPTION": "【演練】廣告招牌已處理完成",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉許毅",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "【演練】廣告招牌預墜",
+            "new_value": "【演練】廣告招牌已處理完成",
+            "timestamp": "2025-10-29 14:41:04"
+        }
+    ]
 }
