@@ -8,7 +8,7 @@
     "COORDINATE": "121.7384395,25.0265191",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "路樹頃斜",
+    "CASE_DESCRIPTION": "已暫時將快傾倒路樹固定",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "許獻中",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹頃斜",
+            "new_value": "已暫時將快傾倒路樹固定",
+            "timestamp": "2025-10-29 10:51:03"
+        }
+    ]
 }
