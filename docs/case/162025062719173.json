@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "路樹傾斜（演練）",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "柯玫伶",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "2025\/10\/28 上午 10:19:00",
             "new_value": "2025\/10\/28 上午 11:10:00",
             "timestamp": "2025-10-28 11:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-10-29 10:01:14"
         }
     ]
 }
