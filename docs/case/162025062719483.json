@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "招牌掉落現場以由相關單位清理完畢（演練）",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林威成",
     "INJURED_NO": 1,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-29 10:01:14"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-10-29 10:41:04"
         }
     ]
 }
