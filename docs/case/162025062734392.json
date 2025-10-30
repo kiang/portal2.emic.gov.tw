@@ -8,11 +8,11 @@
     "COORDINATE": "120.612562,23.605255",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "演練-土石局部崩塌，影響交通",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "演練-土石崩塌，影響雙向交通",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "林佳穎",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-土石局部崩塌，影響交通",
+            "new_value": "演練-土石崩塌，影響雙向交通",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-30 09:51:03"
         }
     ]
 }

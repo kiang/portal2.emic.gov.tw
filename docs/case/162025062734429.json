@@ -8,8 +8,8 @@
     "COORDINATE": "120.3025614,23.5759824",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "古蹟毀損",
-    "CASE_DESCRIPTION": "(演練)北港鎮北辰路1號天祥宮外觀毀損，牆面剝落。",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "(演練)北港鎮北辰路1號天祥宮外觀毀損，已清除掉落物。",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "許昕雅",
     "INJURED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(演練)北港鎮北辰路1號天祥宮外觀毀損，牆面剝落。",
+            "new_value": "(演練)北港鎮北辰路1號天祥宮外觀毀損，已清除掉落物。",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 09:51:03"
         }
     ]
 }

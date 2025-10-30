@@ -8,8 +8,8 @@
     "COORDINATE": "120.305456,23.58162",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "（ 演練）北港鎮新南路136 號前建物輕微受損",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "（ 演練）北港鎮新南路136 號前建物輕微受損，已請開口契約廠商設置圍籬範圍無安全之虞",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "王學宇",
     "INJURED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（ 演練）北港鎮新南路136 號前建物輕微受損",
+            "new_value": "（ 演練）北港鎮新南路136 號前建物輕微受損，已請開口契約廠商設置圍籬範圍無安全之虞",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 09:51:03"
         }
     ]
 }

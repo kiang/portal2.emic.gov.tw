@@ -1,6 +1,6 @@
 {
     "CASE_ID": "162025062734386",
-    "CASE_DT": "2025\/10\/30 上午 09:07:23",
+    "CASE_DT": "2025\/10\/30 上午 09:43:00",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "土庫鎮",
     "CASE_LOC": "雲林縣土庫鎮石廟里10鄰中興路175號",
@@ -8,8 +8,8 @@
     "COORDINATE": "120.3897181,23.682181",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "[演練]路樹倒塌，影響單向通行",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "[演練]路樹倒塌，影響單向通行，已由開口契約廠商完成排除。",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳峻賢",
     "INJURED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/30 上午 09:07:23",
+            "new_value": "2025\/10\/30 上午 09:43:00",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "[演練]路樹倒塌，影響單向通行",
+            "new_value": "[演練]路樹倒塌，影響單向通行，已由開口契約廠商完成排除。",
+            "timestamp": "2025-10-30 09:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 09:51:03"
         }
     ]
 }

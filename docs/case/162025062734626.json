@@ -8,7 +8,7 @@
     "COORDINATE": "120.5312128,23.6987726",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "公園路樹倒塌影響行車（演練）",
+    "CASE_DESCRIPTION": "民眾自行復原交通尚可通行（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "丁煌霖",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "公園路樹倒塌影響行車（演練）",
+            "new_value": "民眾自行復原交通尚可通行（演練）",
+            "timestamp": "2025-10-30 09:51:03"
+        }
+    ]
 }
