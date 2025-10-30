@@ -8,16 +8,35 @@
     "COORDINATE": "120.942578,24.794419",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "道路落石",
-    "CASE_DESCRIPTION": "（演練）邊坡土石掉落一輛車損毀",
+    "CASE_DESCRIPTION": "（演練）邊坡土石遍佈道路5輛車輛受損有人員受困",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉育甄",
-    "INJURED_NO": 1,
+    "INJURED_NO": 5,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 1,
+    "TRAPPED_NO": 3,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）邊坡土石掉落一輛車損毀",
+            "new_value": "（演練）邊坡土石遍佈道路5輛車輛受損有人員受困",
+            "timestamp": "2025-10-30 09:21:03"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 5,
+            "timestamp": "2025-10-30 09:21:03"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 1,
+            "new_value": 3,
+            "timestamp": "2025-10-30 09:21:03"
+        }
+    ]
 }

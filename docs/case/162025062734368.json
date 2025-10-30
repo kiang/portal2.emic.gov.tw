@@ -8,16 +8,35 @@
     "COORDINATE": "120.942321,24.797407",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1棵路樹倒塌至人行道（演練）",
+    "CASE_DESCRIPTION": "路樹倒塌壓傷1人（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "李盈禎",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1棵路樹倒塌至人行道（演練）",
+            "new_value": "路樹倒塌壓傷1人（演練）",
+            "timestamp": "2025-10-30 09:21:03"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-30 09:21:03"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-30 09:21:03"
+        }
+    ]
 }
