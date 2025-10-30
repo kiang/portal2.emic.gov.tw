@@ -8,8 +8,8 @@
     "COORDINATE": "120.4831739,23.9517146",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "（演練）路樹倒影響車輛通行",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "測試",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "巫銘仁",
     "INJURED_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-10-28 10:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）路樹倒影響車輛通行",
+            "new_value": "測試",
+            "timestamp": "2025-10-30 14:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 14:21:04"
         }
     ]
 }
