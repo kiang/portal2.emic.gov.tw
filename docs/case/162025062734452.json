@@ -12,12 +12,37 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "鄭妙評",
-    "INJURED_NO": 0,
-    "DEATH_NO": 0,
+    "INJURED_NO": 2,
+    "DEATH_NO": 1,
     "TRAPPED_NO": 0,
-    "MISSING_NO": 0,
+    "MISSING_NO": 1,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "DEATH_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "MISSING_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-30 09:31:04"
+        }
+    ]
 }
