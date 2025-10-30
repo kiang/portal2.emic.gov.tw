@@ -8,8 +8,8 @@
     "COORDINATE": "121.46553,25.01227",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "[現場狀況]1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。  [各單位處置作為]@消防局：已處理完成(本案件已處理完畢。)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -55,6 +55,18 @@
             "old_value": "已處理",
             "new_value": "未指派",
             "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。",
+            "new_value": "[現場狀況]1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。  [各單位處置作為]@消防局：已處理完成(本案件已處理完畢。)",
+            "timestamp": "2025-10-30 16:01:08"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-10-30 16:01:08"
         }
     ]
 }
