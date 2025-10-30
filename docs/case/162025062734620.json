@@ -8,7 +8,7 @@
     "COORDINATE": "120.5312376,23.6988785",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "斗六社福中心停電電梯2人受困且牆壁毀損",
+    "CASE_DESCRIPTION": "（演練）斗六社福中心停電電梯2人受困且牆壁毀損",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "郭少皇",
@@ -55,6 +55,12 @@
             "old_value": "已處理",
             "new_value": "未指派",
             "timestamp": "2025-10-30 12:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "斗六社福中心停電電梯2人受困且牆壁毀損",
+            "new_value": "（演練）斗六社福中心停電電梯2人受困且牆壁毀損",
+            "timestamp": "2025-10-30 15:21:04"
         }
     ]
 }
