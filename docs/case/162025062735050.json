@@ -8,7 +8,7 @@
     "COORDINATE": "121.7382814,25.0267347",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "（演練）路樹倒塌，影響交通",
+    "CASE_DESCRIPTION": "（演練）路樹倒塌，影響交通，已處理完畢",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃品偵",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）路樹倒塌，影響交通",
+            "new_value": "（演練）路樹倒塌，影響交通，已處理完畢",
+            "timestamp": "2025-10-30 10:41:03"
+        }
+    ]
 }

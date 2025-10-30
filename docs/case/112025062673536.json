@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673536",
-    "CASE_DT": "2025\/10\/20 上午 11:10:00",
+    "CASE_DT": "2025\/10\/30 上午 09:24:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "八里區",
-    "CASE_LOC": "八里區長道坑19號",
+    "TOWN_N": "三芝區",
+    "CASE_LOC": "三芝區三芝區公所",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.39621,25.11099",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.八里區長道坑19號，該址再往前約100公尺處，共三處有路樹傾倒及落石，已占據一線車道，請單位協助清除。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.50093,25.25774",
+    "DISASTER_MAIN_TYPE": "橋梁災情",
+    "DISASTER_SUB_TYPE": "橋墩基礎沖刷",
+    "CASE_DESCRIPTION": "1.三芝區埔頭橋,因颱風影響橋墩斷裂,目前雙向全線不通,進行封橋作業",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "侯有全",
     "INJURED_NO": 0,
@@ -18,6 +18,61 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 上午 11:10:00",
+            "new_value": "2025\/10\/30 上午 09:24:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "八里區",
+            "new_value": "三芝區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "八里區長道坑19號",
+            "new_value": "三芝區三芝區公所",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.39621,25.11099",
+            "new_value": "121.50093,25.25774",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "橋梁災情",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "橋墩基礎沖刷",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.八里區長道坑19號，該址再往前約100公尺處，共三處有路樹傾倒及落石，已占據一線車道，請單位協助清除。",
+            "new_value": "1.三芝區埔頭橋,因颱風影響橋墩斷裂,目前雙向全線不通,進行封橋作業",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }

@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673537",
-    "CASE_DT": "2025\/10\/20 上午 11:01:00",
+    "CASE_DT": "2025\/10\/30 上午 09:18:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新店區",
-    "CASE_LOC": "新店區安一路二段和車子路交叉口",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區瑞柑新村",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50469,24.95454",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "1.受損車輛 O 輛淹水程度-輕度淹水(30公分以下)\/中度淹水(30~100公分)\/嚴重淹水(100公分以上)人身安全影響-無\/人身安全收到危害\/其他2.新店區安一路二段和車子路交叉口，安一路二段(從「耕莘醫院」至「景文科大」)沿線200公尺的車道和人行道淹水(水深約40公分)，請相關單位儘快派員處理。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.82886,25.10631",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.瑞芳區瑞柑新村附近市道(北37)因地震造成多處路樹傾倒，造成道路雙向不通",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "劉運謙",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 上午 11:01:00",
+            "new_value": "2025\/10\/30 上午 09:18:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新店區",
+            "new_value": "瑞芳區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新店區安一路二段和車子路交叉口",
+            "new_value": "瑞芳區瑞柑新村",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50469,24.95454",
+            "new_value": "121.82886,25.10631",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "地區積淹水",
+            "new_value": "路樹傾斜",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.受損車輛 O 輛淹水程度-輕度淹水(30公分以下)\/中度淹水(30~100公分)\/嚴重淹水(100公分以上)人身安全影響-無\/人身安全收到危害\/其他2.新店區安一路二段和車子路交叉口，安一路二段(從「耕莘醫院」至「景文科大」)沿線200公尺的車道和人行道淹水(水深約40公分)，請相關單位儘快派員處理。",
+            "new_value": "1.瑞芳區瑞柑新村附近市道(北37)因地震造成多處路樹傾倒，造成道路雙向不通",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }

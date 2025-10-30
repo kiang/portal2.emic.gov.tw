@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673552",
-    "CASE_DT": "2025\/10\/20 上午 08:26:39",
+    "CASE_DT": "2025\/10\/30 上午 09:15:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區新北市林口區 北77鄉道 3K處",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區中山路一段161號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.31290,25.10387",
+    "COORDINATE": "121.46553,25.01227",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.新北市林口區 北77鄉道 3K處路樹往路面傾倒 壓著電線 報案電話0966757324",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -19,5 +19,42 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 上午 08:26:39",
+            "new_value": "2025\/10\/30 上午 09:15:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "板橋區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區新北市林口區 北77鄉道 3K處",
+            "new_value": "板橋區中山路一段161號",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.31290,25.10387",
+            "new_value": "121.46553,25.01227",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新北市林口區 北77鄉道 3K處路樹往路面傾倒 壓著電線 報案電話0966757324",
+            "new_value": "1.板橋區中山路一段161號一帶，因地震多處樹木傾倒。",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }

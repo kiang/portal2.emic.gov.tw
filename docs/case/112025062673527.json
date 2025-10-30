@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673527",
-    "CASE_DT": "2025\/10\/20 下午 12:37:00",
+    "CASE_DT": "2025\/10\/30 上午 09:34:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "永和區",
-    "CASE_LOC": "永和區水源街43巷10號",
+    "TOWN_N": "泰山區",
+    "CASE_LOC": "泰山區大科路300號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50967,25.00363",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.永和區水源街43巷10號，目前該址位於5樓至6樓之間的牆面有磁磚掉落，因為通報人係從照片上看，所以不清楚掉落範圍，欲通知以上資訊，請單位儘速協助處理改善。  2.單位加派：(新增單位)工務局",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.40490,25.05656",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.泰山區大科路一帶，因強風多處樹木傾倒。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王盈芳",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 下午 12:37:00",
+            "new_value": "2025\/10\/30 上午 09:34:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "永和區",
+            "new_value": "泰山區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "永和區水源街43巷10號",
+            "new_value": "泰山區大科路300號",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50967,25.00363",
+            "new_value": "121.40490,25.05656",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹傾斜",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.永和區水源街43巷10號，目前該址位於5樓至6樓之間的牆面有磁磚掉落，因為通報人係從照片上看，所以不清楚掉落範圍，欲通知以上資訊，請單位儘速協助處理改善。  2.單位加派：(新增單位)工務局",
+            "new_value": "1.泰山區大科路一帶，因強風多處樹木傾倒。",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }

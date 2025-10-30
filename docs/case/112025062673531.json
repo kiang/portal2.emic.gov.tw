@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673531",
-    "CASE_DT": "2025\/10\/20 上午 11:50:00",
+    "CASE_DT": "2025\/10\/30 上午 09:22:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新店區",
-    "CASE_LOC": "新店區安康路三段660巷",
+    "TOWN_N": "雙溪區",
+    "CASE_LOC": "雙溪區雙溪區東榮街",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.47627,24.94444",
-    "DISASTER_MAIN_TYPE": "道路、隧道災情",
-    "DISASTER_SUB_TYPE": "道路落石",
-    "CASE_DESCRIPTION": "1.新店區安康路三段660巷第一個轉灣巷道，目前因下雨而導致山坡土石崩落，高度已達民眾住家圍牆，請單位維護。  2.新店區安康路三段660巷第一個轉灣巷道，目前因下雨而導致山坡土石崩落，高度已達民眾住家圍牆，請單位維護。  3.併案案號45",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.86525,25.03434",
+    "DISASTER_MAIN_TYPE": "橋梁災情",
+    "DISASTER_SUB_TYPE": "橋墩基礎沖刷",
+    "CASE_DESCRIPTION": "1.",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "廖葉身",
     "INJURED_NO": 0,
@@ -18,6 +18,61 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 上午 11:50:00",
+            "new_value": "2025\/10\/30 上午 09:22:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新店區",
+            "new_value": "雙溪區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新店區安康路三段660巷",
+            "new_value": "雙溪區雙溪區東榮街",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.47627,24.94444",
+            "new_value": "121.86525,25.03434",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "道路、隧道災情",
+            "new_value": "橋梁災情",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路落石",
+            "new_value": "橋墩基礎沖刷",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新店區安康路三段660巷第一個轉灣巷道，目前因下雨而導致山坡土石崩落，高度已達民眾住家圍牆，請單位維護。  2.新店區安康路三段660巷第一個轉灣巷道，目前因下雨而導致山坡土石崩落，高度已達民眾住家圍牆，請單位維護。  3.併案案號45",
+            "new_value": "1.",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }

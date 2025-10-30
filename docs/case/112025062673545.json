@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673545",
-    "CASE_DT": "2025\/10\/20 上午 09:20:00",
+    "CASE_DT": "2025\/10\/30 上午 09:18:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "蘆洲區",
-    "CASE_LOC": "蘆洲區復興路335巷9號",
+    "TOWN_N": "八里區",
+    "CASE_LOC": "八里區荖阡坑路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41864,24.98754",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "1.蘆洲區復興路335巷9號，自該址後方開始積水，水位高度至成人小腿以上。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.40370,25.13240",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "?禡里遛",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/20 上午 09:20:00",
+            "new_value": "2025\/10\/30 上午 09:18:00",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "蘆洲區",
+            "new_value": "八里區",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "蘆洲區復興路335巷9號",
+            "new_value": "八里區荖阡坑路",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41864,24.98754",
+            "new_value": "121.40370,25.13240",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路積淹水",
+            "new_value": "路樹倒塌",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.蘆洲區復興路335巷9號，自該址後方開始積水，水位高度至成人小腿以上。",
+            "new_value": "1.",
+            "timestamp": "2025-10-30 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-10-30 10:41:04"
+        }
+    ]
 }
