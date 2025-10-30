@@ -8,8 +8,8 @@
     "COORDINATE": "120.301458,23.576858",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "（演練）北港鎮公園路133號橋樑斷裂，交通雙向不通",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "（演練）北港鎮公園路133號橋樑斷裂，交通雙向不通已強修搭設便道單向通行",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "陳秋貴",
     "INJURED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-10-30 09:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）北港鎮公園路133號橋樑斷裂，交通雙向不通",
+            "new_value": "（演練）北港鎮公園路133號橋樑斷裂，交通雙向不通已強修搭設便道單向通行",
+            "timestamp": "2025-10-30 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "未指派",
+            "timestamp": "2025-10-30 10:11:04"
         }
     ]
 }
