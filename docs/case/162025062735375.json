@@ -3,9 +3,9 @@
     "CASE_DT": "2025\/10\/30 上午 10:56:52",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "林內鄉",
-    "CASE_LOC": "雲林縣林內鄉林中村17鄰中正路340號",
+    "CASE_LOC": "雲林縣林內鄉林中村17鄰中正路348號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.612836,23.7561432",
+    "COORDINATE": "120.613095,23.75635",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "演練-台3線南下167公里處行道樹倒臥阻礙通行",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣林內鄉林中村17鄰中正路340號",
+            "new_value": "雲林縣林內鄉林中村17鄰中正路348號",
+            "timestamp": "2025-10-30 11:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.612836,23.7561432",
+            "new_value": "120.613095,23.75635",
+            "timestamp": "2025-10-30 11:11:04"
+        }
+    ]
 }
