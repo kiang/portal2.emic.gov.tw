@@ -12,11 +12,11 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "呂純守",
-    "INJURED_NO": 1,
+    "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
-    "MISSING_NO": 2,
-    "SHELTER_NO": 2,
+    "MISSING_NO": 0,
+    "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
     "logs": [
@@ -43,6 +43,24 @@
             "old_value": "路樹倒塌",
             "new_value": "演練-路樹倒塌",
             "timestamp": "2025-10-30 14:31:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2025-10-30 14:41:04"
+        },
+        {
+            "field": "MISSING_NO",
+            "old_value": 2,
+            "new_value": 0,
+            "timestamp": "2025-10-30 14:41:04"
+        },
+        {
+            "field": "SHELTER_NO",
+            "old_value": 2,
+            "new_value": 0,
+            "timestamp": "2025-10-30 14:41:04"
         }
     ]
 }
