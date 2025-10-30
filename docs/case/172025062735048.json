@@ -1,6 +1,6 @@
 {
     "CASE_ID": "172025062735048",
-    "CASE_DT": "2025\/10\/30 上午 10:15:04",
+    "CASE_DT": "2025\/10\/30 上午 11:15:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "板橋區",
     "CASE_LOC": "新北市板橋區福丘里13鄰中山路一段161號",
@@ -8,7 +8,7 @@
     "COORDINATE": "121.4656055,25.012203",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "（演練）地震造成路樹傾斜",
+    "CASE_DESCRIPTION": "（演練）地震造成路樹傾斜-已派員前往處理",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "翁宏鳴",
@@ -25,6 +25,18 @@
             "old_value": "未受理",
             "new_value": "待處理",
             "timestamp": "2025-10-30 11:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/30 上午 10:15:04",
+            "new_value": "2025\/10\/30 上午 11:15:00",
+            "timestamp": "2025-10-30 12:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "（演練）地震造成路樹傾斜",
+            "new_value": "（演練）地震造成路樹傾斜-已派員前往處理",
+            "timestamp": "2025-10-30 12:21:03"
         }
     ]
 }
