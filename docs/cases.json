@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320629373031,
+                    25.0080763907128
+                ]
+            },
+            "properties": {
+                "CASE_ID": "102025062742172",
+                "CASE_DT": "2025\/10\/31 上午 10:03:47",
+                "DISASTER_MAIN_TYPE": "土石災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
