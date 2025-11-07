@@ -1,4 +1,41 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5171,
+                    25.04744
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062820159",
+                "CASE_DT": "2025\/11\/7 下午 04:57:32",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5171,
+                    25.04744
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112025062820158",
+                "CASE_DT": "2025\/11\/7 下午 04:57:32",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
