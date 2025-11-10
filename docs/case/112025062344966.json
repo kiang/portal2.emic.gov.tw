@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062344966",
-    "CASE_DT": "2025\/10\/29 下午 05:12:00",
+    "CASE_DT": "2025\/11\/10 下午 08:46:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "坪林區",
-    "CASE_LOC": "坪林區坪林區協德橋",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區忠孝東路333號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.71076,24.93508",
-    "DISASTER_MAIN_TYPE": "橋梁災情",
-    "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "1.坪林區協德橋因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.66506,25.06981",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "房屋積淹水",
+    "CASE_DESCRIPTION": "1.受損車輛 O 輛",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "000",
     "INJURED_NO": 0,
@@ -18,7 +18,7 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
+    "IS_SERIOUS": false,
     "logs": [
         {
             "field": "CASE_DT",
@@ -211,6 +211,60 @@
             "old_value": "[現場狀況]1.坪林區協德橋因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。  [各單位處置作為]@坪林區公所：已派員前往處理@交通局：已派員前往處理。@工務局：已處理完成。@警察局：狀況業已排除。@消防局：演練 已處理完成(本案件已處理完畢。)",
             "new_value": "1.坪林區協德橋因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。",
             "timestamp": "2025-10-30 12:21:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/29 下午 05:12:00",
+            "new_value": "2025\/11\/10 下午 08:46:00",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "坪林區",
+            "new_value": "汐止區",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "坪林區坪林區協德橋",
+            "new_value": "汐止區忠孝東路333號",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.71076,24.93508",
+            "new_value": "121.66506,25.06981",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "橋梁災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "橋梁斷裂",
+            "new_value": "房屋積淹水",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.坪林區協德橋因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。",
+            "new_value": "1.受損車輛 O 輛",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-10 21:51:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2025-11-10 21:51:04"
         }
     ]
 }
