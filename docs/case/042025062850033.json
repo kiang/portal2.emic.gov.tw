@@ -8,8 +8,8 @@
     "COORDINATE": "121.730512,25.138625",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "西定路298巷7號後方巨大落石導致住戶浴室周圍受損",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "西定路298巷7號後方巨大落石導致住戶浴室周圍受損,共撤離3人:北都飯店收容2人,1人住朋友家",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "余祥麟",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 2,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "西定路298巷7號後方巨大落石導致住戶浴室周圍受損",
+            "new_value": "西定路298巷7號後方巨大落石導致住戶浴室周圍受損,共撤離3人:北都飯店收容2人,1人住朋友家",
+            "timestamp": "2025-11-11 16:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-11-11 16:01:04"
+        }
+    ]
 }
