@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673558",
-    "CASE_DT": "2025\/10\/30 上午 09:16:00",
+    "CASE_DT": "2025\/11\/11 下午 05:18:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "貢寮區",
-    "CASE_LOC": "貢寮區長泰路",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區瑞芳老街",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "113.76469,22.99607",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.貢寮區長泰路一帶，因地震多處樹木傾倒。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.80655,25.10954",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -73,6 +73,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-10-30 14:31:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/30 上午 09:16:00",
+            "new_value": "2025\/11\/11 下午 05:18:00",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "貢寮區",
+            "new_value": "瑞芳區",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "貢寮區長泰路",
+            "new_value": "瑞芳區瑞芳老街",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "113.76469,22.99607",
+            "new_value": "121.80655,25.10954",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.貢寮區長泰路一帶，因地震多處樹木傾倒。",
+            "new_value": "1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水",
+            "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-11 18:31:04"
         }
     ]
 }
