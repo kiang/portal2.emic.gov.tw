@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "丹路村巴士墨段農路臨時便道過溪路段，目前已被大水沖毀，便道路口處已拉起封鎖線以防村民族人誤闖\/有關「丹路村沙布鐵橋下方及巴士墨段臨時連絡道路」因應颱風預警性道路封閉乙事，已通知承商進場辦理。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "獅子鄉公所",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-11-11 19:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-11 20:11:04"
         }
     ]
 }
