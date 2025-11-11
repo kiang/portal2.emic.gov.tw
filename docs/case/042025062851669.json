@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "【1999報災情】仁二路與延平街，仁愛國小旁淹水已十公分高，希派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "1999",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 22:31:04"
+        }
+    ]
 }
