@@ -432,7 +432,7 @@
         <when>2025/11/11 下午 10:46:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062852692<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 10:46:00<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基隆市安樂區麥金路234號<br/><b>災情描述：</b>親親幼兒園後方民宅山坡地水流入民宅造成淹水請工務處協助<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>邱美足<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062852692<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 10:46:00<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基隆市安樂區麥金路234號<br/><b>災情描述：</b>親親幼兒園後方民宅山坡地水流入民宅造成淹水請工務處協助<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>邱美足<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -478,7 +478,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -682,6 +682,86 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:37:53</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852856<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:37:53<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉三堵路313巷(3人需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852856</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:37:53</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉三堵路313巷(3人需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.80592042681,24.65371080103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -767,6 +847,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.753355,25.090982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:27:05</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852854<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:27:05<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉九分路71巷16號(2人受困)<br/><b>災情描述：</b>2025/11/11 22:27:05 待援2人 - (<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852854</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:27:05</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉九分路71巷16號(2人受困)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 22:27:05 待援2人 - (</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.7749753696,24.668833279636,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -949,6 +1113,170 @@
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/11 下午 10:23:26</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852852<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:23:26<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉冬山路五段327號(1獨居老人需撤離)<br/><b>災情描述：</b>2025/11/11 22:23:26 待援1人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852852</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:23:26</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉冬山路五段327號(1獨居老人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 22:23:26 待援1人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.76840668918,24.667594582068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:18:27</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852848<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:18:27<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>五結鄉清水路6巷2號(需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852848</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:18:27</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>五結鄉清水路6巷2號(需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.77097819046,24.689634928513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/11 下午 10:17:26</when>
       </TimeStamp>
       <description><![CDATA[
@@ -1118,6 +1446,86 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:15:12</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852844<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:15:12<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮公正路300巷34號(1人需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852844</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:15:12</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>羅東鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣羅東鎮公正路300巷34號(1人需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.76421071264,24.681620605723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -1283,6 +1691,86 @@
       </ExtendedData>
       <Point>
         <coordinates>121.7663,24.67866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:13:28</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852843<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:13:28<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>羅東鎮月眉路632號(行動不便需移至2樓)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852843</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:13:28</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>羅東鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>羅東鎮月眉路632號(行動不便需移至2樓)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.78424298341,24.670889571645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1806,6 +2294,418 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:02:19</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852841<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:02:19<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮天津路50巷7號(1人須撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852841</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:02:19</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>羅東鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣羅東鎮天津路50巷7號(1人須撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.77060911087,24.680264638283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 10:01:49</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852838<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:01:49<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉東六路163號(2人需撤離)<br/><b>災情描述：</b>2025/11/11 22:01:49 受傷1人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852838</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 10:01:49</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉東六路163號(2人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 22:01:49 受傷1人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8091090973,24.666981646153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:58:44</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852837<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:58:44<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮新城南路62號往山上紫雲宮<br/><b>災情描述：</b>2025/11/11 21:58:44 受傷2人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852837</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:58:44</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮新城南路62號往山上紫雲宮</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:58:44 受傷2人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.82096215096,24.614364322524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:57:39</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852835<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:57:39<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉永清路21巷14號(3人需撤離)<br/><b>災情描述：</b>2025/11/11 21:57:39 受傷3人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852835</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:57:39</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉永清路21巷14號(3人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:57:39 受傷3人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.77313985496,24.663989694378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:56:10</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852832<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:56:10<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉武淵路313巷46號(4人需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852832</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:56:10</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉武淵路313巷46號(4人需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.80097580625,24.667281361575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -2076,7 +2976,7 @@
         <when>2025/11/11 下午 09:46:19</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062852297<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 09:46:19<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基隆市安樂區麥金路238號1樓<br/><b>災情描述：</b>2025/11/11 21:46:19 - 0970-841-889水淹到家裡，水快到膝蓋。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062852297<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 09:46:19<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基隆市安樂區麥金路238號1樓<br/><b>災情描述：</b>2025/11/11 21:46:19 - 0970-841-889水淹到家裡，水快到膝蓋。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -2118,7 +3018,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2589,6 +3489,170 @@
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/11 下午 09:39:26</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852830<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:39:26<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮蘇南路70號(1人需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852830</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:39:26</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮蘇南路70號(1人需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.84994765292,24.595635519144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:37:02</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852828<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:37:02<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>宜蘭縣五結鄉仁三路15號(3人需撤離)<br/><b>災情描述：</b>2025/11/11 21:37:02 待援3人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852828</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:37:02</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣五結鄉仁三路15號(3人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:37:02 待援3人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.78697270052,24.683718091662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/11 下午 09:35:43</when>
       </TimeStamp>
       <description><![CDATA[
@@ -2835,6 +3899,166 @@
       </ExtendedData>
       <Point>
         <coordinates>121.834795,24.691689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:31:52</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852825<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:31:52<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮大業路71號<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852825</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:31:52</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮大業路71號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8464487808,24.62146470904,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:30:40</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852823<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:30:40<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮岳明新村91-1號<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852823</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:30:40</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮岳明新村91-1號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.85851759579,24.610240915916,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3102,6 +4326,90 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:21:51</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852819<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:21:51<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮中山路一段240號(2人需撤離)<br/><b>災情描述：</b>2025/11/11 21:21:51 待援2人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852819</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:21:51</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮中山路一段240號(2人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:21:51 待援2人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.84533246506,24.595836110381,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -3183,6 +4491,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.8291571287,24.667943775426,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:20:03</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852817<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:20:03<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮興東路152巷8號(身障需立即撤離<br/><b>災情描述：</b>2025/11/11 21:20:03 受傷1人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852817</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:20:03</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>羅東鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣羅東鎮興東路152巷8號(身障需立即撤離</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:20:03 受傷1人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.76973487431,24.680365001875,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3274,6 +4666,86 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:15:55</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852814<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:15:55<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮中山路一段90號(7人需撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852814</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:15:55</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮中山路一段90號(7人需撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.85080539735,24.596129482987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -3359,6 +4831,86 @@
       </ExtendedData>
       <Point>
         <coordinates>121.847564,24.59521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:13:25</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852812<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:13:25<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮興東南路115巷8號(1人臥床患者須撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852812</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:13:25</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>羅東鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣羅東鎮興東南路115巷8號(1人臥床患者須撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.768722617,24.670281849237,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3618,6 +5170,334 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:10:01</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852810<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:10:01<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉埤頭路1巷5號(1人須撤離)<br/><b>災情描述：</b>2025/11/11 21:10:01 - 地點描述：宜蘭縣冬山鄉埤頭路1巷5號積淹水至大腿高度，與父親同住，住處無二樓以上可以避難，需協助撤離。【已通知119】110轉報人員：游書侑<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852810</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:10:01</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉埤頭路1巷5號(1人須撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:10:01 - 地點描述：宜蘭縣冬山鄉埤頭路1巷5號積淹水至大腿高度，與父親同住，住處無二樓以上可以避難，需協助撤離。【已通知119】110轉報人員：游書侑</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.79835719508,24.659802786172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:09:13</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852806<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:09:13<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>宜蘭縣五結鄉利澤西路32號<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852806</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:09:13</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣五結鄉利澤西路32號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.81326916242,24.65578322572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:03:55</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852802<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:03:55<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮蘇南路223號(各1人需撤離)<br/><b>災情描述：</b>2025/11/11 21:03:55 - 地點描述：宜蘭縣蘇澳鎮蘇南路223號 對面停車場水淹一層樓高，稱有人在該處呼喊救命，請派員處理110轉報人員：蕭仕忠<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852802</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:03:55</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮蘇南路223號(各1人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:03:55 - 地點描述：宜蘭縣蘇澳鎮蘇南路223號 對面停車場水淹一層樓高，稱有人在該處呼喊救命，請派員處理110轉報人員：蕭仕忠</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.84618280265,24.595201434147,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 09:02:34</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852800<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:02:34<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>蘇澳鎮民貴街32巷9號(1人行動不便需立即撤離)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852800</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:02:34</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>蘇澳鎮民貴街32巷9號(1人行動不便需立即撤離)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.84126540549,24.591107333646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -3709,6 +5589,90 @@
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/11 下午 09:01:24</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852796<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 09:01:24<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉幸福五路358號(11大4小需撤離)<br/><b>災情描述：</b>2025/11/11 21:01:24 待援15人 - 八易閣民宿15人(11大4小)受困1樓建物水深至膝需撤離<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852796</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 09:01:24</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉幸福五路358號(11大4小需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 21:01:24 待援15人 - 八易閣民宿15人(11大4小)受困1樓建物水深至膝需撤離</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.79263991712,24.656397271947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/11 下午 09:00:00</when>
       </TimeStamp>
       <description><![CDATA[
@@ -3793,6 +5757,90 @@
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/11 下午 08:59:31</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852795<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:59:31<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮聖湖新村19號(需撤離)<br/><b>災情描述：</b>2025/11/11 20:59:31 - 地點描述：宜蘭縣蘇澳鎮宜蘭縣蘇澳鎮聖湖新村19號報案人黃家怡稱接到家人【黃家信、0928-075008】電話稱目前該址淹水已有一樓高度110轉報人員：蕭仕忠<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852795</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 08:59:31</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮聖湖新村19號(需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 20:59:31 - 地點描述：宜蘭縣蘇澳鎮宜蘭縣蘇澳鎮聖湖新村19號報案人黃家怡稱接到家人【黃家信、0928-075008】電話稱目前該址淹水已有一樓高度110轉報人員：蕭仕忠</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.83729754816,24.597357761279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/11 下午 08:59:23</when>
       </TimeStamp>
       <description><![CDATA[
@@ -3871,6 +5919,170 @@
       </ExtendedData>
       <Point>
         <coordinates>121.78181707983,24.685900374963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 08:53:30</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852793<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:53:30<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮華中街21、41號(各1人需撤離)<br/><b>災情描述：</b>2025/11/11 20:53:30 受傷1人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852793</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 08:53:30</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮華中街21、41號(各1人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 20:53:30 受傷1人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.84919260549,24.597087906061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 08:52:26</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852791<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:52:26<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮中山路二段忠烈祠<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852791</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 08:52:26</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮中山路二段忠烈祠</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.83606039204,24.595052144552,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3965,6 +6177,86 @@
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/11 下午 08:51:23</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852790<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:51:23<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉富英路375-1號<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852790</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 08:51:23</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>冬山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣冬山鄉富英路375-1號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.77610022869,24.668091246447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/11 下午 08:51:00</when>
       </TimeStamp>
       <description><![CDATA[
@@ -4043,6 +6335,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.7678,24.68024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 下午 08:49:10</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062852789<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:49:10<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮大業路71號(3人需撤離)<br/><b>災情描述：</b>2025/11/11 20:49:10 受傷1人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062852789</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 下午 08:49:10</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮大業路71號(3人需撤離)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/11 20:49:10 受傷1人</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8464487808,24.62146470904,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4132,7 +6508,7 @@
         <when>2025/11/11 下午 08:45:59</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062852185<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 08:45:59<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮信義路212號(協助撤離)<br/><b>災情描述：</b>2025/11/11 20:45:59 - 支援萬榮轄區。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062852185<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 08:45:59<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮信義路212號(協助撤離)<br/><b>災情描述：</b>2025/11/11 20:45:59 - 支援萬榮轄區。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -4174,7 +6550,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -4616,7 +6992,7 @@
         <when>2025/11/11 下午 08:35:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062851954<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:35:00<br/><b>行政區：</b>宜蘭縣 員山鄉<br/><b>發生地點：</b>宜蘭縣員山鄉深溝村惠民路249巷<br/><b>災情描述：</b>宜蘭縣員山鄉深溝村惠民路249巷淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝易達村長<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062851954<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:35:00<br/><b>行政區：</b>宜蘭縣 員山鄉<br/><b>發生地點：</b>宜蘭縣員山鄉深溝村惠民路249巷<br/><b>災情描述：</b>宜蘭縣員山鄉深溝村惠民路249巷淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝易達村長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -4662,7 +7038,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -4788,7 +7164,7 @@
         <when>2025/11/11 下午 08:33:27</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062851932<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:33:27<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮復興路三段1巷19號(淹水)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062851932<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:33:27<br/><b>行政區：</b>宜蘭縣 羅東鎮<br/><b>發生地點：</b>宜蘭縣羅東鎮復興路三段1巷19號(淹水)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -4826,7 +7202,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -5192,7 +7568,7 @@
         <when>2025/11/11 下午 08:27:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062851947<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:27:00<br/><b>行政區：</b>宜蘭縣 員山鄉<br/><b>發生地點：</b>宜蘭縣員山鄉<br/><b>災情描述：</b>員山鄉深溝村惠民路249巷淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝易達<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062851947<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:27:00<br/><b>行政區：</b>宜蘭縣 員山鄉<br/><b>發生地點：</b>宜蘭縣員山鄉<br/><b>災情描述：</b>員山鄉深溝村惠民路249巷淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝易達<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -5238,7 +7614,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -5544,7 +7920,7 @@
         <when>2025/11/11 下午 08:22:07</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062851893<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:22:07<br/><b>行政區：</b>宜蘭縣 宜蘭市<br/><b>發生地點：</b>宜蘭縣宜蘭市中山路一段533巷19號(家中淹水至膝蓋)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062851893<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2025/11/11 下午 08:22:07<br/><b>行政區：</b>宜蘭縣 宜蘭市<br/><b>發生地點：</b>宜蘭縣宜蘭市中山路一段533巷19號(家中淹水至膝蓋)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -5582,7 +7958,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
