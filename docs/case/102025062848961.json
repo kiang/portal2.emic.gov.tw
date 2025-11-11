@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾住家地點：光復鄉大華村中山路二段347號事由：民眾表示因為颱風關係光復鄉需要撤離，原指定撤離地為大進國小，但因收容人數已達上限，無法再安置更多避難民眾，民眾共三人自行前往瑞穗鄉法羅米民宿暫住，期間住宿費用負擔沉重，且因颱風影響持續，無法預估需外宿天數，民眾表示除其家庭外，尚有其他住戶面臨相同情形，故希望了解是否有可申請相關補助，並盼單位能儘速回覆或提供協助。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "孫小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-11-11 14:11:04"
+        }
+    ]
 }
