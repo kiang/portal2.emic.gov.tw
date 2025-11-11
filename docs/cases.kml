@@ -516,7 +516,7 @@
         <when>2025/11/11 上午 12:51:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112025062392723<br/><b>災情類別：</b>民生、基礎設施災情（電力停電）<br/><b>發生時間：</b>2025/11/11 上午 12:51:00<br/><b>行政區：</b>新北市 淡水區<br/><b>發生地點：</b>淡水區淡水區忠寮里桂花樹1之5號<br/><b>災情描述：</b>1.淡水區忠寮里桂花樹1之5號停電。<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>123<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112025062392723<br/><b>災情類別：</b>民生、基礎設施災情（電力停電）<br/><b>發生時間：</b>2025/11/11 上午 12:51:00<br/><b>行政區：</b>新北市 淡水區<br/><b>發生地點：</b>淡水區淡水區忠寮里桂花樹1之5號<br/><b>災情描述：</b>[現場狀況]1.淡水區忠寮里桂花樹1之5號停電。  [各單位處置作為]@警察局：通報轄區水源所派員到場協處@淡水區公所：經電詢台電，已於02:40復電。@消防局：經電詢台電，已於02:40復電。主政尚未結案，案件強制結案原因：經電詢台電，已於02:40復電(本案件已處理完畢。)<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>123<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -550,7 +550,7 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>1.淡水區忠寮里桂花樹1之5號停電。</value>
+          <value>[現場狀況]1.淡水區忠寮里桂花樹1之5號停電。  [各單位處置作為]@警察局：通報轄區水源所派員到場協處@淡水區公所：經電詢台電，已於02:40復電。@消防局：經電詢台電，已於02:40復電。主政尚未結案，案件強制結案原因：經電詢台電，已於02:40復電(本案件已處理完畢。)</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -562,7 +562,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -683,6 +683,94 @@
       </ExtendedData>
       <Point>
         <coordinates>121.33648,24.92527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 上午 12:33:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042025062847277<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 12:33:00<br/><b>行政區：</b>新竹市 東區<br/><b>發生地點：</b>新竹市東區水利路46巷<br/><b>災情描述：</b>電線垂落影響交通<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>110<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042025062847277</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 上午 12:33:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>東區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>新竹市東區水利路46巷</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>電線垂落影響交通</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>110</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>已處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.006129,24.80234,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1385,6 +1473,94 @@
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2025/11/10 下午 09:00:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042025062847282<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2025/11/10 下午 09:00:00<br/><b>行政區：</b>花蓮縣 萬榮鄉<br/><b>發生地點：</b>花蓮縣萬榮鄉明利村[花蓮縣萬榮鄉明利村4鄰明利65之8號]<br/><b>災情描述：</b>馬太鞍溪水暴漲於明利村4鄰65-8灌進民宅開始，明利村第四鄰區域大排水溝滿水淹過，泥水淹至部落道路<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林萬成<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042025062847282</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/10 下午 09:00:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>花蓮縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>萬榮鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>花蓮縣萬榮鄉明利村[花蓮縣萬榮鄉明利村4鄰明利65之8號]</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>馬太鞍溪水暴漲於明利村4鄰65-8灌進民宅開始，明利村第四鄰區域大排水溝滿水淹過，泥水淹至部落道路</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>林萬成</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.38562517384,23.689955555081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2025/11/10 下午 08:46:00</when>
       </TimeStamp>
       <description><![CDATA[
@@ -1736,7 +1912,7 @@
         <when>2025/11/10 下午 06:53:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062844620<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2025/11/10 下午 06:53:00<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>新竹市香山區中華路五段420巷125號對面<br/><b>災情描述：</b>1850通知台電。 2042台電回報現場為凱渥線路.通知凱渥陳小姐處理.2151詢問凱渥尚未處理完成2245詢問凱渥表示明日處理 0004振道回報確認非其線路，上方註記府線疑似CCTV線路，通知員警。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉佳虹<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062844620<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2025/11/10 下午 06:53:00<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>新竹市香山區中華路五段420巷125號對面<br/><b>災情描述：</b>1850通知台電。 2042台電回報現場為凱渥線路.通知凱渥陳小姐處理.2151詢問凱渥尚未處理完成2245詢問凱渥表示明日處理 0004振道回報確認非其線路，上方註記府線疑似CCTV線路，通知員警。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉佳虹<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -1782,7 +1958,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>

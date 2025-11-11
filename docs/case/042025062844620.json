@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "1850通知台電。 2042台電回報現場為凱渥線路.通知凱渥陳小姐處理.2151詢問凱渥尚未處理完成2245詢問凱渥表示明日處理 0004振道回報確認非其線路，上方註記府線疑似CCTV線路，通知員警。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "劉佳虹",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-11-11 07:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 08:01:03"
         }
     ]
 }
