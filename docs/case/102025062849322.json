@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11411110150、工四滯洪池內汙染、民眾反映地點:龜山區樂善國小旁(工四滯洪池)事由:颱風天被人排放汙水，呈現彩虹的顏色，請派人稽查。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊峻榮",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-11-11 14:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 17:21:04"
         }
     ]
 }
