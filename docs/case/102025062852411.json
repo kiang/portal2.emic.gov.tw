@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映本身是在新市區社會住宅(新市安居)工作的工人，因今天11\/11台南市政府已宣布明天11\/12颱風天停止上班、上課，但桂田營造仍強迫勞工前往工地工作，及民眾本身屬於特殊工種，應在下午四點半下班，而桂田營造卻要求勞工延後至五點才能下班，且沒有支付加班費，認為此行為已違法，請單位派員稽查，煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 22:51:04"
+        }
+    ]
 }
