@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "該址1樓淹水，人員至2樓等待救援",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "未提供",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "未提供",
             "timestamp": "2025-11-11 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 01:01:04"
         }
     ]
 }
