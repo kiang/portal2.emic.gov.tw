@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "一、雨勢過大排水不及，排水溝渠水流湧出，水流溢流路面。二、22時50分查看已退水，交通錐撤除。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "江建興",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "已處理",
             "new_value": "未指派",
             "timestamp": "2025-11-11 23:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 00:21:04"
         }
     ]
 }
