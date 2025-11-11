@@ -8,8 +8,8 @@
     "COORDINATE": "121.80655,25.10954",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "[現場狀況]1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水  [各單位處置作為]@水利局：現場已退水@瑞芳區公所：瑞芳老街積水已經退了@警察局：現場積水已退@消防局：積水已退(本案件已處理完畢。)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -121,6 +121,18 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-11-11 18:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水",
+            "new_value": "[現場狀況]1.現場嚴重積水。  2.災害程度更改：媒體輿情->輕微圖一更改：IMG_9395.jpeg->影一更改：7HXIqx0u4Ks9lJYtDhS57LEdNXefFT0lCPHoIt6izGo.mp4->影響範圍更改：30 20 30->  現場積水  [各單位處置作為]@水利局：現場已退水@瑞芳區公所：瑞芳老街積水已經退了@警察局：現場積水已退@消防局：積水已退(本案件已處理完畢。)",
+            "timestamp": "2025-11-11 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 18:51:04"
         }
     ]
 }
