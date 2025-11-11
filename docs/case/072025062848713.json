@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "2025\/11\/11 11:35:23 - 0933998205馬村長  瑞北村取水口2025\/11\/11 11:45:28 - 瑞北村取水口，已派遣瑞穗與馬村長(0933998205)聯繫處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-11-11 14:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-11 20:21:04"
         }
     ]
 }
