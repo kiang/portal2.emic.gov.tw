@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:吉安鄉南海二街110號旁事由:表示發生事故有車輛將電線桿撞斷，目前電線桿橫躺在車道上電線也都垂落無法通行，疑似是中華電信的電桿但民眾無法肯定，希望相關單位能盡快派員到現場處理。(話務人員在19:59先通報110協助前往查看)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-11-11 20:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-11 20:31:03"
         }
     ]
 }
