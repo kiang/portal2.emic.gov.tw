@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "EMIC此為派工案件請立即處理民眾反映：東區中華東路一段，原饗麻饗辣前安全島上，一支長約180～190公分的樹枝橫倒，因被較矮的樹枝擋住，目前還未完全倒下，請儘速派員處理，煩請承辦卓處。承辦不清楚可聯繫市民",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-11-11 23:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 07:51:04"
         }
     ]
 }
