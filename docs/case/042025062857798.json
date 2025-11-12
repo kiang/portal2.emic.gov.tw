@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "建築物上方磁磚掉落, 1017通知都發處使管科及員警。 1029員警表示前往拉封鎖線。 1040都發處使管科林科長表示後續通知建物所有權人處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "鄭先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2025-11-12 18:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 18:11:04"
         }
     ]
 }

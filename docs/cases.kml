@@ -176,7 +176,7 @@
         <when>2025/11/12 下午 05:35:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062857870<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 05:35:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區復興三路431號<br/><b>災情描述：</b>公寓頂劉鐵皮出現鬆動掀翻<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>盛豐里王志濱里長<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062857870<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 05:35:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區復興三路431號<br/><b>災情描述：</b>公寓頂劉鐵皮出現鬆動掀翻<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>盛豐里王志濱里長<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -222,7 +222,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -343,6 +343,174 @@
       </ExtendedData>
       <Point>
         <coordinates>121.733054,25.130863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 05:03:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062857947<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 05:03:00<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>宜蘭縣五結鄉<br/><b>災情描述：</b>五結路一段(孝威村)往濱海公路方向(錦眾村)道路積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062857947</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 05:03:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣五結鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>五結路一段(孝威村)往濱海公路方向(錦眾村)道路積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8181,24.69226,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 05:03:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062857946<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 05:03:00<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮<br/><b>災情描述：</b>成興路往冬山道路積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062857946</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 05:03:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>成興路往冬山道路積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8254,24.64726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -528,7 +696,7 @@
         <when>2025/11/12 下午 04:35:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062857535<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2025/11/12 下午 04:35:00<br/><b>行政區：</b>彰化縣 田尾鄉<br/><b>發生地點：</b>彰化縣田尾鄉睦宜路103號<br/><b>災情描述：</b>路樹傾倒影響交通。(田尾分駐所前往現場進行警示、管制)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳振銘<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062857535<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2025/11/12 下午 04:35:00<br/><b>行政區：</b>彰化縣 田尾鄉<br/><b>發生地點：</b>彰化縣田尾鄉睦宜路103號<br/><b>災情描述：</b>路樹傾倒影響交通。(田尾分駐所前往現場進行警示、管制)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳振銘<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -574,7 +742,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -616,7 +784,7 @@
         <when>2025/11/12 下午 04:31:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062857795<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2025/11/12 下午 04:31:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區海濱路180之10號(路燈編號:190115)<br/><b>災情描述：</b>路樹倒塌影響交通<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>郭先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062857795<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2025/11/12 下午 04:31:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區海濱路180之10號(路燈編號:190115)<br/><b>災情描述：</b>路樹倒塌影響交通<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>郭先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -662,7 +830,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -871,6 +1039,90 @@
       </ExtendedData>
       <Point>
         <coordinates>120.266316,23.757292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 03:42:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062857945<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 03:42:00<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>宜蘭縣五結鄉<br/><b>災情描述：</b>傳藝大橋往孝威方向下橋段積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062857945</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 03:42:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣五結鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>傳藝大橋往孝威方向下橋段積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8214,24.68125,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1307,6 +1559,90 @@
       </ExtendedData>
       <Point>
         <coordinates>120.190455,23.00203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 02:39:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062857944<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 02:39:00<br/><b>行政區：</b>宜蘭縣 五結鄉<br/><b>發生地點：</b>宜蘭縣五結鄉<br/><b>災情描述：</b>宜蘭縣五結鄉大眾一路422巷積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062857944</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 02:39:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>五結鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣五結鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>宜蘭縣五結鄉大眾一路422巷積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8203,24.69656,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2016,7 +2352,7 @@
         <when>2025/11/12 下午 01:36:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856734<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/12 下午 01:36:00<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>新竹市香山區牛埔路413巷19號<br/><b>災情描述：</b>門口前路燈電桿搖晃及傾斜，交由工務處養護科路燈維修專員處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林珮芸<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856734<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/12 下午 01:36:00<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>新竹市香山區牛埔路413巷19號<br/><b>災情描述：</b>門口前路燈電桿搖晃及傾斜，交由工務處養護科路燈維修專員處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林珮芸<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -2062,7 +2398,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2104,7 +2440,7 @@
         <when>2025/11/12 下午 01:29:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856707<br/><b>災情類別：</b>廣告招牌災情（廣告招牌欲墜）<br/><b>發生時間：</b>2025/11/12 下午 01:29:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區光華里國華街69號<br/><b>災情描述：</b>廣告招牌吹掀，交由北區區公所處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪翠憶<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856707<br/><b>災情類別：</b>廣告招牌災情（廣告招牌欲墜）<br/><b>發生時間：</b>2025/11/12 下午 01:29:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區光華里國華街69號<br/><b>災情描述：</b>廣告招牌吹掀，交由北區區公所處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪翠憶<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
       <ExtendedData>
@@ -2150,7 +2486,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -5588,7 +5924,7 @@
         <when>2025/11/12 上午 10:16:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062857798<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 10:16:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區<br/><b>災情描述：</b>建築物上方磁磚掉落, 1017通知都發處使管科及員警。 1029員警表示前往拉封鎖線。 1040都發處使管科林科長表示後續通知建物所有權人處理。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>鄭先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062857798<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 10:16:00<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市北區<br/><b>災情描述：</b>建築物上方磁磚掉落, 1017通知都發處使管科及員警。 1029員警表示前往拉封鎖線。 1040都發處使管科林科長表示後續通知建物所有權人處理。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>鄭先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -5634,7 +5970,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
