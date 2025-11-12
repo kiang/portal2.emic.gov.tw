@@ -82,31 +82,31 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>其他災情</name>
+      <name>廣告招牌災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2025/11/12 下午 01:33:21</when>
+        <when>2025/11/12 下午 01:42:23</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062856480<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:33:21<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市興仁里1-18號（7-11旁）<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062856528<br/><b>災情類別：</b>廣告招牌災情（廣告招牌掉落）<br/><b>發生時間：</b>2025/11/12 下午 01:42:23<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市興仁里1-18號<br/><b>災情描述：</b>2025/11/12 13:42:23 - 廣告招牌掉落<br/><b>通報類別：</b>119消防署派遣系統<br/><b>上傳單位：</b>119派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>072025062856480</value>
+          <value>072025062856528</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2025/11/12 下午 01:33:21</value>
+          <value>2025/11/12 下午 01:42:23</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>其他災情</value>
+          <value>廣告招牌災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>其他</value>
+          <value>廣告招牌掉落</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -118,11 +118,107 @@
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>澎湖縣馬公市興仁里1-18號（7-11旁）</value>
+          <value>澎湖縣馬公市興仁里1-18號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2025/11/12 13:42:23 - 廣告招牌掉落</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
           <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>119派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>119.61136684127,23.551760425715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 01:41:23</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>102025062856520<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2025/11/12 下午 01:41:23<br/><b>行政區：</b>雲林縣 斗六市<br/><b>發生地點：</b>雲林縣斗六市府文路19-16號<br/><b>災情描述：</b>通報7-11側邊路樹太大與樹枝葉太長垂下來，路段位置靠近府文路與公園路交叉紅綠燈的路口，目前已經影響到人行道，希望派人前往修剪。7-11縣甫門市-地址:雲林縣斗六市府文路19-16號<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>張小姐<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>102025062856520</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 01:41:23</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹傾斜</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>雲林縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>斗六市</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>雲林縣斗六市府文路19-16號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>通報7-11側邊路樹太大與樹枝葉太長垂下來，路段位置靠近府文路與公園路交叉紅綠燈的路口，目前已經影響到人行道，希望派人前往修剪。7-11縣甫門市-地址:雲林縣斗六市府文路19-16號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>1999報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>張小姐</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
@@ -158,7 +254,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>119.61136684127,23.551760425715,0</coordinates>
+        <coordinates>120.527807,23.698391,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -30112,7 +30208,7 @@
         <when>2025/11/11 上午 08:00:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142025062856271<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 08:00:00<br/><b>行政區：</b>花蓮縣 光復鄉<br/><b>發生地點：</b>花蓮縣光復鄉<br/><b>災情描述：</b>光復鄉林田幹線(佛祖街)積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142025062856271<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 08:00:00<br/><b>行政區：</b>花蓮縣 光復鄉<br/><b>發生地點：</b>花蓮縣光復鄉<br/><b>災情描述：</b>光復鄉林田幹線(佛祖街)積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -30154,7 +30250,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -32296,7 +32392,7 @@
         <when>2025/11/10 下午 07:19:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142025062845075<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/10 下午 07:19:00<br/><b>行政區：</b>花蓮縣 萬榮鄉<br/><b>發生地點：</b>花蓮縣萬榮鄉<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142025062845075<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/10 下午 07:19:00<br/><b>行政區：</b>花蓮縣 萬榮鄉<br/><b>發生地點：</b>花蓮縣萬榮鄉<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -32334,7 +32430,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
