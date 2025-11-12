@@ -82,15 +82,103 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>民生、基礎設施災情</name>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 上午 09:07:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042025062854809<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2025/11/12 上午 09:07:00<br/><b>行政區：</b>基隆市 仁愛區<br/><b>發生地點：</b>基隆市仁愛區<br/><b>災情描述：</b>基隆市仁愛區獅球路169巷114號門牌前樹木倒榻、電纜線掉落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林雨葳<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042025062854809</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 上午 09:07:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>基隆市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>仁愛區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>基隆市仁愛區</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>基隆市仁愛區獅球路169巷114號門牌前樹木倒榻、電纜線掉落</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>林雨葳</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.7434205,25.11945421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2025/11/12 上午 09:06:24</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062854723<br/><b>災情類別：</b>民生、基礎設施災情（路燈故障）<br/><b>發生時間：</b>2025/11/12 上午 09:06:24<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市中正路NET店頂樓<br/><b>災情描述：</b>2025/11/12 09:06:24 - 地點描述：澎湖縣馬公市中正路NET店頂樓有1盞電燈搖幌，恐生危險110轉報人員：許振峰<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062854723<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 09:06:24<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市中正路NET店頂樓<br/><b>災情描述：</b>2025/11/12 09:06:24 - 地點描述：澎湖縣馬公市中正路NET店頂樓有1盞電燈搖幌，恐生危險110轉報人員：許振峰<br/><b>通報類別：</b>119消防署派遣系統<br/><b>上傳單位：</b>1999陳小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
@@ -102,11 +190,11 @@
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>民生、基礎設施災情</value>
+          <value>其他災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>路燈故障</value>
+          <value>其他</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -127,6 +215,10 @@
         <Data name="case_type">
           <displayName>通報類別</displayName>
           <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>1999陳小姐</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
@@ -25763,6 +25855,94 @@
       </ExtendedData>
       <Point>
         <coordinates>121.657272,24.660395,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 上午 09:07:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042025062854804<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2025/11/11 上午 09:07:00<br/><b>行政區：</b>臺南市 北區<br/><b>發生地點：</b>臺南市北區<br/><b>災情描述：</b>眼球及眼眶組織挫傷<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042025062854804</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 上午 09:07:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>救護送醫案件</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺南市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>北區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺南市北區</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>眼球及眼眶組織挫傷</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>衛生局</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>已處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.2068735,23.01012179,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
