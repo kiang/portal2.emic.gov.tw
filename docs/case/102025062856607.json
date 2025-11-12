@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "鳳北里 鳳北里自立一路161巷與三德西街44巷轉角處鐵道局所屬空地鐵網鬆脫、搖晃，颱風過境有礙行人行車安全，請轉所屬單位加強固定上鎖，謝謝。人行道地磚凸起，恐危害行人安全 建請查處並電覆陳情人。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 14:11:04"
+        }
+    ]
 }
