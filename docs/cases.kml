@@ -692,7 +692,7 @@
         <when>2025/11/12 上午 11:56:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855846<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2025/11/12 上午 11:56:00<br/><b>行政區：</b>屏東縣 萬丹鄉<br/><b>發生地點：</b>屏東縣萬丹鄉上蚶路 及上新路附近<br/><b>災情描述：</b>1999通報  屏東縣萬丹鄉上蚶路 及上新路附近有路樹倒塌影響道路通行<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855846<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2025/11/12 上午 11:56:00<br/><b>行政區：</b>屏東縣 萬丹鄉<br/><b>發生地點：</b>屏東縣萬丹鄉上蚶路 及上新路附近<br/><b>災情描述：</b>1999通報  屏東縣萬丹鄉上蚶路 及上新路附近有路樹倒塌影響道路通行<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -738,7 +738,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1126,13 +1126,97 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 上午 11:27:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062856273<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:27:00<br/><b>行政區：</b>臺東縣 太麻里鄉<br/><b>發生地點：</b>臺東縣太麻里鄉<br/><b>災情描述：</b>太麻里溪溪頭部落上游約200米處溢堤<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062856273</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 上午 11:27:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>太麻里鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺東縣太麻里鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>太麻里溪溪頭部落上游約200米處溢堤</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.981,22.59259,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2025/11/12 上午 11:25:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855691<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/12 上午 11:25:00<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區<br/><b>災情描述：</b>泰安路上路燈編號：82680旁電線杆頃斜,敬請相關單位協處.<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林家伃<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855691<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/12 上午 11:25:00<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區<br/><b>災情描述：</b>泰安路上路燈編號：82680旁電線杆頃斜,敬請相關單位協處.<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林家伃<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -1178,7 +1262,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1220,7 +1304,7 @@
         <when>2025/11/12 上午 11:14:42</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>162025062855613<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2025/11/12 上午 11:14:42<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區暖東里暖東產業道路<br/><b>災情描述：</b>距離荖寮坑約500公尺處，邊坡約3處土石崩落<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>林姿均<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>162025062855613<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2025/11/12 上午 11:14:42<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區暖東里暖東產業道路<br/><b>災情描述：</b>距離荖寮坑約500公尺處，邊坡約3處土石崩落<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>林姿均<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
       <ExtendedData>
@@ -1266,7 +1350,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1836,7 +1920,7 @@
         <when>2025/11/12 上午 11:08:36</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>162025062855534<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:08:36<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區暖東里東勢坑農路(電桿B9350 AA85)周遭<br/><b>災情描述：</b>東勢坑農路(電桿B9350 AA85)周遭多處邊溝淤塞，且產業道路沿路多落果落葉及斷枝<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>林姿均<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>162025062855534<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:08:36<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區暖東里東勢坑農路(電桿B9350 AA85)周遭<br/><b>災情描述：</b>東勢坑農路(電桿B9350 AA85)周遭多處邊溝淤塞，且產業道路沿路多落果落葉及斷枝<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>林姿均<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1882,7 +1966,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2100,7 +2184,7 @@
         <when>2025/11/12 上午 10:49:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855415<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2025/11/12 上午 10:49:00<br/><b>行政區：</b>基隆市 信義區<br/><b>發生地點：</b>基隆市信義區崇法街<br/><b>災情描述：</b>【1999報災情】市民通報電線垂落，地址信義區崇法街，路燈編號21062，希業務單位派員查修<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855415<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2025/11/12 上午 10:49:00<br/><b>行政區：</b>基隆市 信義區<br/><b>發生地點：</b>基隆市信義區崇法街<br/><b>災情描述：</b>【1999報災情】市民通報電線垂落，地址信義區崇法街，路燈編號21062，希業務單位派員查修<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -2146,7 +2230,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2358,13 +2442,97 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 上午 10:40:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062856272<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 10:40:00<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮<br/><b>災情描述：</b>宜蘭縣蘇澳鎮台9丁線8K +750處，土石邊坡坍塌 (公民回報)<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062856272</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 上午 10:40:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>宜蘭縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘇澳鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>宜蘭縣蘇澳鎮</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>宜蘭縣蘇澳鎮台9丁線8K +750處，土石邊坡坍塌 (公民回報)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.8667,24.55042,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2025/11/12 上午 10:39:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855389<br/><b>災情類別：</b>民生、基礎設施災情（交通號誌損壞）<br/><b>發生時間：</b>2025/11/12 上午 10:39:00<br/><b>行政區：</b>臺南市 南區<br/><b>發生地點：</b>臺南市南區灣裡路263巷41號<br/><b>災情描述：</b>反射鏡搖晃<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王育貞<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855389<br/><b>災情類別：</b>民生、基礎設施災情（交通號誌損壞）<br/><b>發生時間：</b>2025/11/12 上午 10:39:00<br/><b>行政區：</b>臺南市 南區<br/><b>發生地點：</b>臺南市南區灣裡路263巷41號<br/><b>災情描述：</b>反射鏡搖晃<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王育貞<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -2410,7 +2578,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -8808,7 +8976,7 @@
         <when>2025/11/11 下午 10:17:26</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062852534<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 10:17:26<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮萬榮國中靠近明利大排水溝無門牌工寮(N23-42-22、E121-25-40)(撤離1人)<br/><b>災情描述：</b>2025/11/11 22:17:26 - 報案人表示該處有1人需強制撤離，萬榮分隊回報出動1車2人，現場撤離1人。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062852534<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 10:17:26<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮萬榮國中靠近明利大排水溝無門牌工寮(N23-42-22、E121-25-40)(撤離1人)<br/><b>災情描述：</b>2025/11/11 22:17:26 - 報案人表示該處有1人需強制撤離，萬榮分隊回報出動1車2人，現場撤離1人。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -8850,7 +9018,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -16272,7 +16440,7 @@
         <when>2025/11/11 下午 08:05:41</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102025062851824<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:05:41<br/><b>行政區：</b>花蓮縣 吉安鄉<br/><b>發生地點：</b>花蓮縣吉安鄉<br/><b>災情描述：</b>地點:吉安鄉南海二街110號旁事由:表示發生事故有車輛將電線桿撞斷，目前電線桿橫躺在車道上電線也都垂落無法通行，疑似是中華電信的電桿但民眾無法肯定，希望相關單位能盡快派員到現場處理。(話務人員在19:59先通報110協助前往查看)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102025062851824<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 08:05:41<br/><b>行政區：</b>花蓮縣 吉安鄉<br/><b>發生地點：</b>花蓮縣吉安鄉<br/><b>災情描述：</b>地點:吉安鄉南海二街110號旁事由:表示發生事故有車輛將電線桿撞斷，目前電線桿橫躺在車道上電線也都垂落無法通行，疑似是中華電信的電桿但民眾無法肯定，希望相關單位能盡快派員到現場處理。(話務人員在19:59先通報110協助前往查看)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -16318,7 +16486,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -20868,7 +21036,7 @@
         <when>2025/11/11 下午 06:39:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062851317<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/11 下午 06:39:00<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮<br/><b>災情描述：</b>定位約23°41'36.7"N 121°24'30.2"E，現場電線杆傾斜，快要倒下，須派員處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林政瑜<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062851317<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2025/11/11 下午 06:39:00<br/><b>行政區：</b>花蓮縣 鳳林鎮<br/><b>發生地點：</b>花蓮縣鳳林鎮<br/><b>災情描述：</b>定位約23°41'36.7"N 121°24'30.2"E，現場電線杆傾斜，快要倒下，須派員處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林政瑜<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -20914,7 +21082,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -22580,7 +22748,7 @@
         <when>2025/11/11 下午 05:49:01</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062852183<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 05:49:01<br/><b>行政區：</b>花蓮縣 秀林鄉<br/><b>發生地點：</b>花蓮縣秀林鄉克尼布東路3號(協助撤離計34人)<br/><b>災情描述：</b>2025/11/11 20:24:14 - 撤離地區：花蓮縣秀林鄉和中、和仁社區收容地點：1、和平村辦2樓 22 名(12男10女)2、和平國小12 名(5女7男)3、共計34名<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062852183<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 05:49:01<br/><b>行政區：</b>花蓮縣 秀林鄉<br/><b>發生地點：</b>花蓮縣秀林鄉克尼布東路3號(協助撤離計34人)<br/><b>災情描述：</b>2025/11/11 20:24:14 - 撤離地區：花蓮縣秀林鄉和中、和仁社區收容地點：1、和平村辦2樓 22 名(12男10女)2、和平國小12 名(5女7男)3、共計34名<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -22622,7 +22790,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -26288,7 +26456,7 @@
         <when>2025/11/11 下午 01:24:38</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062849270<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 01:24:38<br/><b>行政區：</b>花蓮縣 豐濱鄉<br/><b>發生地點：</b>花蓮縣豐濱鄉八里灣預防性撤村<br/><b>災情描述：</b>2025/11/11 13:24:38 - 91、42<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062849270<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 下午 01:24:38<br/><b>行政區：</b>花蓮縣 豐濱鄉<br/><b>發生地點：</b>花蓮縣豐濱鄉八里灣預防性撤村<br/><b>災情描述：</b>2025/11/11 13:24:38 - 91、42<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -26330,7 +26498,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -27508,7 +27676,7 @@
         <when>2025/11/11 上午 11:35:23</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062848713<br/><b>災情類別：</b>民生、基礎設施災情（自來水停水）<br/><b>發生時間：</b>2025/11/11 上午 11:35:23<br/><b>行政區：</b>花蓮縣 萬榮鄉<br/><b>發生地點：</b>花蓮縣萬榮鄉馬遠村8鄰<br/><b>災情描述：</b>2025/11/11 11:35:23 - 0933998205馬村長  瑞北村取水口2025/11/11 11:45:28 - 瑞北村取水口，已派遣瑞穗與馬村長(0933998205)聯繫處理<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062848713<br/><b>災情類別：</b>民生、基礎設施災情（自來水停水）<br/><b>發生時間：</b>2025/11/11 上午 11:35:23<br/><b>行政區：</b>花蓮縣 萬榮鄉<br/><b>發生地點：</b>花蓮縣萬榮鄉馬遠村8鄰<br/><b>災情描述：</b>2025/11/11 11:35:23 - 0933998205馬村長  瑞北村取水口2025/11/11 11:45:28 - 瑞北村取水口，已派遣瑞穗與馬村長(0933998205)聯繫處理<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -27550,7 +27718,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -29160,7 +29328,7 @@
         <when>2025/11/11 上午 09:36:22</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102025062847918<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 09:36:22<br/><b>行政區：</b>花蓮縣 瑞穗鄉<br/><b>發生地點：</b>花蓮縣瑞穗鄉<br/><b>災情描述：</b>地點：瑞港公路12K~13K事由：道路有大大小小落石，沒有辦法通行，因為是奇美村唯一對外道路，希望盡快派人員清理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>葉小姐<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102025062847918<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 09:36:22<br/><b>行政區：</b>花蓮縣 瑞穗鄉<br/><b>發生地點：</b>花蓮縣瑞穗鄉<br/><b>災情描述：</b>地點：瑞港公路12K~13K事由：道路有大大小小落石，沒有辦法通行，因為是奇美村唯一對外道路，希望盡快派人員清理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>葉小姐<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -29206,7 +29374,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -29424,7 +29592,7 @@
         <when>2025/11/11 上午 08:28:17</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062849714<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 上午 08:28:17<br/><b>行政區：</b>花蓮縣 秀林鄉<br/><b>發生地點：</b>花蓮縣秀林鄉克尼布東路3號-和平村撤離<br/><b>災情描述：</b>2025/11/11 08:28:17 - 1人2025/11/11 10:28:28 - 1車1人　／　2025/11/10 11:50:39 - 協助鄉公所進行民眾撤離<br/><b>通報類別：</b>災情查報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062849714<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2025/11/11 上午 08:28:17<br/><b>行政區：</b>花蓮縣 秀林鄉<br/><b>發生地點：</b>花蓮縣秀林鄉克尼布東路3號-和平村撤離<br/><b>災情描述：</b>2025/11/11 08:28:17 - 1人2025/11/11 10:28:28 - 1車1人　／　2025/11/10 11:50:39 - 協助鄉公所進行民眾撤離<br/><b>通報類別：</b>災情查報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -29466,7 +29634,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -29587,6 +29755,90 @@
       </ExtendedData>
       <Point>
         <coordinates>119.59234,23.55534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/11 上午 08:00:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142025062856271<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 上午 08:00:00<br/><b>行政區：</b>花蓮縣 光復鄉<br/><b>發生地點：</b>花蓮縣光復鄉<br/><b>災情描述：</b>光復鄉林田幹線(佛祖街)積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142025062856271</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/11 上午 08:00:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>花蓮縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>光復鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>花蓮縣光復鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>光復鄉林田幹線(佛祖街)積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.4246,23.66007,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
