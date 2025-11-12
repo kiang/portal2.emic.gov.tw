@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：瑞港公路12K~13K事由：道路有大大小小落石，沒有辦法通行，因為是奇美村唯一對外道路，希望盡快派人員清理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-11-11 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 12:01:03"
         }
     ]
 }
