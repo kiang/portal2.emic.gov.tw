@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "高雄市前鎮區英明一路73巷2號及4號間5樓的鐵皮搖晃厲害恐會吹落造成危險，煩請通知所有權人儘速固定處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "竹東里李春桂里長",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-11-12 11:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 11:51:04"
         }
     ]
 }
