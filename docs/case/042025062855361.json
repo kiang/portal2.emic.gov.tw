@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "【1999報災情】09:26\/\/民眾通報鐵皮搖搖欲墜，提供地點在安樂區武聖街86號及88號，表示五樓住戶於頂樓搭建鐵皮鏽蝕都會掉落碎屑及破損，自行反映給住戶都不願意改善，故來電希市府單位妥處，反映多次都不願意改善。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "9號專員",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 11:01:03"
+        }
+    ]
 }
