@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "九曲里  環境髒亂 - 空地空屋髒亂：瓦厝街3巷、89巷（紅綠燈附近處空地）被棄置廢鐵籠、貨櫃、堆置廢鐵籠未固牢颱風來襲造成危害疑慮報請相關單位儘速協助處理以保障週遭居住里民及用路人安寧和安全麻?您感恩",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2025-11-12 15:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 16:31:04"
         }
     ]
 }
