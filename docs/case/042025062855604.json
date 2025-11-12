@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "東山區頂窩至田尾間大排大閘門附近，目前遭樹枝堵塞，人力無法清除，如水庫洩洪，恐水無法排除。　／　台南東山區頂窩的灌溉大水溝的閘門淹水，裏頭還有很多樹枝卡著無法清除。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-11-12 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 14:21:04"
         }
     ]
 }
