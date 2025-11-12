@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "渠反映凱旋門遊藝場樓上的鐵皮屋頂被風吹走，剩下一片遇強風時會劇烈震動，恐造成災情，建請查處。（本案為透過災害系統語言通報之案件）",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2025-11-12 14:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-12 16:21:04"
         }
     ]
 }
