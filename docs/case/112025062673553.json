@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112025062673553",
-    "CASE_DT": "2025\/10\/30 上午 09:15:00",
+    "CASE_DT": "2025\/11\/12 上午 07:21:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區啞口橋",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區永福路30之3號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41585,25.02421",
-    "DISASTER_MAIN_TYPE": "橋梁災情",
-    "DISASTER_SUB_TYPE": "橋墩基礎沖刷",
-    "CASE_DESCRIPTION": "1.",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.54931,24.92913",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.新店區永福路30之3號，該址再往上約50公尺處(近路燈編號:144349)有一棵路樹傾倒，路樹壓在電線上方，暫不影響交通，請單位協助移除。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "新北市1999張小姐34台",
     "INJURED_NO": 0,
@@ -18,7 +18,7 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
+    "IS_SERIOUS": false,
     "logs": [
         {
             "field": "CASE_DT",
@@ -79,6 +79,60 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-10-30 14:21:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/30 上午 09:15:00",
+            "new_value": "2025\/11\/12 上午 07:21:00",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "新店區",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區啞口橋",
+            "new_value": "新店區永福路30之3號",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41585,25.02421",
+            "new_value": "121.54931,24.92913",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "橋梁災情",
+            "new_value": "路樹災情",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "橋墩基礎沖刷",
+            "new_value": "路樹倒塌",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.",
+            "new_value": "1.新店區永福路30之3號，該址再往上約50公尺處(近路燈編號:144349)有一棵路樹傾倒，路樹壓在電線上方，暫不影響交通，請單位協助移除。",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-12 08:31:03"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2025-11-12 08:31:03"
         }
     ]
 }
