@@ -6,6 +6,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.391566,
+                    22.500245
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062856155",
+                "CASE_DT": "2025\/11\/12 下午 12:34:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232676830077,
+                    23.4452139467148
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072025062856099",
+                "CASE_DT": "2025\/11\/12 下午 12:29:05",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302623,
+                    22.616223
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042025062856107",
+                "CASE_DT": "2025\/11\/12 下午 12:27:00",
+                "DISASTER_MAIN_TYPE": "建物毀損",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.5006598,
                     22.51528151
                 ]
@@ -32,7 +86,7 @@
                 "CASE_ID": "102025062856004",
                 "CASE_DT": "2025\/11\/12 下午 12:14:42",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
