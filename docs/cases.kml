@@ -82,13 +82,93 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2025/11/12 下午 01:33:21</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072025062856480<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:33:21<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市興仁里1-18號（7-11旁）<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072025062856480</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2025/11/12 下午 01:33:21</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>澎湖縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>馬公市</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>澎湖縣馬公市興仁里1-18號（7-11旁）</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>119.61136684127,23.551760425715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>土石災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2025/11/12 下午 01:21:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856437<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2025/11/12 下午 01:21:00<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區堵南里大德路78之1號<br/><b>災情描述：</b>民宅後方土石滑落 敬請相關單位協處 (4米以上道路)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳鈺婷<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856437<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2025/11/12 下午 01:21:00<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區堵南里大德路78之1號<br/><b>災情描述：</b>民宅後方土石滑落 敬請相關單位協處 (4米以上道路)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳鈺婷<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
       <ExtendedData>
@@ -134,7 +214,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -176,7 +256,7 @@
         <when>2025/11/12 下午 01:16:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856386<br/><b>災情類別：</b>積淹水災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:16:00<br/><b>行政區：</b>宜蘭縣 宜蘭市<br/><b>發生地點：</b>宜蘭縣宜蘭市[宜蘭縣宜蘭市南橋里8鄰進士路一段146號](宜榮一中排)<br/><b>災情描述：</b>排水溝快滿出來<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>吳小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856386<br/><b>災情類別：</b>積淹水災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:16:00<br/><b>行政區：</b>宜蘭縣 宜蘭市<br/><b>發生地點：</b>宜蘭縣宜蘭市[宜蘭縣宜蘭市南橋里8鄰進士路一段146號](宜榮一中排)<br/><b>災情描述：</b>排水溝快滿出來<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>吳小姐<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -222,7 +302,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -264,7 +344,7 @@
         <when>2025/11/12 下午 01:08:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856350<br/><b>災情類別：</b>民生、基礎設施災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:08:00<br/><b>行政區：</b>臺南市 安南區<br/><b>發生地點：</b>臺南市安南區安中路三段23號<br/><b>災情描述：</b>燈桿搖晃<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>第三分局勤指中心<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856350<br/><b>災情類別：</b>民生、基礎設施災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 01:08:00<br/><b>行政區：</b>臺南市 安南區<br/><b>發生地點：</b>臺南市安南區安中路三段23號<br/><b>災情描述：</b>燈桿搖晃<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>第三分局勤指中心<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -310,7 +390,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -352,7 +432,7 @@
         <when>2025/11/12 下午 12:58:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102025062856426<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 12:58:00<br/><b>行政區：</b>臺中市 西區<br/><b>發生地點：</b>台中市西區大忠里五權西路一段２７７號<br/><b>災情描述：</b>西區大忠南街與五權西路一段交叉口，該處有一建案，11/12沒有在施工，但工地的天車橫跨在五權西路一段上方，擔心風大發生危險，應該要轉向工地內，建請協處。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>徐小姐<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102025062856426<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 下午 12:58:00<br/><b>行政區：</b>臺中市 西區<br/><b>發生地點：</b>台中市西區大忠里五權西路一段２７７號<br/><b>災情描述：</b>西區大忠南街與五權西路一段交叉口，該處有一建案，11/12沒有在施工，但工地的天車橫跨在五權西路一段上方，擔心風大發生危險，應該要轉向工地內，建請協處。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>徐小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -398,7 +478,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -440,7 +520,7 @@
         <when>2025/11/12 下午 12:34:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062856155<br/><b>災情類別：</b>民生、基礎設施災情（路燈故障）<br/><b>發生時間：</b>2025/11/12 下午 12:34:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區沿海路三段60號<br/><b>災情描述：</b>高雄市林園區沿海路三段60號旁邊的空地之中央，路燈編號119，路燈底座不太穩，風向比較大搖晃的動作太大，恐傾倒<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃三源<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062856155<br/><b>災情類別：</b>民生、基礎設施災情（路燈故障）<br/><b>發生時間：</b>2025/11/12 下午 12:34:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區沿海路三段60號<br/><b>災情描述：</b>高雄市林園區沿海路三段60號旁邊的空地之中央，路燈編號119，路燈底座不太穩，風向比較大搖晃的動作太大，恐傾倒<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃三源<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -486,7 +566,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1132,7 +1212,7 @@
         <when>2025/11/12 上午 11:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855892<br/><b>災情類別：</b>建物毀損（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:50:00<br/><b>行政區：</b>臺東縣 臺東市<br/><b>發生地點：</b>臺東縣臺東市更生北路<br/><b>災情描述：</b>老舊房屋工地建物倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>119<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855892<br/><b>災情類別：</b>建物毀損（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:50:00<br/><b>行政區：</b>臺東縣 臺東市<br/><b>發生地點：</b>臺東縣臺東市更生北路<br/><b>災情描述：</b>老舊房屋工地建物倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>119<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1178,7 +1258,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1220,7 +1300,7 @@
         <when>2025/11/12 上午 11:46:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112025062673552<br/><b>災情類別：</b>道路、隧道災情（道路落石）<br/><b>發生時間：</b>2025/11/12 上午 11:46:00<br/><b>行政區：</b>新北市 瑞芳區<br/><b>發生地點：</b>瑞芳區侯硐路178號<br/><b>災情描述：</b>1.瑞芳區侯硐路178號，位於路燈(編號:668253)路邊掉落2個大塊落石，暫不影響行車通行，但憂可能還會繼續有落石掉落，請單位派員處理。<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>119轉入<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112025062673552<br/><b>災情類別：</b>道路、隧道災情（道路落石）<br/><b>發生時間：</b>2025/11/12 上午 11:46:00<br/><b>行政區：</b>新北市 瑞芳區<br/><b>發生地點：</b>瑞芳區侯硐路178號<br/><b>災情描述：</b>[現場狀況]1.瑞芳區侯硐路178號，位於路燈(編號:668253)路邊掉落2個大塊落石，暫不影響行車通行，但憂可能還會繼續有落石掉落，請單位派員處理。  [各單位處置作為]@警察局：通知員警前往查看@農業局：非本局養護農路，養工處已請公所前往查看@交通局：已通知交控中心發布cms資訊@瑞芳區公所：已結案@工務局：經瑞芳區公所派員至現場查看，確認未有落石情形，故已無狀況。@消防局：區公所回報已處理完成(本案件已處理完畢。)<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>119轉入<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1254,7 +1334,7 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>1.瑞芳區侯硐路178號，位於路燈(編號:668253)路邊掉落2個大塊落石，暫不影響行車通行，但憂可能還會繼續有落石掉落，請單位派員處理。</value>
+          <value>[現場狀況]1.瑞芳區侯硐路178號，位於路燈(編號:668253)路邊掉落2個大塊落石，暫不影響行車通行，但憂可能還會繼續有落石掉落，請單位派員處理。  [各單位處置作為]@警察局：通知員警前往查看@農業局：非本局養護農路，養工處已請公所前往查看@交通局：已通知交控中心發布cms資訊@瑞芳區公所：已結案@工務局：經瑞芳區公所派員至現場查看，確認未有落石情形，故已無狀況。@消防局：區公所回報已處理完成(本案件已處理完畢。)</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -1266,7 +1346,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1396,7 +1476,7 @@
         <when>2025/11/12 上午 11:41:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042025062855791<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:41:00<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市東衛里155-15號門前<br/><b>災情描述：</b>(1999案件)民眾指稱第四台線路垂落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>1999轉報<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042025062855791<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 11:41:00<br/><b>行政區：</b>澎湖縣 馬公市<br/><b>發生地點：</b>澎湖縣馬公市東衛里155-15號門前<br/><b>災情描述：</b>(1999案件)民眾指稱第四台線路垂落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>1999轉報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1442,7 +1522,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2716,7 +2796,7 @@
         <when>2025/11/12 上午 10:40:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142025062856272<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 10:40:00<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮<br/><b>災情描述：</b>宜蘭縣蘇澳鎮台9丁線8K +750處，土石邊坡坍塌 (公民回報)<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142025062856272<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/12 上午 10:40:00<br/><b>行政區：</b>宜蘭縣 蘇澳鎮<br/><b>發生地點：</b>宜蘭縣蘇澳鎮<br/><b>災情描述：</b>宜蘭縣蘇澳鎮台9丁線8K +750處，土石邊坡坍塌 (公民回報)<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2758,7 +2838,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
