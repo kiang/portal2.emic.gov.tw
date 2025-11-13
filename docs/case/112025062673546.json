@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112025062673546",
-    "CASE_DT": "2025\/10\/30 上午 09:16:00",
+    "CASE_DT": "2025\/11\/13 上午 10:32:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "萬里區",
-    "CASE_LOC": "萬里區萬里區國中橋",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區瑞芳區明燈路三段82號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.69228,25.17947",
-    "DISASTER_MAIN_TYPE": "橋梁災情",
-    "DISASTER_SUB_TYPE": "橋梁斷裂",
-    "CASE_DESCRIPTION": "1.(演練)萬里區國中橋，因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。",
+    "COORDINATE": "121.46553,25.01227",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.瑞芳區「瑞芳火車站」(明燈路三段82號)的後站一帶街道，目前因雨量過大加上後站未設排水設施而致產生嚴重積淹水。  2.被併案案號17  3.從案號17併案還原  4.案件類別更改：淹水->積水積水案件",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳婕妤",
@@ -73,6 +73,48 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2025-10-30 14:31:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2025\/10\/30 上午 09:16:00",
+            "new_value": "2025\/11\/13 上午 10:32:00",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "萬里區",
+            "new_value": "瑞芳區",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "萬里區萬里區國中橋",
+            "new_value": "瑞芳區瑞芳區明燈路三段82號",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.69228,25.17947",
+            "new_value": "121.46553,25.01227",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "橋梁災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "橋梁斷裂",
+            "new_value": "道路積淹水",
+            "timestamp": "2025-11-13 11:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.(演練)萬里區國中橋，因颱風影響橋墩斷裂，目前雙向全線不通，進行封橋作業。",
+            "new_value": "1.瑞芳區「瑞芳火車站」(明燈路三段82號)的後站一帶街道，目前因雨量過大加上後站未設排水設施而致產生嚴重積淹水。  2.被併案案號17  3.從案號17併案還原  4.案件類別更改：淹水->積水積水案件",
+            "timestamp": "2025-11-13 11:41:04"
         }
     ]
 }
