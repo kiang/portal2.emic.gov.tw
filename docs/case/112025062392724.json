@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.三峽區茅埔路，該址於路燈(編號:195601)旁有一路樹倒塌影響通行，故請單位前往移除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "789",
     "INJURED_NO": 0,
@@ -217,6 +217,12 @@
             "old_value": true,
             "new_value": false,
             "timestamp": "2025-11-11 01:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2025-11-13 14:41:03"
         }
     ]
 }
