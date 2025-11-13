@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點:光復鄉事由:民眾表示縣府宣布11\/13光復鄉正常上班上課，但紅色緊戒卻尚未解除，大家都在避難所卻無法離開，明日究竟要如何上班，為何資訊如此不統一卻發布了明日上班上課的資訊，希望相關單位盡快佈達或是直接宣布光復鄉停班停課。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "未留",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2025-11-13 08:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2025-11-13 10:11:03"
         }
     ]
 }
