@@ -13776,7 +13776,7 @@
         <when>2025/11/11 下午 10:43:21</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072025062852876<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:43:21<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉建進一路300巷33號(一樓平房，9人(4女生5小孩)，水到小腿)<br/><b>災情描述：</b>2025/11/11 22:43:21 待援9人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072025062852876<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2025/11/11 下午 10:43:21<br/><b>行政區：</b>宜蘭縣 冬山鄉<br/><b>發生地點：</b>宜蘭縣冬山鄉建進一路300巷33號<br/><b>災情描述：</b>2025/11/11 22:43:21 待援9人 (一樓平房，9人(4女、5小孩)，水到小腿)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>上傳單位：</b>119<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -13806,15 +13806,19 @@
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>宜蘭縣冬山鄉建進一路300巷33號(一樓平房，9人(4女生5小孩)，水到小腿)</value>
+          <value>宜蘭縣冬山鄉建進一路300巷33號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>2025/11/11 22:43:21 待援9人</value>
+          <value>2025/11/11 22:43:21 待援9人 (一樓平房，9人(4女、5小孩)，水到小腿)</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
           <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>119</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
@@ -13850,7 +13854,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>121.8024362745,24.64763358851,0</coordinates>
+        <coordinates>121.802436,24.647634,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
