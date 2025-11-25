@@ -8,7 +8,7 @@
     "COORDINATE": "121.5638,25.0375",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "test3",
+    "CASE_DESCRIPTION": "test3。test4",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "test3",
+            "new_value": "test3。test4",
+            "timestamp": "2025-11-25 16:21:04"
+        }
+    ]
 }
