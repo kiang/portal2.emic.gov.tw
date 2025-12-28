@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "龍壽市民活動中心2樓樑柱水泥龜裂。 處置作為：理事長現場勘查反映這兩日無活動，暫無安全疑慮，已先行告知理事長，業務承辦人預計週一前往勘查，後續將將請廠商現場評估，並儘速辦理修繕作業。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "桃園市龜山區龍壽里長陳水賓",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2025-12-28 14:51:04"
+        }
+    ]
 }
