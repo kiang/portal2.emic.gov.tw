@@ -82,6 +82,182 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 下午 02:23:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026063981778<br/><b>災情類別：</b>道路、隧道災情（道路落石）<br/><b>發生時間：</b>2026/4/4 下午 02:23:00<br/><b>行政區：</b>苗栗縣 三灣鄉<br/><b>發生地點：</b>苗栗縣三灣鄉大河村10鄰八股農路(24份道路)<br/><b>災情描述：</b>局部坍方<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>鍾雲軒<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026063981778</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 下午 02:23:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路落石</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>苗栗縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>三灣鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>苗栗縣三灣鄉大河村10鄰八股農路(24份道路)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>局部坍方</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>鍾雲軒</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.948004,24.626933,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>土石災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 下午 02:16:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026063981758<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2026/4/4 下午 02:16:00<br/><b>行政區：</b>苗栗縣 三灣鄉<br/><b>發生地點：</b>苗栗縣三灣鄉大河村5鄰錫隘農路<br/><b>災情描述：</b>山崩<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>鍾雲軒<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026063981758</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 下午 02:16:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>土石災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>土石崩落</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>苗栗縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>三灣鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>苗栗縣三灣鄉大河村5鄰錫隘農路</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>山崩</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>鍾雲軒</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.956715,24.619156,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -1844,7 +2020,7 @@
         <when>2026/4/4 下午 01:00:54</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026063981533<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/4 下午 01:00:54<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>牛埔北路221巷口<br/><b>災情描述：</b>路面髒汙<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>陳姿吟<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026063981533<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/4 下午 01:00:54<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>牛埔北路221巷口<br/><b>災情描述：</b>路面髒汙<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>陳姿吟<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1890,7 +2066,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -4567,6 +4743,94 @@
       </ExtendedData>
       <Point>
         <coordinates>120.9577,24.805771,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 上午 10:30:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026063981767<br/><b>災情類別：</b>積淹水災情（地下道淹水）<br/><b>發生時間：</b>2026/4/4 上午 10:30:00<br/><b>行政區：</b>彰化縣 伸港鄉<br/><b>發生地點：</b>彰化縣伸港鄉長春地下道[彰化縣伸港鄉大同村20鄰長春路188號]<br/><b>災情描述：</b>積水30公分<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>消防局伸港分隊<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026063981767</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 上午 10:30:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>地下道淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>彰化縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>伸港鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>彰化縣伸港鄉長春地下道[彰化縣伸港鄉大同村20鄰長春路188號]</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>積水30公分</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>消防局伸港分隊</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>已處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.48700017803,24.157021164792,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
