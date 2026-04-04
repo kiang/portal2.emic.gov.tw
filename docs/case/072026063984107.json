@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "台7甲線36K處道路邊坡坍方，2237搶通單線",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "民眾報案",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "台7甲線36K處道路邊坡坍方雙向阻斷",
             "new_value": "台7甲線36K處道路邊坡坍方，2237搶通單線",
             "timestamp": "2026-04-04 22:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-04-05 00:41:03"
         }
     ]
 }
