@@ -8,7 +8,7 @@
     "COORDINATE": "121.513228761496,24.5972548490141",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "台7甲線36K處道路邊坡坍方雙向阻斷",
+    "CASE_DESCRIPTION": "台7甲線36K處道路邊坡坍方，2237搶通單線",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "民眾報案",
@@ -43,6 +43,12 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2026-04-04 22:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "台7甲線36K處道路邊坡坍方雙向阻斷",
+            "new_value": "台7甲線36K處道路邊坡坍方，2237搶通單線",
+            "timestamp": "2026-04-04 22:51:03"
         }
     ]
 }
