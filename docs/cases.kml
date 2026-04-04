@@ -82,47 +82,135 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>路樹災情</name>
+      <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2026/1/5 上午 10:43:03</when>
+        <when>2026/4/4 上午 08:40:45</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>162026063336815<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/1/5 上午 10:43:03<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>臺北市大安區<br/><b>災情描述：</b>0105測試<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>顏宏達<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>172026063979837<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/4 上午 08:40:45<br/><b>行政區：</b>苗栗縣 公館鄉<br/><b>發生地點：</b>苗栗縣公館鄉尖山村8鄰尖山201之6號<br/><b>災情描述：</b>此地點再往裡面走深一點的路，土石坍方，無法通行。<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>吳昌軒<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>162026063336815</value>
+          <value>172026063979837</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 10:43:03</value>
+          <value>2026/4/4 上午 08:40:45</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>路樹災情</value>
+          <value>其他災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>路樹傾斜</value>
+          <value>其他</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
-          <value>臺北市</value>
+          <value>苗栗縣</value>
         </Data>
         <Data name="town">
           <displayName>鄉鎮市區</displayName>
-          <value>大安區</value>
+          <value>公館鄉</value>
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>臺北市大安區</value>
+          <value>苗栗縣公館鄉尖山村8鄰尖山201之6號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>0105測試</value>
+          <value>此地點再往裡面走深一點的路，土石坍方，無法通行。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>民眾版LINE災情通報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>吳昌軒</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未受理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.841917,24.533932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 上午 07:09:40</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>162026063979428<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/4/4 上午 07:09:40<br/><b>行政區：</b>苗栗縣 造橋鄉<br/><b>發生地點：</b>苗栗縣造橋鄉錦水村活動中心<br/><b>災情描述：</b>錦水村活動中心往僑樂國小路面淹水達50公分以上<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>利銘興<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>162026063979428</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 上午 07:09:40</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>地區積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>苗栗縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>造橋鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>苗栗縣造橋鄉錦水村活動中心</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>錦水村活動中心往僑樂國小路面淹水達50公分以上</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -130,7 +218,179 @@
         </Data>
         <Data name="person_id">
           <displayName>上傳單位</displayName>
-          <value>顏宏達</value>
+          <value>利銘興</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.892062,24.618714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 上午 07:01:40</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>162026063979399<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/4 上午 07:01:40<br/><b>行政區：</b>苗栗縣 造橋鄉<br/><b>發生地點：</b>苗栗縣造橋鄉錦水村3鄰錦水20之5號<br/><b>災情描述：</b>錦水村一鄰路面淹水<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>利銘興<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>162026063979399</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 上午 07:01:40</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>苗栗縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>造橋鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>苗栗縣造橋鄉錦水村3鄰錦水20之5號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>錦水村一鄰路面淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>LINE災情通報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>利銘興</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.8917316,24.6105462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/4 上午 06:56:42</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026063979706<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/4/4 上午 06:56:42<br/><b>行政區：</b>新竹縣 峨眉鄉<br/><b>發生地點：</b>新竹縣峨眉鄉七星村河背17-10號(皓月竹城)<br/><b>災情描述：</b>115/04/04 06:56:42 - 地點描述：新竹縣峨眉鄉七星村河背17-10號(皓月竹城)淹水水越漫越高淹進屋內受困。110轉報人員：陳炳仲<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026063979706</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/4 上午 06:56:42</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>房屋積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>峨眉鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>新竹縣峨眉鄉七星村河背17-10號(皓月竹城)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>115/04/04 06:56:42 - 地點描述：新竹縣峨眉鄉七星村河背17-10號(皓月竹城)淹水水越漫越高淹進屋內受困。110轉報人員：陳炳仲</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
@@ -166,63 +426,63 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>121.5434446,25.0267701,0</coordinates>
+        <coordinates>121.03496742561,24.68880940258,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>其他災情</name>
+      <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2026/1/5 上午 10:18:24</when>
+        <when>2026/4/4 上午 06:35:18</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>172026063336605<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/1/5 上午 10:18:24<br/><b>行政區：</b>花蓮縣 光復鄉<br/><b>發生地點：</b>花蓮縣光復鄉中正一號<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>李文義<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>162026063979340<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/4 上午 06:35:18<br/><b>行政區：</b>苗栗縣 造橋鄉<br/><b>發生地點：</b>苗栗縣造橋鄉錦水村3鄰錦水20之12號<br/><b>災情描述：</b>台13線17.1公里路樹倒塌<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>利銘興<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>172026063336605</value>
+          <value>162026063979340</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 10:18:24</value>
+          <value>2026/4/4 上午 06:35:18</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>其他災情</value>
+          <value>路樹災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>其他</value>
+          <value>路樹倒塌</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
-          <value>花蓮縣</value>
+          <value>苗栗縣</value>
         </Data>
         <Data name="town">
           <displayName>鄉鎮市區</displayName>
-          <value>光復鄉</value>
+          <value>造橋鄉</value>
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>花蓮縣光復鄉中正一號</value>
+          <value>苗栗縣造橋鄉錦水村3鄰錦水20之12號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>測試</value>
+          <value>台13線17.1公里路樹倒塌</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
-          <value>民眾版LINE災情通報</value>
+          <value>LINE災情通報</value>
         </Data>
         <Data name="person_id">
           <displayName>上傳單位</displayName>
-          <value>李文義</value>
+          <value>利銘興</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未受理</value>
+          <value>未指派</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -254,67 +514,67 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>121.4351231,23.6465874,0</coordinates>
+        <coordinates>120.8917564,24.6109656,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>其他災情</name>
+      <name>橋梁災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2026/1/5 上午 09:08:30</when>
+        <when>2026/4/4 上午 05:15:51</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>172026063336052<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/1/5 上午 09:08:30<br/><b>行政區：</b>新北市 土城區<br/><b>發生地點：</b>新北市土城區<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>維哲<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>162026063979131<br/><b>災情類別：</b>橋梁災情（河川水位達警戒水位及封閉橋梁）<br/><b>發生時間：</b>2026/4/4 上午 05:15:51<br/><b>行政區：</b>苗栗縣 頭屋鄉<br/><b>發生地點：</b>苗栗縣頭屋鄉獅潭村10鄰獅潭130號<br/><b>災情描述：</b>溪流爆漲<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>馬文華<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <styleUrl>#style_6f9f752d6452ef1467f5de8109a850f0</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>172026063336052</value>
+          <value>162026063979131</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 09:08:30</value>
+          <value>2026/4/4 上午 05:15:51</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>其他災情</value>
+          <value>橋梁災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>其他</value>
+          <value>河川水位達警戒水位及封閉橋梁</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
-          <value>新北市</value>
+          <value>苗栗縣</value>
         </Data>
         <Data name="town">
           <displayName>鄉鎮市區</displayName>
-          <value>土城區</value>
+          <value>頭屋鄉</value>
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>新北市土城區</value>
+          <value>苗栗縣頭屋鄉獅潭村10鄰獅潭130號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>測試</value>
+          <value>溪流爆漲</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
-          <value>民眾版LINE災情通報</value>
+          <value>LINE災情通報</value>
         </Data>
         <Data name="person_id">
           <displayName>上傳單位</displayName>
-          <value>維哲</value>
+          <value>馬文華</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未受理</value>
+          <value>未指派</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
-          <value>否</value>
+          <value>是</value>
         </Data>
         <Data name="is_serious">
           <displayName>重大災情</displayName>
@@ -342,271 +602,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>121.445737,24.964251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>其他災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/1/5 上午 09:05:54</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>172026063336027<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/1/5 上午 09:05:54<br/><b>行政區：</b>新北市 土城區<br/><b>發生地點：</b>新北市土城區清水里19鄰仁愛路38號<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>連庭逸<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>172026063336027</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 09:05:54</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>其他災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>其他</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>新北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>土城區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>新北市土城區清水里19鄰仁愛路38號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>測試</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>民眾版LINE災情通報</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>連庭逸</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未受理</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.4616756,24.9795555,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>其他災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/1/5 上午 09:04:25</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>172026063336014<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/1/5 上午 09:04:25<br/><b>行政區：</b>新北市 土城區<br/><b>發生地點：</b>新北市土城區<br/><b>災情描述：</b>新北市測試<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>新北處長潘聰明<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>172026063336014</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 09:04:25</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>其他災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>其他</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>新北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>土城區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>新北市土城區</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>新北市測試</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>民眾版LINE災情通報</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>新北處長潘聰明</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未受理</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.445737,24.964251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>其他災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/1/5 上午 06:12:58</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>172026063334921<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/1/5 上午 06:12:58<br/><b>行政區：</b>宜蘭縣 宜蘭市<br/><b>發生地點：</b>宜蘭縣宜蘭市<br/><b>災情描述：</b>測試-宜蘭市後備謝爵輝<br/><b>通報類別：</b>民眾版LINE災情通報<br/><b>上傳單位：</b>謝爵輝<br/><b>處理狀態：</b>未受理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>172026063334921</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/1/5 上午 06:12:58</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>其他災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>其他</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>宜蘭縣</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>宜蘭市</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>宜蘭縣宜蘭市</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>測試-宜蘭市後備謝爵輝</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>民眾版LINE災情通報</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>謝爵輝</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未受理</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.7569358,24.7502118,0</coordinates>
+        <coordinates>120.8396107,24.6011121,0</coordinates>
       </Point>
     </Placemark>
   </Document>
