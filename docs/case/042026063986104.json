@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "苗26線3公里處土石滑落後路面有大量淤泥,4\/4已通報尚未處理,民眾騎車非常危險,請盡速處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "鶴崗派出所",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-04-06 11:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-04-06 11:51:03"
         }
     ]
 }
