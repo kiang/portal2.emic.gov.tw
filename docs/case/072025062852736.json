@@ -8,7 +8,7 @@
     "COORDINATE": "121.846866155206,24.5961799524795",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2025\/11\/11 19:42:53 待援1人 - 0932361016",
+    "CASE_DESCRIPTION": "2025\/11\/11 19:42:53 待援1人 - 0932****16",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2025-11-12 02:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2025\/11\/11 19:42:53 待援1人 - 0932361016",
+            "new_value": "2025\/11\/11 19:42:53 待援1人 - 0932****16",
+            "timestamp": "2026-04-09 17:31:04"
         }
     ]
 }
