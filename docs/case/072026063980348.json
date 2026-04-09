@@ -8,7 +8,7 @@
     "COORDINATE": "120.805767717998,24.6357217195621",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "2026\/04\/04 10:10:05 - 0928179367 積水到腰部",
+    "CASE_DESCRIPTION": "2026\/04\/04 10:10:05 - 0928****67 積水到腰部",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "已處理",
             "timestamp": "2026-04-04 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2026\/04\/04 10:10:05 - 0928179367 積水到腰部",
+            "new_value": "2026\/04\/04 10:10:05 - 0928****67 積水到腰部",
+            "timestamp": "2026-04-09 10:21:03"
         }
     ]
 }
