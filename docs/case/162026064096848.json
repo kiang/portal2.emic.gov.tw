@@ -12,12 +12,25 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "戴一安",
-    "INJURED_NO": 0,
+    "INJURED_NO": 2,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 0,
+    "TRAPPED_NO": 2,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2026-04-22 10:01:04"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 0,
+            "new_value": 2,
+            "timestamp": "2026-04-22 10:01:04"
+        }
+    ]
 }
