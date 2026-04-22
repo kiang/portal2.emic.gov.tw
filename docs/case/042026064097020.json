@@ -8,7 +8,7 @@
     "COORDINATE": "121.3569265,25.02417472",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "影響車輛通行",
+    "CASE_DESCRIPTION": "本案為演練(影響車輛通行)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "阮麗月",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-04-22 11:11:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "影響車輛通行",
+            "new_value": "本案為演練(影響車輛通行)",
+            "timestamp": "2026-04-22 13:51:04"
         }
     ]
 }
