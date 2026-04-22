@@ -17,7 +17,7 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
     "logs": [
         {
@@ -31,6 +31,12 @@
             "old_value": "黃元興",
             "new_value": "黃OO",
             "timestamp": "2026-04-22 14:31:03"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-04-22 14:41:04"
         }
     ]
 }
