@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
     "CASE_DESCRIPTION": "新東河橋、都威橋、美佐呂橋狀況不明，至少兩里形成孤島狀態",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡東霖",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "121.3537983,23.12663716",
             "new_value": "121.40063548003802,23.158122043099183",
             "timestamp": "2026-04-23 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-04-23 10:51:04"
         }
     ]
 }
