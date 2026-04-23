@@ -8,7 +8,7 @@
     "COORDINATE": "121.2140051,24.92117923",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "中豐路路樹倒塌",
+    "CASE_DESCRIPTION": "1150423測試",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳宗棋",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "中豐路路樹倒塌",
+            "new_value": "1150423測試",
+            "timestamp": "2026-04-23 10:01:04"
+        }
+    ]
 }
