@@ -1,6 +1,6 @@
 {
-    "CASE_ID": "042026064105250",
-    "CASE_DT": "2026\/4\/23 下午 02:16:00",
+    "CASE_ID": "042026064105359",
+    "CASE_DT": "2026\/4\/23 下午 02:40:00",
     "COUNTY_N": "桃園市",
     "TOWN_N": "大園區",
     "CASE_LOC": "桃園市大園區",
@@ -8,10 +8,10 @@
     "COORDINATE": "121.21177,25.06384709",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "招牌掉落阻斷交通  測試",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "test",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "侯冠如",
+    "PERSON_ID": "test",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,12 +19,5 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": [
-        {
-            "field": "CASE_STATUS",
-            "old_value": "未指派",
-            "new_value": "待處理",
-            "timestamp": "2026-04-23 14:51:04"
-        }
-    ]
+    "logs": []
 }
