@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/4\/23 上午 10:06:00",
     "COUNTY_N": "桃園市",
     "TOWN_N": "楊梅區",
-    "CASE_LOC": "桃園市楊梅區",
+    "CASE_LOC": "桃園市楊梅區[桃園市楊梅區瑞原里11鄰民富路一段796巷10號]",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.1291697,24.91820989",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "嚴重影響行車動線",
+    "COORDINATE": "121.1178409069565,24.92376292067135",
+    "DISASTER_MAIN_TYPE": "橋梁災情",
+    "DISASTER_SUB_TYPE": "橋梁斷裂",
+    "CASE_DESCRIPTION": "嚴重影響當地居民通行，請儘速派員協處",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黃00",
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "桃園市楊梅區",
+            "new_value": "桃園市楊梅區[桃園市楊梅區瑞原里11鄰民富路一段796巷10號]",
+            "timestamp": "2026-04-23 10:21:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.1291697,24.91820989",
+            "new_value": "121.1178409069565,24.92376292067135",
+            "timestamp": "2026-04-23 10:21:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "橋梁災情",
+            "timestamp": "2026-04-23 10:21:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "橋梁斷裂",
+            "timestamp": "2026-04-23 10:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "嚴重影響行車動線",
+            "new_value": "嚴重影響當地居民通行，請儘速派員協處",
+            "timestamp": "2026-04-23 10:21:03"
+        }
+    ]
 }

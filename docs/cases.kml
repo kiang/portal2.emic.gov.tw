@@ -82,31 +82,119 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>路樹災情</name>
+      <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2026/4/23 上午 10:06:00</when>
+        <when>2026/4/23 上午 10:17:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103714<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 10:06:00<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區<br/><b>災情描述：</b>嚴重影響行車動線<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃00<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103811<br/><b>災情類別：</b>其他災情（請求（協助）疏散撤離）<br/><b>發生時間：</b>2026/4/23 上午 10:17:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區[桃園市觀音區坑尾里14鄰中山路一段738之1號]<br/><b>災情描述：</b>哥吉拉找食物-測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>胖胖<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>50，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>042026064103714</value>
+          <value>042026064103811</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2026/4/23 上午 10:06:00</value>
+          <value>2026/4/23 上午 10:17:00</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>路樹災情</value>
+          <value>其他災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>路樹倒塌</value>
+          <value>請求（協助）疏散撤離</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>桃園市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>觀音區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>桃園市觀音區[桃園市觀音區坑尾里14鄰中山路一段738之1號]</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>哥吉拉找食物-測試</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>胖胖</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>50</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.10124562343,25.029654401941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>廣告招牌災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/23 上午 10:13:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064103787<br/><b>災情類別：</b>廣告招牌災情（廣告招牌掉落）<br/><b>發生時間：</b>2026/4/23 上午 10:13:00<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區<br/><b>災情描述：</b>中三北路二段鄰近國道1號楊沒交流道之肯德基照派掉落。教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>徐玉貞<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064103787</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/23 上午 10:13:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>廣告招牌災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>廣告招牌掉落</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -122,7 +210,271 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>嚴重影響行車動線</value>
+          <value>中三北路二段鄰近國道1號楊沒交流道之肯德基照派掉落。教育訓練測試</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>徐玉貞</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.1291697,24.91820989,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>橋梁災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/23 上午 10:08:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064103745<br/><b>災情類別：</b>橋梁災情（橋梁斷裂）<br/><b>發生時間：</b>2026/4/23 上午 10:08:00<br/><b>行政區：</b>臺東縣 成功鎮<br/><b>發生地點：</b>臺東縣成功鎮<br/><b>災情描述：</b>新東河橋、都威橋、美佐呂橋狀況不明，至少兩里形成孤島狀態<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蔡東霖<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_6f9f752d6452ef1467f5de8109a850f0</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064103745</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/23 上午 10:08:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>橋梁災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>橋梁斷裂</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>成功鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺東縣成功鎮</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>新東河橋、都威橋、美佐呂橋狀況不明，至少兩里形成孤島狀態</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>蔡東霖</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.3537983,23.12663716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>民生、基礎設施災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/23 上午 10:08:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064103740<br/><b>災情類別：</b>民生、基礎設施災情（其他）<br/><b>發生時間：</b>2026/4/23 上午 10:08:00<br/><b>行政區：</b>臺東縣 成功鎮<br/><b>發生地點：</b>臺東縣成功鎮<br/><b>災情描述：</b>社群大量轉傳，成功鎮完全失聯，無人救援之訊息，媒體開始查證<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高培華<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064103740</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/23 上午 10:08:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>民生、基礎設施災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>成功鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺東縣成功鎮</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>社群大量轉傳，成功鎮完全失聯，無人救援之訊息，媒體開始查證</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>高培華</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.3537983,23.12663716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>橋梁災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/23 上午 10:06:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064103714<br/><b>災情類別：</b>橋梁災情（橋梁斷裂）<br/><b>發生時間：</b>2026/4/23 上午 10:06:00<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區[桃園市楊梅區瑞原里11鄰民富路一段796巷10號]<br/><b>災情描述：</b>嚴重影響當地居民通行，請儘速派員協處<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃00<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_6f9f752d6452ef1467f5de8109a850f0</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064103714</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/23 上午 10:06:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>橋梁災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>橋梁斷裂</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>桃園市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>楊梅區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>桃園市楊梅區[桃園市楊梅區瑞原里11鄰民富路一段796巷10號]</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>嚴重影響當地居民通行，請儘速派員協處</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -166,7 +518,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>121.1291697,24.91820989,0</coordinates>
+        <coordinates>121.11784090696,24.923762920671,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -176,7 +528,7 @@
         <when>2026/4/23 上午 10:04:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103693<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/23 上午 10:04:00<br/><b>行政區：</b>桃園市 龍潭區<br/><b>發生地點：</b>桃園市龍潭區<br/><b>災情描述：</b>辦公室遭受外星人侵襲(演練)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103693<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/23 上午 10:04:00<br/><b>行政區：</b>桃園市 龍潭區<br/><b>發生地點：</b>桃園市龍潭區<br/><b>災情描述：</b>辦公室遭受外星人侵襲(演練)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -222,7 +574,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -440,7 +792,7 @@
         <when>2026/4/23 上午 09:52:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103603<br/><b>災情類別：</b>廣告招牌災情（廣告招牌掉落）<br/><b>發生時間：</b>2026/4/23 上午 09:52:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區<br/><b>災情描述：</b>廣告招牌掉落影響交通-教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王冠翔<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103603<br/><b>災情類別：</b>廣告招牌災情（廣告招牌掉落）<br/><b>發生時間：</b>2026/4/23 上午 09:52:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區<br/><b>災情描述：</b>廣告招牌掉落影響交通-教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王冠翔<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
       <ExtendedData>
@@ -486,7 +838,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -528,7 +880,7 @@
         <when>2026/4/23 上午 09:52:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103592<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:52:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區<br/><b>災情描述：</b>0423 教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>邱梓翔<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103592<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:52:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區<br/><b>災情描述：</b>0423 教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>邱梓翔<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -574,7 +926,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -616,7 +968,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103599<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區秀才路[桃園市楊梅區紅梅里16鄰校前路27號]<br/><b>災情描述：</b>路樹倒塌阻斷交通<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊梅區公所<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103599<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區秀才路[桃園市楊梅區紅梅里16鄰校前路27號]<br/><b>災情描述：</b>路樹倒塌阻斷交通<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊梅區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
@@ -662,7 +1014,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -704,7 +1056,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103597<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區[桃園市平鎮區新富里1鄰振興路5號]<br/><b>災情描述：</b>1150423測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>戴珮如<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>3，<b>死亡：</b>2，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>1
+    <b>案件編號：</b>042026064103597<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區[桃園市平鎮區新富里1鄰振興路5號]<br/><b>災情描述：</b>1150423測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>戴珮如<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>3，<b>死亡：</b>2，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>1
   ]]></description>
       <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
@@ -750,7 +1102,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -792,7 +1144,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103590<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號<br/><b>災情描述：</b>21143測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>000<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103590<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號<br/><b>災情描述：</b>21143測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>000<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
@@ -838,7 +1190,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -880,7 +1232,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103586<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號<br/><b>災情描述：</b>1150423教育訓練測試回報(測試)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>消防局<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103586<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號<br/><b>災情描述：</b>1150423教育訓練測試回報(測試)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>消防局<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -926,7 +1278,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1056,7 +1408,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103581<br/><b>災情類別：</b>車輛、交通事故（車禍）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 復興區<br/><b>發生地點：</b>桃園市復興區<br/><b>災情描述：</b>1150423教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>1150423教育訓練測試<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103581<br/><b>災情類別：</b>車輛、交通事故（車禍）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 復興區<br/><b>發生地點：</b>桃園市復興區<br/><b>災情描述：</b>1150423教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>1150423教育訓練測試<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1102,7 +1454,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1144,7 +1496,7 @@
         <when>2026/4/23 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103570<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 大園區<br/><b>發生地點：</b>桃園市大園區<br/><b>災情描述：</b>路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳彥羽<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103570<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:50:00<br/><b>行政區：</b>桃園市 大園區<br/><b>發生地點：</b>桃園市大園區<br/><b>災情描述：</b>路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳彥羽<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -1190,7 +1542,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1232,7 +1584,7 @@
         <when>2026/4/23 上午 09:49:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103582<br/><b>災情類別：</b>道路、隧道災情（道路落石）<br/><b>發生時間：</b>2026/4/23 上午 09:49:00<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區<br/><b>災情描述：</b>路不通- 測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>123<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>100，<b>死亡：</b>100，<b>受困：</b>0，<b>失蹤：</b>100，<b>收容：</b>100
+    <b>案件編號：</b>042026064103582<br/><b>災情類別：</b>道路、隧道災情（道路落石）<br/><b>發生時間：</b>2026/4/23 上午 09:49:00<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區<br/><b>災情描述：</b>路不通- 測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>123<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>100，<b>死亡：</b>100，<b>受困：</b>0，<b>失蹤：</b>100，<b>收容：</b>100
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1278,7 +1630,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1496,7 +1848,7 @@
         <when>2026/4/23 上午 09:48:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103565<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:48:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路<br/><b>災情描述：</b>0422教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>夏偉傑<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103565<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:48:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路<br/><b>災情描述：</b>0422教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>夏偉傑<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -1542,7 +1894,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1584,7 +1936,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103683<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區公所<br/><b>災情描述：</b>教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>AAA<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103683<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區公所<br/><b>災情描述：</b>教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>AAA<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -1630,7 +1982,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1672,7 +2024,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103589<br/><b>災情類別：</b>建物毀損（建物全倒）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路200號<br/><b>災情描述：</b>1150423教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>韓立<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>22，<b>死亡：</b>5，<b>受困：</b>24，<b>失蹤：</b>36，<b>收容：</b>0
+    <b>案件編號：</b>042026064103589<br/><b>災情類別：</b>建物毀損（建物全倒）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路200號<br/><b>災情描述：</b>1150423教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>韓立<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>22，<b>死亡：</b>5，<b>受困：</b>24，<b>失蹤：</b>36，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
@@ -1718,7 +2070,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1760,7 +2112,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103585<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市龜山區大崗里6鄰樹人路49之3號<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>廖耀志<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103585<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市龜山區大崗里6鄰樹人路49之3號<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>廖耀志<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
       <ExtendedData>
@@ -1806,7 +2158,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1848,7 +2200,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103574<br/><b>災情類別：</b>橋梁災情（河川水位達警戒水位及封閉橋梁）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號[桃園市桃園區中興里13鄰保定六街43號]<br/><b>災情描述：</b>1150423 測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>消防局第四大隊<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103574<br/><b>災情類別：</b>橋梁災情（河川水位達警戒水位及封閉橋梁）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路280號[桃園市桃園區中興里13鄰保定六街43號]<br/><b>災情描述：</b>1150423 測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>消防局第四大隊<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_6f9f752d6452ef1467f5de8109a850f0</styleUrl>
       <ExtendedData>
@@ -1894,7 +2246,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1936,7 +2288,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103571<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 龍潭區<br/><b>發生地點：</b>桃園市龍潭區中興路726號測試<br/><b>災情描述：</b>路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>吳蕙如<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103571<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 龍潭區<br/><b>發生地點：</b>桃園市龍潭區中興路726號測試<br/><b>災情描述：</b>路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>吳蕙如<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -1982,7 +2334,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2024,7 +2376,7 @@
         <when>2026/4/23 上午 09:47:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103568<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路<br/><b>災情描述：</b>1150423教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>戴金才<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103568<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:47:00<br/><b>行政區：</b>桃園市 桃園區<br/><b>發生地點：</b>桃園市桃園區力行路<br/><b>災情描述：</b>1150423教育訓練<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>戴金才<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -2070,7 +2422,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2288,7 +2640,7 @@
         <when>2026/4/23 上午 09:45:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103593<br/><b>災情類別：</b>建物毀損（建物半倒）<br/><b>發生時間：</b>2026/4/23 上午 09:45:00<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區榮民南路800號[桃園市中壢區仁福里20鄰仁福四街12號]<br/><b>災情描述：</b>&lt;測試&gt;1150422教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>測試<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103593<br/><b>災情類別：</b>建物毀損（建物半倒）<br/><b>發生時間：</b>2026/4/23 上午 09:45:00<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區榮民南路800號[桃園市中壢區仁福里20鄰仁福四街12號]<br/><b>災情描述：</b>&lt;測試&gt;1150422教育訓練測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>測試<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2334,7 +2686,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2376,7 +2728,7 @@
         <when>2026/4/23 上午 09:44:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064103591<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:44:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區<br/><b>災情描述：</b>路樹倒塌-測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃全成<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064103591<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/4/23 上午 09:44:00<br/><b>行政區：</b>桃園市 觀音區<br/><b>發生地點：</b>桃園市觀音區<br/><b>災情描述：</b>路樹倒塌-測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃全成<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -2422,7 +2774,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
