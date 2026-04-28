@@ -8,16 +8,29 @@
     "COORDINATE": "120.4706244,23.4817033",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "【演練測試】1150428芳安里-立仁路房屋倒塌1人受困",
+    "CASE_DESCRIPTION": "【演練測試】1150428芳安里-立仁路房屋倒塌1人受困，受困人員1名已獲救。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "吳沛潔",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
-    "TRAPPED_NO": 1,
+    "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "【演練測試】1150428芳安里-立仁路房屋倒塌1人受困",
+            "new_value": "【演練測試】1150428芳安里-立仁路房屋倒塌1人受困，受困人員1名已獲救。",
+            "timestamp": "2026-04-28 14:21:04"
+        },
+        {
+            "field": "TRAPPED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2026-04-28 14:21:04"
+        }
+    ]
 }
