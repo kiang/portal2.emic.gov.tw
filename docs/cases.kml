@@ -254,6 +254,90 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>廣告招牌災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 07:01:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142836<br/><b>災情類別：</b>廣告招牌災情（廣告招牌掉落）<br/><b>發生時間：</b>2026/4/29 下午 07:01:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>松仁路3號<br/><b>災情描述：</b>磁磚剝落導致路人受傷<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142836</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 07:01:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>廣告招牌災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>廣告招牌掉落</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>松仁路3號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>磁磚剝落導致路人受傷</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.568824,25.039501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -682,15 +766,519 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 03:05:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142835<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/4/29 下午 03:05:00<br/><b>行政區：</b>臺北市 文山區<br/><b>發生地點：</b>臺北市文山區景明街11巷6弄<br/><b>災情描述：</b>123<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142835</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 03:05:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>文山區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市文山區景明街11巷6弄</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>123</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.5417,25.001186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>土石災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 03:01:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142844<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/4/29 下午 03:01:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>臺北市信義區松勤街60號<br/><b>災情描述：</b>土石流<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142844</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 03:01:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>土石災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>土石流</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市信義區松勤街60號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>土石流</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563225,25.031832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>土石災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 03:01:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142839<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/4/29 下午 03:01:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>臺北市信義區松勤街60號<br/><b>災情描述：</b>土石流<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142839</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 03:01:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>土石災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>土石流</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市信義區松勤街60號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>土石流</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563225,25.031832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 03:01:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142837<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/29 下午 03:01:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>市府路1號<br/><b>災情描述：</b>(測試)積水20cm、範圍10m*20m<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142837</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 03:01:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>市府路1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>(測試)積水20cm、範圍10m*20m</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563784,25.037523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 02:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142820<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/4/29 下午 02:58:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>臺北市內湖區東湖路7巷<br/><b>災情描述：</b>遭其他區里民攻佔奪取，並遭到臭氣攻擊<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>50，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142820</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 02:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市內湖區東湖路7巷</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>遭其他區里民攻佔奪取，並遭到臭氣攻擊</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>50</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.612626,25.068995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 02:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142819<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/4/29 下午 02:58:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>臺北市信義區松勤街60號<br/><b>災情描述：</b>體育館天花板掉落<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142819</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 02:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>圍牆倒塌(含籬及鐵皮)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市信義區松勤街60號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>體育館天花板掉落</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563225,25.031832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/4/29 下午 02:56:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064142793<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/29 下午 02:56:00<br/><b>行政區：</b>臺北市 北投區<br/><b>發生地點：</b>石牌路2段100號<br/><b>災情描述：</b>專案測試<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064142793<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/29 下午 02:56:00<br/><b>行政區：</b>臺北市 北投區<br/><b>發生地點：</b>石牌路2段100號<br/><b>災情描述：</b>專案測試<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
@@ -738,11 +1326,11 @@
         </Data>
         <Data name="is_serious">
           <displayName>重大災情</displayName>
-          <value>否</value>
+          <value>是</value>
         </Data>
         <Data name="injured_no">
           <displayName>人員受傷</displayName>
-          <value>0</value>
+          <value>1</value>
         </Data>
         <Data name="death_no">
           <displayName>人員死亡</displayName>
@@ -940,91 +1528,7 @@
         <when>2026/4/29 下午 02:54:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064142807<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/29 下午 02:54:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>台北市市府路1號<br/><b>災情描述：</b>積水20cm、範圍10m*15m<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>112026064142807</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/4/29 下午 02:54:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>積淹水災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>道路積淹水</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>信義區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>台北市市府路1號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>積水20cm、範圍10m*15m</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>縣市報災情</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.563784,25.037523,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>積淹水災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/4/29 下午 02:54:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>112026064142782<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/29 下午 02:54:00<br/><b>行政區：</b>臺北市 中正區<br/><b>發生地點：</b>羅斯福路二段50號<br/><b>災情描述：</b>淹到捷運路口了<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064142782<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/29 下午 02:54:00<br/><b>行政區：</b>臺北市 中正區<br/><b>發生地點：</b>羅斯福路二段50號<br/><b>災情描述：</b>淹到捷運路口了<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>10
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -1094,7 +1598,7 @@
         </Data>
         <Data name="shelter_no">
           <displayName>人員收容</displayName>
-          <value>0</value>
+          <value>10</value>
         </Data>
       </ExtendedData>
       <Point>
@@ -1444,7 +1948,7 @@
         <when>2026/4/29 下午 02:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064142711<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/29 下午 02:50:00<br/><b>行政區：</b>臺北市 松山區<br/><b>發生地點：</b>臺北市八德路696號<br/><b>災情描述：</b>道路大量積淹水，已淹沒2車道，車輛無法通行。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064142711<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/4/29 下午 02:50:00<br/><b>行政區：</b>臺北市 松山區<br/><b>發生地點：</b>臺北市八德路四段694號<br/><b>災情描述：</b>道路大量積淹水，已淹沒區公所大樓1樓及地下室停車場。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -1462,7 +1966,7 @@
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>道路積淹水</value>
+          <value>房屋積淹水</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -1474,11 +1978,11 @@
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>臺北市八德路696號</value>
+          <value>臺北市八德路四段694號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>道路大量積淹水，已淹沒2車道，車輛無法通行。</value>
+          <value>道路大量積淹水，已淹沒區公所大樓1樓及地下室停車場。</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -2702,6 +3206,90 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>廣告招牌災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 02:46:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142829<br/><b>災情類別：</b>廣告招牌災情（廣告招牌欲墜）<br/><b>發生時間：</b>2026/4/29 下午 02:46:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>臺北市信義區莊敬路391號<br/><b>災情描述：</b>測試案件<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142829</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 02:46:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>廣告招牌災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>廣告招牌欲墜</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺北市信義區莊敬路391號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>測試案件</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.565476,25.027386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -3119,6 +3707,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.568633,24.988752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/29 下午 02:41:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142841<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/29 下午 02:41:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>市府路1號<br/><b>災情描述：</b>市府路1號<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142841</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/29 下午 02:41:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>市府路1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>市府路1號</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563784,25.037523,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3546,31 +4218,31 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>火災</name>
+      <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
-        <when>2026/4/29 下午 01:50:00</when>
+        <when>2026/4/29 下午 02:03:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064142767<br/><b>災情類別：</b>火災（建築物）<br/><b>發生時間：</b>2026/4/29 下午 01:50:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>臺北市市府路1號<br/><b>災情描述：</b>火災<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064142846<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/4/29 下午 02:03:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>市府路1號<br/><b>災情描述：</b>市府路1號<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
-      <styleUrl>#style_serious</styleUrl>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>112026064142767</value>
+          <value>112026064142846</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
-          <value>2026/4/29 下午 01:50:00</value>
+          <value>2026/4/29 下午 02:03:00</value>
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>火災</value>
+          <value>路樹災情</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>建築物</value>
+          <value>路樹倒塌</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -3582,11 +4254,11 @@
         </Data>
         <Data name="location">
           <displayName>發生地點</displayName>
-          <value>臺北市市府路1號</value>
+          <value>市府路1號</value>
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>火災</value>
+          <value>市府路1號</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -3602,11 +4274,11 @@
         </Data>
         <Data name="is_serious">
           <displayName>重大災情</displayName>
-          <value>是</value>
+          <value>否</value>
         </Data>
         <Data name="injured_no">
           <displayName>人員受傷</displayName>
-          <value>1</value>
+          <value>0</value>
         </Data>
         <Data name="death_no">
           <displayName>人員死亡</displayName>
@@ -4047,6 +4719,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.550988,25.060161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>火災</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/4/28 下午 06:00:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064142827<br/><b>災情類別：</b>火災（危險物品）<br/><b>發生時間：</b>2026/4/28 下午 06:00:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>市府路1號<br/><b>災情描述：</b>可能爆炸<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064142827</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/4/28 下午 06:00:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>火災</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>危險物品</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>市府路1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>可能爆炸</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563784,25.037523,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
