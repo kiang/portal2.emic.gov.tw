@@ -12,12 +12,25 @@
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
-    "INJURED_NO": 1,
+    "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
-    "logs": []
+    "IS_SERIOUS": false,
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2026-04-29 16:01:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2026-04-29 16:01:04"
+        }
+    ]
 }
