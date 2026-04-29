@@ -6,8 +6,8 @@
     "CASE_LOC": "青年路120號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.502523,25.0225",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "邊坡坍方",
     "CASE_DESCRIPTION": "OOOOOOOOOOOOOOOOOOOOOOQQQQQQQQQQQQQQQ",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "縣市報災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-04-29 15:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "邊坡坍方",
+            "timestamp": "2026-04-29 15:21:04"
+        }
+    ]
 }
