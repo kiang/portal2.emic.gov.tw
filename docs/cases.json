@@ -78,24 +78,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.510932,
-                    25.057178
-                ]
-            },
-            "properties": {
-                "CASE_ID": "112026064150533",
-                "CASE_DT": "2026\/4\/30 下午 08:23:00",
-                "DISASTER_MAIN_TYPE": "建物毀損",
-                "CASE_STATUS": "未指派",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": true
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     121.513476,
                     25.066037
                 ]
@@ -107,6 +89,24 @@
                 "CASE_STATUS": "未指派",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510932,
+                    25.057178
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064150533",
+                "CASE_DT": "2026\/4\/30 下午 08:06:00",
+                "DISASTER_MAIN_TYPE": "建物毀損",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": true
             }
         },
         {
