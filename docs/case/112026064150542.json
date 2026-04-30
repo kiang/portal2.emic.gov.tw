@@ -2,7 +2,7 @@
     "CASE_ID": "112026064150542",
     "CASE_DT": "2026\/4\/30 下午 07:28:00",
     "COUNTY_N": "臺北市",
-    "TOWN_N": "信義區",
+    "TOWN_N": "大安區",
     "CASE_LOC": "信義區和平東路三段655號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.563526,25.012542",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "TOWN_N",
+            "old_value": "信義區",
+            "new_value": "大安區",
+            "timestamp": "2026-04-30 19:51:04"
+        }
+    ]
 }
