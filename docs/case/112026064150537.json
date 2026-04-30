@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/4\/30 下午 07:24:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
-    "CASE_LOC": "文山區興得里興隆路三段192巷6號",
+    "CASE_LOC": "文山區興得里興隆路3段192巷6號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.558291,24.997651",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "文山區興得里興隆路三段192巷6號",
+            "new_value": "文山區興得里興隆路3段192巷6號",
+            "timestamp": "2026-04-30 19:41:10"
+        }
+    ]
 }
