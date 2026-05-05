@@ -860,7 +860,7 @@
         <when>2026/4/30 下午 10:29:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064150603<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/4/30 下午 10:29:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區哈密街59巷78弄<br/><b>災情描述：</b>房屋排水設施冒水積水約5公分深<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064150603<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/4/30 下午 10:29:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區哈密街59巷78弄<br/><b>災情描述：</b>房屋排水設施冒水積水約5公分深<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -902,7 +902,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -935,174 +935,6 @@
       </ExtendedData>
       <Point>
         <coordinates>121.515525,25.076052,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>建物毀損</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/4/30 下午 09:28:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>112026064150575<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/4/30 下午 09:28:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區庫倫街55巷口<br/><b>災情描述：</b>營建工地鐵製施工圍籬倒塌<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>112026064150575</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/4/30 下午 09:28:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>建物毀損</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>圍牆倒塌(含籬及鐵皮)</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>大同區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>大同區庫倫街55巷口</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>營建工地鐵製施工圍籬倒塌</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>縣市報災情</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.519818,25.072506,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>道路、隧道災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/4/30 下午 09:14:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>112026064150635<br/><b>災情類別：</b>道路、隧道災情（工區及周邊區域損壞）<br/><b>發生時間：</b>2026/4/30 下午 09:14:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區建功里天水路14號<br/><b>災情描述：</b>路面大破損，嚴重危害交通<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>112026064150635</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/4/30 下午 09:14:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>道路、隧道災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>工區及周邊區域損壞</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>大同區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>大同區建功里天水路14號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>路面大破損，嚴重危害交通</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>縣市報災情</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.5133,25.052894,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1280,7 +1112,7 @@
         <when>2026/4/30 下午 08:06:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064150533<br/><b>災情類別：</b>建物毀損（建物半倒）<br/><b>發生時間：</b>2026/4/30 下午 08:06:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區延平北路二段144巷20弄20號<br/><b>災情描述：</b>房屋倒塌造成住戶2人受傷，受災戶表示，尚有1名民眾受困其中急需救援<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>1，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064150533<br/><b>災情類別：</b>建物毀損（建物半倒）<br/><b>發生時間：</b>2026/4/30 下午 08:06:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區延平北路二段144巷20弄20號<br/><b>災情描述：</b>房屋倒塌造成住戶2人受傷，受災戶表示，尚有1名民眾受困其中急需救援<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>1，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_serious</styleUrl>
       <ExtendedData>
@@ -1322,7 +1154,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1439,90 +1271,6 @@
       </ExtendedData>
       <Point>
         <coordinates>121.61031,24.970904,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>廣告招牌災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/4/30 下午 07:50:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>112026064150590<br/><b>災情類別：</b>廣告招牌災情（廣告招牌欲墜）<br/><b>發生時間：</b>2026/4/30 下午 07:50:00<br/><b>行政區：</b>臺北市 大同區<br/><b>發生地點：</b>大同區昌吉街55號<br/><b>災情描述：</b>昌吉街55號店家招牌在2樓處搖搖欲墜<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_b84f511a3355f78f784ea0f203d6517f</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>112026064150590</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/4/30 下午 07:50:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>廣告招牌災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>廣告招牌欲墜</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>大同區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>大同區昌吉街55號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>昌吉街55號店家招牌在2樓處搖搖欲墜</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>縣市報災情</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.515608,25.066015,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1784,7 +1532,7 @@
         <when>2026/4/30 下午 07:35:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064150625<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/30 下午 07:35:00<br/><b>行政區：</b>臺北市 中正區<br/><b>發生地點：</b>羅斯福路4段92號前<br/><b>災情描述：</b>水源市場羅斯福路4段92號前道路積水20公分。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064150625<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/30 下午 07:35:00<br/><b>行政區：</b>臺北市 中正區<br/><b>發生地點：</b>羅斯福路4段92號前<br/><b>災情描述：</b>水源市場羅斯福路4段92號前道路積水20公分。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -1826,7 +1574,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2027,90 +1775,6 @@
       </ExtendedData>
       <Point>
         <coordinates>121.606273,25.073701,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>積淹水災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/4/30 下午 07:33:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>112026064150616<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/4/30 下午 07:33:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>內湖路三段60巷10弄5號<br/><b>災情描述：</b>淹水面積及深度 淹水深度10公分<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>112026064150616</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/4/30 下午 07:33:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>積淹水災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>道路積淹水</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺北市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>內湖區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>內湖路三段60巷10弄5號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>淹水面積及深度 淹水深度10公分</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>縣市報災情</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>未指派</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.591933,25.088025,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
