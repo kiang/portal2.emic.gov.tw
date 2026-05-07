@@ -1,4 +1,41 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7146378,
+                    24.4850464
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064193244",
+                "CASE_DT": "2026\/5\/7 下午 01:34:00",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7146378,
+                    24.4850464
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064193227",
+                "CASE_DT": "2026\/5\/7 下午 01:31:00",
+                "DISASTER_MAIN_TYPE": "火災",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
