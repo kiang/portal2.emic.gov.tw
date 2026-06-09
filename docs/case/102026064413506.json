@@ -6,10 +6,10 @@
     "CASE_LOC": "中正路632巷3號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.071443602731,24.9411383175298",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "11506090225、私人土地陰井遇雨溢流問題、民眾反映地點：楊梅區中正路632巷3號事由：上址旁有一私人土地(地號:桃園豐野段1088)，土地上有一口陰井，每遇雨季時，井水滿水位後會有溢流的狀況，甚至溢流到一旁的廠區及道路上，民眾擔心此情況久了會有危險，希望相關單位公權力介入請地主出面處理，另民眾希望會勘時能聯繫民眾一起到場會勘。(本案不清楚可與民眾電話聯繫，民眾電話僅供承辦單位業務聯繫)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "潘嵐蘭",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2026-06-09 19:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "道路積淹水",
+            "timestamp": "2026-06-09 19:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-09 19:21:04"
+        }
+    ]
 }
