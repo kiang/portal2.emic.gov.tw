@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "11506090450、道路淹水通報、民眾反映地點：楊梅區青年路與高獅路口事由：6\/9上午8點20分，民眾騎車經過上址發生積淹水，水深已淹至機車排氣管高度，導致機車騎士為了避開積水而需逆向通行，影響交通安全。民眾表示這邊排水溝排水功能不佳或堵塞有關，請相關單位派員前往檢查並儘速改善。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "胡瑜珊",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-09 19:31:04"
+        }
+    ]
 }
