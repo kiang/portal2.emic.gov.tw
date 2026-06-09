@@ -8,7 +8,7 @@
     "COORDINATE": "120.96739,24.799621",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
-    "CASE_DESCRIPTION": "1.0555養工處道路養護科派員前往2.0625柵欄放下進行管制，使用抽水設備排水3.0705養工處回報，地下道恢復通行。",
+    "CASE_DESCRIPTION": "1.0555養工處道路養護科派員前往",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "派遣科",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.0555養工處道路養護科派員前往2.0625柵欄放下進行管制，使用抽水設備排水3.0705養工處回報，地下道恢復通行。",
+            "new_value": "1.0555養工處道路養護科派員前往",
+            "timestamp": "2026-06-09 10:01:03"
+        }
+    ]
 }
