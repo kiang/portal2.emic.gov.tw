@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "草嶺村石壁農路有落石，部分石頭體積較大，無法人力清除，須廠商派工協助。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "葉沛宏",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "草嶺村雲220鄉道落石，部分石頭體積較大，無法人力清除，須廠商派工協助。",
             "new_value": "草嶺村石壁農路有落石，部分石頭體積較大，無法人力清除，須廠商派工協助。",
             "timestamp": "2026-06-10 11:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-06-10 11:31:04"
         }
     ]
 }
