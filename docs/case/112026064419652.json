@@ -8,7 +8,7 @@
     "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌",
+    "CASE_DESCRIPTION": "路樹壓到電線",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳先生",
@@ -25,6 +25,12 @@
             "old_value": "高峰路441號",
             "new_value": "高峰路439號",
             "timestamp": "2026-06-10 14:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌",
+            "new_value": "路樹壓到電線",
+            "timestamp": "2026-06-10 14:51:04"
         }
     ]
 }
