@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "11506100245、水淹到路上與周邊工廠、民眾反映地點：中壢區龍興路401巷口事由：上址水溝的水滿溢，水淹到路上與周邊工廠，約腳踝高，希望處理。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊育霈",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-06-10 11:51:04"
+        }
+    ]
 }
