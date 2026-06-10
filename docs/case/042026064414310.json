@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "邊坡坍方",
     "CASE_DESCRIPTION": "里長通報有邊坡坍方阻礙交通，竹林派出所立即派遣巡佐陳敏宏前往處理經警到現場，發現邊坡有土石雜草坍塌占用車道，無法通行現場前後、擺設三角錐及警示燈，施以交通疏導，車輛目前無發法通行。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "韓文祥",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-09 19:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-10 08:51:04"
         }
     ]
 }
