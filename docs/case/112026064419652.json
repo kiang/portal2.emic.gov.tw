@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/10 下午 02:06:17",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "高峰路441號",
+    "CASE_LOC": "高峰路439號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "高峰路441號",
+            "new_value": "高峰路439號",
+            "timestamp": "2026-06-10 14:31:04"
+        }
+    ]
 }
