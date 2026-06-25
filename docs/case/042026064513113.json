@@ -1,6 +1,6 @@
 {
-    "CASE_ID": "042026064513007",
-    "CASE_DT": "2026\/6\/25 上午 08:29:00",
+    "CASE_ID": "042026064513113",
+    "CASE_DT": "2026\/6\/25 上午 08:45:00",
     "COUNTY_N": "屏東縣",
     "TOWN_N": "九如鄉",
     "CASE_LOC": "屏東縣九如鄉",
@@ -8,8 +8,8 @@
     "COORDINATE": "120.4845044,22.7316677",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "九如鄉東寧路淹水",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "九如鄉中正路淹水",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黃哲輝",
     "INJURED_NO": 0,
@@ -17,14 +17,7 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": [
-        {
-            "field": "CASE_STATUS",
-            "old_value": "未指派",
-            "new_value": "待處理",
-            "timestamp": "2026-06-25 08:51:04"
-        }
-    ]
+    "logs": []
 }
