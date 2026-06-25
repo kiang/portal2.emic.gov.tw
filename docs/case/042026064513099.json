@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "內獅部落及上內獅部落各巷道有土石流情形",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "詹閎勝",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "內獅部落及上內獅部落各巷道有土石淤積情形",
             "new_value": "內獅部落及上內獅部落各巷道有土石流情形",
             "timestamp": "2026-06-25 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-25 16:31:04"
         }
     ]
 }
