@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "5樓建物1樓出不去，目前人員在2樓共計：老師5女，10位小朋友(小學4年級以下，7男3女).目前淹水已關閉門窗，老師09805-675-622【AI偵測：受困】",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "財團法人旭日教育基金會",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-25 19:01:04"
+        }
+    ]
 }

@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064514142",
-    "CASE_DT": "2026\/6\/25 上午 11:02:29",
+    "CASE_DT": "2026\/6\/25 上午 11:02:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "臺北市北投區",
+    "CASE_LOC": "台北市自強街5巷127號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.511124549401,25.112189586687",
+    "COORDINATE": "121.511125,25.112189",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【一般案件】上述地址目前淹水高度約20公分",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/6\/25 上午 11:02:29",
+            "new_value": "2026\/6\/25 上午 11:02:00",
+            "timestamp": "2026-06-25 19:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市北投區",
+            "new_value": "台北市自強街5巷127號",
+            "timestamp": "2026-06-25 19:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.511124549401,25.112189586687",
+            "new_value": "121.511125,25.112189",
+            "timestamp": "2026-06-25 19:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-25 19:01:04"
+        }
+    ]
 }
