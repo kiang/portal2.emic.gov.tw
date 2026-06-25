@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064518070",
-    "CASE_DT": "2026\/6\/25 下午 09:56:23",
+    "CASE_DT": "2026\/6\/25 下午 09:56:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "臺北市中山區",
+    "CASE_LOC": "中山北路二段-長春路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.522705,25.054981",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "COORDINATE": "121.522831,25.052609",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "【一般案件】上述地點因下大雨，車子紅綠燈秒數不亮(中山分局警察。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林",
     "INJURED_NO": 0,
@@ -19,5 +19,42 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/6\/25 下午 09:56:23",
+            "new_value": "2026\/6\/25 下午 09:56:00",
+            "timestamp": "2026-06-26 05:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市中山區",
+            "new_value": "中山北路二段-長春路",
+            "timestamp": "2026-06-26 05:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.522705,25.054981",
+            "new_value": "121.522831,25.052609",
+            "timestamp": "2026-06-26 05:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-06-26 05:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2026-06-26 05:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 05:41:04"
+        }
+    ]
 }
