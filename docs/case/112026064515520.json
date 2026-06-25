@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064515520",
-    "CASE_DT": "2026\/6\/25 下午 01:49:59",
+    "CASE_DT": "2026\/6\/25 下午 01:49:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
     "CASE_LOC": "泉源路21巷1號",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/6\/25 下午 01:49:59",
+            "new_value": "2026\/6\/25 下午 01:49:00",
+            "timestamp": "2026-06-25 15:31:04"
+        }
+    ]
 }
