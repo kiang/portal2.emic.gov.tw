@@ -82,13 +82,97 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 02:59:12</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064518663<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/6/26 上午 02:59:12<br/><b>行政區：</b>嘉義縣 番路鄉<br/><b>發生地點：</b>嘉義縣番路鄉透過電力座標(N4289,AE0400)轉換GIS座標<br/><b>災情描述：</b>2026/06/26 02:59:12 - 透過電力座標(N4289,AE0400)轉換GIS座標、樹木倒塌阻礙交通。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064518663</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 02:59:12</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>嘉義縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>番路鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>嘉義縣番路鄉透過電力座標(N4289,AE0400)轉換GIS座標</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/06/26 02:59:12 - 透過電力座標(N4289,AE0400)轉換GIS座標、樹木倒塌阻礙交通。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.55394256374,23.454948776849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/6/26 上午 02:36:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064518648<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 02:36:00<br/><b>行政區：</b>屏東縣 新園鄉<br/><b>發生地點：</b>屏東縣新園鄉鹽埔村B幹線抽水站<br/><b>災情描述：</b>鹽埔B幹線抽水站因大雨，請抽水站廠商加派懂操作人力至現場幫忙操作<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>賴泰合課長<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064518648<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 02:36:00<br/><b>行政區：</b>屏東縣 新園鄉<br/><b>發生地點：</b>屏東縣新園鄉鹽埔村B幹線抽水站<br/><b>災情描述：</b>鹽埔B幹線抽水站因大雨，請抽水站廠商加派懂操作人力至現場幫忙操作<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>賴泰合課長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -134,7 +218,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
