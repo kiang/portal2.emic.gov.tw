@@ -8,7 +8,7 @@
     "COORDINATE": "120.540799,22.543509",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
-    "CASE_DESCRIPTION": "積淹水淹至房屋家中，有1位老人須協助",
+    "CASE_DESCRIPTION": "積淹水淹至房屋家中，有1位老人須協助；長者不願離開無危險，已請消防隊前往",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李明勳",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-25 11:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "積淹水淹至房屋家中，有1位老人須協助",
+            "new_value": "積淹水淹至房屋家中，有1位老人須協助；長者不願離開無危險，已請消防隊前往",
+            "timestamp": "2026-06-25 11:31:04"
         }
     ]
 }
