@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/25 下午 07:38:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "楠梓區",
-    "CASE_LOC": "外環西路機車道右轉至德民路",
+    "CASE_LOC": "德民路與惠都街",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.300758,22.72109961",
     "DISASTER_MAIN_TYPE": "積淹水災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "外環西路機車道右轉至德民路",
+            "new_value": "德民路與惠都街",
+            "timestamp": "2026-06-25 20:01:04"
+        }
+    ]
 }
