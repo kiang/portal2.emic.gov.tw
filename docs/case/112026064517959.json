@@ -8,7 +8,7 @@
     "COORDINATE": "121.553045,25.024443",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "康是美 六張犁門市台北市信義區基隆路二段201-1號1樓磁磚掉落",
+    "CASE_DESCRIPTION": "台北市信義區基隆路二段201-1號1樓康是美六張犁門市磁磚掉落",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "康是美 六張犁門市台北市信義區基隆路二段201-1號1樓磁磚掉落",
+            "new_value": "台北市信義區基隆路二段201-1號1樓康是美六張犁門市磁磚掉落",
+            "timestamp": "2026-06-25 23:11:04"
+        }
+    ]
 }
