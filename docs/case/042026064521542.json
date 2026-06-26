@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/6\/26 上午 08:00:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "新化區",
-    "CASE_LOC": "臺南市新化區",
+    "CASE_LOC": "臺南市新化區護國里萬聖堂附近的無名橋",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.3357964,23.03394545",
+    "COORDINATE": "120.325076,23.055264",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
-    "CASE_DESCRIPTION": "溪水已淹至橋面",
+    "CASE_DESCRIPTION": "溪水已淹至橋面-先由新化分局及里長拉封鎖線",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "護國張里長",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市新化區",
+            "new_value": "臺南市新化區護國里萬聖堂附近的無名橋",
+            "timestamp": "2026-06-26 12:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.3357964,23.03394545",
+            "new_value": "120.325076,23.055264",
+            "timestamp": "2026-06-26 12:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "溪水已淹至橋面",
+            "new_value": "溪水已淹至橋面-先由新化分局及里長拉封鎖線",
+            "timestamp": "2026-06-26 12:41:04"
+        }
+    ]
 }
