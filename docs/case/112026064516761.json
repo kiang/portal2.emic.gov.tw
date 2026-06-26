@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "【一般案件】民眾反映住家正對面因為下大雨的關係發生土石流的狀況，民眾表示不清楚現場是否有傷亡，要求相關單位介入處理。（民眾住家地址登載於陳情人欄位）(民眾住家地址：內湖路二段263巷30弄6號1樓。)",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "詹蘭英",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-06-26 08:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 20:01:05"
         }
     ]
 }
