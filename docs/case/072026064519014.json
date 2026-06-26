@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2026\/06\/26 04:35:04 待援2人 - 1樓2人受困2026\/06\/26 05:58:25 - 文賢17車進水故障.安置2人(1臥床.1行動自如).安置至指定處所",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-26 06:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 08:21:03"
         }
     ]
 }
