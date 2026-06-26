@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "派工1.中西區頂美一街36巷社區，每一戶客廳都淹水，已到腳踝以上，需要協助，家裡都仁老弱婦孺，很困擾2.中華西路上的橋從去年五月到現在只要遇到大雨就會淹水。請單位卓處，可聯繫民眾，並請承辦結案時電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "夏先生",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2026-06-26 13:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 18:21:04"
         }
     ]
 }
