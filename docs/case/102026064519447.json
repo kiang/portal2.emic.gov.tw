@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "派工民眾通報仁德交流道旁邊南下靠東區，水淹到膝蓋，蠻多車子泡在水裡，且水面飄了一層油，民眾覺得危險，煩請相關單位卓處。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "何先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-06-26 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "待處理",
+            "timestamp": "2026-06-26 14:11:04"
         }
     ]
 }
