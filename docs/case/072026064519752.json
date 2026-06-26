@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/06\/26 08:02:08 - 透過電力座標(E2690,BA4300)轉換GIS座標路樹倒塌，2026\/06\/26 08:14:23 - 透過電力座標(E2690,BA4300)轉換GIS座標路樹倒塌，雙向封閉",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 15:01:09"
         }
     ]
 }
