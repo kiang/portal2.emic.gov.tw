@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 上午 10:54:48",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "高峰植物園",
+    "CASE_LOC": "高峰植物園前",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "土石災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "高峰植物園",
+            "new_value": "高峰植物園前",
+            "timestamp": "2026-06-26 12:11:04"
+        }
+    ]
 }

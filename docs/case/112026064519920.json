@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/6\/26 上午 08:32:51",
     "COUNTY_N": "新竹市",
     "TOWN_N": "香山區",
-    "CASE_LOC": "中華路四段473號",
+    "CASE_LOC": "中華路四段451巷內",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.928061,24.771314",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌",
+    "CASE_DESCRIPTION": "路樹倒塌(202606260064 中華路四段451巷85號附近路樹倒塌在路中影響行車)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "中華路四段473號",
+            "new_value": "中華路四段451巷內",
+            "timestamp": "2026-06-26 12:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌",
+            "new_value": "路樹倒塌(202606260064 中華路四段451巷85號附近路樹倒塌在路中影響行車)",
+            "timestamp": "2026-06-26 12:11:04"
+        }
+    ]
 }
