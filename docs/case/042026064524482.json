@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "土石流阻斷",
     "CASE_DESCRIPTION": "屏147-1道路往枋野車站方向土石流阻斷道路及電力設施 ，導致枋野車站停電（僅靠自備發電機），請鄉公所協助搶通，以利台電進場搶修恢復供電。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "台電屏東區處-徐正峰",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-06-26 21:11:04"
+        }
+    ]
 }

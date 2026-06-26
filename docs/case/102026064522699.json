@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋地下室淹水",
     "CASE_DESCRIPTION": "派工反應仁德區中正路二段1211號，私人住家地下室因雨天積水，請單位派員協助前往抽水(民眾表示過往88風災有派員協助過)，請單位卓處，可聯繫民眾，並請承辦結案時電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 21:11:04"
+        }
+    ]
 }
