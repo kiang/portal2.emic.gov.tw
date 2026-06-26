@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋地下室淹水",
     "CASE_DESCRIPTION": "民眾反映位於東安路50號的龍鳳大樓，因受大雨影響導致地下室嚴重積水，水位已淹至大腿高度，且導致多輛機車受淹。民眾表示目前正聯絡廠商，但因裝置問題恐無法自行處理，希望能請求協助派人抽水煩請卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 19:41:04"
+        }
+    ]
 }
