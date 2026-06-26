@@ -3,13 +3,13 @@
     "CASE_DT": "2026\/6\/26 上午 09:08:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "臺北市中山區中山北路二段128巷永靜公園",
+    "CASE_LOC": "臺北市中山區集英里天祥路33巷24號永靜公園",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.521967,25.061824",
+    "COORDINATE": "121.521719,25.061321",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "公園路樹傾倒",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市中山區中山北路二段128巷永靜公園",
+            "new_value": "臺北市中山區集英里天祥路33巷24號永靜公園",
+            "timestamp": "2026-06-26 10:01:10"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.521967,25.061824",
+            "new_value": "121.521719,25.061321",
+            "timestamp": "2026-06-26 10:01:10"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 10:01:10"
+        }
+    ]
 }
