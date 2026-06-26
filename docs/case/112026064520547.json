@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 上午 09:19:40",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "文雅街30-38號磐石園社區",
+    "CASE_LOC": "文雅街118巷30-38號磐石園社區",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.957669,24.810919",
     "DISASTER_MAIN_TYPE": "其他災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "文雅街30-38號磐石園社區",
+            "new_value": "文雅街118巷30-38號磐石園社區",
+            "timestamp": "2026-06-26 12:21:04"
+        }
+    ]
 }
