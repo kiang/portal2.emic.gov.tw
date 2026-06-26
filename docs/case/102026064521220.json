@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "渠反映區公所有於該處路邊橋上裝設三台抽水馬達（一台手動兩台自動），惟目前兩台自動抽水馬達跳掉，無法啟用抽水，導致目前住家內有淹水情形，建請查處。115.6.26 14：25分，已退水",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "翁聖欽",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "翁聖欽",
             "timestamp": "2026-06-26 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 16:41:04"
         }
     ]
 }
