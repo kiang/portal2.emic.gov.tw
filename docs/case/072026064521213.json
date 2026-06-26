@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 上午 11:25:38",
     "COUNTY_N": "新竹縣",
     "TOWN_N": "竹北市",
-    "CASE_LOC": "新竹縣竹北市沿河街193號",
+    "CASE_LOC": "新竹縣竹北市沿河街193號(淹水)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.005801742777,24.8514593572696",
     "DISASTER_MAIN_TYPE": "積淹水災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "新竹縣竹北市沿河街193號",
+            "new_value": "新竹縣竹北市沿河街193號(淹水)",
+            "timestamp": "2026-06-26 12:01:04"
+        }
+    ]
 }
