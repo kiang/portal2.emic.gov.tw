@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 上午 11:53:41",
     "COUNTY_N": "新竹市",
     "TOWN_N": "香山區",
-    "CASE_LOC": "牛埔北路171巷6弄口",
+    "CASE_LOC": "牛埔北路171巷6弄口路旁造景樹花台損壞",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.939545,24.802101",
     "DISASTER_MAIN_TYPE": "其他災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "牛埔北路171巷6弄口",
+            "new_value": "牛埔北路171巷6弄口路旁造景樹花台損壞",
+            "timestamp": "2026-06-26 16:31:03"
+        }
+    ]
 }
