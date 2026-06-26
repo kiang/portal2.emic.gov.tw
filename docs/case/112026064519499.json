@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 上午 07:40:47",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "中興路40號",
+    "CASE_LOC": "中清路40號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "積淹水災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "中興路40號",
+            "new_value": "中清路40號",
+            "timestamp": "2026-06-26 08:01:04"
+        }
+    ]
 }
