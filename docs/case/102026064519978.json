@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "11506260110、道路淹水、民眾反映地點:中壢區龍慈路357巷整條.。事由:上述路段淹水(約三十公分深)，疑似是排水不良，影響交通，希望改善。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莫金龍",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-26 09:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 11:11:04"
         }
     ]
 }
