@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾地點：光復鄉大同村佛祖街1號事由：民眾表示上個月已向光復鄉公所申請擋水板及科技沙包，當時建設課回覆需由村長及村幹事召開會議討論，後續未接獲任何通知，目前亦無法聯繫到村長，再次向公所詢問時，僅獲告知擋水板及科技沙包數量由縣府控管，民眾表示有看見擋水板及沙包擱置在那，但不清楚應向何單位領取及領取方式，請相關單位儘速致電向民眾說明並協助處理。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "徐先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-06-26 17:51:04"
+        }
+    ]
 }

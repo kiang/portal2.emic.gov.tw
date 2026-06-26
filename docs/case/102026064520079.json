@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "派工安平區育平六街45號，民眾表示昨日大雨後，汙水逆流，造成室內淹水，疑似水溝沒有疏通另民眾想知道，因自家屋齡較老，不確定汙水管線是否有接到市府公共管線，希請協處確認承辦可與民眾聯繫，結案須電話回覆",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "侯先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 15:01:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 17:51:04"
         }
     ]
 }
