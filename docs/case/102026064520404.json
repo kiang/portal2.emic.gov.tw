@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "派工中西區頂美二街，該處整條街所有住戶都有淹水狀況，希請處理承辦可與民眾聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 14:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 18:01:04"
         }
     ]
 }
