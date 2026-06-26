@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "派工民眾為仁德區中正路三段369號 王子駕訓班業者，稍早此地區有淹水，目前水位退了但營業場所仍積淹水約55公分，希望相關單位可協助抽水煩請單位卓處承辦可與民眾聯繫，結案須回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-26 13:31:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 13:51:03"
         }
     ]
 }
