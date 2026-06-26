@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "民眾反映仁德區大甲里行大街503號及附近排水溝積淤較嚴重，也未曾看過有單位做清淤昨天大雨後積淹水情況較明顯，希望單位協助處理煩請單位卓處承辦可與民眾聯繫，結案無須回覆",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "宋小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 15:11:04"
+        }
+    ]
 }
