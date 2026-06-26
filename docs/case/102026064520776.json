@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "民眾反映臺南市南區建康路二段363號後方的排水溝因堵塞，導致大雨時積水從排水管倒灌進民眾家中(目前也是)，廚房與客廳都積淹水，且鄰近住戶亦有相同情形。民眾表示去年曾向里長反映，但未見清理，且因後方有餐廳廢水排放，擔心颱風季來臨後情況惡化，煩請相關單位卓處，承辦可聯繫民眾，並請承辦人員結案時將處理結果以電話方式回復民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "宋先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 10:51:04"
+        }
+    ]
 }
