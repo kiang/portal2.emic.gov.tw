@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映：家住北區文賢路1030巷33號，不確定是否因外邊汙水蓋子壞掉或是其他情形，導致家裡化糞池阻塞、排泄物噴出來煩請單位協助處理承辦可與民眾聯繫，結案須回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "待處理",
             "timestamp": "2026-06-26 15:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 15:21:04"
         }
     ]
 }
