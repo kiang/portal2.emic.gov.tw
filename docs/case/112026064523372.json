@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/6\/26 下午 05:32:37",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "成德路218~2號",
+    "CASE_LOC": "成德路218-2號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.960226,24.792802",
     "DISASTER_MAIN_TYPE": "土石災情",
@@ -31,6 +31,12 @@
             "old_value": "土石流阻斷",
             "new_value": "土石崩落",
             "timestamp": "2026-06-26 18:41:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "成德路218~2號",
+            "new_value": "成德路218-2號",
+            "timestamp": "2026-06-27 00:01:04"
         }
     ]
 }
