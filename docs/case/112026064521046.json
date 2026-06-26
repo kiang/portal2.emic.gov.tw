@@ -5,7 +5,7 @@
     "TOWN_N": "北區",
     "CASE_LOC": "中清路一段50號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.934039,24.837927",
+    "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "中清路一段一整條都淹水",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "COORDINATE",
+            "old_value": "120.934039,24.837927",
+            "new_value": "120.926011,24.851631",
+            "timestamp": "2026-06-26 16:21:04"
+        }
+    ]
 }

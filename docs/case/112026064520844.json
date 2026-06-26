@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "三姓橋路往中華路四段451巷路口電動柵欄機損壞",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林珮芸",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "交通號誌損壞",
             "new_value": "其他",
             "timestamp": "2026-06-26 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 16:21:04"
         }
     ]
 }
