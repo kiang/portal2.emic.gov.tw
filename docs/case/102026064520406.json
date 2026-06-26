@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾表示永康區復興路1巷，巷尾淹水嚴重，從凌晨兩點淹到現在，未有人員調派抽水機前往，望派員儘速處理，煩請卓處，承辦可聯繫民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 14:41:04"
         }
     ]
 }
