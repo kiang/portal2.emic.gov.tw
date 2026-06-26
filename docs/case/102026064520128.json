@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "派工民眾反映媽媽經過永康區和平路269巷360弄 永康黃媽媽狗園看到該狗園有淹水情況聯繫狗園主人表示媽媽生病無法前往處理，民眾希望相關單位可協助救援煩請單位卓處承辦可與民眾聯繫，結案須回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "馬小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-26 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 10:31:04"
         }
     ]
 }

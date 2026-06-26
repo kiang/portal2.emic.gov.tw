@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/6\/26 上午 09:23:07",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "民權路40-1號",
+    "CASE_LOC": "民族路40-1號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "積淹水導致機車倒，汽油露出，派三民分隊前往查看",
+    "CASE_DESCRIPTION": "積淹水導致機車倒，汽油露出，派三民分隊前往查看(202606260102 民族路東門街口到東大路路段，道路積淹水，多輛車輛拋錨)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "民權路40-1號",
+            "new_value": "民族路40-1號",
+            "timestamp": "2026-06-26 10:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "積淹水導致機車倒，汽油露出，派三民分隊前往查看",
+            "new_value": "積淹水導致機車倒，汽油露出，派三民分隊前往查看(202606260102 民族路東門街口到東大路路段，道路積淹水，多輛車輛拋錨)",
+            "timestamp": "2026-06-26 10:31:04"
+        }
+    ]
 }
