@@ -8,8 +8,8 @@
     "COORDINATE": "120.978478926643,24.8544822800699",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "2026\/06\/26 10:51:10 - 現場2至3台汽車駕駛受困車內，0821-BRW白色楊先生，水淹到車內椅子，無法脫困",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "2026\/06\/26 10:51:10 - 現場2至3台汽車駕駛受困車內，0821-BRW白色楊先生，水淹到車內椅子，無法脫困",
+            "timestamp": "2026-06-26 11:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 11:01:04"
+        }
+    ]
 }
