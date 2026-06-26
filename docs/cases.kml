@@ -82,13 +82,189 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 09:46:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064520488<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/6/26 上午 09:46:00<br/><b>行政區：</b>高雄市 大社區<br/><b>發生地點：</b>高雄市大社區嘉誠里蜈潭巷11號<br/><b>災情描述：</b>嘉誠路台糖土地旁邊的路面還是有部分積泥<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蘇傳能<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064520488</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 09:46:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大社區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高雄市大社區嘉誠里蜈潭巷11號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>嘉誠路台糖土地旁邊的路面還是有部分積泥</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>蘇傳能</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.384266,22.74709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 09:45:29</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064520461<br/><b>災情類別：</b>積淹水災情（房屋地下室淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:45:29<br/><b>行政區：</b>新竹市 東區<br/><b>發生地點：</b>三民路68號<br/><b>災情描述：</b>積淹水<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>里長<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064520461</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 09:45:29</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>房屋地下室淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>東區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>三民路68號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>積淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>里長</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.963468,24.770248,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/6/26 上午 09:34:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064520403<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:34:00<br/><b>行政區：</b>屏東縣 新園鄉<br/><b>發生地點：</b>屏東縣新園鄉港西村興安路12號<br/><b>災情描述：</b>道路積淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>警察局東港分局李警員<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064520403<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:34:00<br/><b>行政區：</b>屏東縣 新園鄉<br/><b>發生地點：</b>屏東縣新園鄉港西村興安路12號<br/><b>災情描述：</b>道路積淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>警察局東港分局李警員<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -134,7 +310,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -440,6 +616,94 @@
         <when>2026/6/26 上午 09:31:00</when>
       </TimeStamp>
       <description><![CDATA[
+    <b>案件編號：</b>042026064520428<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2026/6/26 上午 09:31:00<br/><b>行政區：</b>高雄市 仁武區<br/><b>發生地點：</b>高雄市仁武區仁林路往東照山方向(忠義路1號)<br/><b>災情描述：</b>中華（電信桿折斷）橫在中央，台電（高壓電線）壓在路面<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>鍾明樺<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064520428</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 09:31:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>民生、基礎設施災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>電線（桿）毀損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>仁武區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高雄市仁武區仁林路往東照山方向(忠義路1號)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>中華（電信桿折斷）橫在中央，台電（高壓電線）壓在路面</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>鍾明樺</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.355073,22.703426,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>民生、基礎設施災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 09:31:00</when>
+      </TimeStamp>
+      <description><![CDATA[
     <b>案件編號：</b>042026064520407<br/><b>災情類別：</b>民生、基礎設施災情（電力停電）<br/><b>發生時間：</b>2026/6/26 上午 09:31:00<br/><b>行政區：</b>臺南市 南區<br/><b>發生地點：</b>臺南市南區德南街102號<br/><b>災情描述：</b>民眾主述台電公司外線沒送電，請派員處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>李先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
@@ -700,7 +964,7 @@
         <when>2026/6/26 上午 09:27:27</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064520400<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:27:27<br/><b>行政區：</b>臺南市 仁德區<br/><b>發生地點：</b>台南市仁德區中正路一段653號(1人)<br/><b>災情描述：</b>2026/06/26 09:27:27 受傷1人 - 110轉報：台南市仁德區中正路86線下，汽車淹水拋錨~人受困車內藍色車子(吳先生)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064520400<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:27:27<br/><b>行政區：</b>臺南市 仁德區<br/><b>發生地點：</b>台南市仁德區中正路一段653號(1人)<br/><b>災情描述：</b>2026/06/26 09:27:27 受傷1人 - 110轉報：台南市仁德區中正路86線下，汽車淹水拋錨~人受困車內藍色車子(吳先生)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -742,7 +1006,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -868,7 +1132,7 @@
         <when>2026/6/26 上午 09:24:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064520350<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/6/26 上午 09:24:00<br/><b>行政區：</b>高雄市 燕巢區<br/><b>發生地點：</b>高雄市燕巢區深水路2號<br/><b>災情描述：</b>土石流(獨居老人受困)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064520350<br/><b>災情類別：</b>土石災情（土石流）<br/><b>發生時間：</b>2026/6/26 上午 09:24:00<br/><b>行政區：</b>高雄市 燕巢區<br/><b>發生地點：</b>高雄市燕巢區深水路2號<br/><b>災情描述：</b>土石流(獨居老人受困)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
       <ExtendedData>
@@ -914,7 +1178,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1741,6 +2005,94 @@
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2026/6/26 上午 09:16:42</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064520492<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 09:16:42<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>崧嶺路307號<br/><b>災情描述：</b>崧嶺路307號對面清溝因下豪雨而淹水<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>楊淑滿<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064520492</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 09:16:42</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>地區積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>北區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>崧嶺路307號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>崧嶺路307號對面清溝因下豪雨而淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>楊淑滿</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.954265,24.786947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2026/6/26 上午 09:16:00</when>
       </TimeStamp>
       <description><![CDATA[
@@ -2171,6 +2523,94 @@
       </ExtendedData>
       <Point>
         <coordinates>121.23759917032,24.986001287934,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 09:13:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064520435<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/6/26 上午 09:13:00<br/><b>行政區：</b>臺南市 大內區<br/><b>發生地點：</b>臺南市大內區頭社里136號<br/><b>災情描述：</b>樹木倒路中央恐影響交通安全<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>頭社里羅文宗里長<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064520435</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 09:13:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺南市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大內區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺南市大內區頭社里136號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>樹木倒路中央恐影響交通安全</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>頭社里羅文宗里長</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.373637,23.151609,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4245,6 +4685,94 @@
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2026/6/26 上午 08:58:59</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064520485<br/><b>災情類別：</b>積淹水災情（房屋地下室淹水）<br/><b>發生時間：</b>2026/6/26 上午 08:58:59<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>大同路86號東門市場地下室<br/><b>災情描述：</b>東門市場地下室淹水現在高度大概在10公分請協助準備抽水馬達<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>陳慧玲<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064520485</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 08:58:59</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>房屋地下室淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>北區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>大同路86號東門市場地下室</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>東門市場地下室淹水現在高度大概在10公分請協助準備抽水馬達</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>陳慧玲</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2026/6/26 上午 08:58:42</when>
       </TimeStamp>
       <description><![CDATA[
@@ -4852,7 +5380,7 @@
         <when>2026/6/26 上午 08:56:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064520172<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2026/6/26 上午 08:56:00<br/><b>行政區：</b>屏東縣 里港鄉<br/><b>發生地點：</b>屏東縣里港鄉國道10號(27K+380)處有邊坡土石滑落<br/><b>災情描述：</b>屏東縣里港鄉國道10號(27K+380)處有邊坡土石滑落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>胡益名(村長)<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064520172<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2026/6/26 上午 08:56:00<br/><b>行政區：</b>屏東縣 里港鄉<br/><b>發生地點：</b>屏東縣里港鄉國道10號(27K+380)處有邊坡土石滑落<br/><b>災情描述：</b>屏東縣里港鄉國道10號(27K+380)處有邊坡土石滑落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>胡益名(村長)<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
       <ExtendedData>
@@ -4898,7 +5426,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -8921,6 +9449,90 @@
       <name>積淹水災情</name>
       <visibility>1</visibility>
       <TimeStamp>
+        <when>2026/6/26 上午 08:35:39</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064520471<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 08:35:39<br/><b>行政區：</b>高雄市 路竹區<br/><b>發生地點：</b>高雄市路竹區永華路277號<br/><b>災情描述：</b>2026/06/26 08:35:39 待援1人 - 1人淹水受困.表示抱柱子.其餘狀況不詳(報案人不在患者旁邊)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064520471</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 08:35:39</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>地區積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>路竹區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高雄市路竹區永華路277號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/06/26 08:35:39 待援1人 - 1人淹水受困.表示抱柱子.其餘狀況不詳(報案人不在患者旁邊)</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.2625631685,22.896253717526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
         <when>2026/6/26 上午 08:35:00</when>
       </TimeStamp>
       <description><![CDATA[
@@ -9608,7 +10220,7 @@
         <when>2026/6/26 上午 08:29:57</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064519890<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/6/26 上午 08:29:57<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市經國路一段315巷6弄14號<br/><b>災情描述：</b>備案人表示一樓淹水快滿了<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>民眾<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064519890<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/6/26 上午 08:29:57<br/><b>行政區：</b>新竹市 北區<br/><b>發生地點：</b>新竹市經國路一段315巷6弄14號<br/><b>災情描述：</b>報案人表示一樓淹水快滿了<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>民眾<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -9642,7 +10254,7 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>備案人表示一樓淹水快滿了</value>
+          <value>報案人表示一樓淹水快滿了</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -12296,7 +12908,7 @@
         <when>2026/6/26 上午 08:08:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064519722<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/6/26 上午 08:08:00<br/><b>行政區：</b>臺南市 中西區<br/><b>發生地點：</b>臺南市中西區南門路73號對面路樹倒塌<br/><b>災情描述：</b>南門路73號對面路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>程先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064519722<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/6/26 上午 08:08:00<br/><b>行政區：</b>臺南市 中西區<br/><b>發生地點：</b>臺南市中西區南門路73號對面路樹倒塌<br/><b>災情描述：</b>南門路73號對面路樹倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>程先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -12342,7 +12954,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -16832,7 +17444,7 @@
         <when>2026/6/26 上午 07:30:25</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064519441<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 07:30:25<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>鎮庸路與南平路口<br/><b>災情描述：</b>11506260061、道路積淹水、民眾反映地點：平鎮區鎮庸路與南平路口事由：上述地點有一條溪流，河水高度接近路面(水面接近路面約20-30公分)，擔心倒灌，造成淹水，故請單位盡快處理本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>呂冠頡<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064519441<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 07:30:25<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>鎮庸路與南平路口<br/><b>災情描述：</b>11506260061、道路積淹水、民眾反映地點：平鎮區鎮庸路與南平路口事由：上述地點有一條溪流，河水高度接近路面(水面接近路面約20-30公分)，擔心倒灌，造成淹水，故請單位盡快處理本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>呂冠頡<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -16878,7 +17490,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -19276,7 +19888,7 @@
         <when>2026/6/26 上午 07:04:26</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064519318<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 07:04:26<br/><b>行政區：</b>屏東縣 佳冬鄉<br/><b>發生地點：</b>屏東縣佳冬鄉內館路1-3號<br/><b>災情描述：</b>2026/06/26 07:04:26 待援6人 - 6人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064519318<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/6/26 上午 07:04:26<br/><b>行政區：</b>屏東縣 佳冬鄉<br/><b>發生地點：</b>屏東縣佳冬鄉內館路1-3號<br/><b>災情描述：</b>2026/06/26 07:04:26 待援6人 - 6人<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -19318,7 +19930,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -24216,7 +24828,7 @@
         <when>2026/6/26 上午 06:13:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064519124<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 06:13:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區<br/><b>災情描述：</b>高雄市三民區正興里建工路707巷及707巷1、2、3、4弄，積水已退<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>賴昱辰<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064519124<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 06:13:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區<br/><b>災情描述：</b>高雄市三民區正興里建工路707巷及707巷1、2、3、4弄，積水已退<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>賴昱辰<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -24262,7 +24874,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -24559,6 +25171,94 @@
       </ExtendedData>
       <Point>
         <coordinates>120.129597,23.062358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/6/26 上午 06:08:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064520477<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 06:08:00<br/><b>行政區：</b>新竹縣 新豐鄉<br/><b>發生地點：</b>新竹縣新豐鄉鳳坑村老姜的店附近道路<br/><b>災情描述：</b>淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>姜禮本<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064520477</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/6/26 上午 06:08:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>新豐鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>新竹縣新豐鄉鳳坑村老姜的店附近道路</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>淹水</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>姜禮本</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.979134,24.900017,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -25004,7 +25704,7 @@
         <when>2026/6/26 上午 06:00:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064519207<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 06:00:00<br/><b>行政區：</b>臺南市 安南區<br/><b>發生地點：</b>臺南市安南區城北路與城安路口<br/><b>災情描述：</b>路口淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>郭峻民里長<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064519207<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 06:00:00<br/><b>行政區：</b>臺南市 安南區<br/><b>發生地點：</b>臺南市安南區城北路與城安路口<br/><b>災情描述：</b>路口淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>郭峻民里長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -25050,7 +25750,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -25532,7 +26232,7 @@
         <when>2026/6/26 上午 05:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064519296<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 05:50:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區環南路18號<br/><b>災情描述：</b>環南路18號前道路積淹水情形超過30公分<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃稼榮<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064519296<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 05:50:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區環南路18號<br/><b>災情描述：</b>環南路18號前道路積淹水情形超過30公分，現況已退水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃稼榮<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -25566,7 +26266,7 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>環南路18號前道路積淹水情形超過30公分</value>
+          <value>環南路18號前道路積淹水情形超過30公分，現況已退水</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -25578,7 +26278,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -26908,7 +27608,7 @@
         <when>2026/6/26 上午 05:23:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064518996<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/6/26 上午 05:23:00<br/><b>行政區：</b>臺南市 七股區<br/><b>發生地點：</b>樹林中排南33～1住宅淹水請協助拉封鎖線<br/><b>災情描述：</b>接獲通報，七股區樹林里中排南33-1線附近住宅周邊有積淹水情形，恐影響住戶安全及人車通行，請協助現場拉設封鎖線並加強警戒。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林冠廷<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064518996<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/6/26 上午 05:23:00<br/><b>行政區：</b>臺南市 七股區<br/><b>發生地點：</b>樹林中排南33～1住宅淹水請協助拉封鎖線<br/><b>災情描述：</b>接獲通報，七股區樹林里中排南33-1線附近住宅周邊有積淹水情形，恐影響住戶安全及人車通行，請協助現場拉設封鎖線並加強警戒。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林冠廷<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -26954,7 +27654,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -28920,7 +29620,7 @@
         <when>2026/6/26 上午 04:48:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064518809<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 04:48:00<br/><b>行政區：</b>臺南市 永康區<br/><b>發生地點：</b>臺南市永康區永華路<br/><b>災情描述：</b>永康區永華路周邊積淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>李彥陞<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064518809<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 04:48:00<br/><b>行政區：</b>臺南市 永康區<br/><b>發生地點：</b>臺南市永康區永華路<br/><b>災情描述：</b>永康區永華路周邊積淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>李彥陞<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -28966,7 +29666,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -30052,7 +30752,7 @@
         <when>2026/6/26 上午 04:00:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064520254<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 04:00:00<br/><b>行政區：</b>臺南市 歸仁區<br/><b>發生地點：</b>臺南市歸仁區民生9街69巷<br/><b>災情描述：</b>道路積水嚴重<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王嘉緯<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064520254<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/6/26 上午 04:00:00<br/><b>行政區：</b>臺南市 歸仁區<br/><b>發生地點：</b>臺南市歸仁區民生9街69巷<br/><b>災情描述：</b>道路積水嚴重<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王嘉緯<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -30098,7 +30798,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>

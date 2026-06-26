@@ -8,8 +8,8 @@
     "COORDINATE": "121.206652,24.95662",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "環南路18號前道路積淹水情形超過30公分",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "環南路18號前道路積淹水情形超過30公分，現況已退水",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "黃稼榮",
     "INJURED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-06-26 07:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "環南路18號前道路積淹水情形超過30公分",
+            "new_value": "環南路18號前道路積淹水情形超過30公分，現況已退水",
+            "timestamp": "2026-06-26 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 09:51:04"
         }
     ]
 }
