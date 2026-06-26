@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "鎮安村永和56號吳先生的母親吳李明月女士已送到公所2樓活動中心安置，吳李明月女士在離開時忘記帶建保卡證件、處方簽的藥，因目前鎮安道路績水，需要消防隊派員到住所拿藥，吳先生還在住所，可連終吳先生0933-****26，若沒辦法拿藥，公所會視狀況送醫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳亮呈",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 13:11:04"
+        }
+    ]
 }
