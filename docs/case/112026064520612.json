@@ -2,7 +2,7 @@
     "CASE_ID": "112026064520612",
     "CASE_DT": "2026\/6\/26 上午 10:04:07",
     "COUNTY_N": "新竹市",
-    "TOWN_N": "北區",
+    "TOWN_N": "香山區",
     "CASE_LOC": "景觀大道往客雅大道方向",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.926011,24.851631",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "TOWN_N",
+            "old_value": "北區",
+            "new_value": "香山區",
+            "timestamp": "2026-06-26 22:51:03"
+        }
+    ]
 }
