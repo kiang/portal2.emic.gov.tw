@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "豪雨導致排水不及-6\/26下午15:00新化區公所農建課視現場巡視尚未退水，但該路段屬工務局管轄",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "北勢鄭里長",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "豪雨導致排水不及",
             "new_value": "豪雨導致排水不及-6\/26下午15:00新化區公所農建課視現場巡視尚未退水，但該路段屬工務局管轄",
             "timestamp": "2026-06-26 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-06-26 17:31:04"
         }
     ]
 }

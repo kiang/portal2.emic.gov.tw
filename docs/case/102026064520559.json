@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "抽水站受災",
     "CASE_DESCRIPTION": "派工民眾通報位於仁德區保安里保安車站附近，中正路一段抽水站的抽水機故障，完全沒有運作，希望單位前往開啟或修復，因目前該地區已經因積淹水全面封閉，煩請相關單位卓處，承辦若不清楚，可聯繫民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 15:01:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-26 17:31:04"
         }
     ]
 }
