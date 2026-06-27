@@ -8,8 +8,8 @@
     "COORDINATE": "120.5441223,23.1151111",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
-    "CASE_DESCRIPTION": "溪水暴漲至橋面影響通行",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "溪水暴漲至橋面影響通行。6月27日10時0分西埔橋水位下降，解除封橋。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳志得里長",
     "INJURED_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-27 11:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "溪水暴漲至橋面影響通行",
+            "new_value": "溪水暴漲至橋面影響通行。6月27日10時0分西埔橋水位下降，解除封橋。",
+            "timestamp": "2026-06-27 15:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-27 15:01:04"
         }
     ]
 }

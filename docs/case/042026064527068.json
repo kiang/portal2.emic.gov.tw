@@ -8,10 +8,10 @@
     "COORDINATE": "120.573888,23.962792",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "路面積淹水",
+    "CASE_DESCRIPTION": "已完成交維作業",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "陳致賢",
+    "PERSON_ID": "董建鑫",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路面積淹水",
+            "new_value": "已完成交維作業",
+            "timestamp": "2026-06-27 15:01:03"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "陳致賢",
+            "new_value": "董建鑫",
+            "timestamp": "2026-06-27 15:01:03"
+        }
+    ]
 }

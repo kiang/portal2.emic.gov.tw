@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "橋梁斷裂",
     "CASE_DESCRIPTION": "潮州鎮通潮三巷與永康路段橋梁斷裂",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李明勳",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-26 08:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-27 15:01:04"
         }
     ]
 }
