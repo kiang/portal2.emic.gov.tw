@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋地下室淹水",
     "CASE_DESCRIPTION": "東門市場地下室淹水現在高度大概在10公分請協助準備抽水馬達",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳慧玲",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "0,0",
             "new_value": "120.926011,24.851631",
             "timestamp": "2026-06-26 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-28 14:51:04"
         }
     ]
 }
