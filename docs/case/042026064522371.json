@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "民眾反應在山翁福德祠（三重里中興路一段147巷）雙向道路因土石路樹傾倒車輛無法行駛、民眾困在原地",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-06-27 15:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-06-29 22:51:04"
         }
     ]
 }

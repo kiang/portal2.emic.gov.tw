@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "請縣府協助樹木修剪，請聯繫橫山服務所李所長03-5****25，將派員會同前往",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李所長",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2026-06-26 16:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-06-29 22:51:04"
         }
     ]
 }
