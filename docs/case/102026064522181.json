@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "派工民眾反映龍崎南162整條，因為昨天整夜下大雨，土石沖刷到路面，路和樹和動物屍體殘留路面上，表示南162很多務農的農民，必須經過這條道路，需盡快修復清理。請單位卓處，可聯繫民眾，並請承辦結案時電話回覆民眾。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "洪玉龍",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-06-26 15:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-01 15:21:05"
         }
     ]
 }
