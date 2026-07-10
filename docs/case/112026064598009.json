@@ -8,7 +8,7 @@
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "1801通知",
+    "CASE_DESCRIPTION": "道路積淹水1828埔頂所派員查處，於轄區內未發現積淹水情形。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1801通知",
+            "new_value": "道路積淹水1828埔頂所派員查處，於轄區內未發現積淹水情形。",
+            "timestamp": "2026-07-10 18:41:04"
+        }
+    ]
 }
