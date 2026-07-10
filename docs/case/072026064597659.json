@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "2026\/07\/10 14:10:00 兩位中風臥床\/樹湖村長0932****19\/門諾壽豐分院\/",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "樹湖村長",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-10 15:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-10 16:11:04"
         }
     ]
 }
