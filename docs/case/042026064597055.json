@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】民眾表示中正區和一路2巷14之2號，一樓住戶把瓦斯桶放在側邊牆壁沒有綁東西，現在強烈颱風要來，瓦斯桶一定會被吹走非常危險，希業務單位盡快派員勸導該住戶把瓦斯桶收起來以免發生意外災害 。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-10 08:31:03"
+        }
+    ]
 }
