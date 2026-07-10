@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "11507110022、路樹傾倒、民眾反映地點：觀音區保障五路上事由：成功路一段右轉保障路，左傳保障五路就會看到，路樹傾倒。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫　／　11507110023、電桿傾斜、民眾反映地點：觀音區保障五路上事由：成功路一段右轉保障路，左傳保障五路就會看到，電桿傾斜。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "江羿璋",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 04:51:03"
+        }
+    ]
 }
