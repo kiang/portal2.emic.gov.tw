@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "11507100269、工地頂樓模板安全問題、民眾反映地點:八德區建國路145號事由:上址旁長榮集團醫療工地四樓屋頂堆放十幾塊模板(未綁好)，颱風將至可能會吹下砸傷旁邊行人及建築物，民眾擔心公安危險，請派員稽查。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蕭輔民",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-10 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-10 16:51:04"
         }
     ]
 }
