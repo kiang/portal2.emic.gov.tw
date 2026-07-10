@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "上述位置暐順前有路樹倒塌車道上",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "戴佩如",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "121.03787894440036,24.80799625896971",
             "new_value": "121.03752450440402,24.80792074586104",
             "timestamp": "2026-07-10 23:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 00:01:04"
         }
     ]
 }
