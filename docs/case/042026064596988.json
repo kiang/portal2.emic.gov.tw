@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "接獲民眾通報，東石鄉塭仔大排目前水位偏高，民眾憂心舊塭仔抽水站現有2台抽水設備，如遇水位持續上升恐抽排不及，詢問是否可預防性增派固定式抽水機協助抽水。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 09:31:03"
+        }
+    ]
 }
