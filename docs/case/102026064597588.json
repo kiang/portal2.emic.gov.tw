@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11507100205、樣品屋拆到一半擔心鋼筋及木板、玻璃片隨風飄、民眾反映地點：中壢區青埔路二段與青商路口事由：紐約線上社區旁，有一樣品屋近兩天拆屋拆到一半，鋼筋及木板、玻璃片等散落在地上，擔心颱風風雨漸增，若鋼筋、木板、玻璃片等被吹到路上或殃及鄰戶住宅，及擔心樣品屋被吹垮，故請單位協助清除鋼筋、木板、玻璃片及要求建商加固尚未拆除乾淨之樣品屋本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鍾杰穎",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-10 13:41:04"
+        }
+    ]
 }
