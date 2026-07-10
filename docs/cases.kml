@@ -82,13 +82,101 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 上午 11:36:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064597405<br/><b>災情類別：</b>建物毀損（建物屋頂掀飛(含鐵皮及非鐵皮屋頂)）<br/><b>發生時間：</b>2026/7/10 上午 11:36:00<br/><b>行政區：</b>基隆市 中正區<br/><b>發生地點：</b>基隆市中正區海濱里北寧路31巷46之1號<br/><b>災情描述：</b>民眾反映建物毀損有受颱風影響倒塌損害公共安全之虞請都發處協助<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>郭俊廷<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064597405</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 上午 11:36:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物屋頂掀飛(含鐵皮及非鐵皮屋頂)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>基隆市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>中正區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>基隆市中正區海濱里北寧路31巷46之1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>民眾反映建物毀損有受颱風影響倒塌損害公共安全之虞請都發處協助</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>郭俊廷</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.773397,25.1535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/7/10 上午 11:28:57</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597359<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 上午 11:28:57<br/><b>行政區：</b>桃園市 龜山區<br/><b>發生地點：</b>華國新村18號<br/><b>災情描述：</b>11507100142、通報排水溝淤積問題、民眾反映地點：龜山區華國新村18號事由：上址對面排水溝目前堆滿垃圾及回收物，已影響排水功能，民眾擔心颱風期間若降下豪大雨，恐因排水不良造成積淹水情形，希望單位派員清淤。(本案不清楚可與民眾電話聯繫，民眾電話僅供承辦單位業務聯繫)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳靜玫<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597359<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 上午 11:28:57<br/><b>行政區：</b>桃園市 龜山區<br/><b>發生地點：</b>華國新村18號<br/><b>災情描述：</b>11507100142、通報排水溝淤積問題、民眾反映地點：龜山區華國新村18號事由：上址對面排水溝目前堆滿垃圾及回收物，已影響排水功能，民眾擔心颱風期間若降下豪大雨，恐因排水不良造成積淹水情形，希望單位派員清淤。(本案不清楚可與民眾電話聯繫，民眾電話僅供承辦單位業務聯繫)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳靜玫<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -134,7 +222,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -176,7 +264,7 @@
         <when>2026/7/10 上午 11:24:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064597370<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/7/10 上午 11:24:00<br/><b>行政區：</b>基隆市 中正區<br/><b>發生地點：</b>中船路36巷12弄52號<br/><b>災情描述：</b>【1999報災情】 民眾反映空屋淹水問題，在中正區中船路36巷12弄52號，陳述後方山坡空屋的山水沒有排水溝直接沖向52、53與54號，民眾擔心颱風來時會導致土石流，希業務單位查處改善。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064597370<br/><b>災情類別：</b>積淹水災情（房屋積淹水）<br/><b>發生時間：</b>2026/7/10 上午 11:24:00<br/><b>行政區：</b>基隆市 中正區<br/><b>發生地點：</b>中船路36巷12弄52號<br/><b>災情描述：</b>【1999報災情】 民眾反映空屋淹水問題，在中正區中船路36巷12弄52號，陳述後方山坡空屋的山水沒有排水溝直接沖向52、53與54號，民眾擔心颱風來時會導致土石流，希業務單位查處改善。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -222,7 +310,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -343,94 +431,6 @@
       </ExtendedData>
       <Point>
         <coordinates>121.689674,24.610007,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>路樹災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/7/10 上午 11:16:00</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>042026064597355<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 上午 11:16:00<br/><b>行政區：</b>臺中市 南屯區<br/><b>發生地點：</b>臺中市南屯區春社里，永春南路（原砂石場旁） 往精科方向<br/><b>災情描述：</b>1棵樹倒塌壓到電線<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳郁錡<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>042026064597355</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/7/10 上午 11:16:00</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>路樹災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>路樹倒塌</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>臺中市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>南屯區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>臺中市南屯區春社里，永春南路（原砂石場旁） 往精科方向</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>1棵樹倒塌壓到電線</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>災情查報</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>陳郁錡</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>待處理</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>120.61399,24.138847,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1912,7 +1912,7 @@
         <when>2026/7/10 上午 08:38:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064597117<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2026/7/10 上午 08:38:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區華隆街與平東路口<br/><b>災情描述：</b>電線垂落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>建安里長葉姜双鳳<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064597117<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2026/7/10 上午 08:38:00<br/><b>行政區：</b>桃園市 平鎮區<br/><b>發生地點：</b>桃園市平鎮區華隆街與平東路口<br/><b>災情描述：</b>電線垂落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>建安里長葉姜双鳳<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -1958,7 +1958,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
