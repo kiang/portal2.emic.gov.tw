@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "地點：吉安鄉仁安村海濱19-7號事由：民眾表示過去颱風來襲時都有前往避難所避難，目前獨自一人居住，稍早有向吉安分局詢問後，表示尚未接獲避難所開設通知，故來電詢問是否已開設避難所，以及是否可提前前往避難，以確保自身安全，再請相關單位盡快致電回覆。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "彭先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-10 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 04:21:04"
         }
     ]
 }
