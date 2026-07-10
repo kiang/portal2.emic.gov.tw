@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】民眾反映建案工地問題，在安樂區基金一路121巷，國揚大地社區旁，表示大智通物流中心的建案工地目前仍將鋼筋及三角錐等等施工物品散落在地上沒收好，民眾擔心颱風入境後會將物品吹起砸到旁邊住家，希業務單位盡快通知建商改善。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "楊小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-07-10 13:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 16:21:04"
         }
     ]
 }
