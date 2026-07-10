@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "彰化縣彰化市天祥路219號-招牌快掉落",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119派遣系統",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "",
             "new_value": "119派遣系統",
             "timestamp": "2026-07-10 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-10 19:01:04"
         }
     ]
 }

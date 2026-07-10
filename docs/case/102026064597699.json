@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：吉安鄉中央路二段168-1號事由：陳情人是隔壁業者，反映該戶也是店家在室外擺放籃子跟洗潔精空瓶等設備，風勢不斷增強可能會吹得到處都是，因為旁邊就是車道，容易造成事故，但對方今日沒有營業，也沒有留聯絡電話聯繫不上，希望縣府提供協助。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 19:01:04"
+        }
+    ]
 }
