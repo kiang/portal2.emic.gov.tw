@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "地點：花蓮縣吉安鄉永安村北安街98巷55號(貓頭鷹幼兒園前方路段)事由：民眾表示上述地點路樹已遭強風吹倒，倒臥於道路中央，影響車輛通行，車輛行經時會擦撞，煩請單位協助處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-07-10 14:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 15:41:04"
         }
     ]
 }

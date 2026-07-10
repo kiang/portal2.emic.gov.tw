@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】民眾反映危險違建，在仁愛區南榮路425巷16號旁樓梯下方一點，面對16號的右手邊土石坡，民眾表示該違建沒有門牌，只用木板、鐵皮拼接搭建，民眾認為颱風來臨會砸下來非常危險，但日前檢舉至今違建仍在原處，強烈要求業務單位馬上查處改善。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "謝小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-10 14:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 15:41:04"
         }
     ]
 }

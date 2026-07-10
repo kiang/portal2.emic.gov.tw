@@ -8,7 +8,7 @@
     "COORDINATE": "120.928061,24.771314",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "表示屋簷有石塊掉落",
+    "CASE_DESCRIPTION": "表示屋簷裡面有石塊掉落",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "莊麗真",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "表示屋簷有石塊掉落",
+            "new_value": "表示屋簷裡面有石塊掉落",
+            "timestamp": "2026-07-10 15:41:04"
+        }
+    ]
 }
