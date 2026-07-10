@@ -12,12 +12,19 @@
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-07-10 20:21:04"
+        }
+    ]
 }
