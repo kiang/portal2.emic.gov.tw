@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "2026\/07\/10 19:48:20 - 透過經緯度轉換GIS座標(23.1117,120.1703)電桿燈桿號:102377民眾反應此燈桿號下燈箱起火爆炸2026\/07\/10 19:52:40 - 回撥報案人:目前電箱未起火，附近未停電。　／　【派工】地址：七股區燈桿號：102377 民眾反映此燈桿號下燈箱起火爆炸希望可以派員了解。惠請相關單位卓處。如有不清楚可以聯繫民眾",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 03:21:03"
+        }
+    ]
 }
