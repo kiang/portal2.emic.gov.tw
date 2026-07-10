@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/10 下午 09:46:00",
     "COUNTY_N": "桃園市",
     "TOWN_N": "復興區",
-    "CASE_LOC": "桃園市復興區",
+    "CASE_LOC": "台7乙線8k至12k處(消防局通報，係屬大溪區轄管)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.3754588,24.72949884",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "桃園市復興區",
+            "new_value": "台7乙線8k至12k處(消防局通報，係屬大溪區轄管)",
+            "timestamp": "2026-07-10 22:21:04"
+        }
+    ]
 }
