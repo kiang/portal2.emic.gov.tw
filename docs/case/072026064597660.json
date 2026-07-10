@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "02026\/07\/10 14:03:28 受傷1人 - 現場村幹事李美月0934****85\/安置富里衛生所\/患者癱瘓2026\/07\/10 14:08:32 受傷1人 - 家屬女兒李美月0934****85\/安置富里衛生所\/患者癱瘓（預防性撤離）",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "李美月",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "李美月",
             "timestamp": "2026-07-10 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 15:11:04"
         }
     ]
 }

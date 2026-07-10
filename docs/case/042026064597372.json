@@ -8,7 +8,7 @@
     "COORDINATE": "121.689674,24.610007",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "中華電信電纜線脫落",
+    "CASE_DESCRIPTION": "中華電信電纜線脫落 倒塌路樹已請廠商處理",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "寒溪村村長",
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-10 14:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "中華電信電纜線脫落",
+            "new_value": "中華電信電纜線脫落 倒塌路樹已請廠商處理",
+            "timestamp": "2026-07-10 15:11:04"
         }
     ]
 }
