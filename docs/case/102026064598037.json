@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "龍井區龍昌路，由西向東，火力發電廠至臨港路中間，道路上有一支水泥棍掉在地上，一米多長，請單位派員前往清除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "楊先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-10 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 19:21:04"
         }
     ]
 }
