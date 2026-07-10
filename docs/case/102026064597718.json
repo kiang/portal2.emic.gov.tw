@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "11507100240、電線被強風吹斷、民眾反映地點：蘆竹區富貴街3巷9號事由：不明單位電線被強風吹斷，垂在半空中，擔心大車經過碰到，請單位處理本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "鄧世璽",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-10 15:31:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 17:31:04"
         }
     ]
 }
