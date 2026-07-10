@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：花蓮市林森路305巷4號(民眾住家)事由：民眾表示隔壁老屋(2號)目前有搭施工鷹架，鷹架僅支撐於地面，未以螺絲或其他固定方式加固，因颱風即將來襲，民眾擔心強風吹襲可能造成鷹架傾倒或掉落，危及周邊住戶及用路人安全，再請相關單位協助處理，避免發生意外，如有不了解之處可以致電聯繫。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-10 18:31:04"
+        }
+    ]
 }
