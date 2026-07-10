@@ -11,6 +11,24 @@
                 ]
             },
             "properties": {
+                "CASE_ID": "112026064597915",
+                "CASE_DT": "2026\/7\/10 下午 04:51:17",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.926011,
+                    24.851631
+                ]
+            },
+            "properties": {
                 "CASE_ID": "112026064597912",
                 "CASE_DT": "2026\/7\/10 下午 04:49:46",
                 "DISASTER_MAIN_TYPE": "其他災情",
@@ -33,6 +51,42 @@
                 "CASE_DT": "2026\/7\/10 下午 04:44:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
                 "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672996,
+                    24.116574
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064597914",
+                "CASE_DT": "2026\/7\/10 下午 04:43:00",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4831739,
+                    23.95171456
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064597913",
+                "CASE_DT": "2026\/7\/10 下午 04:42:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -140,7 +194,7 @@
                 "CASE_ID": "102026064597843",
                 "CASE_DT": "2026\/7\/10 下午 04:16:37",
                 "DISASTER_MAIN_TYPE": "建物毀損",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -194,7 +248,7 @@
                 "CASE_ID": "042026064597837",
                 "CASE_DT": "2026\/7\/10 下午 04:13:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": true,
                 "IS_SERIOUS": false
             }
@@ -212,7 +266,7 @@
                 "CASE_ID": "042026064597826",
                 "CASE_DT": "2026\/7\/10 下午 04:09:00",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": true
             }
@@ -230,7 +284,7 @@
                 "CASE_ID": "042026064597829",
                 "CASE_DT": "2026\/7\/10 下午 04:08:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -284,7 +338,7 @@
                 "CASE_ID": "042026064597824",
                 "CASE_DT": "2026\/7\/10 下午 03:58:00",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": true
             }
@@ -1130,7 +1184,7 @@
                 "CASE_ID": "112026064597593",
                 "CASE_DT": "2026\/7\/10 下午 01:23:08",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "已處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
