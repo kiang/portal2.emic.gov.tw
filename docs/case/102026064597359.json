@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11507100142、通報排水溝淤積問題、民眾反映地點：龜山區華國新村18號事由：上址對面排水溝目前堆滿垃圾及回收物，已影響排水功能，民眾擔心颱風期間若降下豪大雨，恐因排水不良造成積淹水情形，希望單位派員清淤。(本案不清楚可與民眾電話聯繫，民眾電話僅供承辦單位業務聯繫)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳靜玫",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-10 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 14:21:04"
         }
     ]
 }
