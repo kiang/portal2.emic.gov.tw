@@ -82,13 +82,269 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 05:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064598008<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/7/10 下午 05:58:00<br/><b>行政區：</b>臺北市 中山區<br/><b>發生地點：</b>龍江路2之4號<br/><b>災情描述：</b>上址紗窗掉落屋頂怕產生危險請，相關單位協助處理<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064598008</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 05:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>圍牆倒塌(含籬及鐵皮)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>中山區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>龍江路2之4號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>上址紗窗掉落屋頂怕產生危險請，相關單位協助處理</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.540283,25.047128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 05:56:49</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>102026064598004<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:56:49<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市林森路305巷4號(民眾住家)事由：民眾表示隔壁老屋(2號)目前有搭施工鷹架，鷹架僅支撐於地面，未以螺絲或其他固定方式加固，因颱風即將來襲，民眾擔心強風吹襲可能造成鷹架傾倒或掉落，危及周邊住戶及用路人安全，再請相關單位協助處理，避免發生意外，如有不了解之處可以致電聯繫。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>李先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>102026064598004</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 05:56:49</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>花蓮縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>花蓮市</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>花蓮縣花蓮市</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>地點：花蓮市林森路305巷4號(民眾住家)事由：民眾表示隔壁老屋(2號)目前有搭施工鷹架，鷹架僅支撐於地面，未以螺絲或其他固定方式加固，因颱風即將來襲，民眾擔心強風吹襲可能造成鷹架傾倒或掉落，危及周邊住戶及用路人安全，再請相關單位協助處理，避免發生意外，如有不了解之處可以致電聯繫。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>1999報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>李先生</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.151623,22.756157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 05:54:40</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064597999<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 05:54:40<br/><b>行政區：</b>雲林縣 土庫鎮<br/><b>發生地點：</b>雲林縣土庫鎮78公路往西21.3公里外車道<br/><b>災情描述：</b>2026/07/10 17:54:40 - 地點描述：雲林縣土庫鎮78公路往西21.3公里外車道路樹倒塌占用外車道110轉報人員：李宗澤<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064597999</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 05:54:40</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>雲林縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>土庫鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>雲林縣土庫鎮78公路往西21.3公里外車道</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/07/10 17:54:40 - 地點描述：雲林縣土庫鎮78公路往西21.3公里外車道路樹倒塌占用外車道110轉報人員：李宗澤</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.3647376915,23.691281490221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/7/10 下午 05:48:57</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597993<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:48:57<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市公園路1號事由：民眾表示該處有一名男性遊民露宿，因明日颱風即將來襲擔心發生危險，再請相關單位協助關懷並提供安置，如有不了解之處可以致電聯繫。已於15:48通報110。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>楊小姐<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597993<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:48:57<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市公園路1號事由：民眾表示該處有一名男性遊民露宿，因明日颱風即將來襲擔心發生危險，再請相關單位協助關懷並提供安置，如有不了解之處可以致電聯繫。已於15:48通報110。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>楊小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -134,7 +390,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -176,7 +432,7 @@
         <when>2026/7/10 下午 05:48:24</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597992<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:48:24<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地址：花蓮市國富二十八街36號事由：接獲自強派出所員警來電通報，反映上述地址有電線垂落情形，擔心發生危險，煩單位儘速協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳員警<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597992<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:48:24<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地址：花蓮市國富二十八街36號事由：接獲自強派出所員警來電通報，反映上述地址有電線垂落情形，擔心發生危險，煩單位儘速協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳員警<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -222,7 +478,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -255,6 +511,178 @@
       </ExtendedData>
       <Point>
         <coordinates>121.151623,22.756157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>民生、基礎設施災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 05:44:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064597994<br/><b>災情類別：</b>民生、基礎設施災情（電線掉落、垂落）<br/><b>發生時間：</b>2026/7/10 下午 05:44:00<br/><b>行政區：</b>彰化縣 溪湖鎮<br/><b>發生地點：</b>彰化縣溪湖鎮湖東里東興路268號<br/><b>災情描述：</b>掉落物在電線上<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>何東儒<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064597994</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 05:44:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>民生、基礎設施災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>電線掉落、垂落</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>彰化縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>溪湖鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>彰化縣溪湖鎮湖東里東興路268號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>掉落物在電線上</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>何東儒</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.485605,23.964251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 05:42:29</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064598005<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 05:42:29<br/><b>行政區：</b>雲林縣 斗六市<br/><b>發生地點：</b>雲林縣斗六市西平路好樂迪KTV旁邊<br/><b>災情描述：</b>2026/07/10 17:42:29 - 地點描述：雲林縣斗六市西平路好樂迪KTV旁邊工程圍籬大門掉落很危險110轉報人員：陳世賢<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064598005</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 05:42:29</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>雲林縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>斗六市</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>雲林縣斗六市西平路好樂迪KTV旁邊</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/07/10 17:42:29 - 地點描述：雲林縣斗六市西平路好樂迪KTV旁邊工程圍籬大門掉落很危險110轉報人員：陳世賢</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.56009181546,23.706507218123,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -346,107 +774,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>民生、基礎設施災情</name>
-      <visibility>1</visibility>
-      <TimeStamp>
-        <when>2026/7/10 下午 05:22:57</when>
-      </TimeStamp>
-      <description><![CDATA[
-    <b>案件編號：</b>102026064597960<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2026/7/10 下午 05:22:57<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>過嶺路二段192巷20弄122號<br/><b>災情描述：</b>11507100297、高壓電線起火、住家停電、民眾反映地點:中壢區過嶺路二段192巷20弄122號事由:路樹樹枝斷掉，壓到高壓電線，目前有3處起火中，住家也停電，請派修本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>莊勝銘<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
-  ]]></description>
-      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
-      <ExtendedData>
-        <Data name="case_id">
-          <displayName>案件編號</displayName>
-          <value>102026064597960</value>
-        </Data>
-        <Data name="case_dt">
-          <displayName>發生時間</displayName>
-          <value>2026/7/10 下午 05:22:57</value>
-        </Data>
-        <Data name="disaster_type">
-          <displayName>災情類別</displayName>
-          <value>民生、基礎設施災情</value>
-        </Data>
-        <Data name="disaster_sub_type">
-          <displayName>災情類別細項</displayName>
-          <value>電線（桿）毀損</value>
-        </Data>
-        <Data name="county">
-          <displayName>縣市</displayName>
-          <value>桃園市</value>
-        </Data>
-        <Data name="town">
-          <displayName>鄉鎮市區</displayName>
-          <value>中壢區</value>
-        </Data>
-        <Data name="location">
-          <displayName>發生地點</displayName>
-          <value>過嶺路二段192巷20弄122號</value>
-        </Data>
-        <Data name="case_description">
-          <displayName>災情描述</displayName>
-          <value>11507100297、高壓電線起火、住家停電、民眾反映地點:中壢區過嶺路二段192巷20弄122號事由:路樹樹枝斷掉，壓到高壓電線，目前有3處起火中，住家也停電，請派修本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫</value>
-        </Data>
-        <Data name="case_type">
-          <displayName>通報類別</displayName>
-          <value>1999報災情</value>
-        </Data>
-        <Data name="person_id">
-          <displayName>上傳單位</displayName>
-          <value>莊勝銘</value>
-        </Data>
-        <Data name="status">
-          <displayName>處理狀態</displayName>
-          <value>處理中</value>
-        </Data>
-        <Data name="is_traffic">
-          <displayName>交通障礙</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="is_serious">
-          <displayName>重大災情</displayName>
-          <value>否</value>
-        </Data>
-        <Data name="injured_no">
-          <displayName>人員受傷</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="death_no">
-          <displayName>人員死亡</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="trapped_no">
-          <displayName>人員受困</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="missing_no">
-          <displayName>人員失蹤</displayName>
-          <value>0</value>
-        </Data>
-        <Data name="shelter_no">
-          <displayName>人員收容</displayName>
-          <value>0</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>121.16796006727,24.970498647407,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/7/10 下午 05:22:40</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064597990<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 05:22:40<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區過嶺路二段192巷20弄內<br/><b>災情描述：</b>2026/07/10 17:41:20 - 17:39 青埔05回報現場使用滅火器撲滅火苗，等待台電<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064598002<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 05:22:40<br/><b>行政區：</b>桃園市 中壢區<br/><b>發生地點：</b>桃園市中壢區過嶺路二段192巷20弄內<br/><b>災情描述：</b>2026/07/10 17:41:20 - 17:39 青埔05回報現場使用滅火器撲滅火苗，等待台電　／　11507100297、高壓電線起火、住家停電、民眾反映地點:中壢區過嶺路二段192巷20弄122號事由:路樹樹枝斷掉，壓到高壓電線，目前有3處起火中，住家也停電，請派修本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>羅榕翰<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
         <Data name="case_id">
           <displayName>案件編號</displayName>
-          <value>072026064597990</value>
+          <value>042026064598002</value>
         </Data>
         <Data name="case_dt">
           <displayName>發生時間</displayName>
@@ -474,15 +814,19 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>2026/07/10 17:41:20 - 17:39 青埔05回報現場使用滅火器撲滅火苗，等待台電</value>
+          <value>2026/07/10 17:41:20 - 17:39 青埔05回報現場使用滅火器撲滅火苗，等待台電　／　11507100297、高壓電線起火、住家停電、民眾反映地點:中壢區過嶺路二段192巷20弄122號事由:路樹樹枝斷掉，壓到高壓電線，目前有3處起火中，住家也停電，請派修本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
-          <value>119消防署派遣系統</value>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>羅榕翰</value>
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1052,7 +1396,7 @@
         <when>2026/7/10 下午 05:05:18</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064597935<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 05:05:18<br/><b>行政區：</b>雲林縣 臺西鄉<br/><b>發生地點：</b>雲林縣台西鄉78公路往西4.8公里<br/><b>災情描述：</b>2026/07/10 17:05:18 - 地點描述：雲林縣臺西鄉78公路往西4.8公里路樹倒塌佔據外車道110轉報人員：李宗澤<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064597935<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 05:05:18<br/><b>行政區：</b>雲林縣 臺西鄉<br/><b>發生地點：</b>雲林縣台西鄉78公路往西4.8公里<br/><b>災情描述：</b>2026/07/10 17:05:18 - 地點描述：雲林縣臺西鄉78公路往西4.8公里路樹倒塌佔據外車道110轉報人員：李宗澤<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -1094,7 +1438,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
