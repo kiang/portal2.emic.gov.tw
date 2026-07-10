@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "【1999報災情】民眾反映在七堵區明德一路，路燈編號81775下面有放置一堆施工的電纜線，擔心颱風期間會將電纜線吹走，希相關單位協處，詳情可洽民眾吳先生。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "吳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-10 20:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-10 21:41:04"
         }
     ]
 }
