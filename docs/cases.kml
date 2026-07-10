@@ -82,13 +82,101 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>其他災情</name>
+      <name>土石災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 04:23:46</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064597856<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2026/7/10 下午 04:23:46<br/><b>行政區：</b>新竹市 東區<br/><b>發生地點：</b>志平路113<br/><b>災情描述：</b>土石滑落擔心風雨來襲會淹進民宅<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>1999<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064597856</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 04:23:46</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>土石災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>土石崩落</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>新竹市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>東區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>志平路113</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>土石滑落擔心風雨來襲會淹進民宅</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>1999</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.963468,24.770248,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/7/10 下午 04:16:37</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597843<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 04:16:37<br/><b>行政區：</b>桃園市 八德區<br/><b>發生地點：</b>建國路145號<br/><b>災情描述：</b>11507100269、工地頂樓模板安全問題、民眾反映地點:八德區建國路145號事由:上址旁長榮集團醫療工地四樓屋頂堆放十幾塊模板(未綁好)，颱風將至可能會吹下砸傷旁邊行人及建築物，民眾擔心公安危險，請派員稽查。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>蕭輔民<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597843<br/><b>災情類別：</b>建物毀損（鷹架倒塌）<br/><b>發生時間：</b>2026/7/10 下午 04:16:37<br/><b>行政區：</b>桃園市 八德區<br/><b>發生地點：</b>建國路145號<br/><b>災情描述：</b>11507100269、工地頂樓模板安全問題、民眾反映地點:八德區建國路145號事由:上址旁長榮集團醫療工地四樓屋頂堆放十幾塊模板(未綁好)，颱風將至可能會吹下砸傷旁邊行人及建築物，民眾擔心公安危險，請派員稽查。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>蕭輔民<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -102,11 +190,11 @@
         </Data>
         <Data name="disaster_type">
           <displayName>災情類別</displayName>
-          <value>其他災情</value>
+          <value>建物毀損</value>
         </Data>
         <Data name="disaster_sub_type">
           <displayName>災情類別細項</displayName>
-          <value>其他</value>
+          <value>鷹架倒塌</value>
         </Data>
         <Data name="county">
           <displayName>縣市</displayName>
@@ -134,7 +222,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -176,7 +264,7 @@
         <when>2026/7/10 下午 04:16:29</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597835<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 04:16:29<br/><b>行政區：</b>雲林縣 虎尾鎮<br/><b>發生地點：</b>虎尾鎮光明路2號<br/><b>災情描述：</b>虎尾鎮光明路2號，斗南往虎尾方向，有白鐵色大片圍籬飛到道路上。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>周先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597835<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 04:16:29<br/><b>行政區：</b>雲林縣 虎尾鎮<br/><b>發生地點：</b>虎尾鎮光明路2號<br/><b>災情描述：</b>虎尾鎮光明路2號，斗南往虎尾方向，有白鐵色大片圍籬飛到道路上。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>周先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -222,7 +310,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -255,6 +343,94 @@
       </ExtendedData>
       <Point>
         <coordinates>120.45155,23.705646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 04:15:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>102026064597849<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/7/10 下午 04:15:00<br/><b>行政區：</b>臺中市 清水區<br/><b>發生地點：</b>清水區中央路與華江南街一段交叉口<br/><b>災情描述：</b>清水區中央路與華江南街一段交叉口，「金雄羊肉爐」旁，一棵路樹傾斜快要倒塌，建請協處。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>大秀派出所吳先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>102026064597849</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 04:15:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹傾斜</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺中市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>清水區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>清水區中央路與華江南街一段交叉口</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>清水區中央路與華江南街一段交叉口，「金雄羊肉爐」旁，一棵路樹傾斜快要倒塌，建請協處。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>1999報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>大秀派出所吳先生</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0,0,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -440,7 +616,7 @@
         <when>2026/7/10 下午 04:08:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064597829<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 04:08:00<br/><b>行政區：</b>彰化縣 芬園鄉<br/><b>發生地點：</b>彰化縣芬園鄉.中崙村縣安路497巷60號旁有1棵檳榔樹倒在路中.請南投台電處理<br/><b>災情描述：</b>.中崙村縣安路497巷60號旁有1棵檳榔樹倒電桿.請南投台電處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳慶隆<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064597829<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 04:08:00<br/><b>行政區：</b>彰化縣 芬園鄉<br/><b>發生地點：</b>彰化縣芬園鄉.中崙村縣安路497巷60號旁有1棵檳榔樹倒在路中.請南投台電處理<br/><b>災情描述：</b>.中崙村縣安路497巷60號旁有1棵檳榔樹倒電桿.請南投台電處理<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳慶隆<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -486,7 +662,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -880,7 +1056,7 @@
         <when>2026/7/10 下午 03:52:05</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597801<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 03:52:05<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市國富十七街62號事由：民眾反映上述地點對面堆置大量紙箱、鐵條等物品，因颱風將至，擔憂堆置物受強風吹襲而倒塌、散落，造成周邊住戶財物損失或危及公共安全。建請相關單位派員查察現場情形，並督促相關人員儘速妥善整理或移除，以降低颱風期間災害風險。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>溫小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597801<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 03:52:05<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市國富十七街62號事由：民眾反映上述地點對面堆置大量紙箱、鐵條等物品，因颱風將至，擔憂堆置物受強風吹襲而倒塌、散落，造成周邊住戶財物損失或危及公共安全。建請相關單位派員查察現場情形，並督促相關人員儘速妥善整理或移除，以降低颱風期間災害風險。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>溫小姐<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -926,7 +1102,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1748,7 +1924,7 @@
         <when>2026/7/10 下午 03:25:40</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064597750<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/7/10 下午 03:25:40<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>延平路二段431巷57弄31號<br/><b>災情描述：</b>表示屋簷裡面有石塊掉落<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>莊麗真<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064597750<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/7/10 下午 03:25:40<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>延平路二段431巷57弄31號<br/><b>災情描述：</b>表示三樓高外牆有磁磚、石塊掉落<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>莊麗真<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1782,7 +1958,7 @@
         </Data>
         <Data name="case_description">
           <displayName>災情描述</displayName>
-          <value>表示屋簷裡面有石塊掉落</value>
+          <value>表示三樓高外牆有磁磚、石塊掉落</value>
         </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
@@ -2880,7 +3056,7 @@
         <when>2026/7/10 下午 02:43:51</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064597700<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 02:43:51<br/><b>行政區：</b>雲林縣 口湖鄉<br/><b>發生地點：</b>雲林縣口湖鄉箔子寮往下崙的路段，電桿編號：J9127GD02。<br/><b>災情描述：</b>2026/07/10 14:43:51 - 地點描述：雲林縣口湖鄉箔子寮往下崙的路段，電桿編號：J9127GD02。報案人稱上述地點有路樹倒塌，影響行車安全。110轉報人員：俞東智<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064597700<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 02:43:51<br/><b>行政區：</b>雲林縣 口湖鄉<br/><b>發生地點：</b>雲林縣口湖鄉箔子寮往下崙的路段，電桿編號：J9127GD02。<br/><b>災情描述：</b>2026/07/10 14:43:51 - 地點描述：雲林縣口湖鄉箔子寮往下崙的路段，電桿編號：J9127GD02。報案人稱上述地點有路樹倒塌，影響行車安全。110轉報人員：俞東智<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -2922,7 +3098,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -3756,7 +3932,7 @@
         <when>2026/7/10 下午 02:07:43</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064597662<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 02:07:43<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市瑞美路7號(花蓮縣警察局附近籃球場)事由：民眾反映上述地點籃球場內樹木遭強風吹倒，傾倒後壓到電線，煩請單位協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064597662<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/7/10 下午 02:07:43<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市瑞美路7號(花蓮縣警察局附近籃球場)事由：民眾反映上述地點籃球場內樹木遭強風吹倒，傾倒後壓到電線，煩請單位協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳小姐<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -3802,7 +3978,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -4278,6 +4454,94 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/7/10 下午 01:43:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064597869<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 01:43:00<br/><b>行政區：</b>臺北市 文山區<br/><b>發生地點：</b>景美橋景文街側自行車牽引道<br/><b>災情描述：</b>【一般案件】景美橋下來靠近臺北市這一端的景文街，河堤有封鎖線因為颱風風大關係被吹落，導致有人進去，請單位重新拉起封鎖線及立告示牌<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>李冠賢<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064597869</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/7/10 下午 01:43:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>文山區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>景美橋景文街側自行車牽引道</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>【一般案件】景美橋下來靠近臺北市這一端的景文街，河堤有封鎖線因為颱風風大關係被吹落，導致有人進去，請單位重新拉起封鎖線及立告示牌</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>李冠賢</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>已處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.541019,24.988433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -4632,7 +4896,7 @@
         <when>2026/7/10 下午 01:23:08</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064597593<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 01:23:08<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>中華路四段409巷2弄<br/><b>災情描述：</b>中華路四段409巷2弄上游雜草叢生大雨易淹水請先清理<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>林珮芸<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064597593<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/7/10 下午 01:23:08<br/><b>行政區：</b>新竹市 香山區<br/><b>發生地點：</b>中華路四段409巷2弄<br/><b>災情描述：</b>中華路四段409巷2弄上游雜草叢生大雨易淹水請先清理<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>林珮芸<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -4678,7 +4942,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
