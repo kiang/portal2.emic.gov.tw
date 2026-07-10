@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "承前案B115-05100地點：花蓮縣吉安鄉民治路214號事由：民眾再次反映上述地點之前有進行涵管施工，路面已開挖為大洞，可目前僅以交通角錐圍設，未以鐵板或其他適當方式覆蓋開挖處，擔心越晚風雨越大，三角錐很有可能遭吹倒或吹離，以及一旁也有做水溝，但工程只做一半裸露在外，希望有關單位盡快派員協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-10 16:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 07:01:04"
         }
     ]
 }
