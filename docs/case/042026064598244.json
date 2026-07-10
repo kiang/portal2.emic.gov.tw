@@ -8,7 +8,7 @@
     "COORDINATE": "119.570776,23.571285",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "民眾報案招牌愈墜",
+    "CASE_DESCRIPTION": "民眾報案招牌欲墜",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "顏豐敏",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-07-10 21:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "民眾報案招牌愈墜",
+            "new_value": "民眾報案招牌欲墜",
+            "timestamp": "2026-07-10 23:01:04"
         }
     ]
 }
