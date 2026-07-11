@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/07\/11 08:17:11 - 地點描述：彰化縣芬園鄉縣安路安四橋路樹倒榻，影響行車安全，請派員處理。 110轉報人員：鄭暉琛",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "李佩珊",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "",
             "new_value": "李佩珊",
             "timestamp": "2026-07-11 08:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 13:11:05"
         }
     ]
 }
