@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "後方邊坡土石滑落造成地下室淹水",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李大中",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "明湖路648巷122弄35號(科)",
             "new_value": "明湖路648巷122弄35號",
             "timestamp": "2026-07-11 17:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 00:01:04"
         }
     ]
 }
