@@ -6,10 +6,10 @@
     "CASE_LOC": "中山北路一段376號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.158472177821,24.9088889065657",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11507110133、其他、民眾反映地點:楊梅區中山北路一段376號(南下方向)。事由:省道內側車道卡著三角錐，橫躺在內側車道，一兩小時之後還在現場，非常危險，相關單位明知颱風來，還是不收，萬一開太快很容易車禍，覺得非常誇張，下雨天視線又不好本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "游尚樺",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "車輛、交通事故",
+            "timestamp": "2026-07-11 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 12:01:04"
+        }
+    ]
 }

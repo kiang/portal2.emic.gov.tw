@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "反映龍井區:1.中沙路銜接龍新路，中沙路往龍新路方向，有路樹倒塌，有先協助移到旁邊，建請單位移除。2.西屯路四段上與中?路，公車站牌旁邊，有路樹倒塌，嚴重影響慢車道交通，建請單位最速到場清除。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "烏日分局犁份派出所陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 12:01:04"
+        }
+    ]
 }

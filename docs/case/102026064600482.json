@@ -6,10 +6,10 @@
     "CASE_LOC": "西屯區西屯路與都會園路",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "0,0",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線短路、起火",
     "CASE_DESCRIPTION": "西屯區西屯路與都會園路，往都會公園方向，電線斷裂起火，電桿編號:北度幹4G4T531DA33。(上午11:26已通報過B098624，路平中心周小姐再次來電補充電桿號碼前字樣)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "沈先生",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 12:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線短路、起火",
+            "timestamp": "2026-07-11 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 12:01:04"
+        }
+    ]
 }
