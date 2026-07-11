@@ -6,6 +6,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.298676320651,
+                    24.9321901513013
+                ]
+            },
+            "properties": {
+                "CASE_ID": "102026064603777",
+                "CASE_DT": "2026\/7\/12 上午 01:07:46",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839322420435,
+                    24.4001110012716
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072026064603778",
+                "CASE_DT": "2026\/7\/12 上午 01:07:01",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8035836804,
+                    24.5607631136399
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072026064603774",
+                "CASE_DT": "2026\/7\/12 上午 01:01:46",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.533004,
                     25.037137
                 ]
@@ -590,7 +644,7 @@
                 "CASE_ID": "112026064603711",
                 "CASE_DT": "2026\/7\/11 下午 11:15:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -8438,6 +8492,24 @@
                 "CASE_ID": "102026064602409",
                 "CASE_DT": "2026\/7\/11 下午 06:14:29",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
+                "CASE_STATUS": "已處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49549,
+                    25.134497
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064603776",
+                "CASE_DT": "2026\/7\/11 下午 06:14:25",
+                "DISASTER_MAIN_TYPE": "路樹災情",
                 "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
@@ -24890,7 +24962,7 @@
                 "CASE_ID": "042026064600985",
                 "CASE_DT": "2026\/7\/11 下午 01:09:00",
                 "DISASTER_MAIN_TYPE": "積淹水災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -25646,7 +25718,7 @@
                 "CASE_ID": "042026064600899",
                 "CASE_DT": "2026\/7\/11 下午 12:53:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -40712,7 +40784,7 @@
                 "CASE_ID": "042026064600576",
                 "CASE_DT": "2026\/7\/11 上午 09:03:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
