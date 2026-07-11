@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "DISASTER_SUB_TYPE": "樹枝斷裂",
     "CASE_DESCRIPTION": "派工承前案A-TB-2026-53797：新市區信義街5之5號對面，有一棵樹倒塌。民眾表示已有單位前來清理，但目前只將道路上的樹枝清走，靠近圍牆邊仍有剩餘的樹枝沒有清理，民眾擔心今明兩日，附近居民行走不便或有危害，望單位能再次前來並將圍牆邊的剩餘樹枝清走，煩請相關單位卓處，承辦若不清楚，可聯繫民眾。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "樹枝斷裂",
+            "timestamp": "2026-07-11 17:11:03"
+        }
+    ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "南區建國北路一段、東興路一段交叉口，大樹藥局台中建國店旁邊，東興路上工地入口似乎固定不當，可能有脫落風險，請協助督促改善，加強固定。【1999文字應答服務】",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "余小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-07-11 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 17:11:04"
         }
     ]
 }
