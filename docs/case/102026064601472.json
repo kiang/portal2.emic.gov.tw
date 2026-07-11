@@ -6,10 +6,10 @@
     "CASE_LOC": "台中市石岡區金星里石岡街下坑巷１２６之２號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.774980057514,24.2631728147538",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電信停話",
     "CASE_DESCRIPTION": "石岡區石岡街下坑巷126之2號前方，有一中華電信垂落在地面上，建請派員協處",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "石岡分駐所陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 15:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電信停話",
+            "timestamp": "2026-07-11 15:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 15:11:04"
+        }
+    ]
 }
