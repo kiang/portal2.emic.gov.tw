@@ -8,8 +8,8 @@
     "COORDINATE": "121.30958,25.11506",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.下福里8-11鄰停電",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "[現場狀況]1.下福里8-11鄰停電  [各單位處置作為]@警察局：已派員處理@林口區公所：已請台電派工搶修@電力維護組：已復電。@經濟發展局：已復電@消防局：已復電(本案件已處理完畢。)",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李美玉",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.下福里8-11鄰停電",
+            "new_value": "[現場狀況]1.下福里8-11鄰停電  [各單位處置作為]@警察局：已派員處理@林口區公所：已請台電派工搶修@電力維護組：已復電。@經濟發展局：已復電@消防局：已復電(本案件已處理完畢。)",
+            "timestamp": "2026-07-11 19:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 19:41:04"
+        }
+    ]
 }
