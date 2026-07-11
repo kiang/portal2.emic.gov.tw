@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "11507110291、土石崩落、保二總隊石門分隊反映地點:大溪區環湖公路(GOOGLE座標24.8187685，121.2752337)事由:該處山坡坍方，有巨石及土石掉落在道路上，有一側以擺放三角錐另一側有通知百吉派出所前往警示處理，請派員移除",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "保二總隊石門分隊",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 17:41:03"
+        }
+    ]
 }
