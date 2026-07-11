@@ -14,7 +14,25 @@
                 "CASE_ID": "042026064603747",
                 "CASE_DT": "2026\/7\/12 上午 12:38:00",
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46365,
+                    25.02533
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064603748",
+                "CASE_DT": "2026\/7\/12 上午 12:25:00",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -78,6 +96,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.47136,
+                    25.0308
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064603749",
+                "CASE_DT": "2026\/7\/12 上午 12:09:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.196445,
                     24.909936
                 ]
@@ -85,6 +121,24 @@
             "properties": {
                 "CASE_ID": "042026064603716",
                 "CASE_DT": "2026\/7\/12 上午 12:04:00",
+                "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37009,
+                    25.07581
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064603750",
+                "CASE_DT": "2026\/7\/12 上午 12:03:00",
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
                 "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
@@ -374,7 +428,7 @@
                 "CASE_ID": "042026064603666",
                 "CASE_DT": "2026\/7\/11 下午 11:32:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -446,7 +500,7 @@
                 "CASE_ID": "102026064603652",
                 "CASE_DT": "2026\/7\/11 下午 11:26:33",
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -500,7 +554,7 @@
                 "CASE_ID": "042026064603637",
                 "CASE_DT": "2026\/7\/11 下午 11:17:00",
                 "DISASTER_MAIN_TYPE": "廣告招牌災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -4676,7 +4730,7 @@
                 "CASE_ID": "102026064602802",
                 "CASE_DT": "2026\/7\/11 下午 07:33:58",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -7628,7 +7682,7 @@
                 "CASE_ID": "112026064602740",
                 "CASE_DT": "2026\/7\/11 下午 06:35:00",
                 "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
