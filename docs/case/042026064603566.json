@@ -6,8 +6,8 @@
     "CASE_LOC": "新竹縣竹東鎮中豐路三段450巷",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.072417,24.723054",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "路樹倒塌",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-11 23:01:09"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 23:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2026-07-11 23:31:04"
         }
     ]
 }
