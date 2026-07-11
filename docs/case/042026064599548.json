@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 上午 09:02:00",
     "COUNTY_N": "彰化縣",
     "TOWN_N": "溪湖鎮",
-    "CASE_LOC": "彰化縣溪湖鎮西溪里興業路玻璃工廠旁",
+    "CASE_LOC": "彰化縣溪湖鎮西溪里興業路玻璃工廠旁(西溪里興業路26號)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.484748,23.95111",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "彰化縣溪湖鎮西溪里興業路玻璃工廠旁",
+            "new_value": "彰化縣溪湖鎮西溪里興業路玻璃工廠旁(西溪里興業路26號)",
+            "timestamp": "2026-07-11 09:21:04"
+        }
+    ]
 }
