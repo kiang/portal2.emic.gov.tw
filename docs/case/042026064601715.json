@@ -6,8 +6,8 @@
     "CASE_LOC": "雲林縣林內鄉，坪頂村路燈編號:352922",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.6155018,23.7557209",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "大榕樹倒掉造成地面小塌坊",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-07-11 16:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-07-11 16:51:04"
+        }
+    ]
 }
