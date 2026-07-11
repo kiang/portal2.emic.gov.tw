@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "樹枝斷裂",
     "CASE_DESCRIPTION": "烏日區三榮八路與三榮北一路口，戶政事務所後門，有一棵路樹的枝幹掉落，大枝的枝幹無法用人力搬運，有影響安全，建請儘速派員排除。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "三和派出所林先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-11 08:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 11:01:05"
         }
     ]
 }

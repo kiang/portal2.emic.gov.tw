@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 上午 09:57:23",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "承德二街與成德路交叉口往殯葬場方向",
+    "CASE_LOC": "成德二街與成德路交叉口往殯葬場方向",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "承德二街與成德路交叉口往殯葬場方向",
+            "new_value": "成德二街與成德路交叉口往殯葬場方向",
+            "timestamp": "2026-07-11 11:01:04"
+        }
+    ]
 }

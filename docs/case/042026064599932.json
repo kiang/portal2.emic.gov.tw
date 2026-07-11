@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "該址電線垂落",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "崙背鄉公所",
+    "PERSON_ID": "李靜美",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "崙背鄉公所",
+            "new_value": "李靜美",
+            "timestamp": "2026-07-11 11:01:04"
+        }
+    ]
 }
