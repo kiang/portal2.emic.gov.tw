@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599710",
-    "CASE_DT": "2026\/7\/11 上午 07:42:37",
+    "CASE_DT": "2026\/7\/11 上午 07:42:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "貢寮區",
     "CASE_LOC": "貢寮區新北市貢寮區美艷山街61號之1",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.92286,25.06970",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.貢寮區美艷山街61號之1，有一盞路燈因為風大，被吹斷垂掛。",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "路燈故障",
+    "CASE_DESCRIPTION": "1.貢寮區美艷山街61號之1，有一盞路燈因為風大，被吹斷垂掛。  2.案件類別更改：其他->路燈故障受理時間更改：115\/07\/11 07:42->115\/07\/11 07:42造成交通影響更改：->無里更改：->易成孤島地區狀態更改：->未成孤島路燈損壞",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "貢寮分隊",
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 07:42:37",
+            "new_value": "2026\/7\/11 上午 07:42:00",
+            "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路燈故障",
+            "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.貢寮區美艷山街61號之1，有一盞路燈因為風大，被吹斷垂掛。",
+            "new_value": "1.貢寮區美艷山街61號之1，有一盞路燈因為風大，被吹斷垂掛。  2.案件類別更改：其他->路燈故障受理時間更改：115\/07\/11 07:42->115\/07\/11 07:42造成交通影響更改：->無里更改：->易成孤島地區狀態更改：->未成孤島路燈損壞",
+            "timestamp": "2026-07-11 19:21:04"
+        }
+    ]
 }
