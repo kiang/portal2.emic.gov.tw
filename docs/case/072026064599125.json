@@ -6,12 +6,12 @@
     "CASE_LOC": "彰化縣彰化市彰南路二段346巷1號對面",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.58586550481,24.0816925880796",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "變電箱冒煙",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "119轉報",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-11 07:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 08:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "變電箱冒煙",
+            "timestamp": "2026-07-11 08:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119轉報",
+            "timestamp": "2026-07-11 08:01:04"
         }
     ]
 }
