@@ -32,7 +32,7 @@
                 "CASE_ID": "072026064603989",
                 "CASE_DT": "2026\/7\/12 上午 04:13:46",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -6702,24 +6702,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.49337,
-                    25.038136
-                ]
-            },
-            "properties": {
-                "CASE_ID": "112026064603131",
-                "CASE_DT": "2026\/7\/11 下午 07:01:00",
-                "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "已處理",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": true
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     121.553135,
                     25.049766
                 ]
@@ -6785,6 +6767,24 @@
                 "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49337,
+                    25.038136
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064604011",
+                "CASE_DT": "2026\/7\/11 下午 07:01:00",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "已處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": true
             }
         },
         {
@@ -8942,7 +8942,7 @@
                 "CASE_ID": "112026064603065",
                 "CASE_DT": "2026\/7\/11 下午 06:08:12",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "已處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
