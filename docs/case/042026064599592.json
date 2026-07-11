@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "(斗六公所通報)通報雲林官邸兒童館前面路樹倒塌，路樹倒塌是一顆有壓力路邊的車輛。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "何圳均",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "處理中",
             "new_value": "未指派",
             "timestamp": "2026-07-11 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 10:31:05"
         }
     ]
 }
