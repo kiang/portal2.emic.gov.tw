@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "寶山路452巷7弄32號旁空地的樹木，昨晚有樹枝被颱風吹斷，幸好沒造成傷害，今早里長已跟里民將斷落樹枝移到空地上，但今天風雨更大，可能還會有其他樹枝被吹斷掉落，怕砸到路人或車輛，為了公眾安全，請相關單位儘速派員處理，謝謝。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "尤芳崇",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 23:21:04"
+        }
+    ]
 }

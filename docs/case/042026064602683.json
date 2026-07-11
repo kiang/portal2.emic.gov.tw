@@ -8,7 +8,7 @@
     "COORDINATE": "121.1389495,24.578054",
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
-    "CASE_DESCRIPTION": "民都有大橋大水沖刷，路不通，目前有較兩台外手從?天家到葉家現場施工",
+    "CASE_DESCRIPTION": "民都有大橋大水沖刷，路不通，目前有較兩台外手從?天家到葉家現場施工；視積水情況於07112封橋並青年活動中心前道路因雨勢無法清除",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "張燕萍",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "民都有大橋大水沖刷，路不通，目前有較兩台外手從?天家到葉家現場施工",
+            "new_value": "民都有大橋大水沖刷，路不通，目前有較兩台外手從?天家到葉家現場施工；視積水情況於07112封橋並青年活動中心前道路因雨勢無法清除",
+            "timestamp": "2026-07-11 23:21:04"
+        }
+    ]
 }
