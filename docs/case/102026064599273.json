@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "樹枝斷裂",
     "CASE_DESCRIPTION": "龍井區中沙路上，在編號為2403247的路燈處，有一棵路樹的樹枝垂在車道上，陳請協處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "犁份派出所郭先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "樹枝斷裂",
             "timestamp": "2026-07-11 08:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 08:31:04"
         }
     ]
 }

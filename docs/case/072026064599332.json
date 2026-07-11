@@ -3,15 +3,15 @@
     "CASE_DT": "2026\/7\/11 上午 08:17:11",
     "COUNTY_N": "彰化縣",
     "TOWN_N": "芬園鄉",
-    "CASE_LOC": "彰化縣芬園鄉縣安路縣安四橋",
+    "CASE_LOC": "彰化縣芬園鄉縣安路安四橋",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.629456745174,24.0065320260363",
+    "COORDINATE": "120.62906,23.99388",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "2026\/07\/11 08:17:11 - 地點描述：彰化縣芬園鄉縣安路縣安四橋路樹倒榻，影響行車安全，請派員處理。 110轉報人員：鄭暉琛",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "2026\/07\/11 08:17:11 - 地點描述：彰化縣芬園鄉縣安路安四橋路樹倒榻，影響行車安全，請派員處理。 110轉報人員：鄭暉琛",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "李佩珊",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "彰化縣芬園鄉縣安路縣安四橋",
+            "new_value": "彰化縣芬園鄉縣安路安四橋",
+            "timestamp": "2026-07-11 08:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.629456745174,24.0065320260363",
+            "new_value": "120.62906,23.99388",
+            "timestamp": "2026-07-11 08:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2026\/07\/11 08:17:11 - 地點描述：彰化縣芬園鄉縣安路縣安四橋路樹倒榻，影響行車安全，請派員處理。 110轉報人員：鄭暉琛",
+            "new_value": "2026\/07\/11 08:17:11 - 地點描述：彰化縣芬園鄉縣安路安四橋路樹倒榻，影響行車安全，請派員處理。 110轉報人員：鄭暉琛",
+            "timestamp": "2026-07-11 08:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 08:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "李佩珊",
+            "timestamp": "2026-07-11 08:31:04"
+        }
+    ]
 }
