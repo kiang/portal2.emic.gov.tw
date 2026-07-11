@@ -12,7 +12,7 @@
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳志孟",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-11 12:01:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-07-11 12:31:10"
         }
     ]
 }
