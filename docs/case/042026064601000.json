@@ -3,13 +3,13 @@
     "CASE_DT": "2026\/7\/11 下午 01:15:00",
     "COUNTY_N": "嘉義市",
     "TOWN_N": "西區",
-    "CASE_LOC": "嘉義市西區育人路底右向大約20公尺",
+    "CASE_LOC": "嘉義市西區育人路底(鄰近機場圍牆旁)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.420068,23.472055",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "頭港里辦公室",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "嘉義市西區育人路底右向大約20公尺",
+            "new_value": "嘉義市西區育人路底(鄰近機場圍牆旁)",
+            "timestamp": "2026-07-11 13:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 13:31:04"
+        }
+    ]
 }

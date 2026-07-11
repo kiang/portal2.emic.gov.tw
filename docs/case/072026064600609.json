@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/07\/11 12:06:41 - 地點描述：嘉義縣太保市新埤里新埤國小小路往北第一個路口左轉轉角（北營小廟）報案人稱上地房屋建築工地大型鐵門已經傾斜約20度，鐵門如果倒在會佔據車道或壓傷人，可能造成危險，請員派員處理並通報相關單舒處理。0097110轉報人員：林明宏",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "NCDR",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "",
             "new_value": "NCDR",
             "timestamp": "2026-07-11 12:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 13:31:04"
         }
     ]
 }

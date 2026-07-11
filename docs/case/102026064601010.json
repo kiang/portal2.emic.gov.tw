@@ -6,12 +6,12 @@
     "CASE_LOC": "楠梓區楠梓新路326號-喜學園文理補習班",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "渠反映該址建物的招牌被吹到即將掉落，建請查處。（煩請先電聯告知預計抵達時間）",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
-    "PERSON_ID": "",
+    "PERSON_ID": "1999",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-07-11 13:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2026-07-11 13:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 13:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "1999",
+            "timestamp": "2026-07-11 13:31:04"
+        }
+    ]
 }
