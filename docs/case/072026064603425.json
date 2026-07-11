@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/07\/11 21:48:15 - 地點描述：彰化縣花壇鄉環山路 南向 靠近臺74甲線附近施工路段路面上有半傾倒的路樹，影響行車安全，請派員管制處理並注意本身安全。已通報119 110轉報人員：江和原",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-07-11 22:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 22:41:04"
         }
     ]
 }
