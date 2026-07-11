@@ -6,8 +6,8 @@
     "CASE_LOC": "台中市中區光復里三民路二段１８巷３２號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.67819375675,24.140000727841",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "中區三民路二段18巷32號，風大樓上外牆一直陸續有磁磚掉落，建請協處。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-07-11 11:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-07-11 12:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-07-11 12:11:04"
         }
     ]
 }
