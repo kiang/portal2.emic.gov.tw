@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "反映大富路250號前快車道有一約六十公分大坑洞，恐有危險性，希能立即派人前往。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "曾小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-11 21:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 21:41:04"
         }
     ]
 }
