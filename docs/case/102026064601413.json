@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "11507110215、廣告招牌掉落、民眾反映地點：觀音區成功路一段815號事由：該址颱風風大，招牌快要墜落，擔心請求盡速處理。(本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳思羽",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 16:41:04"
+        }
+    ]
 }

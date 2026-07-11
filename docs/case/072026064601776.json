@@ -9,15 +9,34 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車禍",
     "CASE_DESCRIPTION": "2026\/07\/11 12:05:00 受傷1人 - 2米 水流在腳踝 男2026\/07\/11 12:09:29 受傷1人 - 2026\/07\/11 12:10:56 受傷1人 - 2米 水流在腳踝 男 清醒車禍自摔到水溝2026\/07\/11 12:12:10 受傷1人 - 2米深水溝 水流在腳踝 男 清醒車禍自摔到水溝",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "黃湧皓",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 16:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "黃湧皓",
+            "timestamp": "2026-07-11 16:41:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-07-11 16:41:04"
+        }
+    ]
 }

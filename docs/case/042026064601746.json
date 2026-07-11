@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "中心已淹水，已影響其底下民宅地區，請派工處理",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "張家榕",
+    "PERSON_ID": "喇藺尤命",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "張家榕",
+            "new_value": "喇藺尤命",
+            "timestamp": "2026-07-11 16:41:04"
+        }
+    ]
 }

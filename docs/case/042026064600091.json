@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "枕山村長通報，望龍埤山邊樹倒建請前來排除，以利人員、車輛進出之安全。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭子銘",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "枕山村長通報，望龍埤山邊樹倒建請前來排除，以利人員、車輛進出之安全。已於11:22處理完成",
             "new_value": "枕山村長通報，望龍埤山邊樹倒建請前來排除，以利人員、車輛進出之安全。",
             "timestamp": "2026-07-11 12:31:10"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 16:41:04"
         }
     ]
 }
