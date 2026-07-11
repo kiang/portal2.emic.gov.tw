@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "土石滑落擔心風雨來襲會淹進民宅",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "1999",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "志平路113",
             "new_value": "志平路113號",
             "timestamp": "2026-07-10 16:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 23:11:05"
         }
     ]
 }

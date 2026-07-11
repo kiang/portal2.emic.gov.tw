@@ -8,8 +8,8 @@
     "COORDINATE": "120.928061,24.771314",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "香村路與大湖路167巷口，路邊竹林倒塌吊在半空中，且佔用車道隨時會有攤塌危險麻煩協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "香村路與大湖路167巷口，路邊竹林倒塌吊在半空中，且佔用車道隨時會有攤塌危險麻煩協助處理。抵達現場時倒塌路樹已由119消防單位清除完畢，現場交通恢復順暢。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王政統",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "香村路與大湖路167巷口，路邊竹林倒塌吊在半空中，且佔用車道隨時會有攤塌危險麻煩協助處理。",
+            "new_value": "香村路與大湖路167巷口，路邊竹林倒塌吊在半空中，且佔用車道隨時會有攤塌危險麻煩協助處理。抵達現場時倒塌路樹已由119消防單位清除完畢，現場交通恢復順暢。",
+            "timestamp": "2026-07-11 23:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 23:11:04"
+        }
+    ]
 }

@@ -8,8 +8,8 @@
     "COORDINATE": "120.97854,24.810105",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "三民路115號對面大樹枝葉掉落（位在三民綠園道內暫不影響車輛通行）",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "三民路115號對面大樹枝葉掉落（位在三民綠園道內暫不影響車輛通行）新竹市三民路115號對面三民綠園道，路樹倒塌部分已清除完成。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "郭品辰",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "三民路115號對面大樹枝葉掉落（位在三民綠園道內暫不影響車輛通行）",
+            "new_value": "三民路115號對面大樹枝葉掉落（位在三民綠園道內暫不影響車輛通行）新竹市三民路115號對面三民綠園道，路樹倒塌部分已清除完成。",
+            "timestamp": "2026-07-11 23:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 23:11:04"
+        }
+    ]
 }
