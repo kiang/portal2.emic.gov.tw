@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "橋梁災情",
     "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
     "CASE_DESCRIPTION": "頭前溪水位已達緊急水位。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭先生",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "1999",
             "new_value": "郭先生",
             "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 15:21:04"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 下午 02:37:38",
     "COUNTY_N": "新竹市",
     "TOWN_N": "香山區",
-    "CASE_LOC": "從茄苳湖橋往茄苳北街",
+    "CASE_LOC": "從茄苳湖大橋往茄苳北街",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.928061,24.771314",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "從茄苳湖橋往茄苳北街",
+            "new_value": "從茄苳湖大橋往茄苳北街",
+            "timestamp": "2026-07-11 15:21:04"
+        }
+    ]
 }
