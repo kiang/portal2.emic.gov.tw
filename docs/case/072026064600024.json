@@ -8,10 +8,10 @@
     "COORDINATE": "120.53264230309,24.112049178549",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "經本所建設課2名同仁前往勘查，此為私人土地私人樹木倒塌，壓到住宅，屋主將自行處理。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "陳雅梅",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "經本所建設課2名同仁前往勘查，此為私人土地私人樹木倒塌，壓到住宅，屋主將自行處理。",
+            "timestamp": "2026-07-11 11:51:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "陳雅梅",
+            "timestamp": "2026-07-11 11:51:04"
+        }
+    ]
 }

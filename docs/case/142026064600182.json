@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "綠空廊道樹木倒下",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "NDRC",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 11:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "NDRC",
+            "timestamp": "2026-07-11 11:51:04"
         }
     ]
 }

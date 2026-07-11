@@ -6,8 +6,8 @@
     "CASE_LOC": "台中市北屯區后庄里后庄六街１７號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.665855858063,24.1888879937681",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "北屯區后庄六街17號，自家庭院有1棵8米高的五葉松倒塌靠著圍牆，枝幹已延伸至庄內巷、距離路面約1.5米高，會影響車輛通行安全，有危險性，另枝葉有碰觸台電電線，陳情人無法處理，須請單位協助緊急處理，請單位與陳情人聯繫。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-07-11 11:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹傾斜",
+            "timestamp": "2026-07-11 11:51:04"
+        }
+    ]
 }
