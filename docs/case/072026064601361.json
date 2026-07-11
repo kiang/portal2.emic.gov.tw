@@ -8,10 +8,10 @@
     "COORDINATE": "120.577269905236,23.9690419660125",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
+    "CASE_DESCRIPTION": "公所回覆現場無鐵皮",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "鄭傑中",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 15:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "公所回覆現場無鐵皮",
+            "timestamp": "2026-07-11 16:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "鄭傑中",
+            "timestamp": "2026-07-11 16:01:04"
         }
     ]
 }
