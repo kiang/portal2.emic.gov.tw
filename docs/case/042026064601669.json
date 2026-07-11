@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 下午 03:31:00",
     "COUNTY_N": "南投縣",
     "TOWN_N": "信義鄉",
-    "CASE_LOC": "豐丘1號農路倒樹報搶修",
+    "CASE_LOC": "信義鄉豐丘1號農路倒樹報搶修",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.0212867,23.6554647",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "豐丘1號農路倒樹報搶修",
+            "new_value": "信義鄉豐丘1號農路倒樹報搶修",
+            "timestamp": "2026-07-11 15:51:04"
+        }
+    ]
 }
