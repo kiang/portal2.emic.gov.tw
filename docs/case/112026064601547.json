@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 下午 03:12:49",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "千甲路432號靠近經國橋交流道高架下方",
+    "CASE_LOC": "千甲路432號靠近經國橋交流道高架下方(科)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "千甲路432號靠近經國橋交流道高架下方",
+            "new_value": "千甲路432號靠近經國橋交流道高架下方(科)",
+            "timestamp": "2026-07-11 15:41:05"
+        }
+    ]
 }

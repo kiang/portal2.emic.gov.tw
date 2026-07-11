@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 下午 02:00:04",
     "COUNTY_N": "新竹市",
     "TOWN_N": "香山區",
-    "CASE_LOC": "南湖路過函洞往寶山方向",
+    "CASE_LOC": "南湖路87巷過國一函洞往寶山方向200公尺",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.9385,24.7242",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "南湖路過函洞往寶山方向",
+            "new_value": "南湖路87巷過國一函洞往寶山方向200公尺",
+            "timestamp": "2026-07-11 15:41:05"
+        }
+    ]
 }
