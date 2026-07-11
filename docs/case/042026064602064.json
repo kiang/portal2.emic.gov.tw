@@ -8,7 +8,7 @@
     "COORDINATE": "121.749556,25.083175",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
-    "CASE_DESCRIPTION": "電箱爆壞，區域停電，纜線垂落，車輛受阻",
+    "CASE_DESCRIPTION": "纜線垂落，車輛受阻(台電表示該纜線為吉隆纜線)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林姿均",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 17:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "電箱爆壞，區域停電，纜線垂落，車輛受阻",
+            "new_value": "纜線垂落，車輛受阻(台電表示該纜線為吉隆纜線)",
+            "timestamp": "2026-07-11 17:51:04"
         }
     ]
 }
