@@ -6,12 +6,12 @@
     "CASE_LOC": "金山區金山區新北市金山區四維路49號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.63418,25.22287",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.[現場狀況]1.圍籬及鐵皮倒塌 工地圍籬鐵片被風吹倒，有安全疑慮     2.現場為工地圍籬倒塌。沒有危險之餘。公所人員已經到現場。會協助聯繫工地過來處理。後續交給公所處理。  [各單位處置作為]@金山區公所：本所已派員前往確認。@環境保護局：公所已派員前往處理@警察局：經查現場為工地內圍籬倒塌，無危險之餘，亦未影響道路交通。@工務局：工地負責人正前往現場，經檢視照片倒塌方向為工地內，尚無立即危險。@消防局：主政機關已處理完成(本案件已處理完畢。)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
-    "PERSON_ID": "暫不提供資料",
+    "PERSON_ID": "NCDR",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-07-11 18:41:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "暫不提供資料",
+            "new_value": "NCDR",
+            "timestamp": "2026-07-11 18:41:05"
+        }
+    ]
 }
