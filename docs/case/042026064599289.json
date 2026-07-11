@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/07\/11 07:57:30 - 地點描述：桃園市楊梅區三民北路164號楊梅分局楊梅區【三民北路164號對面】有路樹倒塌壓到路旁機車，目前占用1個車道，請派員處理110轉報人員：陳瀅?　／　11507110043、路樹倒塌、民眾反映地點：楊梅區三民北路152號對面事由：上述地點一棵疑似私人土地上樹木倒塌，壓到路邊多部機車格內機車，請單位處理本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 09:11:04"
+        }
+    ]
 }
