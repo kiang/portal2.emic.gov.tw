@@ -6,8 +6,8 @@
     "CASE_LOC": "芝玉路一段126號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.534699,25.106254",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "建物半倒",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "芝玉路一段126號斜對面電線桿傾斜，煩請派員巡查是否有傾倒風險",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 21:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "建物半倒",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2026-07-11 21:31:04"
+        }
+    ]
 }
