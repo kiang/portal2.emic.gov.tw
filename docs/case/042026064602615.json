@@ -6,10 +6,10 @@
     "CASE_LOC": "南投縣仁愛鄉南豐村",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.111455,24.032385",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "夢谷瀑布農路路樹壓到電線，導致附近居民停電，道路不通",
-    "CASE_STATUS": "未指派",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "夢谷瀑布農路路樹2至3顆分前後兩區壓到電線，導致附近居民停電，道路雙向不通",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "南豐村長 曾子郡",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-07-11 19:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "電力停電",
+            "timestamp": "2026-07-11 19:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "夢谷瀑布農路路樹壓到電線，導致附近居民停電，道路不通",
+            "new_value": "夢谷瀑布農路路樹2至3顆分前後兩區壓到電線，導致附近居民停電，道路雙向不通",
+            "timestamp": "2026-07-11 19:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 19:11:04"
+        }
+    ]
 }

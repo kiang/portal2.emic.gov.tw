@@ -8,8 +8,8 @@
     "COORDINATE": "121.553194,25.048082",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "樹枝過於茂密且臨界有斷枝影響用路人安全之虞",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "樹枝過於茂密且臨界,如果斷枝恐有影響用路人安全之虞",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹枝過於茂密且臨界有斷枝影響用路人安全之虞",
+            "new_value": "樹枝過於茂密且臨界,如果斷枝恐有影響用路人安全之虞",
+            "timestamp": "2026-07-11 19:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 19:11:04"
+        }
+    ]
 }
