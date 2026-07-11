@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
     "CASE_DESCRIPTION": "115縣道北上25K,20.9K,20.2K處有路樹倒塌,另20.4K及21.6K處有土石流",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "范先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 20:51:04"
+        }
+    ]
 }

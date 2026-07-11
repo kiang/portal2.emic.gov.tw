@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "一、民報電話稱該處有招牌掉落二、警方到場查處發現確實有招牌掉落之情事，無其他致災情事，警方至現場拉起封鎖線，另以通知屋主張小姐，電話(0923-****23)無法到場處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 20:51:04"
+        }
+    ]
 }
