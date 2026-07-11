@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "【1999報災情】民眾通報路燈設備故障，地點在安樂區基金一路208巷200號長庚醫院情人湖院區，表示人行道上有一盞路燈燈具脫落無法提供編號，希相關單位派員查修改善。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "梁先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-11 10:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 11:11:04"
         }
     ]
 }
