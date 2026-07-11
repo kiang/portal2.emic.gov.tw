@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "豐原區水源路南坑巷10號附近，路面有落石，目前居民無法通行，請儘速處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張小姐",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "土石崩落",
             "timestamp": "2026-07-11 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 19:31:05"
         }
     ]
 }
