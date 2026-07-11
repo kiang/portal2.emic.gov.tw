@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "江川公園內（靠近永東街及永南街）單槓附近一棵樹樹幹傾倒，擋住公園內行人步道，無立即危險。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "魏妤璇",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 21:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 22:51:04"
         }
     ]
 }
