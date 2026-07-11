@@ -6,12 +6,12 @@
     "CASE_LOC": "彰化縣彰化市家樂福彰化店停車場附近",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.542499888573,24.094499939119",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "",
-    "CASE_STATUS": "處理中",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
+    "CASE_DESCRIPTION": "廣告帆布鬆脫",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "吳秉豐",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -37,6 +37,36 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 12:31:10"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-07-11 12:41:06"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2026-07-11 12:41:06"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "",
+            "new_value": "廣告帆布鬆脫",
+            "timestamp": "2026-07-11 12:41:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 12:41:06"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "吳秉豐",
+            "timestamp": "2026-07-11 12:41:06"
         }
     ]
 }

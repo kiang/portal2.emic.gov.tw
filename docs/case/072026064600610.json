@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/07\/11 12:06:11 - 水利署傳真 沙河溪水位已達36公尺 若持續上漲家發生溢淹可能 警戒區域進行疏散撤離即封閉臨溪通行便道準備準備",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "NCDR",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "",
             "new_value": "NCDR",
             "timestamp": "2026-07-11 12:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 12:41:06"
         }
     ]
 }
