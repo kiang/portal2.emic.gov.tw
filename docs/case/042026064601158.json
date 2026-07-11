@@ -3,15 +3,15 @@
     "CASE_DT": "2026\/7\/11 下午 01:42:00",
     "COUNTY_N": "新竹縣",
     "TOWN_N": "竹北市",
-    "CASE_LOC": "新竹縣竹北市經國橋",
+    "CASE_LOC": "新竹縣竹北市興隆路一段",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.9948704,24.83816209",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "頭前溪及經國大橋水位已達緊急水位。須拉封鎖線。",
+    "COORDINATE": "120.997857,24.825512",
+    "DISASTER_MAIN_TYPE": "橋梁災情",
+    "DISASTER_SUB_TYPE": "河川水位達警戒水位及封閉橋梁",
+    "CASE_DESCRIPTION": "頭前溪水位已達緊急水位。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "1999",
+    "PERSON_ID": "郭先生",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,42 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 14:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新竹縣竹北市經國橋",
+            "new_value": "新竹縣竹北市興隆路一段",
+            "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.9948704,24.83816209",
+            "new_value": "120.997857,24.825512",
+            "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "橋梁災情",
+            "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "地區積淹水",
+            "new_value": "河川水位達警戒水位及封閉橋梁",
+            "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "頭前溪及經國大橋水位已達緊急水位。須拉封鎖線。",
+            "new_value": "頭前溪水位已達緊急水位。",
+            "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "1999",
+            "new_value": "郭先生",
+            "timestamp": "2026-07-11 14:51:04"
         }
     ]
 }

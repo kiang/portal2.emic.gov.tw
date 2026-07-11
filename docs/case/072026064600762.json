@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/07\/11 12:42:23 - 竹南派出所轉報寶佳建設圍籬倒塌",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "NCDR",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-07-11 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "待處理",
+            "timestamp": "2026-07-11 14:51:04"
         }
     ]
 }
