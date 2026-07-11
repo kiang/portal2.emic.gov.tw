@@ -6,8 +6,8 @@
     "CASE_LOC": "台中市北區育才北路2號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.687930720293,24.1520305456578",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "車輛、交通事故",
+    "DISASTER_SUB_TYPE": "車輛因災毀損",
     "CASE_DESCRIPTION": "2026\/07\/11 09:15:25 - 地點描述：台中市北區育才北路2號車子被掉落物砸到110轉報人員：蒲文鍵（確認無人員受傷，報案人表示遭衛星蝶形天線小耳朵砸到車輛）",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
@@ -43,6 +43,18 @@
             "old_value": "",
             "new_value": "119",
             "timestamp": "2026-07-11 19:41:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "車輛、交通事故",
+            "timestamp": "2026-07-11 19:51:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "車輛因災毀損",
+            "timestamp": "2026-07-11 19:51:05"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "11507110265、通報竹子傾斜、民眾反映地點:八德區廣興路931巷21之13號。事由:上述地點竹子傾斜壓到電線，希望移除。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "呂冠儀",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-07-11 17:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 19:51:04"
         }
     ]
 }
