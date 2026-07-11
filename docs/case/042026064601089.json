@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/07\/11 13:33:59 - 2台車、9大人5小孩溪水暴漲、2026\/07\/11 14:32:10 - 2台車、9大人5小孩溪水暴漲、14:29 花園01回報 與報案人連聯繫 因水量暴漲 擔心家中老人與小孩 目前相對安全，前往中約5-10分鐘",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "簡雅慧",
     "INJURED_NO": 0,
@@ -91,6 +91,12 @@
             "old_value": "處理中",
             "new_value": "未指派",
             "timestamp": "2026-07-11 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 15:01:04"
         }
     ]
 }
