@@ -6,12 +6,12 @@
     "CASE_LOC": "新北市蘆洲區",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.478300,25.088820",
-    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "物體被吹起後懸掛於電線",
+    "CASE_DESCRIPTION": "",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "NCDR",
+    "PERSON_ID": "",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "",
             "new_value": "NCDR",
             "timestamp": "2026-07-11 18:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "其他災情",
+            "timestamp": "2026-07-11 22:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "物體被吹起後懸掛於電線",
+            "new_value": "",
+            "timestamp": "2026-07-11 22:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "NCDR",
+            "new_value": "",
+            "timestamp": "2026-07-11 22:11:04"
         }
     ]
 }

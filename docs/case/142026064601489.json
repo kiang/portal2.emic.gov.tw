@@ -6,12 +6,12 @@
     "CASE_LOC": "桃園市觀音區",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.083600,25.035590",
-    "DISASTER_MAIN_TYPE": "車輛、交通事故",
+    "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "車輛事故",
+    "CASE_DESCRIPTION": "",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "沈冠勳",
+    "PERSON_ID": "",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -49,6 +49,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-11 16:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "車輛、交通事故",
+            "new_value": "其他災情",
+            "timestamp": "2026-07-11 22:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "車輛事故",
+            "new_value": "",
+            "timestamp": "2026-07-11 22:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "沈冠勳",
+            "new_value": "",
+            "timestamp": "2026-07-11 22:11:04"
         }
     ]
 }
