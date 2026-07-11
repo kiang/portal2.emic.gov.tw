@@ -8,7 +8,7 @@
     "COORDINATE": "121.052438,24.80215",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌壓到電線及路",
+    "CASE_DESCRIPTION": "路樹倒塌壓到電線及路,因無法確認電線歸屬,請縣府派中華電信及北視確認",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "胡瑞琴(里長)",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌壓到電線及路",
+            "new_value": "路樹倒塌壓到電線及路,因無法確認電線歸屬,請縣府派中華電信及北視確認",
+            "timestamp": "2026-07-11 12:51:04"
+        }
+    ]
 }
