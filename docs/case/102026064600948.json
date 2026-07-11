@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "11507110165、土石崩落、民眾反映地點：龍潭區澢滴水路340號對面-渴望園區汙水廠區事由：邊坡土石流流下，坡邊滑落，道路覆蓋，無法通行，樹與土石都在道路上，要求盡速派員處理。(本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "宋碧玟",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "處理中",
             "new_value": "待處理",
             "timestamp": "2026-07-11 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 13:51:04"
         }
     ]
 }

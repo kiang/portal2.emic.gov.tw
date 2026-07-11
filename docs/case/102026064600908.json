@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "西區三民路一段166號，長安慕廈社區，稍早有通報過一棵行道樹被風吹傾斜已快倒塌，前案編號115-B098575，環保局到場表示是社區的樹，無法處理，陳情人表示因為現在樹木傾斜已經有壓到一台汽車，並且占用一線車道，希望市府可以先派員處理",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "長安慕廈社區陳經理",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 13:51:04"
+        }
+    ]
 }
