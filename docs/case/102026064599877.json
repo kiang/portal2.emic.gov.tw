@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "后里區內東路與后豐鐵馬道起點，進去約20公尺處天空步道底下，有一路樹倒塌壓到鐵皮屋倉庫，裡面沒住人，未影響交通與行人但有危險性，旁邊還有一棵枯樹也快倒了，建請派員移除。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蘇先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-11 10:41:04"
+        }
+    ]
 }

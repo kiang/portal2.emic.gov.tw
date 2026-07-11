@@ -6,9 +6,9 @@
     "CASE_LOC": "新竹市北區育英里育英路49號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.959609,24.797951",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "圍籬掉落",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "圍籬倒塌",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "1999",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-07-11 10:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-07-11 10:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "圍籬掉落",
+            "new_value": "圍籬倒塌",
+            "timestamp": "2026-07-11 10:41:04"
+        }
+    ]
 }

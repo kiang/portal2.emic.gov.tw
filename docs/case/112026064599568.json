@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/7\/11 上午 09:12:31",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "客雅大道與成德一街交叉路口",
+    "CASE_LOC": "成德二街與成德一街交叉路口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.926011,24.851631",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "客雅大道與成德一街交叉路口",
+            "new_value": "成德二街與成德一街交叉路口",
+            "timestamp": "2026-07-11 10:41:04"
+        }
+    ]
 }
