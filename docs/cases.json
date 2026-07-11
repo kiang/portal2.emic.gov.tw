@@ -6,6 +6,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.723803547267,
+                    25.1435018491928
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072026064603989",
+                "CASE_DT": "2026\/7\/12 上午 04:13:46",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790124526175,
+                    24.4935636600054
+                ]
+            },
+            "properties": {
+                "CASE_ID": "072026064603986",
+                "CASE_DT": "2026\/7\/12 上午 04:06:36",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.219489607057,
                     25.0126264089826
                 ]
@@ -14,7 +50,7 @@
                 "CASE_ID": "102026064603940",
                 "CASE_DT": "2026\/7\/12 上午 03:30:37",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -32,7 +68,7 @@
                 "CASE_ID": "102026064603936",
                 "CASE_DT": "2026\/7\/12 上午 03:24:51",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -28716,24 +28752,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.516861,
-                    25.118898
-                ]
-            },
-            "properties": {
-                "CASE_ID": "112026064603256",
-                "CASE_DT": "2026\/7\/11 下午 12:02:00",
-                "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "處理中",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     120.309815,
                     22.592668
                 ]
@@ -28905,24 +28923,6 @@
                 "CASE_DT": "2026\/7\/11 上午 11:57:47",
                 "DISASTER_MAIN_TYPE": "路樹災情",
                 "CASE_STATUS": "已處理",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.512471,
-                    25.119554
-                ]
-            },
-            "properties": {
-                "CASE_ID": "112026064603262",
-                "CASE_DT": "2026\/7\/11 上午 11:57:00",
-                "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -29351,7 +29351,7 @@
                 ]
             },
             "properties": {
-                "CASE_ID": "112026064601604",
+                "CASE_ID": "042026064603993",
                 "CASE_DT": "2026\/7\/11 上午 11:50:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
                 "CASE_STATUS": "已處理",
