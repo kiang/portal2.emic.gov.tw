@@ -8,8 +8,8 @@
     "COORDINATE": "120.3549205,23.26887001",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "救護送醫案件",
-    "CASE_DESCRIPTION": "受傷1人，沈o慧，31歲，女，胸部挫傷之初期照護，自行到達",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "受傷1人，沈o慧，31歲，女，因風雨大車禍跌倒，胸部挫傷，自行前往醫院，目前已出院。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "衛生局",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "受傷1人，沈o慧，31歲，女，胸部挫傷之初期照護，自行到達",
+            "new_value": "受傷1人，沈o慧，31歲，女，因風雨大車禍跌倒，胸部挫傷，自行前往醫院，目前已出院。",
+            "timestamp": "2026-07-11 18:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 18:11:04"
+        }
+    ]
 }
