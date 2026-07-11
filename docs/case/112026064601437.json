@@ -8,7 +8,7 @@
     "COORDINATE": "121.45817,25.08847",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "1.永樂街38巷2號跟4號頂樓天溝垂落，廠商已協助固定並圍設交維，請作業組轉給拆除大隊協助處理，謝謝。",
+    "CASE_DESCRIPTION": "1.永樂街38巷2號跟4號頂樓天溝垂落，廠商已協助固定並圍設交維，請作業組轉給拆除大隊協助處理，謝謝。  2.災害程度更改：重大敏感->輕微圖一更改：40.jpg->圖二更改：20.jpg->圖三更改：30.jpg->影一更改：5.mp4->影響範圍更改：1  ->  廠商已協助固定並圍設交維",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾通報",
@@ -18,6 +18,19 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
-    "logs": []
+    "IS_SERIOUS": false,
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.永樂街38巷2號跟4號頂樓天溝垂落，廠商已協助固定並圍設交維，請作業組轉給拆除大隊協助處理，謝謝。",
+            "new_value": "1.永樂街38巷2號跟4號頂樓天溝垂落，廠商已協助固定並圍設交維，請作業組轉給拆除大隊協助處理，謝謝。  2.災害程度更改：重大敏感->輕微圖一更改：40.jpg->圖二更改：20.jpg->圖三更改：30.jpg->影一更改：5.mp4->影響範圍更改：1  ->  廠商已協助固定並圍設交維",
+            "timestamp": "2026-07-11 22:31:03"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2026-07-11 22:31:03"
+        }
+    ]
 }
