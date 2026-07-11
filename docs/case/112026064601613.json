@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "分科測驗考場學校(陽明高中)校外人行道周邊落枝落葉，需相關局處清運。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "環境汙染",
             "timestamp": "2026-07-11 21:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-11 23:01:09"
         }
     ]
 }

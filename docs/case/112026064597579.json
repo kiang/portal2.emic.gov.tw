@@ -6,8 +6,8 @@
     "CASE_LOC": "牛埔路373號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.928061,24.771314",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "牛埔路373號前水泥地破洞請修補",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
@@ -25,6 +25,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-10 15:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-07-11 23:01:10"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路基流失",
+            "timestamp": "2026-07-11 23:01:10"
         }
     ]
 }
