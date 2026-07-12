@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "與受困民眾宋先生連繫上，同行共5位民眾受困， 受困位置洞口進水廠往桃山方向的景觀台，另留同行者葛先生電話0965-****92",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "宋先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-07-12 10:01:15"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 18:51:04"
         }
     ]
 }

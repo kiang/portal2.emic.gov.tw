@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "2026\/07\/11 15:12:58 - 地點描述：新竹縣五峰鄉桃山村清泉9鄰153號大水淹上來，約38民眾受困。110轉報人員：陳炳仲；預計0712請縣府廠商協助清除，請警政、消防派員前往了解，協助移至桃山避難處所。另通知村辦待命收容。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "110轉報人員陳炳仲",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "110轉報人員陳炳仲",
             "timestamp": "2026-07-11 23:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 18:51:04"
         }
     ]
 }
