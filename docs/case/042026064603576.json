@@ -8,8 +8,8 @@
     "COORDINATE": "121.540283,25.047128",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "(誤報)上址紗窗掉落屋頂怕產生危險請，相關單位協助處理　／　上址紗窗掉落屋頂怕產生危險請，相關單位協助處理",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "(誤報)上址紗窗掉落屋頂怕產生危險請，相關單位協助處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(誤報)上址紗窗掉落屋頂怕產生危險請，相關單位協助處理　／　上址紗窗掉落屋頂怕產生危險請，相關單位協助處理",
+            "new_value": "(誤報)上址紗窗掉落屋頂怕產生危險請，相關單位協助處理",
+            "timestamp": "2026-07-12 16:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-07-12 16:21:05"
+        }
+    ]
 }

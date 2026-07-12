@@ -8,7 +8,7 @@
     "COORDINATE": "121.575419,25.000305",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "【一般案件】颱風造成竹子倒在路上 占1車道　／　路樹倒塌，影響1個車道通行　／　木柵路4段159巷16號發現路樹倒塌，影響交通",
+    "CASE_DESCRIPTION": "【一般案件】颱風造成竹子倒在路上 占1車道",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "詹哲安",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "【一般案件】颱風造成竹子倒在路上 占1車道　／　路樹倒塌，影響1個車道通行　／　木柵路4段159巷16號發現路樹倒塌，影響交通",
+            "new_value": "【一般案件】颱風造成竹子倒在路上 占1車道",
+            "timestamp": "2026-07-12 16:21:04"
+        }
+    ]
 }

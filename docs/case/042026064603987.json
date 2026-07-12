@@ -8,7 +8,7 @@
     "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "(誤報)基隆路二段144巷2號處路燈倒塌。　／　基隆路二段144巷2號處路燈倒塌。",
+    "CASE_DESCRIPTION": "(誤報)基隆路二段144巷2號處路燈倒塌。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "劉勇雄",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(誤報)基隆路二段144巷2號處路燈倒塌。　／　基隆路二段144巷2號處路燈倒塌。",
+            "new_value": "(誤報)基隆路二段144巷2號處路燈倒塌。",
+            "timestamp": "2026-07-12 16:21:04"
+        }
+    ]
 }
