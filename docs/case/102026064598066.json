@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地址：花蓮市國盛里國盛一街25號(雅筑汽車旅館已歇業)事由：民眾反映上述地址已歇業但鐵門未關閉，遇風勢較大時會來回擺動，擔心颱風期間可能影響行駛車輛安全，煩請單位協助處理關閉鐵門。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "謝小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-07-10 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 09:31:05"
         }
     ]
 }
