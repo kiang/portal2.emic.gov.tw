@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "道路落石",
     "CASE_DESCRIPTION": "62線1.2K通報廠商搶修中",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "曾國龍",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "坍方道路無法通行",
             "new_value": "62線1.2K通報廠商搶修中",
             "timestamp": "2026-07-11 22:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 15:11:04"
         }
     ]
 }
