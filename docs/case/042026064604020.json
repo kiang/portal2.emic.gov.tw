@@ -3,15 +3,15 @@
     "CASE_DT": "2026\/7\/11 下午 07:02:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "龍江路345巷14號對面人行道",
+    "CASE_LOC": "龍江路３４５巷１６之１號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.541697,25.063286",
+    "COORDINATE": "121.541739098767,25.063287204317",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "(誤報)龍江路345巷14號對面人行道路樹倒塌",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "【一般案件】因為颱風，一棵路樹倒，有影響住戶出入",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "范代珩",
+    "PERSON_ID": "林廷翰",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -49,6 +49,36 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-07-12 16:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "龍江路345巷14號對面人行道",
+            "new_value": "龍江路３４５巷１６之１號",
+            "timestamp": "2026-07-12 22:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.541697,25.063286",
+            "new_value": "121.541739098767,25.063287204317",
+            "timestamp": "2026-07-12 22:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(誤報)龍江路345巷14號對面人行道路樹倒塌",
+            "new_value": "【一般案件】因為颱風，一棵路樹倒，有影響住戶出入",
+            "timestamp": "2026-07-12 22:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-07-12 22:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "范代珩",
+            "new_value": "林廷翰",
+            "timestamp": "2026-07-12 22:31:04"
         }
     ]
 }
