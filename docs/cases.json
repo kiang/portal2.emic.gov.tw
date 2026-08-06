@@ -1,4 +1,41 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5646394,
+                    25.0344736
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064666569",
+                "CASE_DT": "2026\/8\/6 下午 06:04:56",
+                "DISASTER_MAIN_TYPE": "廣告招牌災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5638256,
+                    25.0375496
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064666547",
+                "CASE_DT": "2026\/8\/6 下午 06:03:03",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
