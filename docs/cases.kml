@@ -3684,7 +3684,7 @@
         <when>2026/8/8 下午 08:21:10</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064675968<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/8 下午 08:21:10<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區明德一路6號（自來水加壓站）<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064675968<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/8 下午 08:21:10<br/><b>行政區：</b>基隆市 七堵區<br/><b>發生地點：</b>基隆市七堵區明德一路6號（自來水加壓站）<br/><b>災情描述：</b>變電箱冒白煙<br/><b>通報類別：</b>119消防署派遣系統<br/><b>上傳單位：</b>協助登打報案人報案內容<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -3716,13 +3716,21 @@
           <displayName>發生地點</displayName>
           <value>基隆市七堵區明德一路6號（自來水加壓站）</value>
         </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>變電箱冒白煙</value>
+        </Data>
         <Data name="case_type">
           <displayName>通報類別</displayName>
           <value>119消防署派遣系統</value>
         </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>協助登打報案人報案內容</value>
+        </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -3764,7 +3772,7 @@
         <when>2026/8/8 下午 08:19:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>112026064600135<br/><b>災情類別：</b>鐵路、高鐵捷運災情（工程災害）<br/><b>發生時間：</b>2026/8/8 下午 08:19:00<br/><b>行政區：</b>新北市 三重區<br/><b>發生地點：</b>三重區集賢路、集英路交叉口<br/><b>災情描述：</b>1.該交叉口有一個7樓高度的捷運施工裝置，民眾表示颱風天時會把裝置降下來，但這次颱風還未降下，擔心，請單位查處。<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>林口區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>112026064600135<br/><b>災情類別：</b>鐵路、高鐵捷運災情（工程災害）<br/><b>發生時間：</b>2026/8/8 下午 08:19:00<br/><b>行政區：</b>新北市 三重區<br/><b>發生地點：</b>三重區集賢路、集英路交叉口<br/><b>災情描述：</b>1.該交叉口有一個7樓高度的捷運施工裝置，民眾表示颱風天時會把裝置降下來，但這次颱風還未降下，擔心，請單位查處。<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>林口區公所<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -3810,7 +3818,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
