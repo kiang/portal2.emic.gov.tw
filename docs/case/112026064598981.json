@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064598981",
-    "CASE_DT": "2026\/7\/11 上午 05:26:00",
+    "CASE_DT": "2026\/8\/8 下午 04:14:31",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區林口區鉅錄營造",
+    "TOWN_N": "五股區",
+    "CASE_LOC": "五股區新北市五股區新五路三段38之3號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.35818,25.09906",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.樹木倒塌",
+    "COORDINATE": "121.44641,25.09031",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.屋頂上鷹架看板 搖搖欲墜",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林口區公所",
@@ -37,6 +37,48 @@
             "old_value": "[現場狀況]1.樹木倒塌  [各單位處置作為]@警察局：1.同案號25-北77線1.5公里嘉寶國小  (袁志勇-2026-07-11 05:37:34)更正-不同案件。已派員前往。@林口區公所：已完成@農業局：狀況已排除@環境保護局：已處理完成@消防局：已處理完成(本案件已處理完畢。)",
             "new_value": "1.樹木倒塌",
             "timestamp": "2026-07-11 12:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 05:26:00",
+            "new_value": "2026\/8\/8 下午 04:14:31",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "五股區",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區林口區鉅錄營造",
+            "new_value": "五股區新北市五股區新五路三段38之3號",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.35818,25.09906",
+            "new_value": "121.44641,25.09031",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.樹木倒塌",
+            "new_value": "1.屋頂上鷹架看板 搖搖欲墜",
+            "timestamp": "2026-08-08 18:01:03"
         }
     ]
 }

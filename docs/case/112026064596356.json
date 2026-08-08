@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064596356",
-    "CASE_DT": "2026\/7\/9 下午 06:19:43",
+    "CASE_DT": "2026\/8\/8 下午 01:37:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "板橋區",
-    "CASE_LOC": "板橋區新北市板橋區 新北市政府消防局-南雅南路二段15號",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區鼻頭漁港",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45437,25.00106",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "1.測試測試測試",
-    "CASE_STATUS": "處理中",
+    "COORDINATE": "121.91549,25.12373",
+    "DISASTER_MAIN_TYPE": "環境汙染",
+    "DISASTER_SUB_TYPE": "環境汙染",
+    "CASE_DESCRIPTION": "1.鼻頭漁港海浪將漂流木打上岸;  2.單位加派：(新增單位)農業局",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/9 下午 06:19:43",
+            "new_value": "2026\/8\/8 下午 01:37:00",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "板橋區",
+            "new_value": "瑞芳區",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "板橋區新北市板橋區 新北市政府消防局-南雅南路二段15號",
+            "new_value": "瑞芳區鼻頭漁港",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45437,25.00106",
+            "new_value": "121.91549,25.12373",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "環境汙染",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路積淹水",
+            "new_value": "環境汙染",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.測試測試測試",
+            "new_value": "1.鼻頭漁港海浪將漂流木打上岸;  2.單位加派：(新增單位)農業局",
+            "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 18:01:03"
+        }
+    ]
 }
