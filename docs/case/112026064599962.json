@@ -8,8 +8,8 @@
     "COORDINATE": "121.46080,25.04920",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.新莊區幸福東路137號與149號，該址人行道有二棵樹倒塌，請單位協助。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.新莊區幸福東路137號與149號，該址人行道有二棵樹倒塌，請單位協助。  2.  3.",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王明通",
     "INJURED_NO": 0,
@@ -61,6 +61,18 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-08-08 19:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新莊區幸福東路137號與149號，該址人行道有二棵樹倒塌，請單位協助。",
+            "new_value": "1.新莊區幸福東路137號與149號，該址人行道有二棵樹倒塌，請單位協助。  2.  3.",
+            "timestamp": "2026-08-08 19:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 19:41:04"
         }
     ]
 }
