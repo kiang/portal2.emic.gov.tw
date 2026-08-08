@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11508080319、監視器垂落、民眾反映地點：大園區中山南路614號與618號中間之電線桿事由：該處裝設之監視器因強風與大雨影響掉落，目前線路垂落懸空晃動搖搖欲墜，擔心颱風來襲時恐不慎掉落砸傷行人或車輛，危害道路通行安全，希望派員前往檢修並妥善固定，以維護公共安全。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "卓淑惠",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-08 17:31:03"
+        }
+    ]
 }

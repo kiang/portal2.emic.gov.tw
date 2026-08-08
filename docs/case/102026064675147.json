@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "11508080320、未具名-建案鷹架傾斜、民眾反映地點：中壢區洽溪路與永信路(靠私人停車場)。事由：路口處有一建案鷹架傾斜，搖搖欲墜，要求通報。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-08 17:31:03"
+        }
+    ]
 }
