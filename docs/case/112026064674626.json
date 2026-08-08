@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064674626",
-    "CASE_DT": "2026\/8\/8 下午 03:19:14",
+    "CASE_DT": "2026\/8\/8 下午 03:19:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "萬華區",
     "CASE_LOC": "臺北市萬華區萬大路53號",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "招牌被風吹到樹上",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 03:19:14",
+            "new_value": "2026\/8\/8 下午 03:19:00",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 22:11:04"
+        }
+    ]
 }

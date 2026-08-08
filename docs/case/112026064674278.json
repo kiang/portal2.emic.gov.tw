@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064674278",
-    "CASE_DT": "2026\/8\/8 下午 01:51:58",
+    "CASE_DT": "2026\/8\/8 下午 01:51:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
     "CASE_LOC": "臺北市內湖區新明路321巷和潭美街的交叉路口",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "闕枚莎競選帆布快被吹落，招牌搖搖欲墜 ，恐影響通行，請派員到場管制、疏導，並通知相關單位。 「白海豚颱風」轉報地址：臺北市內湖區新明路321巷與潭美街交叉口110轉報人員：林信毅.",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 01:51:58",
+            "new_value": "2026\/8\/8 下午 01:51:00",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 22:11:04"
+        }
+    ]
 }

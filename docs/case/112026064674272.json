@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064674272",
-    "CASE_DT": "2026\/8\/8 下午 01:38:38",
+    "CASE_DT": "2026\/8\/8 下午 01:38:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中正區",
     "CASE_LOC": "100台灣臺北市中正區幸福里忠孝東路一段12號",
@@ -8,16 +8,47 @@
     "COORDINATE": "121.5224401,25.0445802",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "- 傷亡- 人行道- 其他補述：喜來登加固鷹架圍籬設備，因風太大將圍籬吹倒壓到路人腰部及手部受傷",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "- 傷亡- 人行道- 其他補述：喜來登加固鷹架圍籬設備，因風太大將圍籬吹倒壓到路人腰部及手部受傷，目前已送往台大醫院就醫。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "古幸家",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 01:38:38",
+            "new_value": "2026\/8\/8 下午 01:38:00",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "- 傷亡- 人行道- 其他補述：喜來登加固鷹架圍籬設備，因風太大將圍籬吹倒壓到路人腰部及手部受傷",
+            "new_value": "- 傷亡- 人行道- 其他補述：喜來登加固鷹架圍籬設備，因風太大將圍籬吹倒壓到路人腰部及手部受傷，目前已送往台大醫院就醫。",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-08-08 22:11:04"
+        }
+    ]
 }

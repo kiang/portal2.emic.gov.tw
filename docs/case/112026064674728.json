@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064674728",
-    "CASE_DT": "2026\/8\/8 下午 03:36:44",
+    "CASE_DT": "2026\/8\/8 下午 03:36:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "萬華區",
     "CASE_LOC": "臺北市萬華區三水街126號3樓",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "窗戶掉落",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林紅先生\/女士",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 03:36:44",
+            "new_value": "2026\/8\/8 下午 03:36:00",
+            "timestamp": "2026-08-08 22:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-08 22:11:04"
+        }
+    ]
 }
