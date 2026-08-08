@@ -82,13 +82,185 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/9 上午 07:15:10</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064677693<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/8/9 上午 07:15:10<br/><b>行政區：</b>臺北市 文山區<br/><b>發生地點：</b>景仁街82巷8號<br/><b>災情描述：</b>【一般案件】上述地點有建築工地的圍籬倒塌(因颱風強風關係)，擔心圍籬被風吹起來傷到路人，請單位派員處理。<br/><b>通報類別：</b>縣市報災情<br/><b>上傳單位：</b>文瑞珍<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064677693</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/9 上午 07:15:10</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>圍牆倒塌(含籬及鐵皮)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>文山區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>景仁街82巷8號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>【一般案件】上述地點有建築工地的圍籬倒塌(因颱風強風關係)，擔心圍籬被風吹起來傷到路人，請單位派員處理。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>文瑞珍</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.53763,24.998915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/9 上午 07:14:47</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064677700<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/8/9 上午 07:14:47<br/><b>行政區：</b>桃園市 楊梅區<br/><b>發生地點：</b>桃園市楊梅區裕成路137巷41號<br/><b>災情描述：</b>2026/08/09 07:14:47 - 樹木倒塌有壓到車輛的狀況<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064677700</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/9 上午 07:14:47</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>桃園市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>楊梅區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>桃園市楊梅區裕成路137巷41號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/08/09 07:14:47 - 樹木倒塌有壓到車輛的狀況</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.16166165751,24.897975924481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>路樹災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/8/9 上午 07:05:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064677658<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/8/9 上午 07:05:00<br/><b>行政區：</b>基隆市 仁愛區<br/><b>發生地點：</b>基隆市仁愛區南新街51巷<br/><b>災情描述：</b>【1999報災情】市民表示往天澤宮方向，路上有一棵路樹倒塌並壓斷電線，希派員前往處理。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064677658<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/8/9 上午 07:05:00<br/><b>行政區：</b>基隆市 仁愛區<br/><b>發生地點：</b>基隆市仁愛區南新街51巷<br/><b>災情描述：</b>【1999報災情】市民表示往天澤宮方向，路上有一棵路樹倒塌並壓斷電線，希派員前往處理。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>王先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -134,7 +306,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -348,7 +520,7 @@
         <when>2026/8/9 上午 06:54:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064677633<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2026/8/9 上午 06:54:00<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區東勢街62之1號<br/><b>災情描述：</b>【1999報災情】暖東里林里長來電通報，電線及路樹都倒塌，阻礙道路無法通行，希派員前往處理，詳情可洽林里長0930****89。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064677633<br/><b>災情類別：</b>民生、基礎設施災情（電線（桿）毀損）<br/><b>發生時間：</b>2026/8/9 上午 06:54:00<br/><b>行政區：</b>基隆市 暖暖區<br/><b>發生地點：</b>基隆市暖暖區東勢街62之1號<br/><b>災情描述：</b>【1999報災情】暖東里林里長來電通報，電線及路樹都倒塌，阻礙道路無法通行，希派員前往處理，詳情可洽林里長0930****89。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -394,7 +566,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
