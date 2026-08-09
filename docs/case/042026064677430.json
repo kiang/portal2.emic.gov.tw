@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】二分局勤務中心李長官來電通報文化中心前的文化廣場，稍早草皮整塊被吹掀到車道上，已先將一部分吹掀的草皮移至旁邊，希派員前往將草皮暫時移除或加強固定。AM0600已通報文化觀光局行政科澎科長，請派員至現場將遭吹掀草皮加強固定，維護現場安全。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "周佳慧",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "0",
             "new_value": "周佳慧",
             "timestamp": "2026-08-09 06:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 08:21:04"
         }
     ]
 }
