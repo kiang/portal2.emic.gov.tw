@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064601439",
-    "CASE_DT": "2026\/7\/11 下午 01:47:00",
+    "CASE_DT": "2026\/8\/9 下午 01:25:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新店區",
-    "CASE_LOC": "新店區柴埕路60巷7號之3",
+    "TOWN_N": "八里區",
+    "CASE_LOC": "八里區八里區中華路三段236號「長坑國小」、往林口方向上坡300公尺處",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50855,24.96451",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.新店區柴埕路60巷7號之3，後方小河中有1塊漂流木卡在河川中，沒有造成河川堵塞但已阻礙水流，請單位協助移除。(本案係由新店分局安康派出所陳警官通報)",
+    "COORDINATE": "121.39036,25.12543",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.八里區中華路三段236號「長坑國小」、往林口方向上坡300公尺處左手邊有竹子傾斜，已打到車子前擋玻璃，請單位協助處理。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳嘉慶",
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 01:47:00",
+            "new_value": "2026\/8\/9 下午 01:25:00",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新店區",
+            "new_value": "八里區",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新店區柴埕路60巷7號之3",
+            "new_value": "八里區八里區中華路三段236號「長坑國小」、往林口方向上坡300公尺處",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50855,24.96451",
+            "new_value": "121.39036,25.12543",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹傾斜",
+            "timestamp": "2026-08-09 14:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新店區柴埕路60巷7號之3，後方小河中有1塊漂流木卡在河川中，沒有造成河川堵塞但已阻礙水流，請單位協助移除。(本案係由新店分局安康派出所陳警官通報)",
+            "new_value": "1.八里區中華路三段236號「長坑國小」、往林口方向上坡300公尺處左手邊有竹子傾斜，已打到車子前擋玻璃，請單位協助處理。",
+            "timestamp": "2026-08-09 14:31:04"
+        }
+    ]
 }
