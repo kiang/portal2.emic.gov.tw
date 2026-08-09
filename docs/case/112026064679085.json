@@ -1,13 +1,13 @@
 {
     "CASE_ID": "112026064679085",
-    "CASE_DT": "2026\/8\/9 下午 12:07:53",
+    "CASE_DT": "2026\/8\/9 下午 12:07:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "民族東路１６號",
+    "CASE_LOC": "民族東路16號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.52409,25.068281",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "COORDINATE": "121.524092,25.06828",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "變電所、電廠受災",
     "CASE_DESCRIPTION": "【一般案件】上述地點的地下室有台電自己的電力設備，該設備管線因為颱風的關係有進水漏水的情形，民眾擔心會引發危險，請派員處理",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 12:07:53",
+            "new_value": "2026\/8\/9 下午 12:07:00",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "民族東路１６號",
+            "new_value": "民族東路16號",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.52409,25.068281",
+            "new_value": "121.524092,25.06828",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "變電所、電廠受災",
+            "timestamp": "2026-08-09 13:11:04"
+        }
+    ]
 }

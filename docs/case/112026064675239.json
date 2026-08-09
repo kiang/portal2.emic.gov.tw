@@ -1,13 +1,13 @@
 {
     "CASE_ID": "112026064675239",
-    "CASE_DT": "2026\/8\/8 下午 05:27:18",
+    "CASE_DT": "2026\/8\/8 下午 05:27:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
     "CASE_LOC": "臺北市中山區民族東路210號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5312,25.068142",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "外牆磁磚掉落",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
@@ -25,6 +25,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-08 22:01:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 05:27:18",
+            "new_value": "2026\/8\/8 下午 05:27:00",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-08-09 13:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物輕微受損",
+            "timestamp": "2026-08-09 13:11:04"
         }
     ]
 }
