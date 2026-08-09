@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/8\/9 上午 10:32:38",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "明湖路1008巷136弄巷底",
+    "CASE_LOC": "明湖路1006巷136弄",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "土石災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "明湖路1008巷136弄巷底",
+            "new_value": "明湖路1006巷136弄",
+            "timestamp": "2026-08-09 11:41:04"
+        }
+    ]
 }
