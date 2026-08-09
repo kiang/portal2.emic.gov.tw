@@ -8,8 +8,8 @@
     "COORDINATE": "121.45689,24.98830",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.土城區廣福街3巷與學府路一段68巷路口，該路口單行道的交通號誌目前異常跳閃紅黃燈，不變綠燈，請立即派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.土城區廣福街3巷與學府路一段68巷路口，該路口單行道的交通號誌目前異常跳閃紅黃燈，不變綠燈，請立即派員處理。   2.交通號誌異常",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "鄭仁豪",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.土城區廣福街3巷與學府路一段68巷路口，該路口單行道的交通號誌目前異常跳閃紅黃燈，不變綠燈，請立即派員處理。",
+            "new_value": "1.土城區廣福街3巷與學府路一段68巷路口，該路口單行道的交通號誌目前異常跳閃紅黃燈，不變綠燈，請立即派員處理。   2.交通號誌異常",
+            "timestamp": "2026-08-09 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 16:31:04"
+        }
+    ]
 }
