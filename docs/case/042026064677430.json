@@ -6,7 +6,7 @@
     "CASE_LOC": "基隆市中正區信一路181號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.744172,25.131254",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999報災情】二分局勤務中心李長官來電通報文化中心前的文化廣場，稍早草皮整塊被吹掀到車道上，已先將一部分吹掀的草皮移至旁邊，希派員前往將草皮暫時移除或加強固定。AM0600已通報文化觀光局行政科澎科長，請派員至現場將遭吹掀草皮加強固定，維護現場安全。",
     "CASE_STATUS": "已處理",
@@ -43,6 +43,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-08-09 08:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-08-09 11:31:04"
         }
     ]
 }

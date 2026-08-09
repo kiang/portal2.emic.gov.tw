@@ -6,9 +6,9 @@
     "CASE_LOC": "板橋區中山路一段156之1號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.46570,25.01146",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.板橋區中山路一段156之1號，後方養工處養護的二樓空橋目前積水。  2.單位加派：(新增單位)工務局",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.板橋區中山路一段156之1號，後方養工處養護的二樓空橋目前積水。  2.單位加派：(新增單位)工務局  3.案件類別更改：其他->積水影響範圍更改：  ->待確認 待確認 待確認養工處養護的二樓空橋積水",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃致翔",
@@ -25,6 +25,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 10:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2026-08-09 11:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "道路積淹水",
+            "timestamp": "2026-08-09 11:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.板橋區中山路一段156之1號，後方養工處養護的二樓空橋目前積水。  2.單位加派：(新增單位)工務局",
+            "new_value": "1.板橋區中山路一段156之1號，後方養工處養護的二樓空橋目前積水。  2.單位加派：(新增單位)工務局  3.案件類別更改：其他->積水影響範圍更改：  ->待確認 待確認 待確認養工處養護的二樓空橋積水",
+            "timestamp": "2026-08-09 11:31:04"
         }
     ]
 }
