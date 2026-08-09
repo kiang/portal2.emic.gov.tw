@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064678217",
-    "CASE_DT": "2026\/8\/9 上午 09:47:57",
+    "CASE_DT": "2026\/8\/9 上午 09:47:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
-    "CASE_LOC": "興隆路三段１１１號",
+    "CASE_LOC": "興隆路三段111號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.558330275036,25.000306276079",
+    "COORDINATE": "121.55833,25.000305",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "【一般案件】因颱風關係行車行人號誌閃爍，行人無法正常通行路口。請警察到場指揮交通",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張仲德",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 09:47:57",
+            "new_value": "2026\/8\/9 上午 09:47:00",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "興隆路三段１１１號",
+            "new_value": "興隆路三段111號",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.558330275036,25.000306276079",
+            "new_value": "121.55833,25.000305",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }

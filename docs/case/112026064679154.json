@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026064679154",
-    "CASE_DT": "2026\/8\/9 下午 12:48:25",
+    "CASE_DT": "2026\/8\/9 下午 12:48:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "遼寧街(地址填寫於個資欄)",
+    "CASE_LOC": "遼寧街209巷27號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.543,25.055073",
+    "COORDINATE": "121.543002,25.055073",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】後面興安國宅的樹因為颱風倒在民眾和遼寧街209巷29號的屋頂上(遼寧街209巷27號。)",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 12:48:25",
+            "new_value": "2026\/8\/9 下午 12:48:00",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "遼寧街(地址填寫於個資欄)",
+            "new_value": "遼寧街209巷27號",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.543,25.055073",
+            "new_value": "121.543002,25.055073",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }

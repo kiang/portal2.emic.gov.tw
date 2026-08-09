@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】現場馬路上因為風雨關係有大量樹木殘骸與樹葉，已經大面積覆蓋道路，且因環境潮濕（可能導致路面濕滑），容易造成往來車輛或行人滑倒，恐影響交通與通行安全，請清潔隊協助前往收拾清理(中山分局長春路派出所警察通報。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "葉雙睿",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }

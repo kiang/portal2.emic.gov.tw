@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064678839",
-    "CASE_DT": "2026\/8\/9 上午 11:36:24",
+    "CASE_DT": "2026\/8\/9 上午 11:36:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "通河東街一段167巷16弄26號",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 11:36:24",
+            "new_value": "2026\/8\/9 上午 11:36:00",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }

@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026064678664",
-    "CASE_DT": "2026\/8\/9 上午 11:16:45",
+    "CASE_DT": "2026\/8\/9 上午 11:16:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "中山北路二段１３９號",
+    "CASE_LOC": "中山北路二段往南至錦州街口附近",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52306,25.06183",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 11:16:45",
+            "new_value": "2026\/8\/9 上午 11:16:00",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中山北路二段１３９號",
+            "new_value": "中山北路二段往南至錦州街口附近",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }

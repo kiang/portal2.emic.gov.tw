@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026064679078",
-    "CASE_DT": "2026\/8\/9 下午 12:25:16",
+    "CASE_DT": "2026\/8\/9 下午 12:25:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "撫遠街２５７之１號2樓",
+    "CASE_LOC": "撫遠街257之1號2樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.567101334703,25.06088944923",
+    "COORDINATE": "121.5671,25.060889",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】（本案地點座標異常，機關收辦時請以「發生地址、發生地點」所載資訊為準）因颱風關係，有窗戶跟玻璃破裂卡在1跟2樓之間的遮雨棚上 擔心隨時掉落傷人",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 12:25:16",
+            "new_value": "2026\/8\/9 下午 12:25:00",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "撫遠街２５７之１號2樓",
+            "new_value": "撫遠街257之1號2樓",
+            "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.567101334703,25.06088944923",
+            "new_value": "121.5671,25.060889",
+            "timestamp": "2026-08-09 13:41:04"
+        }
+    ]
 }
