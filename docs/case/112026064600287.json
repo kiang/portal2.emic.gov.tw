@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064600287",
-    "CASE_DT": "2026\/7\/11 上午 10:15:34",
+    "CASE_DT": "2026\/8\/8 下午 10:47:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區新北市林口區信義路 文化二路二段交叉路口",
+    "TOWN_N": "土城區",
+    "CASE_LOC": "土城區中華路二段與城林路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.37805,25.08057",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.林口區信義路 文化二路二段交叉路口報案人表示路樹傾倒 雙向各1線，其中一向完全被擋住",
+    "COORDINATE": "121.43861,24.97516",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "CASE_DESCRIPTION": "1.土城區中華路二段與城林路口，位於中華路二段上的交通號誌燈遭強風吹歪，目前號誌仍正常運作，請單位協助維護。(本案由土城分局土城派出所員警通報)",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 10:15:34",
+            "new_value": "2026\/8\/8 下午 10:47:00",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "土城區",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區新北市林口區信義路 文化二路二段交叉路口",
+            "new_value": "土城區中華路二段與城林路",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.37805,25.08057",
+            "new_value": "121.43861,24.97516",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.林口區信義路 文化二路二段交叉路口報案人表示路樹傾倒 雙向各1線，其中一向完全被擋住",
+            "new_value": "1.土城區中華路二段與城林路口，位於中華路二段上的交通號誌燈遭強風吹歪，目前號誌仍正常運作，請單位協助維護。(本案由土城分局土城派出所員警通報)",
+            "timestamp": "2026-08-09 10:21:04"
+        }
+    ]
 }

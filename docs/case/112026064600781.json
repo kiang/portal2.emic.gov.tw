@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064600781",
-    "CASE_DT": "2026\/7\/11 下午 12:19:00",
+    "CASE_DT": "2026\/8\/9 上午 06:36:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "五股區",
-    "CASE_LOC": "五股區孝義路47巷",
+    "TOWN_N": "淡水區",
+    "CASE_LOC": "淡水區新北市淡水區北投里１２鄰北投子７９號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45234,25.10951",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.五股區孝義路47巷，該路段從07:30開始停電，11:45左右復電不到5分鐘再次停電，請單位協助。",
+    "COORDINATE": "121.46043,25.17843",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.淡水區林氏宗親會(F109新巴士)，有一棵路樹倒塌占用車道。(本案由淡水客運王先生轉通報)",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳小姐",
@@ -67,6 +67,48 @@
             "old_value": "縣市報災情",
             "new_value": "陳小姐",
             "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 12:19:00",
+            "new_value": "2026\/8\/9 上午 06:36:00",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "五股區",
+            "new_value": "淡水區",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "五股區孝義路47巷",
+            "new_value": "淡水區新北市淡水區北投里１２鄰北投子７９號",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45234,25.10951",
+            "new_value": "121.46043,25.17843",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電力停電",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.五股區孝義路47巷，該路段從07:30開始停電，11:45左右復電不到5分鐘再次停電，請單位協助。",
+            "new_value": "1.淡水區林氏宗親會(F109新巴士)，有一棵路樹倒塌占用車道。(本案由淡水客運王先生轉通報)",
+            "timestamp": "2026-08-09 10:21:04"
         }
     ]
 }
