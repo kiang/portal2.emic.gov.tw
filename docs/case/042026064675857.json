@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "8月9日7時30分聯繫吉隆有線電視，到場後確認現場非屬其電纜線路，研判可能為台灣固網線路。0750聯繫台灣固網客服派員查修。經與署EMIC工程師確認，可採續報方式指派台灣固網（台灣固網非指派選項），並以吉隆有線電視自述已到場查修結果作為案件已讀依據。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "周佳慧",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "鄭宇宏",
             "new_value": "周佳慧",
             "timestamp": "2026-08-09 08:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 17:31:04"
         }
     ]
 }
