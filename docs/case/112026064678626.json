@@ -1,13 +1,13 @@
 {
     "CASE_ID": "112026064678626",
-    "CASE_DT": "2026\/8\/9 上午 11:09:06",
+    "CASE_DT": "2026\/8\/9 上午 11:09:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
     "CASE_LOC": "臺北市信義區忠孝東路五段743巷29號對面基督教會",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.58097,25.044044",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "教會磁磚掉落路面-119(白海豚颱風)轉報地址：臺北市信義區忠孝東路五段743巷29號對面基督教會110轉報人員：王舜祥",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 11:09:06",
+            "new_value": "2026\/8\/9 上午 11:09:00",
+            "timestamp": "2026-08-09 13:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-08-09 13:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物輕微受損",
+            "timestamp": "2026-08-09 13:01:04"
+        }
+    ]
 }
