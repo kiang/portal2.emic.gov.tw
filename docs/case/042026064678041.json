@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【1999報災情】民眾通道路樹倒塌，地點1.在安樂區基金一路與武崙街交叉口，陳述安全島的路樹倒塌在內側車道，影響行車通行，地點2.安樂區基金一路131之24號大武崙郵局對面安全島的路樹倒塌在路邊，希業務單位查處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "徐小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-08-09 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 10:31:04"
         }
     ]
 }
