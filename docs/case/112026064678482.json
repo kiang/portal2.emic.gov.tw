@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "明湖路1008巷136弄巷底，發生土石滑落，山溝目前堆滿大量泥土，造成排水受阻、積水，請協助前往搶通排水及處理土石，以災情波及民宅。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃詠歆",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "明湖路1008巷136弄巷底",
             "new_value": "明湖路1006巷136弄",
             "timestamp": "2026-08-09 11:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 12:11:03"
         }
     ]
 }
