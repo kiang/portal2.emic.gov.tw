@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "1.土城區承天路92之5號整棟，8\/9突然不明原因停電，民眾表示未查詢到有停電公告。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "簡世豪",
     "INJURED_NO": 0,
@@ -85,6 +85,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-08-09 14:01:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 17:01:04"
         }
     ]
 }
