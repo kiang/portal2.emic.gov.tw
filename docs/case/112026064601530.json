@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064601530",
-    "CASE_DT": "2026\/7\/11 下午 02:08:00",
+    "CASE_DT": "2026\/8\/9 下午 02:18:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區頂福里4鄰",
+    "TOWN_N": "永和區",
+    "CASE_LOC": "永和區警光街1巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.33986,25.09232",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.停電詳照片",
+    "COORDINATE": "121.52005,25.00928",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.永和區警光街1巷，該巷底有一路樹傾倒，請立即派員處理。(此為中正橋派出所員警通報)",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "錢錦彬",
@@ -25,6 +25,48 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 02:08:00",
+            "new_value": "2026\/8\/9 下午 02:18:00",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "永和區",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區頂福里4鄰",
+            "new_value": "永和區警光街1巷",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.33986,25.09232",
+            "new_value": "121.52005,25.00928",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電力停電",
+            "new_value": "路樹傾斜",
+            "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.停電詳照片",
+            "new_value": "1.永和區警光街1巷，該巷底有一路樹傾倒，請立即派員處理。(此為中正橋派出所員警通報)",
+            "timestamp": "2026-08-09 15:51:04"
         }
     ]
 }
