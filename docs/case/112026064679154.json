@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】後面興安國宅的樹因為颱風倒在民眾和遼寧街209巷29號的屋頂上(遼寧街209巷27號。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "吳岳承",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.543,25.055073",
             "new_value": "121.543002,25.055073",
             "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-09 18:51:03"
         }
     ]
 }
