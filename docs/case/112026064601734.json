@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064601734",
-    "CASE_DT": "2026\/7\/11 下午 02:45:00",
+    "CASE_DT": "2026\/8\/9 下午 03:59:31",
     "COUNTY_N": "新北市",
     "TOWN_N": "林口區",
-    "CASE_LOC": "林口區嘉寶里榮達農場附近",
+    "CASE_LOC": "林口區新北市林口區中山路677號 頂樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.34500,25.11297",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.路樹倒塌，車子無法通行。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.37875,25.08296",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.桃園119(張學姐)來電，有民眾擔心頂樓的鐵板會掉落，需要請人員前往為封鎖線，避免發生危險",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃建邦",
     "INJURED_NO": 0,
@@ -37,6 +37,48 @@
             "old_value": "[現場狀況]1.路樹倒塌，車子無法通行。  [各單位處置作為]@警察局：已派員處理@環境保護局：公所已派員處理@林口區公所：道路濕滑路徑小，明天需換小型車輛排除@農業局：公所人員已到場處理@消防局：道路濕滑路徑小，明天需換小型車輛排除。主政尚未結案，案件強制結案原因：道路濕滑路徑小，明天需換小型車輛排除 (本案件已處理完畢。)",
             "new_value": "1.路樹倒塌，車子無法通行。",
             "timestamp": "2026-07-11 22:31:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 02:45:00",
+            "new_value": "2026\/8\/9 下午 03:59:31",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區嘉寶里榮達農場附近",
+            "new_value": "林口區新北市林口區中山路677號 頂樓",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.34500,25.11297",
+            "new_value": "121.37875,25.08296",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.路樹倒塌，車子無法通行。",
+            "new_value": "1.桃園119(張學姐)來電，有民眾擔心頂樓的鐵板會掉落，需要請人員前往為封鎖線，避免發生危險",
+            "timestamp": "2026-08-09 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-09 17:11:04"
         }
     ]
 }
