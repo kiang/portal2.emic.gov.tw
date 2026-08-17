@@ -8,8 +8,8 @@
     "COORDINATE": "121.566667,25.039359",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
-    "CASE_DESCRIPTION": "商業大樓玻璃帷幕大量破裂掉落。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "商業大樓玻璃帷幕大量破裂掉落。一人重傷",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 1,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "商業大樓玻璃帷幕大量破裂掉落。",
+            "new_value": "商業大樓玻璃帷幕大量破裂掉落。一人重傷",
+            "timestamp": "2026-08-17 21:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-17 21:01:04"
+        }
+    ]
 }

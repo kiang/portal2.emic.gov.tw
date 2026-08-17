@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "火災",
     "DISASTER_SUB_TYPE": "建築物",
     "CASE_DESCRIPTION": "老舊住宅瓦斯外洩，引發火災及氣爆。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 7,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 10,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-17 21:01:04"
+        }
+    ]
 }
