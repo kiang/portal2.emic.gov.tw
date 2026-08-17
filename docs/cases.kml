@@ -82,6 +82,846 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>火災</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:59:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714954<br/><b>災情類別：</b>火災（建築物）<br/><b>發生時間：</b>2026/8/17 上午 09:59:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>忠孝東路五段8號<br/><b>災情描述：</b>商業大樓天花板坍落，電線短路引發火警。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714954</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:59:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>火災</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建築物</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>忠孝東路五段8號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>商業大樓天花板坍落，電線短路引發火警。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.565417,25.040865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:59:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714951<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/17 上午 09:59:00<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>復興南路一段135巷交忠孝東路四段49巷口<br/><b>災情描述：</b>地面磁磚隆起破裂，一輛小客車行經時爆胎。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714951</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:59:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大安區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>復興南路一段135巷交忠孝東路四段49巷口</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>地面磁磚隆起破裂，一輛小客車行經時爆胎。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.544343,25.04276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:59:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714947<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/17 上午 09:59:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>松仁路100號前<br/><b>災情描述：</b>路面人孔蓋冒出白煙及疑似塑膠燃燒未。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714947</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:59:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>松仁路100號前</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>路面人孔蓋冒出白煙及疑似塑膠燃燒未。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.568126,25.034459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714944<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/8/17 上午 09:58:00<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>敦化南路一段236巷17號<br/><b>災情描述：</b>建築物3-5樓外牆明顯龜裂，且疑似傾斜，住戶緊急疏散。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>1，<b>失蹤：</b>0，<b>收容：</b>35
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714944</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物輕微受損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大安區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>敦化南路一段236巷17號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>建築物3-5樓外牆明顯龜裂，且疑似傾斜，住戶緊急疏散。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>35</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.547008,25.040659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714939<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/8/17 上午 09:58:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>永吉路278巷27弄30號對面<br/><b>災情描述：</b>建物外牆磁磚掉落，有人砸傷。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714939</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物輕微受損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>永吉路278巷27弄30號對面</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>建物外牆磁磚掉落，有人砸傷。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.575126,25.044512,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>火災</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:58:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714938<br/><b>災情類別：</b>火災（建築物）<br/><b>發生時間：</b>2026/8/17 上午 09:58:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>基隆路一段178號<br/><b>災情描述：</b>商辦配電室起火，濃煙瀰漫。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714938</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:58:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>火災</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建築物</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>基隆路一段178號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>商辦配電室起火，濃煙瀰漫。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.564965,25.042394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:57:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714936<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/8/17 上午 09:57:00<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>仁愛路四段91巷19號<br/><b>災情描述：</b>五層住宅3樓陽台女兒牆掉落，佔據單行道巷弄，車輛無法通行。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714936</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:57:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>圍牆倒塌(含籬及鐵皮)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大安區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>仁愛路四段91巷19號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>五層住宅3樓陽台女兒牆掉落，佔據單行道巷弄，車輛無法通行。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.546931,25.038658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:57:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714935<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/8/17 上午 09:57:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>松高路11號<br/><b>災情描述：</b>百貨外牆玻璃大量掉落，行人受傷。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714935</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:57:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物輕微受損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>松高路11號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>百貨外牆玻璃大量掉落，行人受傷。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.565242,25.039515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>火災</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:56:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714934<br/><b>災情類別：</b>火災（建築物）<br/><b>發生時間：</b>2026/8/17 上午 09:56:00<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>光復南路390號<br/><b>災情描述：</b>老舊住宅瓦斯外洩，引發火災及氣爆。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>7，<b>死亡：</b>1，<b>受困：</b>2，<b>失蹤：</b>0，<b>收容：</b>10
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714934</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:56:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>火災</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建築物</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大安區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>光復南路390號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>老舊住宅瓦斯外洩，引發火災及氣爆。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>7</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>10</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.557394,25.037229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/17 上午 09:56:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064714933<br/><b>災情類別：</b>建物毀損（建物半倒）<br/><b>發生時間：</b>2026/8/17 上午 09:56:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>基隆路一段350號<br/><b>災情描述：</b>商辦大樓低樓層結構受損，局部坍塌，據報人員受困。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>8，<b>死亡：</b>2，<b>受困：</b>2，<b>失蹤：</b>2，<b>收容：</b>4
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064714933</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/17 上午 09:56:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物半倒</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>基隆路一段350號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>商辦大樓低樓層結構受損，局部坍塌，據報人員受困。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>8</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.561729,25.037013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>道路、隧道災情</name>
       <visibility>1</visibility>
       <TimeStamp>
