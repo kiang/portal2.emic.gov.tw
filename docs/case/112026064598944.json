@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064598944",
-    "CASE_DT": "2026\/7\/11 上午 05:01:00",
+    "CASE_DT": "2026\/8\/21 下午 04:56:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "蘆洲區",
-    "CASE_LOC": "蘆洲區復興路335巷9號",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區金龍路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.48463,25.09223",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "1.蘆洲區復興路335巷9號，目前道路有淹水，淹水高度約莫到小腿肚，請單位派員處理。",
+    "COORDINATE": "121.53582,24.94697",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "1.新店區金龍路，位於路燈編號141118有土石坍方，請單位派員查處。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "謝志浩",
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 05:01:00",
+            "new_value": "2026\/8\/21 下午 04:56:00",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "蘆洲區",
+            "new_value": "新店區",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "蘆洲區復興路335巷9號",
+            "new_value": "新店區金龍路",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.48463,25.09223",
+            "new_value": "121.53582,24.94697",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "地區積淹水",
+            "new_value": "道路落石",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.蘆洲區復興路335巷9號，目前道路有淹水，淹水高度約莫到小腿肚，請單位派員處理。",
+            "new_value": "1.新店區金龍路，位於路燈編號141118有土石坍方，請單位派員查處。",
+            "timestamp": "2026-08-21 18:51:04"
+        }
+    ]
 }

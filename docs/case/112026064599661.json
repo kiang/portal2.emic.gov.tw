@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599661",
-    "CASE_DT": "2026\/7\/11 上午 08:28:00",
+    "CASE_DT": "2026\/8\/21 下午 05:51:00",
     "COUNTY_N": "新北市",
     "TOWN_N": "林口區",
-    "CASE_LOC": "林口區文化二路二段82號",
+    "CASE_LOC": "林口區中山路及竹林路口",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.37863,25.08086",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.蔡家排骨前路樹倒塌有壓到電線擔心會停電  2.路樹倒塌壓到電纜線  3.併案案號48",
+    "COORDINATE": "121.46554,25.01228",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "CASE_DESCRIPTION": "1.林口區中山路及竹林路口，4向交通號誌全熄。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾",
@@ -19,5 +19,42 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 08:28:00",
+            "new_value": "2026\/8\/21 下午 05:51:00",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區文化二路二段82號",
+            "new_value": "林口區中山路及竹林路口",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.37863,25.08086",
+            "new_value": "121.46554,25.01228",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.蔡家排骨前路樹倒塌有壓到電線擔心會停電  2.路樹倒塌壓到電纜線  3.併案案號48",
+            "new_value": "1.林口區中山路及竹林路口，4向交通號誌全熄。",
+            "timestamp": "2026-08-21 18:51:04"
+        }
+    ]
 }

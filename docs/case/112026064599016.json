@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599016",
-    "CASE_DT": "2026\/8\/8 下午 04:20:00",
+    "CASE_DT": "2026\/8\/21 下午 04:54:02",
     "COUNTY_N": "新北市",
-    "TOWN_N": "烏來區",
-    "CASE_LOC": "烏來區信賢里信福路159巷路口",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區新北市新店區 新烏路1.8k-永興宮牌樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.54512,24.83647",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.影響交通",
+    "COORDINATE": "121.54361,24.93791",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "1.道路上有很多落石  2.受損車輛0輛土石崩塌-無\/局部崩塌\/土石遍布雙向兩線道影響半個往新店方向車道車輛可通行  3.現場雙向兩線道影響往新店方向半個車道，車輛可通行，現場人力無法清除需要協約廠商處理  4.併案案號28",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "吳明隆",
@@ -79,6 +79,48 @@
             "old_value": "1.瑞芳區崇文里街頂巷8號一帶現停電。",
             "new_value": "1.影響交通",
             "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 04:20:00",
+            "new_value": "2026\/8\/21 下午 04:54:02",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "烏來區",
+            "new_value": "新店區",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "烏來區信賢里信福路159巷路口",
+            "new_value": "新店區新北市新店區 新烏路1.8k-永興宮牌樓",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.54512,24.83647",
+            "new_value": "121.54361,24.93791",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "道路落石",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.影響交通",
+            "new_value": "1.道路上有很多落石  2.受損車輛0輛土石崩塌-無\/局部崩塌\/土石遍布雙向兩線道影響半個往新店方向車道車輛可通行  3.現場雙向兩線道影響往新店方向半個車道，車輛可通行，現場人力無法清除需要協約廠商處理  4.併案案號28",
+            "timestamp": "2026-08-21 18:51:04"
         }
     ]
 }

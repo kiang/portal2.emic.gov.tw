@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599689",
-    "CASE_DT": "2026\/7\/11 上午 08:34:00",
+    "CASE_DT": "2026\/8\/21 下午 06:12:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "淡水區",
-    "CASE_LOC": "淡水區義山路二段255號",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區新店區小粗坑路 直潭國小",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.43871,25.19618",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.淡水區義山路二段255號前，有一棵路樹傾倒，疑似壓到一輛汽車，建請相關單位儘速協助移除",
+    "COORDINATE": "121.53096,24.93779",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
+    "DISASTER_SUB_TYPE": "道路落石",
+    "CASE_DESCRIPTION": "1.新店區小粗坑路(過土地公廟)近直潭國小，有土石滑落，雙向交通不通。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "高郁嵐",
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 08:34:00",
+            "new_value": "2026\/8\/21 下午 06:12:00",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "淡水區",
+            "new_value": "新店區",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "淡水區義山路二段255號",
+            "new_value": "新店區新店區小粗坑路 直潭國小",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.43871,25.19618",
+            "new_value": "121.53096,24.93779",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "道路落石",
+            "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.淡水區義山路二段255號前，有一棵路樹傾倒，疑似壓到一輛汽車，建請相關單位儘速協助移除",
+            "new_value": "1.新店區小粗坑路(過土地公廟)近直潭國小，有土石滑落，雙向交通不通。",
+            "timestamp": "2026-08-21 18:51:04"
+        }
+    ]
 }
