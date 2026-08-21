@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599203",
-    "CASE_DT": "2026\/8\/8 下午 04:19:00",
+    "CASE_DT": "2026\/8\/21 下午 05:03:35",
     "COUNTY_N": "新北市",
-    "TOWN_N": "金山區",
-    "CASE_LOC": "金山區陽金公路",
+    "TOWN_N": "土城區",
+    "CASE_LOC": "土城區新北市土城區金城路二段46巷18號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.58557,25.18653",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.金山區陽金公路，過了馬槽花藝村後，往金山方向的車道上有路樹傾倒，請單位前往移除。",
+    "COORDINATE": "121.45458,24.97393",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "地區積淹水",
+    "CASE_DESCRIPTION": "1.路旁便橋水快淹到路面  2.目前未醃至路面",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "簡世偉",
@@ -79,6 +79,48 @@
             "old_value": "1.貢寮區美艷山街61之1號，有一盞路燈(編號不詳)因風勢大，被吹斷垂掛，請單位前往修復。  2.現場沒有看到路燈，詢問61之1號住戶狀況  3.1.貢寮區美艷山街61之1號，有一盞路燈(編號不詳)因風勢大，被吹斷垂掛，請單位前往修復。    4.併案案號140",
             "new_value": "1.金山區陽金公路，過了馬槽花藝村後，往金山方向的車道上有路樹傾倒，請單位前往移除。",
             "timestamp": "2026-08-08 18:01:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 04:19:00",
+            "new_value": "2026\/8\/21 下午 05:03:35",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "金山區",
+            "new_value": "土城區",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "金山區陽金公路",
+            "new_value": "土城區新北市土城區金城路二段46巷18號",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.58557,25.18653",
+            "new_value": "121.45458,24.97393",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "地區積淹水",
+            "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.金山區陽金公路，過了馬槽花藝村後，往金山方向的車道上有路樹傾倒，請單位前往移除。",
+            "new_value": "1.路旁便橋水快淹到路面  2.目前未醃至路面",
+            "timestamp": "2026-08-21 17:51:03"
         }
     ]
 }
