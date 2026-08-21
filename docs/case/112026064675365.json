@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064675365",
-    "CASE_DT": "2026\/8\/8 上午 10:02:42",
+    "CASE_DT": "2026\/8\/21 下午 04:02:22",
     "COUNTY_N": "新北市",
-    "TOWN_N": "中和區",
-    "CASE_LOC": "中和區新北市中和區連城路 中正路交叉路口",
+    "TOWN_N": "土城區",
+    "CASE_LOC": "土城區新北市土城區 福林之邱公園-青隆街78號 旁邊的河",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.48490,24.99598",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "1.李四川、陳錦錠候選人看板鬆動、很危險、快掉落  2.招牌布條鬆動，無人受傷  3.座標經度更改：121.48533->121.4849座標緯度更改：24.99620->24.99598",
+    "COORDINATE": "121.45670,24.97976",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.報案人表示因為下大雨，該地點有個河水位一直上漲，目前離地面約剩下30公分  2.水位距橋面約3公尺，距堤防約1公尺。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
@@ -19,5 +19,48 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 上午 10:02:42",
+            "new_value": "2026\/8\/21 下午 04:02:22",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "中和區",
+            "new_value": "土城區",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中和區新北市中和區連城路 中正路交叉路口",
+            "new_value": "土城區新北市土城區 福林之邱公園-青隆街78號 旁邊的河",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.48490,24.99598",
+            "new_value": "121.45670,24.97976",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌掉落",
+            "new_value": "其他",
+            "timestamp": "2026-08-21 18:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.李四川、陳錦錠候選人看板鬆動、很危險、快掉落  2.招牌布條鬆動，無人受傷  3.座標經度更改：121.48533->121.4849座標緯度更改：24.99620->24.99598",
+            "new_value": "1.報案人表示因為下大雨，該地點有個河水位一直上漲，目前離地面約剩下30公分  2.水位距橋面約3公尺，距堤防約1公尺。",
+            "timestamp": "2026-08-21 18:41:04"
+        }
+    ]
 }
