@@ -82,6 +82,934 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:27:30</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>162026064733197<br/><b>災情類別：</b>道路、隧道災情（邊坡坍方）<br/><b>發生時間：</b>2026/8/21 上午 09:27:30<br/><b>行政區：</b>苗栗縣 造橋鄉<br/><b>發生地點：</b>談文村<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>LINE災情通報<br/><b>上傳單位：</b>鄭勝興<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>162026064733197</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:27:30</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>邊坡坍方</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>苗栗縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>造橋鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>談文村</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>測試</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>LINE災情通報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>鄭勝興</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.8853645,24.6264169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:25:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733177<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/8/21 上午 09:25:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>民權東路六段161號<br/><b>災情描述：</b>高溫造成三氯甲烷分解產生光氣，擴大警戒半徑。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>4，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733177</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:25:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>民權東路六段161號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>高溫造成三氯甲烷分解產生光氣，擴大警戒半徑。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>4</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.595389,25.070854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:24:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733172<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/8/21 上午 09:24:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>民權東路六段161號<br/><b>災情描述：</b>三氯甲烷容器受損洩漏，實驗室瀰漫揮發性氣體。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>4，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733172</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:24:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>民權東路六段161號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>三氯甲烷容器受損洩漏，實驗室瀰漫揮發性氣體。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>4</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.595389,25.070854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>火災</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:24:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733167<br/><b>災情類別：</b>火災（建築物）<br/><b>發生時間：</b>2026/8/21 上午 09:24:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>民權東路六段161號（國防醫學院）<br/><b>災情描述：</b>化學實驗室起火，校方初期滅火失敗，請求消防支援。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>6，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>6，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733167</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:24:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>火災</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建築物</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>民權東路六段161號（國防醫學院）</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>化學實驗室起火，校方初期滅火失敗，請求消防支援。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>6</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>6</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.595389,25.070854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>民生、基礎設施災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:22:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733158<br/><b>災情類別：</b>民生、基礎設施災情（路燈故障）<br/><b>發生時間：</b>2026/8/21 上午 09:22:00<br/><b>行政區：</b>臺北市 松山區<br/><b>發生地點：</b>光復南路交忠孝東路口<br/><b>災情描述：</b>路口交通號誌紅綠燈不亮，且目前無警察交工管制，路口塞車情況嚴重。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733158</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:22:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>民生、基礎設施災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路燈故障</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>松山區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>光復南路交忠孝東路口</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>路口交通號誌紅綠燈不亮，且目前無警察交工管制，路口塞車情況嚴重。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.557982,25.047915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:21:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733156<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/8/21 上午 09:21:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>金湖路347巷121弄1-32號<br/><b>災情描述：</b>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>10
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733156</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:21:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>金湖路347巷121弄1-32號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>10</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.597308,25.07373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路樹災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:21:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733152<br/><b>災情類別：</b>路樹災情（路樹倒塌）<br/><b>發生時間：</b>2026/8/21 上午 09:21:00<br/><b>行政區：</b>臺北市 大安區<br/><b>發生地點：</b>仁愛路四段345巷交仁愛路四段口<br/><b>災情描述：</b>路樹傾倒，佔據公車專用道及各避車道，中央2車道均無法通行。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733152</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:21:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>路樹災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路樹倒塌</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>大安區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>仁愛路四段345巷交仁愛路四段口</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>路樹傾倒，佔據公車專用道及各避車道，中央2車道均無法通行。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.553138,25.037353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:20:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733150<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/8/21 上午 09:20:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>成功路二段325號<br/><b>災情描述：</b>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>19
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733150</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:20:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>成功路二段325號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.591982,25.0718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:20:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733149<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/21 上午 09:20:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>吳興街252號<br/><b>災情描述：</b>臺北醫學大學附設醫院第一醫療大樓，電梯受困。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>5，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733149</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:20:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>吳興街252號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>臺北醫學大學附設醫院第一醫療大樓，電梯受困。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>5</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.563638,25.026637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>環境汙染</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:20:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733146<br/><b>災情類別：</b>環境汙染（環境汙染）<br/><b>發生時間：</b>2026/8/21 上午 09:20:00<br/><b>行政區：</b>臺北市 內湖區<br/><b>發生地點：</b>金湖路363巷99號<br/><b>災情描述：</b>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>17
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733146</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:20:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>環境汙染</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>內湖區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>金湖路363巷99號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>鄰近毒化災氣體擴散潛勢區，民眾緊急疏散。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>1</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.599453,25.073138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/21 上午 09:19:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>112026064733144<br/><b>災情類別：</b>建物毀損（圍牆倒塌(含籬及鐵皮)）<br/><b>發生時間：</b>2026/8/21 上午 09:19:00<br/><b>行政區：</b>臺北市 信義區<br/><b>發生地點：</b>松隆路282號<br/><b>災情描述：</b>大樓女兒牆掉落波及1樓機車。<br/><b>通報類別：</b>縣市報災情<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>是<br/><b>人員受傷：</b>2，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_serious</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>112026064733144</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/21 上午 09:19:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>圍牆倒塌(含籬及鐵皮)</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺北市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>信義區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>松隆路282號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>大樓女兒牆掉落波及1樓機車。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>縣市報災情</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>處理中</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>是</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>2</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.57543,25.048227,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>環境汙染</name>
       <visibility>1</visibility>
       <TimeStamp>
