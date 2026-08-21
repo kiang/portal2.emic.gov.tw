@@ -6,6 +6,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.7519956,
+                    24.3822757
+                ]
+            },
+            "properties": {
+                "CASE_ID": "162026064734221",
+                "CASE_DT": "2026\/8\/21 下午 01:50:17",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530863,
+                    25.06236
+                ]
+            },
+            "properties": {
+                "CASE_ID": "112026064734211",
+                "CASE_DT": "2026\/8\/21 下午 01:00:00",
+                "DISASTER_MAIN_TYPE": "路樹災情",
+                "CASE_STATUS": "處理中",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.8853645,
                     24.6264169
                 ]
