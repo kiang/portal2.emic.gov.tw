@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "2026\/08\/23 02:37:56 - 地點描述：屏東縣枋山鄉台９線，４５１Ｋ處（往台東方向）（已過海豚灣剛上橋要往台東的地方）稱有落石掉在路中（稱占據了雙車道），影響通行，請派員了解。（報案人自稱ＧＰＳ定位是寫枋山鄉楓港村）（報案人稱會在現場等警方，請直接聯繫報案人確認位置）110轉報人員：龔俊宇",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-23 02:51:04"
+        }
+    ]
 }
