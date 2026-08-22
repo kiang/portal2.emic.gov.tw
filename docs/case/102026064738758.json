@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "積水、汙水管 - 排水問題：大寮區新厝里林內路通往鳳林二路方向道路（近紅色牌樓）每逢豪大雨必積淹水，請市府積極研擬改善措施。照片為8月22日，豪雨積水情況。聯絡人：張簡龍星里長，聯絡手機：0919****08。有重複通報，請回覆本次通報即可，謝謝。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-22 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-22 16:41:04"
         }
     ]
 }
