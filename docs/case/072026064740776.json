@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "2026\/08\/22 22:05:09 - 地點描述：屏東縣獅子鄉台9線往屏東方向，出草埔隧道大約1至2公里，旁邊有地磅站台9線往屏東方向，出草埔隧道大約1至2公里，旁邊有地磅站，掉落很多落石且有泥土及樹枝，報案人車輛爆胎，無人受傷，另請派遣交通隊人員前去處理110轉報人員：陳昱升",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-22 22:31:04"
+        }
+    ]
 }
