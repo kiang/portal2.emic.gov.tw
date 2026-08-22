@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾反映位於永康區大灣路942巷34弄，早上大雨淹水中午有褪去一些，但兩年豪大雨淹三次，故機車修多次，已造成困擾，民眾想瞭解單位處理流程，並反映有一有淹水可能就該使用抽水機，不該等到水淹起來才使用，煩請相關單位卓處 承辦不清楚可聯繫民眾，並請結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-22 12:51:04"
+        }
+    ]
 }
