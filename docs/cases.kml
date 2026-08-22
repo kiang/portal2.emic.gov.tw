@@ -82,6 +82,94 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/22 下午 05:08:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064739679<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/22 下午 05:08:00<br/><b>行政區：</b>臺南市 學甲區<br/><b>發生地點：</b>臺南市學甲區174縣(宗典木材行前)<br/><b>災情描述：</b>路面坑洞寬約50公分<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊晴如<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064739679</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/22 下午 05:08:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺南市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>學甲區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺南市學甲區174縣(宗典木材行前)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>路面坑洞寬約50公分</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>楊晴如</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.1841865,23.25219805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -528,7 +616,7 @@
         <when>2026/8/22 下午 04:32:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064739592<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 下午 04:32:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區溪州三路373巷65號至五福路252巷138弄<br/><b>災情描述：</b>有危險<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪月珍<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064739592<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 下午 04:32:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區溪州三路373巷65號至五福路252巷138弄<br/><b>災情描述：</b>有危險<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪月珍<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -574,7 +662,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1932,7 +2020,7 @@
         <when>2026/8/22 下午 02:04:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064739606<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2026/8/22 下午 02:04:00<br/><b>行政區：</b>臺南市 新化區<br/><b>發生地點：</b>臺南市新化區部南新化醫院<br/><b>災情描述：</b>受傷1人，119救護車，陳O翰，男，46歲，在靈骨塔拜拜 時因天雨路滑下樓梯時從樓梯 的?半滑倒到地面，後腦杓有 撞擊到樓梯，脊椎有麻木情形，檢傷三級，送部南新化<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064739606<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2026/8/22 下午 02:04:00<br/><b>行政區：</b>臺南市 新化區<br/><b>發生地點：</b>臺南市新化區部南新化醫院<br/><b>災情描述：</b>受傷1人，119救護車，陳O翰，男，46歲，在靈骨塔拜拜 時因天雨路滑下樓梯時從樓梯 的?半滑倒到地面，後腦杓有 撞擊到樓梯，脊椎有麻木情形，檢傷三級，送部南新化<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1978,7 +2066,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2108,7 +2196,7 @@
         <when>2026/8/22 下午 01:54:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064739656<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2026/8/22 下午 01:54:00<br/><b>行政區：</b>臺南市 新化區<br/><b>發生地點：</b>臺南市新化區部南新化醫院<br/><b>災情描述：</b>受傷1人，119救護車，羅O順，男，59歲，新市91送入，訴天雨路滑開車 自撞護欄，導致右肩無法抬 舉、左胸疼痛、鼻樑有擦傷， 破傷風，檢傷三級，送部南新化<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064739656<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2026/8/22 下午 01:54:00<br/><b>行政區：</b>臺南市 新化區<br/><b>發生地點：</b>臺南市新化區部南新化醫院<br/><b>災情描述：</b>受傷1人，119救護車，羅O順，男，59歲，新市91送入，訴天雨路滑開車 自撞護欄，導致右肩無法抬 舉、左胸疼痛、鼻樑有擦傷， 破傷風，檢傷三級，送部南新化<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>1，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2154,7 +2242,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -5276,7 +5364,7 @@
         <when>2026/8/22 上午 11:51:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064738354<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 上午 11:51:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區大昌二路426號<br/><b>災情描述：</b>大昌二路426號（426號前水溝堵塞）<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉勝興<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064738354<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 上午 11:51:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區大昌二路426號<br/><b>災情描述：</b>大昌二路426號（426號前水溝堵塞）<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉勝興<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -5322,7 +5410,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -5628,7 +5716,7 @@
         <when>2026/8/22 上午 11:44:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064738326<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/8/22 上午 11:44:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區忠孝里25綠地公園內<br/><b>災情描述：</b>高雄市前鎮區忠孝里25綠地公園內有一顆樹，嚴重傾斜 有安全疑慮<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蔡雅卉<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064738326<br/><b>災情類別：</b>路樹災情（路樹傾斜）<br/><b>發生時間：</b>2026/8/22 上午 11:44:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區忠孝里25綠地公園內<br/><b>災情描述：</b>高雄市前鎮區忠孝里25綠地公園內有一顆樹，嚴重傾斜 有安全疑慮<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蔡雅卉<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_a95dffc8bbdec0d851384b63d379c116</styleUrl>
       <ExtendedData>
@@ -5674,7 +5762,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -7820,7 +7908,7 @@
         <when>2026/8/22 上午 10:48:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064737997<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 上午 10:48:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區清水岩路287號<br/><b>災情描述：</b>有危險<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳玫玲<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064737997<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/22 上午 10:48:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區清水岩路287號<br/><b>災情描述：</b>有危險<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳玫玲<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -7866,7 +7954,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -14923,6 +15011,94 @@
       </ExtendedData>
       <Point>
         <coordinates>23.0473197,120.2570114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/22 上午 07:18:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064739676<br/><b>災情類別：</b>其他災情（救護送醫案件）<br/><b>發生時間：</b>2026/8/22 上午 07:18:00<br/><b>行政區：</b>臺南市 永康區<br/><b>發生地點：</b>高榮臺南分院<br/><b>災情描述：</b>受傷1人，119救護車，陳O瑤，女，60歲，家裡淹水滑倒，檢傷三級，高榮臺南分院<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>衛生局<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064739676</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/22 上午 07:18:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>救護送醫案件</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺南市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>永康區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高榮臺南分院</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>受傷1人，119救護車，陳O瑤，女，60歲，家裡淹水滑倒，檢傷三級，高榮臺南分院</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>衛生局</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>已處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.2542795,23.02729532,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
