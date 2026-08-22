@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾反映:永康區國光七街三巷7號，民眾表示該常年只要大雨或連續降雨就會淹水，今年已發生三次，之前有與里長反映，但里長僅表示都有反應市政單位，但均未見改善今日(8\/22)豪大雨該處再次淹水，民眾深感不滿，要求單位務必前往勘查並改善 承辦可與民眾聯繫，結案務必電話回覆",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-22 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-22 13:41:04"
         }
     ]
 }
