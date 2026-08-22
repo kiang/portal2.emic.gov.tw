@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "派工民眾通報抽水站問題，北區文成二路255號目前下大雨，造成水溝呈現滿水位狀況，請單位加強抽水站馬力，避免造成淹水狀況，惠請相關單位卓處",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "邱先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-22 09:41:06"
+        }
+    ]
 }
