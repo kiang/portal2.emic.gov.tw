@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "派工民眾通報淹水問題，目前淹永康區大灣路與大仁街有淹水狀況，淹水高度為整台車，由於淹水問題應事先準備才不會導致這麼嚴重，請單位盡速加強抽水站馬力並請單位對於淹水的事前準備妥備完整，惠請相關單位卓處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "匿名090",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-22 10:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-22 13:51:04"
         }
     ]
 }
