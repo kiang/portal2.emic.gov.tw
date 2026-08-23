@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2026\/08\/24 06:43:41 - 地點描述：屏東縣新園鄉臥龍路495之78號(龍彬保養廠)沿線到臥龍路21號(明進保養場)稱該處有一大片很深的積淹水(約快到一個輪胎高度)，請派員了解。報案人希望2側道路均封閉，因為積水過深110轉報人員：龔俊宇",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 07:01:04"
+        }
+    ]
 }
