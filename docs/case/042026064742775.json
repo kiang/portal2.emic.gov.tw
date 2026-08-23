@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "樹枝斷裂",
     "CASE_DESCRIPTION": "內江里蒙正， 金佛寺前往堤防斜坡處，該處竹子癱於路面，造成通行危險",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳俊佑",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-08-23 11:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 11:31:04"
         }
     ]
 }
