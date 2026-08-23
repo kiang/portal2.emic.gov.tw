@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/08\/24 07:35:28 - 地點描述：屏東縣林邊鄉鎮安村中山路848之3號(稱在此地址往前約200公尺處，林邊往東港方向)稱該處有積淹水(約半個輪胎高度)，導致汽車拋錨在路中，需警協助。(白色，車號:AMU-1229，現代)110轉報人員：龔俊宇",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 07:51:03"
+        }
+    ]
 }
