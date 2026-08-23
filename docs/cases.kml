@@ -82,6 +82,94 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/23 下午 01:50:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064743486<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/23 下午 01:50:00<br/><b>行政區：</b>高雄市 楠梓區<br/><b>發生地點：</b>楠梓區楠陽路與朝仁路口快車道(建仁醫院對面車道)<br/><b>災情描述：</b>因強降豪大雨沖刷道路導致的坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃敬誠<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064743486</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/23 下午 01:50:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路基流失</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>楠梓區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>楠梓區楠陽路與朝仁路口快車道(建仁醫院對面車道)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>因強降豪大雨沖刷道路導致的坑洞</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>黃敬誠</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.300758,22.72109961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>土石災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -352,7 +440,7 @@
         <when>2026/8/23 下午 01:12:47</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064743349<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/8/23 下午 01:12:47<br/><b>行政區：</b>屏東縣 內埔鄉<br/><b>發生地點：</b>屏東縣內埔鄉龍泉往大新村 大新路<br/><b>災情描述：</b>2026/08/23 13:12:47 - 地點描述：屏東縣內埔鄉龍泉往大新村 大新路有約100公尺範圍道路積水110轉報人員：李祐宗<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064743349<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/8/23 下午 01:12:47<br/><b>行政區：</b>屏東縣 內埔鄉<br/><b>發生地點：</b>屏東縣內埔鄉龍泉往大新村 大新路<br/><b>災情描述：</b>2026/08/23 13:12:47 - 地點描述：屏東縣內埔鄉龍泉往大新村 大新路有約100公尺範圍道路積水110轉報人員：李祐宗<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -394,7 +482,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -436,7 +524,7 @@
         <when>2026/8/23 下午 01:12:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064743354<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 01:12:00<br/><b>行政區：</b>臺南市 中西區<br/><b>發生地點：</b>臺南市中西區和意路刑務所旁<br/><b>災情描述：</b>和意路刑務所圍籬倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064743354<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 01:12:00<br/><b>行政區：</b>臺南市 中西區<br/><b>發生地點：</b>臺南市中西區和意路刑務所旁<br/><b>災情描述：</b>和意路刑務所圍籬倒塌<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>黃先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -482,7 +570,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -8180,7 +8268,7 @@
         <when>2026/8/23 上午 08:21:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064742254<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 上午 08:21:00<br/><b>行政區：</b>高雄市 鼓山區<br/><b>發生地點：</b>河邊里河邊街155號中間之路段<br/><b>災情描述：</b>中都橋與鼓岩國小河邊街155號中間之路段（靠鼓岩國小側門處） 現已淹至5-7公分未退<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪家鈺<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064742254<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 上午 08:21:00<br/><b>行政區：</b>高雄市 鼓山區<br/><b>發生地點：</b>河邊里河邊街155號中間之路段<br/><b>災情描述：</b>中都橋與鼓岩國小河邊街155號中間之路段（靠鼓岩國小側門處） 現已淹至5-7公分未退<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>洪家鈺<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -8226,7 +8314,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -10024,7 +10112,7 @@
         <when>2026/8/23 上午 07:21:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064741967<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 上午 07:21:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區灣興里孝順街505巷24弄口至自由ㄧ路端<br/><b>災情描述：</b>約150公尺巷弄，淹水高度約20公分<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蔡文仁<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064741967<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 上午 07:21:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區灣興里孝順街505巷24弄口至自由ㄧ路端<br/><b>災情描述：</b>約150公尺巷弄，淹水高度約20公分<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蔡文仁<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -10070,7 +10158,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
