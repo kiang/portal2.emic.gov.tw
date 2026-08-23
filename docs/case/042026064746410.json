@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/8\/24 上午 01:30:00",
     "COUNTY_N": "臺南市",
     "TOWN_N": "官田區",
-    "CASE_LOC": "臺南市官田區南119及市道171乙線",
+    "CASE_LOC": "臺南市官田區南119及市道171乙線，南58頂角橋",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.3479918,23.19098548",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "南119線及市道171乙線積水，本所已派員前往架設封鎖線。",
+    "CASE_DESCRIPTION": "南119線及市道171乙線積水，南58頂角橋，本所已派員前往架設封鎖線。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "郭靜怡",
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-08-24 02:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺南市官田區南119及市道171乙線",
+            "new_value": "臺南市官田區南119及市道171乙線，南58頂角橋",
+            "timestamp": "2026-08-24 03:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "南119線及市道171乙線積水，本所已派員前往架設封鎖線。",
+            "new_value": "南119線及市道171乙線積水，南58頂角橋，本所已派員前往架設封鎖線。",
+            "timestamp": "2026-08-24 03:11:04"
         }
     ]
 }
