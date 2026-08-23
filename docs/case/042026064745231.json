@@ -8,7 +8,7 @@
     "COORDINATE": "120.292649,22.626335",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
-    "CASE_DESCRIPTION": "該路段電燈全部不亮，對面國民里同一路段也是不亮。",
+    "CASE_DESCRIPTION": "該路段路燈全部不亮，對面國民里同一路段也是不亮。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "傅柄龍",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "該路段電燈全部不亮，對面國民里同一路段也是不亮。",
+            "new_value": "該路段路燈全部不亮，對面國民里同一路段也是不亮。",
+            "timestamp": "2026-08-24 07:21:04"
+        }
+    ]
 }
