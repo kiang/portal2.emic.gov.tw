@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "陳市長您好，我們住在大樹區三和里，因目前豪雨不斷，造成三和路35號附近範圍嚴重淹水，我們昨天已有打電話報市政府，請市府協助處理，但不知道哪天可處理，居民都怕得要死，晚上也睡不安穩，深怕房子被豪雨淹沒，所以，懇請陳市長能派員盡快處理嗎？因錄影的圖檔無法上傳，只能留言拜託陳市長了，感恩您",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "Farn法恩",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未受理",
             "new_value": "待處理",
             "timestamp": "2026-08-24 04:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 05:11:04"
         }
     ]
 }
