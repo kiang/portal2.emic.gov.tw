@@ -6,10 +6,10 @@
     "CASE_LOC": "高雄市岡山區",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.31612460276978,22.777386491479945",
-    "DISASTER_MAIN_TYPE": "",
-    "DISASTER_SUB_TYPE": "",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "高雄市岡山區大遼里下庄路後段淹水，上游農田的水無處可宣洩，溢出後全部溢往下庄路，因排水系統老舊無法因應大量的水量，造成下庄路淹水並淹如道路兩側住家。",
-    "CASE_STATUS": "未受理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "網路災情通報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "",
+            "new_value": "積淹水災情",
+            "timestamp": "2026-08-24 04:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "",
+            "new_value": "道路積淹水",
+            "timestamp": "2026-08-24 04:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未受理",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 04:51:04"
+        }
+    ]
 }
