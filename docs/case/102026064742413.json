@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾反映約於永康區大灣路963號，其表示大彎路淹水，原本有拉封鎖線，但應有車子強行通過，把封鎖線拉斷，有很多不知道淹水的民眾持續行經，請派員再到此處拉封鎖線，煩請單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "匿名072",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 11:01:06"
+        }
+    ]
 }
