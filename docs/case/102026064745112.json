@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "民眾反應三多四路與自強三路交叉口有一支路燈被廣告布幕纏住，因風勢強勁，布幕持續拉扯路燈，擔心若風力再強恐造成路燈倒塌，危及用路人安全，請求派員將廣告布幕拆除處理。（本案為透過災害系統語言通報之案件）",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-23 21:41:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 21:51:04"
         }
     ]
 }
