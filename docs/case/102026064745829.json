@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "民眾反應高雄市永安區保林里保安路130巷的保林全家與保林茶魔路口已經嚴重淹水，請協助處理。（本案為透過災害系統語言通報之案件）",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-23 23:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 02:21:09"
         }
     ]
 }
