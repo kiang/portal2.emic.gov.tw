@@ -82,13 +82,189 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/23 下午 10:02:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064745649<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/8/23 下午 10:02:00<br/><b>行政區：</b>屏東縣 潮州鎮<br/><b>發生地點：</b>屏東縣潮州鎮和祥街32號後方<br/><b>災情描述：</b>屏東縣潮州鎮和祥街32號後方屬第三公務段工程處用地房屋塌陷<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>周小姐<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064745649</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/23 下午 10:02:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物輕微受損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>屏東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>潮州鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>屏東縣潮州鎮和祥街32號後方</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>屏東縣潮州鎮和祥街32號後方屬第三公務段工程處用地房屋塌陷</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>周小姐</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>待處理</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.539533,22.559505,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>土石災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/23 下午 10:01:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064745655<br/><b>災情類別：</b>土石災情（土石崩落）<br/><b>發生時間：</b>2026/8/23 下午 10:01:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉內獅村<br/><b>災情描述：</b>南世村往加多海農路土石崩落<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>楊登福<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_ce8a48c95b79d72e57e13d116756f871</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064745655</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/23 下午 10:01:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>土石災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>土石崩落</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>屏東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>獅子鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>屏東縣獅子鄉內獅村</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>南世村往加多海農路土石崩落</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>楊登福</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.646004,22.297729,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>民生、基礎設施災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/8/23 下午 09:53:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064745616<br/><b>災情類別：</b>民生、基礎設施災情（電力停電）<br/><b>發生時間：</b>2026/8/23 下午 09:53:00<br/><b>行政區：</b>高雄市 旗津區<br/><b>發生地點：</b>高雄市旗津區旗下巷1號(與永安里吉祥街周遭)<br/><b>災情描述：</b>旗下巷1號周遭與永安里吉祥街周遭停電<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳韋綱<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064745616<br/><b>災情類別：</b>民生、基礎設施災情（電力停電）<br/><b>發生時間：</b>2026/8/23 下午 09:53:00<br/><b>行政區：</b>高雄市 旗津區<br/><b>發生地點：</b>高雄市旗津區旗下巷1號(與永安里吉祥街周遭)<br/><b>災情描述：</b>旗下巷1號周遭與永安里吉祥街周遭停電<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳韋綱<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -134,7 +310,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2100,7 +2276,7 @@
         <when>2026/8/23 下午 08:11:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064745431<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/23 下午 08:11:00<br/><b>行政區：</b>臺南市 永康區<br/><b>發生地點：</b>台南市永康區復國二路342巷10號復國二路340巷7號<br/><b>災情描述：</b>路面地基已開始掏空，土方流失，併同中華電信地面電箱下方土方流失，除立即危及全體住戶出入安全外，也恐逐漸影響通訊正常運作，如果不立即處理，恐怕會導致土方繼續流失，甚至造成房屋坍塌，危及兩側房基住戶的居住安全。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>李佳融<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064745431<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/23 下午 08:11:00<br/><b>行政區：</b>臺南市 永康區<br/><b>發生地點：</b>台南市永康區復國二路342巷10號復國二路340巷7號<br/><b>災情描述：</b>路面地基已開始掏空，土方流失，併同中華電信地面電箱下方土方流失，除立即危及全體住戶出入安全外，也恐逐漸影響通訊正常運作，如果不立即處理，恐怕會導致土方繼續流失，甚至造成房屋坍塌，危及兩側房基住戶的居住安全。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>李佳融<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2146,7 +2322,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2780,7 +2956,7 @@
         <when>2026/8/23 下午 07:48:21</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064745434<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:48:21<br/><b>行政區：</b>高雄市 路竹區<br/><b>發生地點：</b>高雄市路竹區大德路277巷86弄20號(往前一公里)<br/><b>災情描述：</b>2026/08/23 19:48:21 - 家屬報案稱患者受困水塭(因無地址故須先至該址載人引導)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064745434<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:48:21<br/><b>行政區：</b>高雄市 路竹區<br/><b>發生地點：</b>高雄市路竹區大德路277巷86弄20號(往前一公里)<br/><b>災情描述：</b>2026/08/23 19:48:21 - 家屬報案稱患者受困水塭(因無地址故須先至該址載人引導)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2822,7 +2998,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -12224,7 +12400,7 @@
         <when>2026/8/23 下午 03:56:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064744073<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 03:56:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區智蚵里廣澤路<br/><b>災情描述：</b>高雄市梓官區智蚵里廣澤路<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>梓官區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064744073<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 03:56:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區智蚵里廣澤路<br/><b>災情描述：</b>高雄市梓官區智蚵里廣澤路<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>梓官區公所<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -12270,7 +12446,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -28232,7 +28408,7 @@
         <when>2026/8/23 上午 07:21:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064741972<br/><b>災情類別：</b>橋梁災情（河川水位達警戒水位及封閉橋梁）<br/><b>發生時間：</b>2026/8/23 上午 07:21:00<br/><b>行政區：</b>高雄市 茄萣區<br/><b>發生地點：</b>高雄市茄萣區南萣橋<br/><b>災情描述：</b>南萣橋水位高 南萣橋抽水機請派人員啟動抽水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>茄萣區公所林先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064741972<br/><b>災情類別：</b>橋梁災情（河川水位達警戒水位及封閉橋梁）<br/><b>發生時間：</b>2026/8/23 上午 07:21:00<br/><b>行政區：</b>高雄市 茄萣區<br/><b>發生地點：</b>高雄市茄萣區南萣橋<br/><b>災情描述：</b>南萣橋水位高 南萣橋抽水機請派人員啟動抽水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>茄萣區公所林先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_6f9f752d6452ef1467f5de8109a850f0</styleUrl>
       <ExtendedData>
@@ -28278,7 +28454,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
