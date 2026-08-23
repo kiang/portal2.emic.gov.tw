@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "目前水從鼓山三路淹到九如四路1991巷13號附近了(深度10公分，長度約100公尺)，等雨停可能還是要麻煩水利局與清潔隊幫忙清理一下路面，社區長者多騎摩托車 容易滑倒",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蘇麗紅",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 18:11:04"
+        }
+    ]
 }
