@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
     "CASE_DESCRIPTION": "農業部農村發展及水土保持署115年8月23日06時30分發布0822豪雨警戒預報單第7報：本報新增鼓山區3條土石流黃色警戒,本區應變中心，立即針對發布警戒里別之保全戶及弱勢族群啟動「預防性疏散撤離」作業",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "楊佩茜",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-23 09:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 16:41:04"
         }
     ]
 }
