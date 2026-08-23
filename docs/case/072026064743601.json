@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/8\/23 下午 02:15:20",
     "COUNTY_N": "屏東縣",
     "TOWN_N": "瑪家鄉",
-    "CASE_LOC": "屏東縣瑪家鄉涼山隧道入口",
+    "CASE_LOC": "屏東縣瑪家鄉涼山隧道靠內埔鄉",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.680229214674,22.6714112806526",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2026\/08\/23 14:15:20 - 1棵大樹倒下，影響交通110轉報",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0980598656",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-23 15:21:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "屏東縣瑪家鄉涼山隧道入口",
+            "new_value": "屏東縣瑪家鄉涼山隧道靠內埔鄉",
+            "timestamp": "2026-08-23 15:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0980598656",
+            "timestamp": "2026-08-23 15:41:04"
         }
     ]
 }

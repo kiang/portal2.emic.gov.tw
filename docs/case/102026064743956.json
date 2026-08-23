@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "派工民眾反映南區美南街184巷2號住戶使用木板占用水溝蓋，另南區永南三街53號住戶則是使用塑膠墊占用水溝蓋(放置於美南街上)，導致排水不良，目前美南街、永南三街水淹到腳踝，望派員處理，煩請卓處。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-23 15:41:04"
+        }
+    ]
 }
