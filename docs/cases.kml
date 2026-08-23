@@ -82,6 +82,94 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/23 下午 09:35:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064745552<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/23 下午 09:35:00<br/><b>行政區：</b>高雄市 旗津區<br/><b>發生地點：</b>高雄市旗津區北汕里旗津三路52號(天聖宮前)<br/><b>災情描述：</b>馬路坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳韋綱<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064745552</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/23 下午 09:35:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>路基流失</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>旗津區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高雄市旗津區北汕里旗津三路52號(天聖宮前)</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>馬路坑洞</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>陳韋綱</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.279382,22.596567,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name/>
       <visibility>1</visibility>
       <TimeStamp>
@@ -1484,7 +1572,7 @@
         <when>2026/8/23 下午 08:17:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064745225<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 08:17:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區長潤橋下到民權街<br/><b>災情描述：</b>高雄市梓官區長潤橋下到民權街淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉美湄<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064745225<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 08:17:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區長潤橋下到民權街<br/><b>災情描述：</b>高雄市梓官區長潤橋下到民權街淹水<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉美湄<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -1530,7 +1618,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2076,7 +2164,7 @@
         <when>2026/8/23 下午 07:51:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064745101<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 07:51:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區民權路<br/><b>災情描述：</b>積水至膝蓋<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>歐先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064745101<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 07:51:00<br/><b>行政區：</b>高雄市 梓官區<br/><b>發生地點：</b>高雄市梓官區民權路<br/><b>災情描述：</b>積水至膝蓋<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>歐先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>是<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -2122,7 +2210,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2252,7 +2340,7 @@
         <when>2026/8/23 下午 07:48:21</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064745434<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:48:21<br/><b>行政區：</b>高雄市 路竹區<br/><b>發生地點：</b>高雄市路竹區大德路277巷86弄20號(往前一公里)<br/><b>災情描述：</b>2026/08/23 19:48:21 - 家屬報案稱患者受困水塭(因無地址故須先至該址載人引導)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064745434<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:48:21<br/><b>行政區：</b>高雄市 路竹區<br/><b>發生地點：</b>高雄市路竹區大德路277巷86弄20號(往前一公里)<br/><b>災情描述：</b>2026/08/23 19:48:21 - 家屬報案稱患者受困水塭(因無地址故須先至該址載人引導)<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2294,7 +2382,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2336,7 +2424,7 @@
         <when>2026/8/23 下午 07:47:40</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064745388<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:47:40<br/><b>行政區：</b>高雄市 橋頭區<br/><b>發生地點：</b>高雄市橋頭區三德西路和芋寮路忠孝巷的交叉路口<br/><b>災情描述：</b>2026/08/23 19:47:40 - 地點描述：高雄市橋頭區南北路 三德西路積水約一部機車高度 多部汽機車受困 進退兩難 需要協助 已通知119110轉報人員：陳冠融<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064745388<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:47:40<br/><b>行政區：</b>高雄市 橋頭區<br/><b>發生地點：</b>高雄市橋頭區三德西路和芋寮路忠孝巷的交叉路口<br/><b>災情描述：</b>2026/08/23 19:47:40 - 地點描述：高雄市橋頭區南北路 三德西路積水約一部機車高度 多部汽機車受困 進退兩難 需要協助 已通知119110轉報人員：陳冠融<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2378,7 +2466,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2948,7 +3036,7 @@
         <when>2026/8/23 下午 07:10:11</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064745275<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:10:11<br/><b>行政區：</b>高雄市 橋頭區<br/><b>發生地點：</b>高雄市橋頭區通典路250號<br/><b>災情描述：</b>2026/08/23 19:10:11 - 積水太深，民眾開車受困，4男1女在旁邊安全處所待救<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064745275<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/23 下午 07:10:11<br/><b>行政區：</b>高雄市 橋頭區<br/><b>發生地點：</b>高雄市橋頭區通典路250號<br/><b>災情描述：</b>2026/08/23 19:10:11 - 積水太深，民眾開車受困，4男1女在旁邊安全處所待救<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2990,7 +3078,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
