@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "派工反應安南區目前已下路段淹水:本原街三段海佃路二段安中路一段189巷安中路四段211巷長溪路一段~二段本原街一段安和路四段106巷安和路四段122巷安和路四段533巷安和路五段276巷安生街安昌街275巷請單位卓處，可聯繫民眾詢問詳情，結案不須回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "胡先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-23 19:11:04"
+        }
+    ]
 }
