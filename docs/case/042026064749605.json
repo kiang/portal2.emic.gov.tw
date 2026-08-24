@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "興宗里61巷水溝旁破洞",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡鴻濱",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-08-24 15:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 17:11:04"
         }
     ]
 }

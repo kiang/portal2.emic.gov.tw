@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "寶雅國際股份有限公司想對此次豪雨災情，提供相關的物資捐贈，欲了解物資運送地點、需求項目及需求數量，請相關單位盡快聯繫，最好是今日可主動聯繫公關部，煩請相關單位卓處，承辦可聯繫，並請承辦人員結案時將處理結果回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 16:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 17:11:04"
         }
     ]
 }
