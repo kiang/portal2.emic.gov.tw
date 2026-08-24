@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "派工民眾反映七股區三股里110-1號(座標23.1011266,120.1065238)，此處在進行三股溪整治工程，但此處的堤岸有缺口，大雨來襲水會溢流，導致此區都在淹水 煩請相關單位協助放置沙包承辦可與民眾聯繫，結案須回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 09:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 17:21:04"
         }
     ]
 }
