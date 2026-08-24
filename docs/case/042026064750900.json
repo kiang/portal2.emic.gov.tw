@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "里長反映晚間接到東南客運司機聯繫，說交通局指示，因柴山大道部分道路有裂縫，明日起公車橘1延線將不行駛至柴山山海宮及柴山慈德宮站，嚴重影響桃源里里民搭車權益，且未事先與里長商議，請權管交通局立即聯繫里長協商及說明，以符民願。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "濮凡",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 20:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 21:11:04"
         }
     ]
 }
