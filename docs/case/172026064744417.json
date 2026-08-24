@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "多處淹水超過19吋輪胎高度",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "蘇皇家",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未受理",
             "new_value": "待處理",
             "timestamp": "2026-08-24 04:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 11:41:04"
         }
     ]
 }

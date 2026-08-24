@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "東區大同路一段241巷51~53號淹水，昨天8\/23大同里里長有跟水利局人員反映，水利局或區公所的人員有請廠商將小台抽水機跟抽水用的管子跟油放那邊抽水，但昨晚23點多，廠商卻把抽水管子跟油都拿走了，只剩抽水機台在那裏，也不能使用，現在水依舊淹積，惠請相關單位卓處，承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回復民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 11:41:04"
+        }
+    ]
 }
