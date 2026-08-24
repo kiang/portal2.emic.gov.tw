@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "中鋼社區籃球場旁(鋼成街33號管理室前)汙水管的大排水孔8分滿水位，造成一樓沖馬桶不順暢。(以前無此情事，近期里內進行汙水管工程加上此次暴雨後，才出現此狀況))",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "劉峰吉",
     "INJURED_NO": 0,
@@ -73,6 +73,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-23 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 09:41:03"
         }
     ]
 }

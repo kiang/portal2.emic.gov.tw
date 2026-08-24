@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "高雄市岡山區大遼里下庄路後段淹水，上游農田的水無處可宣洩，溢出後全部溢往下庄路，因排水系統老舊無法因應大量的水量，造成下庄路淹水並淹如道路兩側住家。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "網路災情通報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-24 06:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 09:41:03"
         }
     ]
 }
