@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映位於永康區中華路311號，隔壁有一間陶喜建設接待所，但這昨晚開始風大，六支升起的旗幟沒有綁起，已經從晚上至今隨風拍打，接待所的廣告牌也沒有拆除，民眾擔心持續惡劣天氣會斷掉，但自行致電接待所電話無人接(06-3111788)，故進線反應，煩請單位卓處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "張小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-08-24 13:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 16:11:04"
         }
     ]
 }
