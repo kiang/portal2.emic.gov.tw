@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "溪水暴漲",
     "CASE_DESCRIPTION": "派工新化區民生路186巷89號虎頭埤水庫下游，河道水位一直再漲請水庫放水量小一點，已持續下5天雨量下游水位已快超過河隄煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "潘先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 02:21:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 20:11:04"
         }
     ]
 }
