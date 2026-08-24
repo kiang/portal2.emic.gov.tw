@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "鼓山區前峰里及雄峰里積淹水路段，西自鼓山三路東至翠華路，銘傳路、逢甲路段，九如四路1991巷、永德街165巷，水退後道路黃泥覆蓋嚴重，易危害民眾上班行車用路安全，請水利局及環保單位盡速清理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "濮凡",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-25 02:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 03:11:04"
         }
     ]
 }
