@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映臺南、高雄及屏東地區因水溝長期未清理，導致下雨時淹水問題嚴重，且臺南市部分道路水溝異味明顯。民眾認為治水預算分配雖多，但實際治理成效不彰。認為民進黨身為執政黨都在偷懶，煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "匿名490",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 16:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 16:31:04"
         }
     ]
 }
