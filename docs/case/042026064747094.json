@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/8\/24 上午 07:37:00",
     "COUNTY_N": "高雄市",
     "TOWN_N": "仁武區",
-    "CASE_LOC": "高雄市仁武區仁福里橫山三巷停電",
+    "CASE_LOC": "高雄市仁武區仁福里橫山三巷大約20戶停電",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.379119,22.713379",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "高雄市仁武區仁福里橫山三巷停電",
+            "new_value": "高雄市仁武區仁福里橫山三巷大約20戶停電",
+            "timestamp": "2026-08-24 08:01:04"
+        }
+    ]
 }
