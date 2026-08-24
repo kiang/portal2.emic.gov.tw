@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾反映:東區崇明11街到中華東路三段，靠近文化中心這一側，水溝淤積，怕之後還有大雨會造成淹水，希請單位儘快協助處理。民眾表示先前有反映過，但都沒有處理，希望儘速清理。承辦可與民眾聯繫，承辦處理完務必電話回覆。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 16:21:04"
+        }
+    ]
 }
