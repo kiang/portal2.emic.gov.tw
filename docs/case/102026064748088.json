@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "環境髒亂 - 其他：八?路100巷內發生圍籬傾倒至路面情形，請儘速協助處理謝謝。聯絡人：黃惠玲里長，聯絡手機：0937****08。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 11:01:04"
+        }
+    ]
 }
