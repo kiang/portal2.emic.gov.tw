@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾要詢問法規積水，誰要通報?警車都被淹，民眾質疑說為為何災變中心，民眾質疑仁德派出所和歸仁派出所和區公所，警察和區長說沒有即時通報，自己的警車都被淹了。還有永康交流道和六甲頂，民眾表示相關單位應該及時通報，表示說都沒有情報及時通知，民眾無法事先通知。煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "匿名218",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 18:21:04"
+        }
+    ]
 }
