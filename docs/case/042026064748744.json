@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "救護送醫案件",
     "CASE_DESCRIPTION": "臺南市東區台南市醫 其他災情-救護送醫案件 涉及人命傷亡受困災情 受傷1人，自行送醫，吳O嘉，男，27歲，檢傷三級，其他: 病人訴9PM上班途中使用鹼片要泡烤網，因持續大雨導致氫氧化鈉溶劑物質融化不慎滴到雙腳，當下無喪失意識，傷口如圖，現感右腳背疼痛，故入，送台南新樓;",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "衛生局",
     "INJURED_NO": 1,
@@ -25,6 +25,12 @@
             "old_value": "已處理",
             "new_value": "待處理",
             "timestamp": "2026-08-24 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 12:51:04"
         }
     ]
 }
