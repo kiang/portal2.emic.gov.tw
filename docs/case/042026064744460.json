@@ -8,10 +8,10 @@
     "COORDINATE": "120.294999,22.689518",
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
-    "CASE_DESCRIPTION": "路面積淹水",
+    "CASE_DESCRIPTION": "路面積淹水，已退水",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
-    "PERSON_ID": "陳奕廷",
+    "PERSON_ID": "陳停汝",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-23 18:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路面積淹水",
+            "new_value": "路面積淹水，已退水",
+            "timestamp": "2026-08-24 08:21:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "陳奕廷",
+            "new_value": "陳停汝",
+            "timestamp": "2026-08-24 08:21:04"
         }
     ]
 }
