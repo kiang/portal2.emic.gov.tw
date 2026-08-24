@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "積水、汙水管 - 排水問題：鯤洲抽水站下流大排溝牆被水衝滑有凝排水請水利局幫忙處理。聯絡人：柯文化里長，聯絡手機：0911****29。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 11:31:03"
+        }
+    ]
 }
