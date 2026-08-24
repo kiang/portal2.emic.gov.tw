@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "2026\/08\/23 23:30:24 - 地點描述：屏東縣屏東市瑞光路二段往一段方向經過國仁醫院急診室後第一個閃黃燈路口右轉進去的道路該路段有積水，很多要回內埔、潮州的車輛誤入該路段，請派員查處。110轉報人員：黃朝洋",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-24 00:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 16:51:04"
         }
     ]
 }
