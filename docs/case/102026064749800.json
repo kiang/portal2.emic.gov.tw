@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "民眾反映：麻豆區港尾里客子寮291號 大地莊園旁邊往學甲方向有一座無名橋，橋下有兩個大型抽水機在抽水，但因堤防不夠高，且有破洞造成抽水機完全無作用，該處持續淹水，煩請單位可盡快處理承辦可與民眾聯繫，結案須回覆",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 16:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 18:11:04"
         }
     ]
 }
