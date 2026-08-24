@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "堤防毀損",
     "CASE_DESCRIPTION": "民眾反映麻豆區客子寮36-32號（大地莊園社區附近）往84快速道路方向的無名道路（位於養魚大排的無名橋旁）有水利工程缺失。該處由水利局負責進行提防與抽水馬達系統工程，但民眾觀察到提防旁有三、四個破洞，當水位上升時，水會從破洞流出，導致旁邊整排道路的排水管與排水孔發生倒灌現象，造成水無法順利排出，煩請相關單位卓處，承辦可聯繫民眾，並請承辦人員結案時將處理結果電話回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "唐先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 19:31:03"
+        }
+    ]
 }
