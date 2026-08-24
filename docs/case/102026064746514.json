@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "派工民眾反映安定區港尾里40-5號前面目前道路淹水，民眾家中也有約10公分的積水。民眾表示自凌晨2點開始未下雨但是目前淹水仍未退是否港口位置的抽水馬達未啟動，導致積水無法排出煩請相關單位卓處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-24 07:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 19:21:04"
         }
     ]
 }
