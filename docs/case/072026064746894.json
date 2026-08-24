@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/08\/24 06:10:19 受傷1人 - 消防署通報，民眾透過Garmin裝置啟動SOS在花蓮木瓜河溯河而上，面對洶湧的河水，我們被困在高處洞穴中。座標：23.993800, 121.445000 姓名：張崇恩(手機無法撥通) 0920****34，兒子手機0953****50，本案119同步通報110",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 07:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 08:51:08"
         }
     ]
 }
