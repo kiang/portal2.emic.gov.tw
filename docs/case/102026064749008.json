@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "派工民眾通報臺南市永康區永大路二段245號對向車道，目前有一個蠻大的坑洞，約略8-10公分深度，一個手臂的大小，靠近外側汽車車道，目前未設立相關警示，惠請相關單位卓處，承辦可聯繫民眾",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-24 15:51:03"
         }
     ]
 }
