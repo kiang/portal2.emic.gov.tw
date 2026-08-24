@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "民眾反映位於安定區直加弄大道-領寄村，因豪雨道路淹水到膝蓋，且住家廁所馬桶水倒灌，污水污染環境無法住人，民眾表示污水會影響身體健康，大雨還會持續幾天，故欲了解是否有地方可以安置民眾幾天，請單位先針對是否有地方安置一事回覆，煩請相關單位卓處 承辦不清楚可聯繫民眾，並請結案時將處理結果電話回覆民眾",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 09:21:03"
+        }
+    ]
 }
