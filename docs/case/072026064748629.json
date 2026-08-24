@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "請求（協助）疏散撤離",
     "CASE_DESCRIPTION": "2026\/08\/24 11:42:40 待援3人 - 2女1男 協助疏散撤離其中1女55歲車禍行動不便後方巷弄水深到腳踝(前面像弄到大腿)2026\/08\/24 11:52:28 待援3人 - 2女1男 協助疏散撤離其中1女55歲車禍行動不便後方巷弄水深到腳踝(前面巷弄到大腿)請從中興路前往",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 12:21:04"
+        }
+    ]
 }

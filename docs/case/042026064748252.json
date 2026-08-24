@@ -8,7 +8,7 @@
     "COORDINATE": "120.966289, 22.527413",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
-    "CASE_DESCRIPTION": "河川水位達警戒水位 土石流潛勢溪流紅色警戒強制撤離",
+    "CASE_DESCRIPTION": "河川水位達警戒水位 土石流潛勢溪流紅色警戒強制撤離，目前22位居民撤至金崙活動中心",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "石郁寧",
@@ -16,7 +16,7 @@
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
-    "SHELTER_NO": 0,
+    "SHELTER_NO": 22,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
     "logs": [
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-24 11:31:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "河川水位達警戒水位 土石流潛勢溪流紅色警戒強制撤離",
+            "new_value": "河川水位達警戒水位 土石流潛勢溪流紅色警戒強制撤離，目前22位居民撤至金崙活動中心",
+            "timestamp": "2026-08-24 12:21:04"
+        },
+        {
+            "field": "SHELTER_NO",
+            "old_value": 0,
+            "new_value": 22,
+            "timestamp": "2026-08-24 12:21:04"
         }
     ]
 }
