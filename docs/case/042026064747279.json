@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "積淹水至大腿，部分低窪地區積淹水至二層樓，8月24日上午8:58來電家中有小孩，希望物資協助",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳小姐",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "積淹水至大腿，部分低窪地區積淹水至二層樓",
             "new_value": "積淹水至大腿，部分低窪地區積淹水至二層樓，8月24日上午8:58來電家中有小孩，希望物資協助",
             "timestamp": "2026-08-24 09:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 16:41:04"
         }
     ]
 }
