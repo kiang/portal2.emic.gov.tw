@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "派工民眾反映1.北區公園北路88巷55號前方道路淹水，淹水高度已到膝蓋，需派警員拉警戒 2.北區公園北路88巷55號住戶的阿嬤，會撿拾回收物，並堆到56號前鄰居的騎樓，造成環境髒亂，孳生蚊蟲煩請相關單位卓處                                    (承辦若不清楚可聯繫民眾)",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "唐小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-24 14:11:04"
+        }
+    ]
 }
