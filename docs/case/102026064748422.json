@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地下道淹水",
     "CASE_DESCRIPTION": "只要下大雨，我家前面柏油路因被鋪比較少，導致只要下雨都會淹，隔壁人家柏油路都沒淹，我家還在淹，想請政府機關是否在派人來家裡，把地勢較低的柏油路，把它鋪好~謝謝！！",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "蔡秀佩",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-24 12:01:04"
+        }
+    ]
 }
