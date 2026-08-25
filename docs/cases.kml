@@ -82,13 +82,101 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>建物毀損</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/25 下午 04:56:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064754951<br/><b>災情類別：</b>建物毀損（建物輕微受損）<br/><b>發生時間：</b>2026/8/25 下午 04:56:00<br/><b>行政區：</b>高雄市 旗津區<br/><b>發生地點：</b>中洲里永興巷15-1號<br/><b>災情描述：</b>廚房屋頂陷落 壓住冰箱及雜物<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>潘觀燕<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064754951</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/25 下午 04:56:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>建物毀損</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>建物輕微受損</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>旗津區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>中洲里永興巷15-1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>廚房屋頂陷落 壓住冰箱及雜物</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>潘觀燕</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.2891539,22.58565583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>道路、隧道災情</name>
       <visibility>1</visibility>
       <TimeStamp>
         <when>2026/8/25 下午 04:34:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754836<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:34:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區軍校路靠近世運大道（南往北車道）<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754836<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:34:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區軍校路靠近世運大道（南往北車道）<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -134,7 +222,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -264,7 +352,7 @@
         <when>2026/8/25 下午 04:33:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754834<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:33:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區自由路、新莊仔路口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754834<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:33:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區自由路、新莊仔路口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -310,7 +398,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -352,7 +440,7 @@
         <when>2026/8/25 下午 04:33:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754830<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:33:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區自由路、新中街口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754830<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:33:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區自由路、新中街口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -398,7 +486,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -440,7 +528,7 @@
         <when>2026/8/25 下午 04:31:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754823<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:31:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區高鐵路南向內側車道近重信路口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754823<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:31:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區高鐵路南向內側車道近重信路口<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -486,7 +574,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -528,7 +616,7 @@
         <when>2026/8/25 下午 04:27:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754818<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:27:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區文府路、重仁路口（文府路南向北）<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754818<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:27:00<br/><b>行政區：</b>高雄市 左營區<br/><b>發生地點：</b>高雄市左營區文府路、重仁路口（文府路南向北）<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高雄市左營區公所<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -574,7 +662,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -968,7 +1056,7 @@
         <when>2026/8/25 下午 04:15:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064754754<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:15:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區覺民路288巷36號高速公路快速道路<br/><b>災情描述：</b>覺民路288巷36號高速公路快速道路坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝秀雲<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064754754<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 04:15:00<br/><b>行政區：</b>高雄市 三民區<br/><b>發生地點：</b>高雄市三民區覺民路288巷36號高速公路快速道路<br/><b>災情描述：</b>覺民路288巷36號高速公路快速道路坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>謝秀雲<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1014,7 +1102,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1672,7 +1760,7 @@
         <when>2026/8/25 下午 03:54:58</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064754667<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/8/25 下午 03:54:58<br/><b>行政區：</b>嘉義縣 東石鄉<br/><b>發生地點：</b>嘉義縣東石鄉東崙村中洲29-22號<br/><b>災情描述：</b>2026/08/25 15:54:58 - 畜牧場淹水<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064754667<br/><b>災情類別：</b>積淹水災情（地區積淹水）<br/><b>發生時間：</b>2026/8/25 下午 03:54:58<br/><b>行政區：</b>嘉義縣 東石鄉<br/><b>發生地點：</b>嘉義縣東石鄉東崙村中洲29-22號<br/><b>災情描述：</b>2026/08/25 15:54:58 - 畜牧場淹水<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -1714,7 +1802,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -6532,7 +6620,7 @@
         <when>2026/8/25 上午 10:58:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064753388<br/><b>災情類別：</b>民生、基礎設施災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 10:58:00<br/><b>行政區：</b>臺南市 南區<br/><b>發生地點：</b>臺南市南區金華路二段15巷跟尊南街口在良美商店旁路面<br/><b>災情描述：</b>金華路二段15巷跟尊南街口在良美商店旁路面（靠近中華電信人孔蓋旁）破損<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>張吟菁<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064753388<br/><b>災情類別：</b>民生、基礎設施災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 10:58:00<br/><b>行政區：</b>臺南市 南區<br/><b>發生地點：</b>臺南市南區金華路二段15巷跟尊南街口在良美商店旁路面<br/><b>災情描述：</b>金華路二段15巷跟尊南街口在良美商店旁路面（靠近中華電信人孔蓋旁）破損<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>張吟菁<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_22b152e4bc1f7ec939480f54ef51faf2</styleUrl>
       <ExtendedData>
@@ -6578,7 +6666,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -9060,7 +9148,7 @@
         <when>2026/8/25 上午 09:50:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142026064753046<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 09:50:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>道路泥水積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142026064753046<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 09:50:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>道路泥水積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -9102,7 +9190,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -10096,7 +10184,7 @@
         <when>2026/8/25 上午 09:18:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142026064753401<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 09:18:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>台1線枋山路段泥流<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142026064753401<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 09:18:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>台1線枋山路段泥流<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -10138,7 +10226,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -11316,7 +11404,7 @@
         <when>2026/8/25 上午 08:56:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064752783<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 08:56:00<br/><b>行政區：</b>嘉義縣 布袋鎮<br/><b>發生地點：</b>嘉義縣布袋鎮新塭舊堤防<br/><b>災情描述：</b>嘉義縣布袋鎮新塭舊堤防路面損壞(本所已派員先封路)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蘇清鴻里長<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064752783<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 上午 08:56:00<br/><b>行政區：</b>嘉義縣 布袋鎮<br/><b>發生地點：</b>嘉義縣布袋鎮新塭舊堤防<br/><b>災情描述：</b>嘉義縣布袋鎮新塭舊堤防路面損壞(本所已派員先封路)<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蘇清鴻里長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -11362,7 +11450,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -19676,7 +19764,7 @@
         <when>2026/8/24 下午 07:00:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142026064751254<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/24 下午 07:00:00<br/><b>行政區：</b>臺南市 安定區<br/><b>發生地點：</b>臺南市安定區<br/><b>災情描述：</b>水淹至小腿肚<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142026064751254<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/24 下午 07:00:00<br/><b>行政區：</b>臺南市 安定區<br/><b>發生地點：</b>臺南市安定區<br/><b>災情描述：</b>水淹至小腿肚<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -19718,7 +19806,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>已處理</value>
+          <value>處理中</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -87096,7 +87184,7 @@
         <when>2026/8/23 下午 09:14:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064745493<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 09:14:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區鳳芸里漁港路75-78號路段<br/><b>災情描述：</b>因降雨導致路面產生裂痕，凹陷積水。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蘇惠芬<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064745493<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/8/23 下午 09:14:00<br/><b>行政區：</b>高雄市 林園區<br/><b>發生地點：</b>高雄市林園區鳳芸里漁港路75-78號路段<br/><b>災情描述：</b>因降雨導致路面產生裂痕，凹陷積水。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>蘇惠芬<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
       <ExtendedData>
@@ -87142,7 +87230,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
