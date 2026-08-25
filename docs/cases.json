@@ -24,6 +24,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.338915,
+                    22.731249
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064756455",
+                "CASE_DT": "2026\/8\/25 下午 08:50:00",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.303102,
                     22.610099
                 ]
@@ -9194,7 +9212,7 @@
                 "CASE_ID": "042026064755327",
                 "CASE_DT": "2026\/8\/24 下午 12:44:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -9248,7 +9266,7 @@
                 "CASE_ID": "042026064755301",
                 "CASE_DT": "2026\/8\/24 下午 12:42:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
-                "CASE_STATUS": "待處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
