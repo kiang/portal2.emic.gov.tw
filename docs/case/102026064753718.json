@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.)派工：東區中華東路上，從東門路到後甲圓環之間，人行道工程剛開挖路段，豪雨後多處有路面坑洞，造成用路人危險，請單位盡快處理2.)東區關帝廳，假日下大雨在燒金紙空氣汙染，民眾深覺不妥，請單位勸導改善煩請相關單位卓處，承辦可聯繫，並請承辦人員結案時將處理結果回覆民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-25 12:21:04"
+        }
+    ]
 }
