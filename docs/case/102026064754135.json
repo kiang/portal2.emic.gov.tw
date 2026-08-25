@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "派工民眾反映北區勝利路190巷的紅磚，這幾天因下雨導致磚塊翹起，周遭路人以及住民受傷跌倒。針對此案民眾要求\"務必\"工務局局長親自回電給民眾，並表示要局長回復\"貪汙了多少\"進行答覆，也要求星期三就要務必回電，惠請相關單位卓處，承辦可聯繫民眾，並請承辦人員結案時將處理結果以電話方式回復民眾。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "游先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-25 14:21:04"
+        }
+    ]
 }
