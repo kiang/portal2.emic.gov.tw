@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反應中正路三段312號的台灣中油瑞泰站前，靠近道路中間分隔島附近，因連日暴雨導致地基下陷，柏油路面出現坑洞，且坑洞周邊有小石塊散落，民眾擔心持續暴雨會加劇坑洞範圍，煩請相關單位卓處。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-08-25 10:01:13"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 11:41:04"
         }
     ]
 }
