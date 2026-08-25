@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "案件編號172026064744441，這是之前通報的案件編號，沒看到派員處理，但確顯示已結案，請問是怎麼回事，做事不能這樣隨便虎攏百姓啊！",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "Farn法恩",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-08-25 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 14:11:04"
         }
     ]
 }
