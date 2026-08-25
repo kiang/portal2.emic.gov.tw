@@ -15,7 +15,7 @@
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
-    "MISSING_NO": 0,
+    "MISSING_NO": 1,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "劉玫伶",
             "timestamp": "2026-08-25 12:51:04"
+        },
+        {
+            "field": "MISSING_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-08-25 13:11:04"
         }
     ]
 }
