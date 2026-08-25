@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映近期因連續大雨，導致部分路段出現坑洞，恐造成機車騎士發生危險。民眾指出中西區中華西路靠近市政府路段及家樂福加油站附近皆有明顯坑洞，建請市政府通知各里長趁著雨勢變小時協助調查全市路面狀況並彙整回報，以便市政府統一處理或請港務局進行修繕。此外，民眾建議針對嚴重坑洞應設定告示牌進行管制。煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "匿名230",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 18:31:04"
+        }
+    ]
 }
