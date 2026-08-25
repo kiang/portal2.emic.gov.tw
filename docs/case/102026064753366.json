@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "地區積淹水",
     "CASE_DESCRIPTION": "民眾反映位於臺南市北門區保吉里海埔1-184號（臺南市養殖漁業發展協會旁）之排水問題。民眾表示該處每次遇大雨時，該檢驗所的水就會淹到馬路上，並流到周邊魚塭內，造成魚塭內的魚隻死亡。民眾表示該處屬於水利局所有，曾多次向里長反映，但問題仍未改善，且該處目前的抽水機是故障的，導致大雨時無法有效處理。民眾希望主管單位能針對該處排水系統進行改善處理，煩請卓處並回覆。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-08-25 11:11:04"
+        }
+    ]
 }
