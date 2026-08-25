@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "仁德交流道三爺宮溪萬代橋，因路面拓寬2台抽水機被移走，導致8\/22~8\/24連續三天都淹水30~50公分，請單位盡快將抽水機安裝回來且8\/23有臨時調2台抽水機來抽，當天有退，但因8\/24雨勢更大，2台抽水機疑似動力不足或有故障，當時三爺宮溪堤防尚未溢流，就已淹水，使交流道癱瘓，請單位安裝3台以上抽水機，煩請相關單位卓處，承辦可聯繫，並請承辦人員結案時將處理結果回覆民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 10:51:04"
+        }
+    ]
 }
