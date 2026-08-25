@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "民眾反映有道路坑洞，幾個月前有補過，近期疑似被豪雨沖刷開，地點位於北區臨安路二段91巷，裕民社區活動中心前方的紅綠燈下，在路中央有一個約40公分大小的坑洞，煩請相關單位卓處，承辦若不清楚，可聯繫民眾。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "周先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 14:51:04"
+        }
+    ]
 }
