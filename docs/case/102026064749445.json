@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "渠反映遭人填高土地約1公尺以上改建為停車場，未進行水土保持，亦未設置擋土設施，導致周邊圍牆出現龜裂，現場積水淹水，並有滲水情形，有立即崩塌危險，請儘速協助處理。（本案為透過災害系統語言通報之案件）",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-08-25 14:01:06"
+        }
+    ]
 }

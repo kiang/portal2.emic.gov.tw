@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.300758,22.72109961",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "楠梓區加昌路（海專路往後勁國小方向中間車道） ,  因強降豪大雨，致上述地點出現坑洞，目前楠梓分局已設立交通錐供用路人車警示。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-08-25 10:01:13"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路基流失",
+            "timestamp": "2026-08-25 14:01:05"
         }
     ]
 }
