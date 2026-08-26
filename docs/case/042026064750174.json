@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
     "CASE_DESCRIPTION": "查大寮區忠義里復興南路山上巷12之11號，該地為水源段1098及1099地號土地係屬國有財產署權管，請土地所有權人妥善處理擋土牆背面土壤流失及擋土牆結構安全等問題，請國有財產署本於權責妥為處理，以維周邊安全。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "陳甯",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-08-24 19:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-08-26 14:21:09"
         }
     ]
 }
