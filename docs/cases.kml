@@ -82,6 +82,94 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/26 下午 03:08:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064759786<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 下午 03:08:00<br/><b>行政區：</b>臺東縣 臺東市<br/><b>發生地點：</b>臺東市豐盛里<br/><b>災情描述：</b>測試<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳耕州<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064759786</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/26 下午 03:08:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>臺東市</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺東市豐盛里</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>測試</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>陳耕州</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.137071,22.741013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>其他災情</name>
       <visibility>1</visibility>
       <TimeStamp>
@@ -163,6 +251,90 @@
       </ExtendedData>
       <Point>
         <coordinates>121.4251,24.20502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/26 下午 12:00:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>142026064759752<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/26 下午 12:00:00<br/><b>行政區：</b>嘉義縣 阿里山鄉<br/><b>發生地點：</b>嘉義縣阿里山鄉<br/><b>災情描述：</b>道路落石坍方<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>142026064759752</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/26 下午 12:00:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>嘉義縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>阿里山鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>嘉義縣阿里山鄉</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>道路落石坍方</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>NCDR公民通報</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.7334,23.47522,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -6328,7 +6500,7 @@
         <when>2026/8/26 上午 06:52:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064757291<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 上午 06:52:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>台9線道路出現龜裂及隆起情形，影響用路人安全<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>詹閎勝<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064757291<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 上午 06:52:00<br/><b>行政區：</b>屏東縣 獅子鄉<br/><b>發生地點：</b>屏東縣獅子鄉<br/><b>災情描述：</b>台9線道路出現龜裂及隆起情形，影響用路人安全<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>詹閎勝<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -6374,7 +6546,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -7724,7 +7896,7 @@
         <when>2026/8/25 下午 08:15:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064755858<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 08:15:00<br/><b>行政區：</b>屏東縣 長治鄉<br/><b>發生地點：</b>屏東縣長治鄉繁華路起點在百合部落園區，終點在台灣中油繁華站<br/><b>災情描述：</b>整條繁華路，滿是道路坑洞，導致很多車輛爆胎<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>榮華村村長涂村長<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064755858<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 08:15:00<br/><b>行政區：</b>屏東縣 長治鄉<br/><b>發生地點：</b>屏東縣長治鄉繁華路起點在百合部落園區，終點在台灣中油繁華站<br/><b>災情描述：</b>整條繁華路，滿是道路坑洞，導致很多車輛爆胎<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>榮華村村長涂村長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -7770,7 +7942,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
