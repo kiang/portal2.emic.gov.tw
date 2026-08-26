@@ -88,7 +88,7 @@
         <when>2026/8/26 上午 07:36:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064757457<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 上午 07:36:00<br/><b>行政區：</b>高雄市 湖內區<br/><b>發生地點：</b>高雄市湖內區中正路二段39號<br/><b>災情描述：</b>道路坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉春勝<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064757457<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 上午 07:36:00<br/><b>行政區：</b>高雄市 湖內區<br/><b>發生地點：</b>高雄市湖內區中正路二段39號<br/><b>災情描述：</b>道路坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>劉春勝<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -134,7 +134,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -343,6 +343,94 @@
       </ExtendedData>
       <Point>
         <coordinates>120.7356454,22.26084921,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道路、隧道災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/26 上午 02:53:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064757496<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/26 上午 02:53:00<br/><b>行政區：</b>高雄市 楠梓區<br/><b>發生地點：</b>高雄市楠梓區高楠公路往楠陽路方向<br/><b>災情描述：</b>31巡邏經民眾報案稱於楠梓區高楠公路往楠陽路方向處發現坑洞，由於該路段路幅小時常有大車經過影響車流，目前已設立交通錐及警示燈供用路人車警示。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>張如意<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064757496</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/26 上午 02:53:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>道路、隧道災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>高雄市</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>楠梓區</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>高雄市楠梓區高楠公路往楠陽路方向</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>31巡邏經民眾報案稱於楠梓區高楠公路往楠陽路方向處發現坑洞，由於該路段路幅小時常有大車經過影響車流，目前已設立交通錐及警示燈供用路人車警示。</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>張如意</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.324104,22.705957,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2532,7 +2620,7 @@
         <when>2026/8/25 下午 06:21:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064755343<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 06:21:00<br/><b>行政區：</b>高雄市 小港區<br/><b>發生地點：</b>高雄市小港區<br/><b>災情描述：</b>山明里：松信路上靠近路燈編號山明150處，路面坑洞，已放置三角錐<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>曾清泉<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064755343<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 06:21:00<br/><b>行政區：</b>高雄市 小港區<br/><b>發生地點：</b>高雄市小港區<br/><b>災情描述：</b>山明里：松信路上靠近路燈編號山明150處，路面坑洞，已放置三角錐<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>曾清泉<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2578,7 +2666,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -2796,7 +2884,7 @@
         <when>2026/8/25 下午 06:09:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064755267<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 06:09:00<br/><b>行政區：</b>高雄市 小港區<br/><b>發生地點：</b>小港區山明里松信路上(路燈編號山明150處)<br/><b>災情描述：</b>山明里松信路上靠近-路燈編號山明150處，路面坑洞，已放置三角錐。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林芳楨<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064755267<br/><b>災情類別：</b>道路、隧道災情（其他）<br/><b>發生時間：</b>2026/8/25 下午 06:09:00<br/><b>行政區：</b>高雄市 小港區<br/><b>發生地點：</b>小港區山明里松信路上(路燈編號山明150處)<br/><b>災情描述：</b>山明里松信路上靠近-路燈編號山明150處，路面坑洞，已放置三角錐。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>林芳楨<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -2842,7 +2930,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -47096,7 +47184,7 @@
         <when>2026/8/24 下午 12:26:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064748747<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/24 下午 12:26:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區平樂街2號旁近佛德街<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳玉釧<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064748747<br/><b>災情類別：</b>道路、隧道災情（路基流失）<br/><b>發生時間：</b>2026/8/24 下午 12:26:00<br/><b>行政區：</b>高雄市 前鎮區<br/><b>發生地點：</b>高雄市前鎮區平樂街2號旁近佛德街<br/><b>災情描述：</b>路面坑洞<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>陳玉釧<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -47142,7 +47230,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -61956,7 +62044,7 @@
         <when>2026/8/24 上午 10:16:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>142026064748571<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/24 上午 10:16:00<br/><b>行政區：</b>屏東縣 東港鎮<br/><b>發生地點：</b>屏東縣東港鎮<br/><b>災情描述：</b>中正路段道路積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>142026064748571<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/24 上午 10:16:00<br/><b>行政區：</b>屏東縣 東港鎮<br/><b>發生地點：</b>屏東縣東港鎮<br/><b>災情描述：</b>中正路段道路積淹水<br/><b>通報類別：</b>NCDR公民通報<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -61998,7 +62086,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -82379,6 +82467,90 @@
       </ExtendedData>
       <Point>
         <coordinates>120.295942,22.612632,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>其他災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/8/24 上午 03:44:53</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>072026064757506<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/8/24 上午 03:44:53<br/><b>行政區：</b>嘉義縣 布袋鎮<br/><b>發生地點：</b>嘉義縣布袋鎮太平東路479巷1號<br/><b>災情描述：</b>2026/08/24 03:51:31 - 屋內積水10公分 阿公阿罵行動不便<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>072026064757506</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/8/24 上午 03:44:53</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>其他災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>其他</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>嘉義縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>布袋鎮</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>嘉義縣布袋鎮太平東路479巷1號</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>2026/08/24 03:51:31 - 屋內積水10公分 阿公阿罵行動不便</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>119消防署派遣系統</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>120.16734157449,23.37734119073,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
