@@ -6,6 +6,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    120.365298,
+                    22.570647
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064790701",
+                "CASE_DT": "2026\/9\/2 下午 04:55:00",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
+                "CASE_STATUS": "待處理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     120.355384,
                     22.563786
                 ]
@@ -14,7 +32,7 @@
                 "CASE_ID": "042026064790682",
                 "CASE_DT": "2026\/9\/2 下午 04:52:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
-                "CASE_STATUS": "未指派",
+                "CASE_STATUS": "待處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -86,7 +104,7 @@
                 "CASE_ID": "042026064790566",
                 "CASE_DT": "2026\/9\/2 下午 04:27:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -142,6 +160,24 @@
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
                 "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326271,
+                    22.749742
+                ]
+            },
+            "properties": {
+                "CASE_ID": "042026064790711",
+                "CASE_DT": "2026\/9\/2 下午 03:52:00",
+                "DISASTER_MAIN_TYPE": "道路、隧道災情",
+                "CASE_STATUS": "未指派",
+                "IS_TRAFFIC": true,
                 "IS_SERIOUS": false
             }
         },
