@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064598899",
-    "CASE_DT": "2026\/7\/11 上午 04:23:00",
+    "CASE_DT": "2026\/9\/4 上午 11:52:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "泰山區",
-    "CASE_LOC": "泰山區漢口街",
+    "TOWN_N": "林口區",
+    "CASE_LOC": "林口區新生街11號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50464,25.04611",
+    "COORDINATE": "121.39415,25.07681",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.泰山區漢口街，靠新莊區中正路544巷，有一棵路樹倒塌，影響通行。",
+    "CASE_DESCRIPTION": "1.林口區新生街11號對面，1棵路樹往道路的反方向倒塌。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "邱國書",
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 04:23:00",
+            "new_value": "2026\/9\/4 上午 11:52:00",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "泰山區",
+            "new_value": "林口區",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "泰山區漢口街",
+            "new_value": "林口區新生街11號",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50464,25.04611",
+            "new_value": "121.39415,25.07681",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.泰山區漢口街，靠新莊區中正路544巷，有一棵路樹倒塌，影響通行。",
+            "new_value": "1.林口區新生街11號對面，1棵路樹往道路的反方向倒塌。",
+            "timestamp": "2026-09-08 07:21:05"
+        }
+    ]
 }

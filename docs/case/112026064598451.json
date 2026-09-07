@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064598451",
-    "CASE_DT": "2026\/8\/21 下午 04:35:00",
+    "CASE_DT": "2026\/9\/4 上午 11:09:45",
     "COUNTY_N": "新北市",
-    "TOWN_N": "板橋區",
-    "CASE_LOC": "板橋區新北市板橋區重慶里４鄰國慶路１２５號",
+    "TOWN_N": "萬里區",
+    "CASE_LOC": "萬里區新北市萬里區 萬里隧道 口靠近金山",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.46067,24.99598",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.板橋區國慶路往信義路方向交通號誌，閃紅燈未正常轉換燈號。",
+    "COORDINATE": "121.68304,25.19628",
+    "DISASTER_MAIN_TYPE": "積淹水災情",
+    "DISASTER_SUB_TYPE": "道路積淹水",
+    "CASE_DESCRIPTION": "1.報案人表示上述地址有一名女機車騎士因積水受困，不確定有沒有受傷，水深及腰",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
@@ -121,6 +121,48 @@
             "old_value": "1.路樹斷裂",
             "new_value": "1.板橋區國慶路往信義路方向交通號誌，閃紅燈未正常轉換燈號。",
             "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/21 下午 04:35:00",
+            "new_value": "2026\/9\/4 上午 11:09:45",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "板橋區",
+            "new_value": "萬里區",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "板橋區新北市板橋區重慶里４鄰國慶路１２５號",
+            "new_value": "萬里區新北市萬里區 萬里隧道 口靠近金山",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.46067,24.99598",
+            "new_value": "121.68304,25.19628",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "積淹水災情",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "道路積淹水",
+            "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.板橋區國慶路往信義路方向交通號誌，閃紅燈未正常轉換燈號。",
+            "new_value": "1.報案人表示上述地址有一名女機車騎士因積水受困，不確定有沒有受傷，水深及腰",
+            "timestamp": "2026-09-08 07:21:05"
         }
     ]
 }
