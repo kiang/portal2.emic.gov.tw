@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "土石流阻斷",
     "CASE_DESCRIPTION": "土石流災情，影響民眾安全（演練）目前情況已改善，土石流已清理乾淨（演練）",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "姜欣妤",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "未指派",
             "timestamp": "2026-09-08 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-09-08 10:41:04"
         }
     ]
 }
