@@ -8,7 +8,7 @@
     "COORDINATE": "121.100424,24.839307",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "演練：路樹倒塌路面，造成雙向交通不通，無人員傷亡",
+    "CASE_DESCRIPTION": "演練：路樹倒塌路面，造成雙向交通不通，無人員傷亡續報：現場拉起封鎖線，管制人車通行，待清除後放行",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "洪建鈞",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練：路樹倒塌路面，造成雙向交通不通，無人員傷亡",
+            "new_value": "演練：路樹倒塌路面，造成雙向交通不通，無人員傷亡續報：現場拉起封鎖線，管制人車通行，待清除後放行",
+            "timestamp": "2026-09-08 10:11:06"
+        }
+    ]
 }
