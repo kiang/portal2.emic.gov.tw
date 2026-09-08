@@ -8,7 +8,7 @@
     "COORDINATE": "121.1414959,24.7167006",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "演練-路樹壓電線",
+    "CASE_DESCRIPTION": "演練-路樹壓電線，已處理完成（演練）",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "卓羿伶",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-路樹壓電線",
+            "new_value": "演練-路樹壓電線，已處理完成（演練）",
+            "timestamp": "2026-09-08 11:11:04"
+        }
+    ]
 }
