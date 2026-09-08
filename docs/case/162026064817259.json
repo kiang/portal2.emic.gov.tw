@@ -8,7 +8,7 @@
     "COORDINATE": "120.5098267,22.4904699",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石流",
-    "CASE_DESCRIPTION": "〔演練〕土石流向為灌進民宅",
+    "CASE_DESCRIPTION": "〔演練〕土石流向為灌進民宅，造成交通影響為道路雙向不通",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "曾巨羽",
@@ -17,7 +17,20 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "〔演練〕土石流向為灌進民宅",
+            "new_value": "〔演練〕土石流向為灌進民宅，造成交通影響為道路雙向不通",
+            "timestamp": "2026-09-08 10:01:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-09-08 10:01:04"
+        }
+    ]
 }

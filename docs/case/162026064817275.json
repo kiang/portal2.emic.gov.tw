@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "經派員前往現場查處，確認倒塌路樹已造成道路部分阻斷，現場已設置警戒及交通管制措施，並立即進行樹木移除及路面清理作業。（演練）",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉筱薇",
     "INJURED_NO": 5,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 10,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-09-08 10:01:04"
+        }
+    ]
 }

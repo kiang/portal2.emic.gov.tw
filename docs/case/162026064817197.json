@@ -8,7 +8,7 @@
     "COORDINATE": "120.5600044,23.7065188",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "演練踫鼠公園出現道路塌陷",
+    "CASE_DESCRIPTION": "演練踫鼠公園消防局旁邊出現天坑車輛掉落",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "簡士傑",
@@ -18,13 +18,25 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
-    "IS_SERIOUS": false,
+    "IS_SERIOUS": true,
     "logs": [
         {
             "field": "CASE_DESCRIPTION",
             "old_value": "演練踫鼠公園路數倒塌影響交通",
             "new_value": "演練踫鼠公園出現道路塌陷",
             "timestamp": "2026-09-08 09:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練踫鼠公園出現道路塌陷",
+            "new_value": "演練踫鼠公園消防局旁邊出現天坑車輛掉落",
+            "timestamp": "2026-09-08 10:01:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-09-08 10:01:04"
         }
     ]
 }
