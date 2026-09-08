@@ -8,7 +8,7 @@
     "COORDINATE": "121.407438,23.496219",
     "DISASTER_MAIN_TYPE": "土石災情",
     "DISASTER_SUB_TYPE": "土石崩落",
-    "CASE_DESCRIPTION": "(演練)花64線瑞港公路6k處邊坡土石滑落",
+    "CASE_DESCRIPTION": "(演練)花64線瑞港公路6k處邊坡土石滑落，廠商已搶通完成",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "蔣家琳",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "(演練)花64線瑞港公路6k處邊坡土石滑落",
+            "new_value": "(演練)花64線瑞港公路6k處邊坡土石滑落，廠商已搶通完成",
+            "timestamp": "2026-09-08 12:11:03"
+        }
+    ]
 }
