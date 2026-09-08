@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/9\/8 上午 09:22:42",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "崙背鄉",
-    "CASE_LOC": "雲林縣崙背鄉羅厝村17鄰東興182之120號",
+    "CASE_LOC": "雲林縣崙背鄉羅厝村19鄰新嘉3之6號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.367217,23.761559",
+    "COORDINATE": "120.366303,23.764897",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "演練-路樹倒塌一顆",
+    "CASE_DESCRIPTION": "〔演練〕-路樹倒塌兩顆。",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "吳孟蓉",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣崙背鄉羅厝村17鄰東興182之120號",
+            "new_value": "雲林縣崙背鄉羅厝村19鄰新嘉3之6號",
+            "timestamp": "2026-09-08 09:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.367217,23.761559",
+            "new_value": "120.366303,23.764897",
+            "timestamp": "2026-09-08 09:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "演練-路樹倒塌一顆",
+            "new_value": "〔演練〕-路樹倒塌兩顆。",
+            "timestamp": "2026-09-08 09:51:04"
+        }
+    ]
 }

@@ -16,8 +16,15 @@
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
-    "SHELTER_NO": 2,
+    "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": true,
-    "logs": []
+    "logs": [
+        {
+            "field": "SHELTER_NO",
+            "old_value": 2,
+            "new_value": 0,
+            "timestamp": "2026-09-08 09:51:04"
+        }
+    ]
 }
