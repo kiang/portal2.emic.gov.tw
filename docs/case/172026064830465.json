@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "大村鄉山腳路102之1號村東國小側門路樹發生傾斜，部分樹枝伸入道路，影響用路人安全，現場無人受傷，請派員處理",
-    "CASE_STATUS": "未受理",
+    "CASE_STATUS": "未指派",
     "CASE_TYPE": "民眾版LINE災情通報",
     "PERSON_ID": "Lyc",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未受理",
+            "new_value": "未指派",
+            "timestamp": "2026-09-11 13:41:09"
+        }
+    ]
 }
