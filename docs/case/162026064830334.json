@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "*演練*公所已派員前往現場處理，樹枝完成修剪，現場道路恢復通行，災情已排除",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉宥橙",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "*演練*經派員前往現場處理，樹枝完成修剪，道路恢復正常通行，災情已排除。",
             "new_value": "*演練*公所已派員前往現場處理，樹枝完成修剪，現場道路恢復通行，災情已排除",
             "timestamp": "2026-09-11 10:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "已處理",
+            "timestamp": "2026-09-11 14:01:03"
         }
     ]
 }
