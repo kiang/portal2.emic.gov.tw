@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "(演練)發生氣爆爆炸",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "民眾A",
     "INJURED_NO": 21,
@@ -43,6 +43,12 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2026-09-24 11:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-09-24 13:41:03"
         }
     ]
 }
