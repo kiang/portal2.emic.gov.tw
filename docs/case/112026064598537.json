@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064598537",
-    "CASE_DT": "2026\/9\/4 上午 11:30:00",
+    "CASE_DT": "2026\/10\/22 下午 07:29:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "萬里區",
-    "CASE_LOC": "萬里區萬里區海景路1號及2",
+    "TOWN_N": "烏來區",
+    "CASE_LOC": "烏來區信賢里信福路120巷10號之10",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.68399,25.19125",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "地區積淹水",
-    "CASE_DESCRIPTION": "1.萬里區海景路1號及2號，因強降雨關係道路有淹水，除了快要影響車輛通行外，水呈現混濁泥黃色、伴隨樹枝落葉等，憂附近有土石流情形，請單位妥處及協助確認。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.51931,24.83208",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "1.信賢里信福路120巷10號之10至18號(3K~7.2K)停電。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "楊元豪",
     "INJURED_NO": 0,
@@ -181,6 +181,54 @@
             "old_value": "1.現場積水3cm",
             "new_value": "1.萬里區海景路1號及2號，因強降雨關係道路有淹水，除了快要影響車輛通行外，水呈現混濁泥黃色、伴隨樹枝落葉等，憂附近有土石流情形，請單位妥處及協助確認。",
             "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/9\/4 上午 11:30:00",
+            "new_value": "2026\/10\/22 下午 07:29:00",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "萬里區",
+            "new_value": "烏來區",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "萬里區萬里區海景路1號及2",
+            "new_value": "烏來區信賢里信福路120巷10號之10",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.68399,25.19125",
+            "new_value": "121.51931,24.83208",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "地區積淹水",
+            "new_value": "電力停電",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.萬里區海景路1號及2號，因強降雨關係道路有淹水，除了快要影響車輛通行外，水呈現混濁泥黃色、伴隨樹枝落葉等，憂附近有土石流情形，請單位妥處及協助確認。",
+            "new_value": "1.信賢里信福路120巷10號之10至18號(3K~7.2K)停電。",
+            "timestamp": "2026-10-22 20:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-22 20:21:03"
         }
     ]
 }
