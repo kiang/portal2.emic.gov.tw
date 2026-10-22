@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064598961",
-    "CASE_DT": "2026\/9\/4 下午 01:37:00",
+    "CASE_DT": "2026\/10\/23 上午 02:40:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "汐止區",
-    "CASE_LOC": "汐止區汐止區新興路119號",
+    "TOWN_N": "深坑區",
+    "CASE_LOC": "深坑區翠谷街34巷1號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.65914,25.06127",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "溪水暴漲",
-    "CASE_DESCRIPTION": "1.汐止區新興路119號，該址前方溪流因強降雨關係，有溪水暴漲情形，請單位妥處。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.62693,25.00929",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.深坑區翠谷街34巷1號，有一棵枯樹，疑被風吹倒，目前壓到電線上，請單位前往查處。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林口區公所",
     "INJURED_NO": 0,
@@ -211,6 +211,54 @@
             "old_value": "1.中和區建六路與建一路交叉口，建六路交通號誌燈一直紅燈不變燈，請單位檢修。",
             "new_value": "1.汐止區新興路119號，該址前方溪流因強降雨關係，有溪水暴漲情形，請單位妥處。",
             "timestamp": "2026-09-08 07:21:05"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/9\/4 下午 01:37:00",
+            "new_value": "2026\/10\/23 上午 02:40:00",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "汐止區",
+            "new_value": "深坑區",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "汐止區汐止區新興路119號",
+            "new_value": "深坑區翠谷街34巷1號",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.65914,25.06127",
+            "new_value": "121.62693,25.00929",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "溪水暴漲",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.汐止區新興路119號，該址前方溪流因強降雨關係，有溪水暴漲情形，請單位妥處。",
+            "new_value": "1.深坑區翠谷街34巷1號，有一棵枯樹，疑被風吹倒，目前壓到電線上，請單位前往查處。",
+            "timestamp": "2026-10-23 05:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 05:41:04"
         }
     ]
 }
