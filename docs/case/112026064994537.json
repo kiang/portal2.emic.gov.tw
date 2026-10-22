@@ -3,13 +3,13 @@
     "CASE_DT": "2026\/10\/22 下午 12:37:24",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "曲溪里成德二街66巷16号前樹木傾倒",
+    "CASE_LOC": "曲溪里成德二街66巷16號前樹木傾倒",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.956138,24.791875",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "曲溪里成德二街66巷16?前樹木傾倒在榮民之家的圍牆上，請安排處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "曲溪里成德二街66巷16號前樹木傾倒在榮民之家的圍牆上，請安排處理。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "楊淑滿",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "曲溪里成德二街66巷16号前樹木傾倒",
+            "new_value": "曲溪里成德二街66巷16號前樹木傾倒",
+            "timestamp": "2026-10-22 15:11:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "曲溪里成德二街66巷16?前樹木傾倒在榮民之家的圍牆上，請安排處理。",
+            "new_value": "曲溪里成德二街66巷16號前樹木傾倒在榮民之家的圍牆上，請安排處理。",
+            "timestamp": "2026-10-22 15:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-22 15:11:03"
+        }
+    ]
 }
