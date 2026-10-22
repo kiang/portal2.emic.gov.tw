@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "清水區民有路46巷48號，該透天厝住了一個精神狀況不好的人，目前該戶三樓鐵欄杆的鐵片快要掉落，恐掉落砸傷用路人，建請盡速派員協處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 07:51:04"
+        }
+    ]
 }
