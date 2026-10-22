@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064996174",
-    "CASE_DT": "2026\/10\/22 下午 07:02:48",
+    "CASE_DT": "2026\/10\/22 下午 07:02:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
     "CASE_LOC": "萬美街二段",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.564566313538,25.005383848678",
+    "COORDINATE": "121.564573,25.005178",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "【一般案件】上述路段整條，疑似颱風來襲造成整排路燈不亮，希望相關單位儘速修復處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "方文嫺",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/22 下午 07:02:48",
+            "new_value": "2026\/10\/22 下午 07:02:00",
+            "timestamp": "2026-10-22 20:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.564566313538,25.005383848678",
+            "new_value": "121.564573,25.005178",
+            "timestamp": "2026-10-22 20:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-22 20:31:04"
+        }
+    ]
 }
