@@ -88,7 +88,7 @@
         <when>2026/10/22 下午 04:24:03</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064995353<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 04:24:03<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市文苑路12號事由：民眾反映上述地點鐵皮圍籬遭強風吹倒，影響用路人安全，建請相關單位協助處理。(不願留電)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064995353<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 04:24:03<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點：花蓮市文苑路12號事由：民眾反映上述地點鐵皮圍籬遭強風吹倒，影響用路人安全，建請相關單位協助處理。(不願留電)<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>陳先生<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -134,7 +134,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -255,6 +255,94 @@
       </ExtendedData>
       <Point>
         <coordinates>120.97432,24.789878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>積淹水災情</name>
+      <visibility>1</visibility>
+      <TimeStamp>
+        <when>2026/10/22 下午 04:16:00</when>
+      </TimeStamp>
+      <description><![CDATA[
+    <b>案件編號：</b>042026064995408<br/><b>災情類別：</b>積淹水災情（道路積淹水）<br/><b>發生時間：</b>2026/10/22 下午 04:16:00<br/><b>行政區：</b>臺東縣 蘭嶼鄉<br/><b>發生地點：</b>臺東縣蘭嶼鄉五孔洞<br/><b>災情描述：</b>海水倒灌致路面無法通行<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>高婷娟<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+  ]]></description>
+      <styleUrl>#style_7a1f6ee89955c4f22c3eb3b17b81cc74</styleUrl>
+      <ExtendedData>
+        <Data name="case_id">
+          <displayName>案件編號</displayName>
+          <value>042026064995408</value>
+        </Data>
+        <Data name="case_dt">
+          <displayName>發生時間</displayName>
+          <value>2026/10/22 下午 04:16:00</value>
+        </Data>
+        <Data name="disaster_type">
+          <displayName>災情類別</displayName>
+          <value>積淹水災情</value>
+        </Data>
+        <Data name="disaster_sub_type">
+          <displayName>災情類別細項</displayName>
+          <value>道路積淹水</value>
+        </Data>
+        <Data name="county">
+          <displayName>縣市</displayName>
+          <value>臺東縣</value>
+        </Data>
+        <Data name="town">
+          <displayName>鄉鎮市區</displayName>
+          <value>蘭嶼鄉</value>
+        </Data>
+        <Data name="location">
+          <displayName>發生地點</displayName>
+          <value>臺東縣蘭嶼鄉五孔洞</value>
+        </Data>
+        <Data name="case_description">
+          <displayName>災情描述</displayName>
+          <value>海水倒灌致路面無法通行</value>
+        </Data>
+        <Data name="case_type">
+          <displayName>通報類別</displayName>
+          <value>災情查報</value>
+        </Data>
+        <Data name="person_id">
+          <displayName>上傳單位</displayName>
+          <value>高婷娟</value>
+        </Data>
+        <Data name="status">
+          <displayName>處理狀態</displayName>
+          <value>未指派</value>
+        </Data>
+        <Data name="is_traffic">
+          <displayName>交通障礙</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="is_serious">
+          <displayName>重大災情</displayName>
+          <value>否</value>
+        </Data>
+        <Data name="injured_no">
+          <displayName>人員受傷</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="death_no">
+          <displayName>人員死亡</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="trapped_no">
+          <displayName>人員受困</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="missing_no">
+          <displayName>人員失蹤</displayName>
+          <value>0</value>
+        </Data>
+        <Data name="shelter_no">
+          <displayName>人員收容</displayName>
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>121.5508328,22.04616835,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -704,7 +792,7 @@
         <when>2026/10/22 下午 03:31:15</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>102026064995164<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 03:31:15<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點:花蓮市民權路5號事由:民德里周里長來電反映上述地點建築工地的安全圍籬因為強風倒塌，佔據一部分道路，影響行車安全，希望相關單位協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>民德里周里長<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>102026064995164<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 03:31:15<br/><b>行政區：</b>花蓮縣 花蓮市<br/><b>發生地點：</b>花蓮縣花蓮市<br/><b>災情描述：</b>地點:花蓮市民權路5號事由:民德里周里長來電反映上述地點建築工地的安全圍籬因為強風倒塌，佔據一部分道路，影響行車安全，希望相關單位協助處理。<br/><b>通報類別：</b>1999報災情<br/><b>上傳單位：</b>民德里周里長<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -750,7 +838,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>待處理</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -792,7 +880,7 @@
         <when>2026/10/22 下午 03:21:55</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>072026064995234<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 03:21:55<br/><b>行政區：</b>臺中市 清水區<br/><b>發生地點：</b>台中市清水區大街路68號<br/><b>災情描述：</b>2026/10/22 15:36:04 - 1534清水01回報：現場為烤漆浪板快要掉落，需要加派33車支援協助拆除。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>未指派<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>072026064995234<br/><b>災情類別：</b>其他災情（其他）<br/><b>發生時間：</b>2026/10/22 下午 03:21:55<br/><b>行政區：</b>臺中市 清水區<br/><b>發生地點：</b>台中市清水區大街路68號<br/><b>災情描述：</b>2026/10/22 15:36:04 - 1534清水01回報：現場為烤漆浪板快要掉落，需要加派33車支援協助拆除。<br/><b>通報類別：</b>119消防署派遣系統<br/><b>處理狀態：</b>待處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -834,7 +922,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>未指派</value>
+          <value>待處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
@@ -1308,7 +1396,7 @@
         <when>2026/10/22 下午 02:25:00</when>
       </TimeStamp>
       <description><![CDATA[
-    <b>案件編號：</b>042026064994931<br/><b>災情類別：</b>建物毀損（建物屋頂掀飛(含鐵皮及非鐵皮屋頂)）<br/><b>發生時間：</b>2026/10/22 下午 02:25:00<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基金一路135巷1號7樓<br/><b>災情描述：</b>【1999報災情】民眾反映鐵皮屋問題，在安樂區基金一路135巷1號7樓，陳述頂樓的鐵皮屋生鏽嚴重，擔心颱風天會掉下來，希業務單位勘查改善。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>連先生<br/><b>處理狀態：</b>處理中<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
+    <b>案件編號：</b>042026064994931<br/><b>災情類別：</b>建物毀損（建物屋頂掀飛(含鐵皮及非鐵皮屋頂)）<br/><b>發生時間：</b>2026/10/22 下午 02:25:00<br/><b>行政區：</b>基隆市 安樂區<br/><b>發生地點：</b>基金一路135巷1號7樓<br/><b>災情描述：</b>【1999報災情】民眾反映鐵皮屋問題，在安樂區基金一路135巷1號7樓，陳述頂樓的鐵皮屋生鏽嚴重，擔心颱風天會掉下來，希業務單位勘查改善。<br/><b>通報類別：</b>災情查報<br/><b>上傳單位：</b>連先生<br/><b>處理狀態：</b>已處理<br/><b>交通障礙：</b>否<br/><b>重大災情：</b>否<br/><b>人員受傷：</b>0，<b>死亡：</b>0，<b>受困：</b>0，<b>失蹤：</b>0，<b>收容：</b>0
   ]]></description>
       <styleUrl>#style_0fb7e241a82e93d42b45d4611e7af211</styleUrl>
       <ExtendedData>
@@ -1354,7 +1442,7 @@
         </Data>
         <Data name="status">
           <displayName>處理狀態</displayName>
-          <value>處理中</value>
+          <value>已處理</value>
         </Data>
         <Data name="is_traffic">
           <displayName>交通障礙</displayName>
