@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064996455",
-    "CASE_DT": "2026\/10\/22 下午 08:11:51",
+    "CASE_DT": "2026\/10\/22 下午 08:11:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
-    "CASE_LOC": "內湖路一段５１６號",
+    "CASE_LOC": "內湖路一段516號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.57397,25.08034",
+    "COORDINATE": "121.573967,25.080338",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "【一般案件】上述地點前方一直到內湖高工旁邊巷子，疑似因為颱風造成整排多盞路燈一直在閃爍，提供其中一盞路燈編號0308069，希望相關單位修復處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李育涵",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/22 下午 08:11:51",
+            "new_value": "2026\/10\/22 下午 08:11:00",
+            "timestamp": "2026-10-22 21:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "內湖路一段５１６號",
+            "new_value": "內湖路一段516號",
+            "timestamp": "2026-10-22 21:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.57397,25.08034",
+            "new_value": "121.573967,25.080338",
+            "timestamp": "2026-10-22 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-22 21:11:04"
+        }
+    ]
 }
