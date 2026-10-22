@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "2026\/10\/23 01:07:47 - 有樹枝碰到電線就會冒火花　／　新社區協興街106號對面，有一路樹枝幹被風吹就會碰到電線，導致電線持續冒出火花，建請儘速派員處理樹枝。　／　2026\/10\/23 01:28:08 - 冒火花",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 06:01:04"
+        }
+    ]
 }
