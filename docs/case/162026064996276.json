@@ -8,7 +8,7 @@
     "COORDINATE": "120.551547,24.146846",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "房屋鄰路，需請立即處理",
+    "CASE_DESCRIPTION": "屋主已自行處理完畢",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "劉士禎",
@@ -18,6 +18,19 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
-    "logs": []
+    "IS_SERIOUS": false,
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "房屋鄰路，需請立即處理",
+            "new_value": "屋主已自行處理完畢",
+            "timestamp": "2026-10-22 20:11:04"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2026-10-22 20:11:04"
+        }
+    ]
 }
