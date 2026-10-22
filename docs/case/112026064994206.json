@@ -8,7 +8,7 @@
     "COORDINATE": "120.970327,24.795497",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "報案人恐施用鷹架有倒塌之虞",
+    "CASE_DESCRIPTION": "報案人恐施工用鷹架有倒塌之虞",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "連先生",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "報案人恐施用鷹架有倒塌之虞",
+            "new_value": "報案人恐施工用鷹架有倒塌之虞",
+            "timestamp": "2026-10-22 12:41:03"
+        }
+    ]
 }
