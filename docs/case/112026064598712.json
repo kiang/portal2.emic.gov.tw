@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.土城區學府路一段27號，元大證券招牌旁、靠近樹木的電線，每10至20分鐘冒一次火花。  2.單位加派：(新增單位)經濟發展局、電力維護組  3.到場時未發現火花",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "羅雍翔",
     "INJURED_NO": 0,
@@ -175,6 +175,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 00:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 01:31:03"
         }
     ]
 }
