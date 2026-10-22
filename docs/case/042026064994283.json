@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "【1999報災情】真砂里里長反映鐵皮屋問題，在中正區中正路316號，陳述頂樓的鐵皮屋快要掀起來，擔心颱風來會吹掉下來，希望可以拆除避免造成危險，希業務單位勘查改善。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "魏里長",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-22 11:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-22 18:41:04"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/22 下午 06:23:00",
     "COUNTY_N": "彰化縣",
     "TOWN_N": "彰化市",
-    "CASE_LOC": "永芳路199號(劉家Q皮肉員)",
+    "CASE_LOC": "彰化市永芳路199號(劉家Q皮肉員)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.5694208,24.07532909",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "永芳路199號(劉家Q皮肉員)",
+            "new_value": "彰化市永芳路199號(劉家Q皮肉員)",
+            "timestamp": "2026-10-22 18:41:04"
+        }
+    ]
 }
