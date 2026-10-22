@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.汐止區汐平路二段92巷7號，該址路燈編號:537501(往編號:537500方向)沿線電線上卡著斷裂的樹木(約3棵)，請相關單位儘快派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃先生",
     "INJURED_NO": 0,
@@ -217,6 +217,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-22 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-22 13:31:04"
         }
     ]
 }
