@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026064996969",
-    "CASE_DT": "2026\/10\/22 下午 10:07:10",
+    "CASE_DT": "2026\/10\/22 下午 10:07:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "大安區",
     "CASE_LOC": "大安森林公園",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】靠近大安森林公園外的和平東路二段上，颱風風雨太大導致民眾騎車灑落油漆，請單位清理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "沈香怡",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/22 下午 10:07:10",
+            "new_value": "2026\/10\/22 下午 10:07:00",
+            "timestamp": "2026-10-23 00:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 00:01:04"
+        }
+    ]
 }
