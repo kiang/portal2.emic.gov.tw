@@ -6,7 +6,7 @@
     "CASE_LOC": "臺南市南區國宅里15巷47號旁公園地磚不平.里長於凌晨01:23時巡視時差點摔跤.",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.189226,22.976182",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "國宅里15巷47號旁公園地磚不平.",
     "CASE_STATUS": "待處理",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-24 04:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-10-24 06:11:05"
         }
     ]
 }
