@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/23 下午 05:28:27",
     "COUNTY_N": "新竹市",
     "TOWN_N": "東區",
-    "CASE_LOC": "西大與食品嘉叉路口",
+    "CASE_LOC": "西大與食品交叉路口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.963468,24.770248",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "西大與食品嘉叉路口",
+            "new_value": "西大與食品交叉路口",
+            "timestamp": "2026-10-23 17:41:05"
+        }
+    ]
 }

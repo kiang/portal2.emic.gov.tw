@@ -8,7 +8,7 @@
     "COORDINATE": "120.531077,23.777104",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "樹木倒塌壓到電線,",
+    "CASE_DESCRIPTION": "私人樹木壓到台電接戶線(電表編號954641-01)有斷電之虞, 請台電處理",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡見成",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 17:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹木倒塌壓到電線,",
+            "new_value": "私人樹木壓到台電接戶線(電表編號954641-01)有斷電之虞, 請台電處理",
+            "timestamp": "2026-10-23 17:41:05"
         }
     ]
 }
