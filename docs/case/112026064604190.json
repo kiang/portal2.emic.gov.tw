@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064604190",
-    "CASE_DT": "2026\/7\/12 上午 07:27:00",
+    "CASE_DT": "2026\/10\/23 下午 11:36:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "三芝區",
-    "CASE_LOC": "三芝區市道101甲線",
+    "TOWN_N": "新店區",
+    "CASE_LOC": "新店區永業路81巷9弄",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50243,25.25934",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "[現場狀況]1.三芝區市道101甲線(巴拉卡公路)，1K到2K中間有路樹傾倒、橫倒，休旅車無法通過。  [各單位處置作為]@環境保護局：公所已派員處理@警察局：已在場警戒管制，相關單位亦到場清除@農業局：公所已處理完成@三芝區公所：已處理完成@消防局：已處理完成(本案件已處理完畢。)",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.53110,24.95025",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "1.新店區永業路81巷9弄，整條巷子停電。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "鄭伯軒",
     "INJURED_NO": 0,
@@ -31,6 +31,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-07-12 08:41:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/12 上午 07:27:00",
+            "new_value": "2026\/10\/23 下午 11:36:00",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "三芝區",
+            "new_value": "新店區",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "三芝區市道101甲線",
+            "new_value": "新店區永業路81巷9弄",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50243,25.25934",
+            "new_value": "121.53110,24.95025",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "電力停電",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "[現場狀況]1.三芝區市道101甲線(巴拉卡公路)，1K到2K中間有路樹傾倒、橫倒，休旅車無法通過。  [各單位處置作為]@環境保護局：公所已派員處理@警察局：已在場警戒管制，相關單位亦到場清除@農業局：公所已處理完成@三芝區公所：已處理完成@消防局：已處理完成(本案件已處理完畢。)",
+            "new_value": "1.新店區永業路81巷9弄，整條巷子停電。",
+            "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 00:51:04"
         }
     ]
 }
