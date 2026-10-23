@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600777",
-    "CASE_DT": "2026\/8\/9 下午 12:17:00",
+    "CASE_DT": "2026\/10\/23 下午 08:41:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區八德街155號",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區汐止區鄉長路一段273號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42353,25.01944",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "1.新莊區八德街155號，該建物二樓的鐵皮遮雨棚，被風吹到鬆動已經快要斷掉，請單位儘速處理。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.66594,25.07667",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
+    "CASE_DESCRIPTION": "1.汐止區鄉長路一段273號，在55巷旁，中興巴士公車總站，有一個出入口，有電纜線垂落，請單位協處。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張文台",
     "INJURED_NO": 0,
@@ -73,6 +73,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 14:11:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 12:17:00",
+            "new_value": "2026\/10\/23 下午 08:41:00",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "汐止區",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區八德街155號",
+            "new_value": "汐止區汐止區鄉長路一段273號",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42353,25.01944",
+            "new_value": "121.66594,25.07667",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆倒塌(含籬及鐵皮)",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新莊區八德街155號，該建物二樓的鐵皮遮雨棚，被風吹到鬆動已經快要斷掉，請單位儘速處理。",
+            "new_value": "1.汐止區鄉長路一段273號，在55巷旁，中興巴士公車總站，有一個出入口，有電纜線垂落，請單位協處。",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 22:01:04"
         }
     ]
 }

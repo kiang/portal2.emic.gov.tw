@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600779",
-    "CASE_DT": "2026\/8\/9 下午 12:17:59",
+    "CASE_DT": "2026\/10\/23 下午 08:39:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "板橋區",
-    "CASE_LOC": "板橋區新北市板橋區大明街15巷17號",
+    "TOWN_N": "永和區",
+    "CASE_LOC": "永和區新北市永和區民權里１７鄰民生路２２巷２２號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45827,25.00197",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.水管被颱風吹斷  擋住巷內的路 水一直流  2.大明街17號住戶自家水管斷裂垂到路中央",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.52142,24.99721",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "路燈故障",
+    "CASE_DESCRIPTION": "1.永和區民權路49巷，該址有超過5盞路燈故障不亮，請單位檢修。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "第六大隊",
     "INJURED_NO": 0,
@@ -109,6 +109,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 13:41:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 12:17:59",
+            "new_value": "2026\/10\/23 下午 08:39:00",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "板橋區",
+            "new_value": "永和區",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "板橋區新北市板橋區大明街15巷17號",
+            "new_value": "永和區新北市永和區民權里１７鄰民生路２２巷２２號",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45827,25.00197",
+            "new_value": "121.52142,24.99721",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路燈故障",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.水管被颱風吹斷  擋住巷內的路 水一直流  2.大明街17號住戶自家水管斷裂垂到路中央",
+            "new_value": "1.永和區民權路49巷，該址有超過5盞路燈故障不亮，請單位檢修。",
+            "timestamp": "2026-10-23 22:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 22:01:04"
         }
     ]
 }
