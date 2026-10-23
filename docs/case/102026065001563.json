@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點一:花蓮市北濱街17號事由一:民眾反映上述地點對面有一棵大樹傾倒，目前清潔隊已經協助將樹枝鋸斷，但樹幹太大且橫躺在巷口前，已經影響巷內居民進出，希望相關單位協助處理。地點二:花蓮市海濱街2-1號事由二:民眾反映上述住家屋頂被樹幹壓到，擔心房子承受不住樹幹眾向，希望相關單位協助處理。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "市民代表楊哲灃",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-10-23 14:41:04"
+        }
+    ]
 }

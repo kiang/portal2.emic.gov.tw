@@ -11,13 +11,26 @@
     "CASE_DESCRIPTION": "2026\/10\/22 17:12:39 - 掉落水溝2026\/10\/22 17:15:02 - 騎士掉落水溝 20公分",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "呂育銓",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "呂育銓",
+            "timestamp": "2026-10-23 14:41:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 14:41:04"
+        }
+    ]
 }

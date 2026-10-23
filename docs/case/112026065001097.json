@@ -6,8 +6,8 @@
     "CASE_LOC": "明湖路456巷4號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.966766,24.782947",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "建物輕微受損",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "明湖路456巷4號後方客雅溪邊坡竹子因風大劇烈擺動造成鐵皮屋頂受損",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -31,6 +31,18 @@
             "old_value": "其他",
             "new_value": "建物輕微受損",
             "timestamp": "2026-10-23 14:11:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-23 14:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "建物輕微受損",
+            "new_value": "其他",
+            "timestamp": "2026-10-23 14:41:04"
         }
     ]
 }

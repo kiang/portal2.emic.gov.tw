@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/23 上午 09:14:00",
     "COUNTY_N": "桃園市",
     "TOWN_N": "新屋區",
-    "CASE_LOC": "桃園市新屋區大坡里社福路22號",
+    "CASE_LOC": "桃園市新屋區大坡里大坡路528巷",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.067758,24.97280352",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 09:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "桃園市新屋區大坡里社福路22號",
+            "new_value": "桃園市新屋區大坡里大坡路528巷",
+            "timestamp": "2026-10-23 14:41:04"
         }
     ]
 }
