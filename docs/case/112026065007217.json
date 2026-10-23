@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】因颱風造成上述地點公司對面，在東湖圖書館旁邊的人行道和道路之間，有一塊鐵皮被風吹落，擔心鐵片會再被吹到其他地方，影響人車通行安全，希望相關單位派員前往清除處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳逸逸",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 01:01:05"
+        }
+    ]
 }
