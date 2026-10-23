@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "地點：花蓮市和平路405巷39號事由：民眾表示上述地點有路樹倒塌壓在車子上，建請相關單位協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -55,6 +55,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-23 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 10:01:04"
         }
     ]
 }

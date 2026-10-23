@@ -6,12 +6,12 @@
     "CASE_LOC": "前鎮區瑞南街190號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": ",",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "渠反映該處有鷹架倒塌，壓損車輛且影響通行，建請查處不需電覆。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
-    "PERSON_ID": "",
+    "PERSON_ID": "李雲吉",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -37,6 +37,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-23 09:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 10:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "鷹架倒塌",
+            "timestamp": "2026-10-23 10:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "李雲吉",
+            "timestamp": "2026-10-23 10:01:04"
         }
     ]
 }

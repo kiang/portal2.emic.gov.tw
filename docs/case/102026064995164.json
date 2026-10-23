@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "地點:花蓮市民權路5號事由:民德里周里長來電反映上述地點建築工地的安全圍籬因為強風倒塌，佔據一部分道路，影響行車安全，希望相關單位協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "民德里周里長",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 09:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 10:01:04"
         }
     ]
 }
