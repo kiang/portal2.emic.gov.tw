@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "【一般案件】因颱風造成修繕北門古蹟鷹架上，有兩塊鐵片被風吹飛到車道上，差點砸到行經的公車，一片鐵片掉在博愛路這一側，另一片鐵片掉在北門廣場轉角處，被現場其他民眾撿走不知道放哪裡，希望相關單位派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳玠琬",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 05:01:04"
+        }
+    ]
 }
