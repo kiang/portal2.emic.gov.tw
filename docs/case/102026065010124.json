@@ -6,8 +6,8 @@
     "CASE_LOC": "山德路379巷15號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.174001583798,24.9949094059371",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "11510240042、鐵皮屋頂被掀起、民眾反映地點：中壢區山德路379巷15號事由：民眾住家三樓加蓋的鐵皮屋頂被掀起，煩請協助移除本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
@@ -31,6 +31,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-24 05:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-24 07:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
+            "timestamp": "2026-10-24 07:01:04"
         }
     ]
 }
