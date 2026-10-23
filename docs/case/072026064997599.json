@@ -6,12 +6,12 @@
     "CASE_LOC": "彰化縣員林市員東路一段和東彰北路的交叉路口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.593043404492,23.9566313378161",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "2026\/10\/23 01:18:51 - 地點描述：彰化縣員林市東彰北路、員東路一段口東山所補登廣告看板倒塌。110轉報人員：黃雅玉",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "8313374",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -37,6 +37,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-23 02:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 09:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 09:21:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "8313374",
+            "timestamp": "2026-10-23 09:21:04"
         }
     ]
 }

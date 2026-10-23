@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "美工路精美路交叉路口路樹倒塌",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "NCDR公民通報",
     "PERSON_ID": "不詳",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "",
             "new_value": "不詳",
             "timestamp": "2026-10-23 08:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 09:21:04"
         }
     ]
 }
