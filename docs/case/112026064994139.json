@@ -6,10 +6,10 @@
     "CASE_LOC": "高翠路221巷2弄24號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.986482,24.779207",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "高翠路221巷2弄24號 屋頂鐵皮搖晃，建請盡速協助處理，以免因強風吹落傷及路人及車輛。(請與高峰里長郭朋鑫聯絡0933****49)",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "葉素君",
     "INJURED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-22 19:41:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 09:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
+            "timestamp": "2026-10-23 09:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 09:01:04"
         }
     ]
 }
