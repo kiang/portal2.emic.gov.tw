@@ -6,12 +6,12 @@
     "CASE_LOC": "台東濱海公園",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.163900,22.751870",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "道路積淹水",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "大浪導致道路積淹水",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "CEOC",
+    "PERSON_ID": "",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -31,6 +31,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 13:41:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-23 14:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "道路積淹水",
+            "new_value": "其他",
+            "timestamp": "2026-10-23 14:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "CEOC",
+            "new_value": "",
+            "timestamp": "2026-10-23 14:11:04"
         }
     ]
 }

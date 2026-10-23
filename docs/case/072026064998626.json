@@ -12,7 +12,7 @@
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "110轉報",
-    "INJURED_NO": 0,
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-23 10:41:03"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 14:11:04"
         }
     ]
 }
