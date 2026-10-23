@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11510230028、颱風風大，物料並未固定、民眾反映地點：桃園區建國路61巷61弄內事由：上述地點目前正在施作汙水下水道工程，路邊放置許多施工物料，目前因為颱風風大，物料並未固定，擔心物料會被風吹起，影響用路人，故請單位派員固定物料 本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃朝勳",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 18:31:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:01:07"
         }
     ]
 }

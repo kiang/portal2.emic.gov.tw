@@ -6,12 +6,12 @@
     "CASE_LOC": "300新竹市東區新莊里新莊街185巷23號",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.017100,24.788220",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "招牌傾倒",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 19:01:06"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌欲墜",
+            "timestamp": "2026-10-23 19:01:06"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119",
+            "timestamp": "2026-10-23 19:01:06"
+        }
+    ]
 }
