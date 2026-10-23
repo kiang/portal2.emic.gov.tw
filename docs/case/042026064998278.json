@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "吉安應變中心表示1999來電說民眾反映吉安鄉永興八街51-3號對面建案房子鷹架及鐵皮沒有固定好，擔心被吹走，請相關局處連絡建商處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "吉安鄉應變中心",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 12:01:04"
+        }
+    ]
 }

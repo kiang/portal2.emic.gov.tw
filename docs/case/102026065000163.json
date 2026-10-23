@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "11510230125、路燈電線漏電問題、民眾反映地點：觀音區富林里工業八路360巷100號事由：電桿上路燈（燈號：0614043）已有鬆脫、即將掉落，且電線黏附於路燈上，民眾擔心夜間路燈亮起後可能發生漏電等安全疑慮，高壓電離民眾住家很近，下大雨民眾擔心會影響出入，請派員儘速前往現場檢查及維修。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "劉德濱",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 12:01:04"
+        }
+    ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "地點：1.吉安鄉七腳川758號。2.吉安鄉七腳川與明義四街處。3.吉安鄉七腳川與明義五街處。4. 吉安鄉七腳川與中山路四段事由：太昌派出所反映上述路段皆有路樹倒塌情形，煩請相關單位協助處理，如位置有不瞭解之處可致電詢問。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "王員警",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-23 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 12:01:04"
         }
     ]
 }

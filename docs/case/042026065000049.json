@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/10\/23 上午 11:16:00",
     "COUNTY_N": "桃園市",
     "TOWN_N": "新屋區",
-    "CASE_LOC": "桃園市新屋區中山西路二段33巷81弄",
+    "CASE_LOC": "桃園市新屋區中山西路二段33巷81弄50號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.076963,24.975784",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "樹木倒塌在路面影響通行",
+    "COORDINATE": "121.076319,24.975963",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線掉落、垂落",
+    "CASE_DESCRIPTION": "樹木倒塌在路面影響通行 壓斷電線",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "王思明",
@@ -25,6 +25,36 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 11:51:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "桃園市新屋區中山西路二段33巷81弄",
+            "new_value": "桃園市新屋區中山西路二段33巷81弄50號",
+            "timestamp": "2026-10-23 12:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.076963,24.975784",
+            "new_value": "121.076319,24.975963",
+            "timestamp": "2026-10-23 12:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 12:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "電線掉落、垂落",
+            "timestamp": "2026-10-23 12:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹木倒塌在路面影響通行",
+            "new_value": "樹木倒塌在路面影響通行 壓斷電線",
+            "timestamp": "2026-10-23 12:01:04"
         }
     ]
 }
