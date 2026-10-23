@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064599498",
-    "CASE_DT": "2026\/8\/21 下午 05:24:43",
+    "CASE_DT": "2026\/10\/23 上午 09:10:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "蘆洲區",
-    "CASE_LOC": "蘆洲區新北市蘆洲區長安街347巷 靠近河堤",
+    "TOWN_N": "烏來區",
+    "CASE_LOC": "烏來區烏來里情人步道(清流園)",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45655,25.08714",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "1.報案人表示有水溝蓋彈開，現場車輛與行人很多，擔心會發生危險。",
+    "COORDINATE": "121.55250,24.85244",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹傾斜",
+    "CASE_DESCRIPTION": "1.民眾通報，烏來里情人步道(清流園)路樹傾倒，單線道不通。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林建宏",
@@ -79,6 +79,48 @@
             "old_value": "1.八里區龍米路一段65巷對面，有1棵路樹倒塌，並且壓到摩托車停車區，擋住雙向車道，請儘速派員處理。",
             "new_value": "1.報案人表示有水溝蓋彈開，現場車輛與行人很多，擔心會發生危險。",
             "timestamp": "2026-08-21 17:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/21 下午 05:24:43",
+            "new_value": "2026\/10\/23 上午 09:10:00",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "蘆洲區",
+            "new_value": "烏來區",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "蘆洲區新北市蘆洲區長安街347巷 靠近河堤",
+            "new_value": "烏來區烏來里情人步道(清流園)",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45655,25.08714",
+            "new_value": "121.55250,24.85244",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹傾斜",
+            "timestamp": "2026-10-23 10:21:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.報案人表示有水溝蓋彈開，現場車輛與行人很多，擔心會發生危險。",
+            "new_value": "1.民眾通報，烏來里情人步道(清流園)路樹傾倒，單線道不通。",
+            "timestamp": "2026-10-23 10:21:03"
         }
     ]
 }
