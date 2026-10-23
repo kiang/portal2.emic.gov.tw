@@ -6,10 +6,10 @@
     "CASE_LOC": "花蓮縣吉安鄉",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.151623,22.756157",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "台電轉報：地點：楓林步道上，靠近第五觀景台事由：反映上述地點有樹木倒塌，目前台電人員無法進入搶修電線，煩請相關單位協助。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 15:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 15:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 15:51:04"
+        }
+    ]
 }

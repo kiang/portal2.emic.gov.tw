@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "2026\/10\/23 06:35:22 - 地點描述：臺東縣台東市大同路5巷117號報案人稱因其住處地勢較低，屋前排水溝已滿水出並灌入其家中造成財受損。(報案人稱為海浪及風速造成災害交通事故，有另通報119統計災害案件)110轉報人員：韓建民",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 10:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 15:51:05"
         }
     ]
 }
