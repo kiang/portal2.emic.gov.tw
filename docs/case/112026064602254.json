@@ -10,7 +10,7 @@
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.深坑區北深路二段176號，該址路燈(編號:543168)附近、「深坑區公所」公車站周邊有1棵路樹傾倒在地，已影響雙向車輛通行，請相關單位儘快派員前往處理。",
     "CASE_STATUS": "(本案係由新店分局\/深坑分駐所員警通報)",
-    "CASE_TYPE": "處理中",
+    "CASE_TYPE": "已處理",
     "PERSON_ID": "縣市報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
@@ -73,6 +73,12 @@
             "old_value": "錢錦彬",
             "new_value": "縣市報災情",
             "timestamp": "2026-10-23 23:21:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 03:51:07"
         }
     ]
 }
