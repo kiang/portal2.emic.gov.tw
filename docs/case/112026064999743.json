@@ -8,8 +8,8 @@
     "COORDINATE": "121.550147,25.114318",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "仰德大道3段5巷福音山莊停電",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "仰德大道3段5巷福音山莊停電台北市至善老人安養護中心",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "仰德大道3段5巷福音山莊停電",
+            "new_value": "仰德大道3段5巷福音山莊停電台北市至善老人安養護中心",
+            "timestamp": "2026-10-23 14:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 14:21:04"
+        }
+    ]
 }

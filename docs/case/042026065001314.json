@@ -8,8 +8,8 @@
     "COORDINATE": "121.0753632,24.73075802",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "棚架遭強風吹至道路",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "棚架遭強風吹至道路，係交通部民航局管轄，已通知該廠商飛岳影像進行處理。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許先生",
     "INJURED_NO": 0,
@@ -17,7 +17,26 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "棚架遭強風吹至道路",
+            "new_value": "棚架遭強風吹至道路，係交通部民航局管轄，已通知該廠商飛岳影像進行處理。",
+            "timestamp": "2026-10-23 14:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 14:21:04"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-10-23 14:21:04"
+        }
+    ]
 }

@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "烏日林新醫院前路燈懸吊下來",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "紀小姐",
+    "PERSON_ID": "119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-23 13:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "紀小姐",
+            "new_value": "119",
+            "timestamp": "2026-10-23 14:21:04"
         }
     ]
 }
