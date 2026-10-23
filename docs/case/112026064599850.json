@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064599850",
-    "CASE_DT": "2026\/7\/11 上午 09:04:00",
+    "CASE_DT": "2026\/10\/23 上午 11:03:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "蘆洲區",
-    "CASE_LOC": "蘆洲區信義路274號",
+    "TOWN_N": "中和區",
+    "CASE_LOC": "中和區中和區圓通路的「國軍公墓」前",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.49193,22.68653",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.招牌掉落",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.49235,24.98612",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.中和區圓通路的「國軍公墓」前(往圓通路367巷方向)，有一棵路樹傾倒在路中央，影響通行。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王品念",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 09:04:00",
+            "new_value": "2026\/10\/23 上午 11:03:00",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "蘆洲區",
+            "new_value": "中和區",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "蘆洲區信義路274號",
+            "new_value": "中和區中和區圓通路的「國軍公墓」前",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.49193,22.68653",
+            "new_value": "121.49235,24.98612",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.招牌掉落",
+            "new_value": "1.中和區圓通路的「國軍公墓」前(往圓通路367巷方向)，有一棵路樹傾倒在路中央，影響通行。",
+            "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 12:11:04"
+        }
+    ]
 }
