@@ -8,8 +8,8 @@
     "COORDINATE": "121.00689,24.883737",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
-    "CASE_DESCRIPTION": "現場為常宏興業股份有限公司之鐵皮屋頂搖搖欲墜，恐造成危險。（1999謝小姐轉報）",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "現場為常宏興業股份有限公司（新豐廠）之鐵皮屋頂搖搖欲墜，恐造成危險。（1999謝小姐轉報）",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "廖先生",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "現場為常宏興業股份有限公司之鐵皮屋頂搖搖欲墜，恐造成危險。（1999謝小姐轉報）",
+            "new_value": "現場為常宏興業股份有限公司（新豐廠）之鐵皮屋頂搖搖欲墜，恐造成危險。（1999謝小姐轉報）",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-10-23 15:41:04"
+        }
+    ]
 }

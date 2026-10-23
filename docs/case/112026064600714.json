@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064600714",
-    "CASE_DT": "2026\/8\/9 上午 05:26:29",
+    "CASE_DT": "2026\/10\/23 下午 02:33:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "三重區",
-    "CASE_LOC": "三重區新北市三重區  三重商工 地下停車場入口附近",
+    "TOWN_N": "烏來區",
+    "CASE_LOC": "烏來區福山里北107線14.5K處",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.47932,25.06453",
+    "COORDINATE": "121.49304,24.79359",
     "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.2026-08-09 05:30:18  報案人表示有路樹傾倒。",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.福山里北107線14.5k處(電桿：福山幹125 E6186 BC72) 倒樹壓到電纜線。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林口分局勤指中心",
@@ -73,6 +73,42 @@
             "old_value": "1.內側有路樹倒塌",
             "new_value": "1.2026-08-09 05:30:18  報案人表示有路樹傾倒。",
             "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 05:26:29",
+            "new_value": "2026\/10\/23 下午 02:33:00",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "三重區",
+            "new_value": "烏來區",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "三重區新北市三重區  三重商工 地下停車場入口附近",
+            "new_value": "烏來區福山里北107線14.5K處",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.47932,25.06453",
+            "new_value": "121.49304,24.79359",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 15:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.2026-08-09 05:30:18  報案人表示有路樹傾倒。",
+            "new_value": "1.福山里北107線14.5k處(電桿：福山幹125 E6186 BC72) 倒樹壓到電纜線。",
+            "timestamp": "2026-10-23 15:41:04"
         }
     ]
 }
