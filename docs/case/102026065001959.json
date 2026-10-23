@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "南屯區大墩三街192號，從社區頂樓掉落一個圓板凳，社區無管委會，社區住戶也都說不是他們的，掉落在1樓停車棚上，陳情人沒有器具勾不到，擔心風大滾下來造成危險",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 17:31:04"
         }
     ]
 }
