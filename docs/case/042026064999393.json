@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "住家外牆遭海浪吞噬倒塌、地基掏空，住戶為外籍人士表示需要消波塊加強地基　／　因大浪造成圍牆倒塌地基掏空,平台龜裂　／　2026\/10\/23 10:07:20 - 住家外牆遭海浪拍打崩塌，協助住戶撤離",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "許閔強",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 10:41:03"
+        }
+    ]
 }
