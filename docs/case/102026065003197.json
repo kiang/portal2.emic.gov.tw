@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "派工莊敬派出所 饒員警通報東區裕農路728號對面，該處有一檳榔攤的招牌，因颱風風太大，已快掉落，員警擔心發生意外，希請單位儘快協助處理(員警要求請單位與派出所聯繫，以利派出所了解處理狀況)",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "莊敬派出所 饒員警",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-10-23 17:51:05"
+        }
+    ]
 }
