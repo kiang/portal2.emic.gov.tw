@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065000277",
-    "CASE_DT": "2026\/10\/23 下午 11:00:00",
+    "CASE_DT": "2026\/10\/23 上午 10:40:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "士林區美崙街與天文教育館地下停車場出入口附近",
@@ -8,8 +8,8 @@
     "COORDINATE": "25.09593623535362,121.51924951735003",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "樹枝掉落",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "樹枝掉落https:\/\/www.threads.com\/share\/BANcOaNEkF\/",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 11:00:00",
+            "new_value": "2026\/10\/23 上午 10:40:00",
+            "timestamp": "2026-10-23 14:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹枝掉落",
+            "new_value": "樹枝掉落https:\/\/www.threads.com\/share\/BANcOaNEkF\/",
+            "timestamp": "2026-10-23 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 14:31:04"
+        }
+    ]
 }
