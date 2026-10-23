@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "工區及周邊區域損壞",
     "CASE_DESCRIPTION": "西屯區環中路三段、市政路交叉口，環中路剛轉進市政路，地上散落一地的三角錐(疑似工程施工)，請派員清除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "梁先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-10-23 14:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 17:11:04"
         }
     ]
 }
