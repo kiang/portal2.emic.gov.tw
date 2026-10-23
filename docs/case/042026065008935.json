@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11510240012、電箱倒塌、民眾反映地點：中壢區青商路與高鐵站前西路二段交叉口事由：中央分隔島上的電箱倒塌(沒寫哪個單位)，煩請移除本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫　／　2026\/10\/24 00:36:35 - 派出所報案電桿被吹斷有火花",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李振頡",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 02:11:04"
+        }
+    ]
 }
