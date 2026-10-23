@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "1.蘆洲區民族路24號1樓處，有一尺寸約150X150公分燈箱式招牌，因颱風天風大，目前往人行道方向傾斜，傾斜角度約呈45度角，憂心掉落會造成公共安全疑慮，請單位儘速前往拉封鎖線並協助排除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林啟豪",
     "INJURED_NO": 0,
@@ -85,6 +85,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 18:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:31:04"
         }
     ]
 }
