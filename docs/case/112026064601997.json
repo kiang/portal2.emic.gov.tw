@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064601997",
-    "CASE_DT": "2026\/7\/11 下午 03:44:05",
+    "CASE_DT": "2026\/10\/23 下午 09:52:17",
     "COUNTY_N": "新北市",
-    "TOWN_N": "三峽區",
-    "CASE_LOC": "三峽區正義街157號",
+    "TOWN_N": "泰山區",
+    "CASE_LOC": "泰山區新北市泰山區明志路三段337號;5樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.37533,24.93058",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.路樹傾倒，影響一線道交通，現場無人員傷亡",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.42222,25.03547",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.2026-10-23 21:53:34  屋主表示鐵皮屋頂要掀開了",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "呂尹丞",
     "INJURED_NO": 0,
@@ -37,6 +37,54 @@
             "old_value": "[現場狀況]1.路樹傾倒，影響一線道交通，現場無人員傷亡  [各單位處置作為]@環境保護局：公所已連絡廠商處理@警察局：現場未發現@農業局：現場已排除交通障礙@三峽區公所：未發現倒樹@消防局：現場無倒樹(本案件已處理完畢。)",
             "new_value": "1.路樹傾倒，影響一線道交通，現場無人員傷亡",
             "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 03:44:05",
+            "new_value": "2026\/10\/23 下午 09:52:17",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "三峽區",
+            "new_value": "泰山區",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "三峽區正義街157號",
+            "new_value": "泰山區新北市泰山區明志路三段337號;5樓",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.37533,24.93058",
+            "new_value": "121.42222,25.03547",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.路樹傾倒，影響一線道交通，現場無人員傷亡",
+            "new_value": "1.2026-10-23 21:53:34  屋主表示鐵皮屋頂要掀開了",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:11:05"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064602024",
-    "CASE_DT": "2026\/7\/11 下午 03:46:58",
+    "CASE_DT": "2026\/10\/23 下午 09:52:50",
     "COUNTY_N": "新北市",
-    "TOWN_N": "三芝區",
-    "CASE_LOC": "三芝區新北市三芝區大湖 靠近淡金公路約500公尺",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區新北市板橋區長江路一段 四維路交叉路口 日式威廉前號誌燈下方",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50399,25.22268",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.報案人稱上述地址有路樹傾倒。現場兩線道(去回各一)，占據一線道。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.46194,25.03068",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.警察局轉報:日示威廉前號誌燈下方路牌稱斷一半在搖晃恐被吹落",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 03:46:58",
+            "new_value": "2026\/10\/23 下午 09:52:50",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "三芝區",
+            "new_value": "板橋區",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "三芝區新北市三芝區大湖 靠近淡金公路約500公尺",
+            "new_value": "板橋區新北市板橋區長江路一段 四維路交叉路口 日式威廉前號誌燈下方",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50399,25.22268",
+            "new_value": "121.46194,25.03068",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.報案人稱上述地址有路樹傾倒。現場兩線道(去回各一)，占據一線道。",
+            "new_value": "1.警察局轉報:日示威廉前號誌燈下方路牌稱斷一半在搖晃恐被吹落",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:11:05"
+        }
+    ]
 }

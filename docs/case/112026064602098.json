@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064602098",
-    "CASE_DT": "2026\/7\/11 下午 04:05:00",
+    "CASE_DT": "2026\/10\/23 下午 09:56:51",
     "COUNTY_N": "新北市",
-    "TOWN_N": "中和區",
-    "CASE_LOC": "中和區莒光路3巷",
+    "TOWN_N": "三重區",
+    "CASE_LOC": "三重區新北市三重區中正北路592號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.47195,25.00604",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電線（桿）毀損",
-    "CASE_DESCRIPTION": "1.中和區莒光路3巷巷口處有1條電線垂落，未觸地，高度不詳",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.46989,25.07215",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.報案人:頂樓有鐵條快掉落",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 04:05:00",
+            "new_value": "2026\/10\/23 下午 09:56:51",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "中和區",
+            "new_value": "三重區",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中和區莒光路3巷",
+            "new_value": "三重區新北市三重區中正北路592號",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.47195,25.00604",
+            "new_value": "121.46989,25.07215",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電線（桿）毀損",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.中和區莒光路3巷巷口處有1條電線垂落，未觸地，高度不詳",
+            "new_value": "1.報案人:頂樓有鐵條快掉落",
+            "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:11:05"
+        }
+    ]
 }

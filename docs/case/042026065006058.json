@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "高雄市梓官區八寶橋往梓官方向(岡山區白米里與梓官區公館交界)路樹倒榻",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "梓官區公所",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "高雄市梓官區八寶橋往梓官方向(岡山區白米里與梓官區公館交界)",
             "new_value": "高雄市梓官區公館路225號旁(八寶橋往梓官方向)",
             "timestamp": "2026-10-23 22:11:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 23:11:05"
         }
     ]
 }
