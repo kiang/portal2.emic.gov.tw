@@ -6,12 +6,12 @@
     "CASE_LOC": "三灣老街中山公園",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "120.955000,24.654870",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "三灣樹木傾倒影響道路通行",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "魏OO",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-23 12:21:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 12:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 12:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "魏OO",
+            "timestamp": "2026-10-23 12:31:04"
         }
     ]
 }
