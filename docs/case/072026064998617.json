@@ -11,8 +11,8 @@
     "CASE_DESCRIPTION": "2026\/10\/23 08:05:01 受傷1人 - 地點描述：彰化縣福興鄉沿海路一段699巷1號電線掉落(已補通報119處理)110轉報人員：陳仲華",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "119",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-23 11:41:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "119",
+            "timestamp": "2026-10-23 15:11:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 15:11:05"
         }
     ]
 }

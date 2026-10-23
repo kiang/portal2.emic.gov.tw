@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "2026\/10\/23 13:57:40 - (6樓大型帆布廣告看板搖搖欲墜)　／　派工民眾反映於永康區中山北路永大路三段交叉口，在此路口的住家大樓外牆有懸掛廣告帆布，被颱風吹過後已經掉一半下來，民眾擔心完全掉落，請單位協助處理，煩請相關單位卓處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "0983771366",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 15:11:05"
+        }
+    ]
 }
