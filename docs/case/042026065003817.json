@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "新豐街251巷10弄4號建物鐵皮屋頂因強風吹襲，約半數鐵皮已折損變形，部分鐵皮搖搖欲墜，隨時有遭強風吹落之虞，恐危及行人及往來車輛安全。為避免鐵皮飛散造成危害，爰請都發處儘速派員協助處理，以維護公共安全及用路人安全。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "朱展鋒",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-23 18:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 18:41:04"
         }
     ]
 }

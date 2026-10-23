@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "1.樓頂加蓋鐵皮掉落     2.民眾於板橋地方社群反映板橋區長江路鐵皮倒塌  3.併案案號115",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "柯小姐",
     "INJURED_NO": 0,
@@ -121,6 +121,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 18:41:05"
         }
     ]
 }
