@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/10\/23 08:24:27 - 地點描述：彰化縣北斗鎮中正路200號美而美對面屋頂快被吹掀，(已通報119補登)來電識別碼:ZNE9iX1YSv 定位類型:手動 定位時間:2026-10-23 08:20:18 經度:120.52183002233504 緯度:23.87513214373811 海拔:59.099998474121094 誤差:11.884 註記:[此通為語音電話]110轉報人員：陳仲華",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 09:11:04"
+        }
+    ]
 }
