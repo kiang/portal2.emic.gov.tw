@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "房屋積淹水",
     "CASE_DESCRIPTION": "11510230061、排水溝不通 房屋積淹水、民眾反映地點：中壢區普光街45巷6弄18號事由：該址排水溝堵塞，目前無法正常排水，雨水倒灌民宅，希望盡速派員疏通本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫　／　11510230052、房屋積淹水、民眾反映地點:中壢區普光街45巷6弄18號事由:之前鋪設柏油，殘渣堵塞路面排水孔，目前颱風下雨，積水倒灌進上址屋內，請處理。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "洪敏彰",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 10:11:03"
+        }
+    ]
 }
