@@ -8,7 +8,7 @@
     "COORDINATE": "121.7569358,24.75021184",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "快車道有路樹倒塌",
+    "CASE_DESCRIPTION": "快車道有路樹倒塌，另11時20分陳小姐:0982****25通報有高速公路橋下往宜蘭市方向(蔬果批發市場附近)路上，有路樹倒塌 ，為同一案件",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "吳先生\/小姐",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "快車道有路樹倒塌",
+            "new_value": "快車道有路樹倒塌，另11時20分陳小姐:0982****25通報有高速公路橋下往宜蘭市方向(蔬果批發市場附近)路上，有路樹倒塌 ，為同一案件",
+            "timestamp": "2026-10-23 11:41:04"
+        }
+    ]
 }
