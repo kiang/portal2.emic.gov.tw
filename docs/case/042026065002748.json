@@ -3,9 +3,9 @@
     "CASE_DT": "2026\/10\/23 下午 04:36:00",
     "COUNTY_N": "基隆市",
     "TOWN_N": "安樂區",
-    "CASE_LOC": "基隆市安樂區武崙街168巷",
+    "CASE_LOC": "基隆市安樂區武崙街186巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.706127,25.139462",
+    "COORDINATE": "121.706646,25.140729",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "鐵皮圍籬傾倒阻礙道路通行 請都發處協處",
@@ -37,6 +37,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 16:51:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "基隆市安樂區武崙街168巷",
+            "new_value": "基隆市安樂區武崙街186巷",
+            "timestamp": "2026-10-23 17:01:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.706127,25.139462",
+            "new_value": "121.706646,25.140729",
+            "timestamp": "2026-10-23 17:01:04"
         }
     ]
 }

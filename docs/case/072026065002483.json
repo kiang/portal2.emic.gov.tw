@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "2026\/10\/23 16:09:21 - 地點描述：彰化縣員林市員林大道 萬年路往永昌街鷹架快被吹倒(已通報119災害通報)110轉報人員：陳仲華",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "119",
             "timestamp": "2026-10-23 16:21:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 17:01:04"
         }
     ]
 }
