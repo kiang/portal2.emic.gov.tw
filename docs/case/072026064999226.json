@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車禍",
     "CASE_DESCRIPTION": "2026\/10\/22 17:12:39 - 掉落水溝2026\/10\/22 17:15:02 - 騎士掉落水溝 20公分",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "呂育銓",
     "INJURED_NO": 1,
@@ -31,6 +31,12 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2026-10-23 14:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 14:51:04"
         }
     ]
 }
