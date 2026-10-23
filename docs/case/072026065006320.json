@@ -11,7 +11,7 @@
     "CASE_DESCRIPTION": "2026\/10\/23 21:45:04 - 地點描述：基隆市暖暖區東勢街32號路樹倒蹋 110轉報人員：蘇益忠",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0",
+            "timestamp": "2026-10-23 22:11:09"
+        }
+    ]
 }
