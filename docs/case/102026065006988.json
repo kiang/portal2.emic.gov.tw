@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "11510230355、廣告看板傾斜、民眾反映 地點：蘆竹區富國路三段與南工路路口事由：有一個廣告看板，此看板長寬約120公分*80公分左右且有一根鐵柱子立著，高度約有2米半，目前已經傾斜在路上，會影響到交通，要求人員盡速處理本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "許勝嘉",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 22:41:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 01:21:04"
         }
     ]
 }

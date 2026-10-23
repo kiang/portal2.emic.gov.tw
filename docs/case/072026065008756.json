@@ -6,10 +6,10 @@
     "CASE_LOC": "宜蘭縣宜蘭市慈安路52號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.76340704627,24.7597284978916",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "報案人表示電線垂在路中間",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -37,6 +37,24 @@
             "old_value": "",
             "new_value": "林先生",
             "timestamp": "2026-10-24 01:01:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 01:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線掉落、垂落",
+            "timestamp": "2026-10-24 01:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 01:21:04"
         }
     ]
 }
