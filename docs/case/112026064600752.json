@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064600752",
-    "CASE_DT": "2026\/7\/11 上午 11:40:00",
+    "CASE_DT": "2026\/10\/23 下午 03:23:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區粉寮路二段235巷口",
+    "TOWN_N": "淡水區",
+    "CASE_LOC": "淡水區沙崙路170號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.40243,25.09186",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.粉寮路二段235巷口的竹子傾斜，已影響到高壓電線",
+    "COORDINATE": "121.42425,25.18343",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.2.淡水區沙崙路170號，先前其招牌嚴重搖搖欲墜，但目前已經掉落，並有扯到電線。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳洪賓",
@@ -37,6 +37,48 @@
             "old_value": "[現場狀況]1.粉寮路二段235巷口的竹子傾斜，已影響到高壓電線  [各單位處置作為]@環境保護局：公所已派員前往處理@警察局：已派員前往查看@農業局：已無影響電線@林口區公所：已改善完成@消防局：已改善完成(本案件已處理完畢。)",
             "new_value": "1.粉寮路二段235巷口的竹子傾斜，已影響到高壓電線",
             "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 11:40:00",
+            "new_value": "2026\/10\/23 下午 03:23:00",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "淡水區",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區粉寮路二段235巷口",
+            "new_value": "淡水區沙崙路170號",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.40243,25.09186",
+            "new_value": "121.42425,25.18343",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 16:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.粉寮路二段235巷口的竹子傾斜，已影響到高壓電線",
+            "new_value": "1.2.淡水區沙崙路170號，先前其招牌嚴重搖搖欲墜，但目前已經掉落，並有扯到電線。",
+            "timestamp": "2026-10-23 16:31:04"
         }
     ]
 }
