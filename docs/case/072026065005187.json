@@ -8,10 +8,10 @@
     "COORDINATE": "120.425379078789,23.4864202809312",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2026\/10\/23 20:16:59 - 家裡風大，目前無破裂，但有掀起來。",
+    "CASE_DESCRIPTION": "2026\/10\/23 20:16:59 - 家裡風大，採光罩目前無破裂，但有掀起來。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "蔣妤婕",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-23 20:41:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2026\/10\/23 20:16:59 - 家裡風大，目前無破裂，但有掀起來。",
+            "new_value": "2026\/10\/23 20:16:59 - 家裡風大，採光罩目前無破裂，但有掀起來。",
+            "timestamp": "2026-10-23 21:01:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "蔣妤婕",
+            "timestamp": "2026-10-23 21:01:04"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "車禍",
     "CASE_DESCRIPTION": "2026\/10\/23 19:23:48 - 地點描述：台中市南屯區環中路與向上路往烏日方向 (過向上路約100公尺)路樹倒塌，有騎士撞上去了。110轉報人員：陳晉治",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 1,
@@ -31,6 +31,12 @@
             "old_value": 0,
             "new_value": 1,
             "timestamp": "2026-10-23 20:21:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:01:04"
         }
     ]
 }
