@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065004595",
-    "CASE_DT": "2026\/10\/23 下午 07:22:59",
+    "CASE_DT": "2026\/10\/23 下午 07:22:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "南京東路五段７４號",
+    "CASE_LOC": "南京東路五段74號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.561087015663,25.051270742656",
+    "COORDINATE": "121.561087,25.051271",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "【一般案件】因颱風把吉野家旁邊建築工地施工圍籬往工地內方向吹倒，但工地在挖地基，所以人行道距離工地挖地基的洞很近，民眾擔心行人行經此處，會不小心誤踩跌進去工地挖地基的洞裡面，影響行人通行安全，希望相關單位派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳沐睦",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 07:22:59",
+            "new_value": "2026\/10\/23 下午 07:22:00",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "南京東路五段７４號",
+            "new_value": "南京東路五段74號",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.561087015663,25.051270742656",
+            "new_value": "121.561087,25.051271",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:11:04"
+        }
+    ]
 }

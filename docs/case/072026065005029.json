@@ -8,10 +8,10 @@
     "COORDINATE": "121.812357752511,24.8470412221383",
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "2026\/10\/23 19:59:00 受傷1人 - 現場汽車零件被吹到路上影響行車安全",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "2026\/10\/23 19:59:00 現場汽車零件被吹到路上影響行車安全",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "未提供",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 20:21:07"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2026\/10\/23 19:59:00 受傷1人 - 現場汽車零件被吹到路上影響行車安全",
+            "new_value": "2026\/10\/23 19:59:00 現場汽車零件被吹到路上影響行車安全",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "未提供",
+            "timestamp": "2026-10-23 21:11:04"
         }
     ]
 }

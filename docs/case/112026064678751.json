@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064678751",
-    "CASE_DT": "2026\/8\/9 上午 11:10:00",
+    "CASE_DT": "2026\/10\/23 下午 07:52:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "淡水區",
-    "CASE_LOC": "淡水區淡江大橋(南下方向)",
+    "TOWN_N": "泰山區",
+    "CASE_LOC": "泰山區楓樹街",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.41777,25.17527",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.淡水區淡江大橋(南下方向)，該址橋上4點5公里處有一路牌(三角形，有施工圖案)，因風勢過大已經傾斜，憂心路牌被風颳到橋下產生公共安全疑慮，故請單位查處。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "114.16450,22.32621",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.泰山區楓樹街「闔家楓江」，該工地塑膠圍籬、工地大門被颱風快要吹散，目前已經有損毀，民眾擔心會造成意外發生。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -25,6 +25,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 14:11:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 11:10:00",
+            "new_value": "2026\/10\/23 下午 07:52:00",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "淡水區",
+            "new_value": "泰山區",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "淡水區淡江大橋(南下方向)",
+            "new_value": "泰山區楓樹街",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.41777,25.17527",
+            "new_value": "114.16450,22.32621",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.淡水區淡江大橋(南下方向)，該址橋上4點5公里處有一路牌(三角形，有施工圖案)，因風勢過大已經傾斜，憂心路牌被風颳到橋下產生公共安全疑慮，故請單位查處。",
+            "new_value": "1.泰山區楓樹街「闔家楓江」，該工地塑膠圍籬、工地大門被颱風快要吹散，目前已經有損毀，民眾擔心會造成意外發生。",
+            "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 21:11:04"
         }
     ]
 }

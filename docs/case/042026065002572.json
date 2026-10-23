@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2隻電信桿倒塌影響住戶進出",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "溪湖鎮公所",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "路樹、電線桿倒塌壓到電線影響交通",
             "new_value": "2隻電信桿倒塌影響住戶進出",
             "timestamp": "2026-10-23 19:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:11:04"
         }
     ]
 }
