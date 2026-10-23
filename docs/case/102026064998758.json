@@ -6,10 +6,10 @@
     "CASE_LOC": "文興街園六街口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.176208133837,25.051812442795",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11510230038、反映路中有建案流動廁所、民眾反映地點：大園區文興街園六街口事由：上址建案(馥誠惟真)有六個流動廁所遭風吹至路中，嚴重影響通行，希望盡速派員警示移除。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳暘",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 08:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 08:51:05"
+        }
+    ]
 }
