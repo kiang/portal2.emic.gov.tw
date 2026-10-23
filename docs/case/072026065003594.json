@@ -8,8 +8,8 @@
     "COORDINATE": "120.487386375173,24.1472696475796",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "招牌欲墜",
-    "CASE_STATUS": "待處理",
+    "CASE_DESCRIPTION": "招牌欲墜。民眾已自行拆除。",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -49,6 +49,18 @@
             "old_value": "",
             "new_value": "119",
             "timestamp": "2026-10-23 18:41:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "招牌欲墜",
+            "new_value": "招牌欲墜。民眾已自行拆除。",
+            "timestamp": "2026-10-23 19:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:11:04"
         }
     ]
 }
