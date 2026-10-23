@@ -6,12 +6,12 @@
     "CASE_LOC": "彰化縣彰化市",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "120.571500,24.086510",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "彰南路大型看板倒塌",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "047512119",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,30 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-22 20:01:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 10:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 10:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 10:31:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "047512119",
+            "timestamp": "2026-10-23 10:31:04"
         }
     ]
 }
