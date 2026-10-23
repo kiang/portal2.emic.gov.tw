@@ -6,12 +6,12 @@
     "CASE_LOC": "台中市梧棲區八德路48號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.531788587094,24.2618240440996",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/10\/23 05:05:28 - 戶外瓦斯桶被風吹倒 無異味",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "0977320551",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -37,6 +37,24 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-23 06:21:09"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 18:01:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 18:01:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "0977320551",
+            "timestamp": "2026-10-23 18:01:05"
         }
     ]
 }
