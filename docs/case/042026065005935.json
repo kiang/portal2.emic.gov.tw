@@ -8,7 +8,7 @@
     "COORDINATE": "120.889212,24.681892",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌影響雙向車道",
+    "CASE_DESCRIPTION": "路樹倒塌影響雙向車道，已派廠商赴現場處理",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "110轉報",
@@ -17,7 +17,20 @@
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
-    "IS_TRAFFIC": false,
+    "IS_TRAFFIC": true,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌影響雙向車道",
+            "new_value": "路樹倒塌影響雙向車道，已派廠商赴現場處理",
+            "timestamp": "2026-10-23 21:31:09"
+        },
+        {
+            "field": "IS_TRAFFIC",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-10-23 21:31:09"
+        }
+    ]
 }
