@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600210",
-    "CASE_DT": "2026\/8\/8 下午 08:27:00",
+    "CASE_DT": "2026\/10\/23 上午 11:56:43",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區思源路217號和243號",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區新北市板橋區府中路153號1樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45968,25.04615",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "1.民眾反映：新莊區思源路217號和243號的廣告帆布有飛起的狀況。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.45522,25.00930",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.新北市板橋區府中路153號1樓 報案電話29699163表示風大店面招牌快被吹掉  2.板橋區府中路153號騎樓內商家招牌一側掉落卡在電線上 另一側仍然栓在牆上  3.板橋區府中路153號騎樓內商家招牌一側掉落卡在電線上 另一側仍然栓在牆上",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林柏良",
     "INJURED_NO": 0,
@@ -79,6 +79,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-08 22:01:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/8 下午 08:27:00",
+            "new_value": "2026\/10\/23 上午 11:56:43",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "板橋區",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區思源路217號和243號",
+            "new_value": "板橋區新北市板橋區府中路153號1樓",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45968,25.04615",
+            "new_value": "121.45522,25.00930",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆倒塌(含籬及鐵皮)",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.民眾反映：新莊區思源路217號和243號的廣告帆布有飛起的狀況。",
+            "new_value": "1.新北市板橋區府中路153號1樓 報案電話29699163表示風大店面招牌快被吹掉  2.板橋區府中路153號騎樓內商家招牌一側掉落卡在電線上 另一側仍然栓在牆上  3.板橋區府中路153號騎樓內商家招牌一側掉落卡在電線上 另一側仍然栓在牆上",
+            "timestamp": "2026-10-23 13:01:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 13:01:03"
         }
     ]
 }
