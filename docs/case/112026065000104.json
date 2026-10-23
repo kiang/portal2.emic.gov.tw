@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "東南街239號大樓磁磚脫落，砸落地面，現已搭黃色封鎖線，避免民眾經過受傷。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "郭思穗",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "建物輕微受損",
             "timestamp": "2026-10-23 12:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 12:21:03"
         }
     ]
 }
