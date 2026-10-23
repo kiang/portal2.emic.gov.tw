@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "【一般案件】巷口北側，因颱風造成廣告的鐵柱倒塌砸到行人號誌，導致行人號誌的燈號掉落在地上，不影響通行，請單位依序處理。(內湖分局康樂派出所員警。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張煒捷",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 00:21:05"
+        }
+    ]
 }

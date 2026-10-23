@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "11510230375、路樹倒塌、民眾反映地點：八德區永豐路518巷口事由：合雄大境社區保全來電，公設路樹傾倒需要派員協助移除，另要求單位到場前，先行與民眾聯繫，因要拍攝施工前後照片。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林宗漢",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 00:21:05"
+        }
+    ]
 }
