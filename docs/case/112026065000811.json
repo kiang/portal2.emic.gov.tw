@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065000811",
-    "CASE_DT": "2026\/10\/23 下午 01:02:45",
+    "CASE_DT": "2026\/10\/23 下午 01:02:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
     "CASE_LOC": "臺北市北投區立農街二段4號5樓",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "語音留言辨識內容 :「我想請求協助，因為颱風問題，我們家頂樓的屋頂掉了一大塊的鐵片，我怕他整個掉下去，會炸到人一些人家屋頂的問題，所以想要請請求協助，趕快來幫我處理，我的電話是0922****86，謝謝。」",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃新益先生\/女士",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 01:02:45",
+            "new_value": "2026\/10\/23 下午 01:02:00",
+            "timestamp": "2026-10-23 16:21:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 16:21:07"
+        }
+    ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "沙鹿區台灣大道七段751號前，快車道旁，電線桿上方，有一很長的鐵皮掛在上面，建請單位處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "林先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "廣告招牌掉落",
             "timestamp": "2026-10-23 16:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 16:21:07"
         }
     ]
 }
