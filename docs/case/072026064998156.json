@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "電梯受困",
     "CASE_DESCRIPTION": "2026\/10\/23 05:39:25 - 酷彭理貨中心電梯1人受困2026\/10\/23 05:53:03 - 酷彭理貨中心停電導致電梯無法運作1人受困",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "-",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "其他",
             "new_value": "電梯受困",
             "timestamp": "2026-10-23 06:51:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 08:31:04"
         }
     ]
 }

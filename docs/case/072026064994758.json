@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "人員落水",
     "CASE_DESCRIPTION": "一、接獲110轉報(龔俊宇)，表示有人被浪帶出去。二、14:10海洋委員會海巡署南部分署勤指中心郭先生回復，已於上午11點多指派第五海巡隊3517船到海上協尋",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "0000",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-22 14:41:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 08:31:04"
         }
     ]
 }
