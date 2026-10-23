@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.現場路樹倒塌，車輛無法通行",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "江淑如",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "1.新店區北宜路二段419號社區大樓，目前整棟社區停電已逾15分鍾。",
             "new_value": "1.現場路樹倒塌，車輛無法通行",
             "timestamp": "2026-10-23 23:51:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 07:21:10"
         }
     ]
 }
