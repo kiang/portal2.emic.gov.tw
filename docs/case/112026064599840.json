@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "1.林口區粉寮路二段128號「林口區清潔隊資收場」，清潔隊休憩區的2支大陽傘被風吹到背對資收場大門口左前方160巷側做紙的鐵皮工廠屋頂上，請相關單位儘快派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "方先生",
     "INJURED_NO": 0,
@@ -85,6 +85,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 12:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 13:11:04"
         }
     ]
 }

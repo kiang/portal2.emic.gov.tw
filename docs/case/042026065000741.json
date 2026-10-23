@@ -8,8 +8,8 @@
     "COORDINATE": "120.3592605,22.55140207",
     "DISASTER_MAIN_TYPE": "水利設施災情",
     "DISASTER_SUB_TYPE": "其他",
-    "CASE_DESCRIPTION": "高坪11路-高坪8路交叉口，有一圓形人孔蓋出現溢水情況，恐影響用路人車通行安全。",
-    "CASE_STATUS": "未指派",
+    "CASE_DESCRIPTION": "高坪11路-高坪8路交叉口，有一圓形人孔蓋出現溢水情況，恐影響用路人車通行安全。該孔蓋疑似自來水孔蓋，請自來水公司派員處置",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林芳楨",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "高坪11路-高坪8路交叉口，有一圓形人孔蓋出現溢水情況，恐影響用路人車通行安全。",
+            "new_value": "高坪11路-高坪8路交叉口，有一圓形人孔蓋出現溢水情況，恐影響用路人車通行安全。該孔蓋疑似自來水孔蓋，請自來水公司派員處置",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "待處理",
+            "timestamp": "2026-10-23 13:11:03"
+        }
+    ]
 }

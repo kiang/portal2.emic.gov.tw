@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600211",
-    "CASE_DT": "2026\/7\/11 上午 09:51:00",
+    "CASE_DT": "2026\/10\/23 上午 11:58:08",
     "COUNTY_N": "新北市",
-    "TOWN_N": "烏來區",
-    "CASE_LOC": "烏來區忠治里金堰路",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區新北市汐止區忠二街6巷14號;4樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.51987,24.87233",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.路樹倒塌影響交通，已通知工務組依權責辦理",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.62416,25.07610",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.住戶表示鐵皮快掉落",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "忠治黃忠信里長",
     "INJURED_NO": 0,
@@ -37,6 +37,54 @@
             "old_value": "[現場狀況]1.路樹倒塌影響交通，已通知工務組依權責辦理  [各單位處置作為]@警察局：派烏來所協處@環境保護局：公所已通知工務組處理@農業局：公所已處理完成(結案)@烏來區公所：現場人員回覆倒樹已排除@消防局：已排除(本案件已處理完畢。)",
             "new_value": "1.路樹倒塌影響交通，已通知工務組依權責辦理",
             "timestamp": "2026-07-11 19:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 上午 09:51:00",
+            "new_value": "2026\/10\/23 上午 11:58:08",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "烏來區",
+            "new_value": "汐止區",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "烏來區忠治里金堰路",
+            "new_value": "汐止區新北市汐止區忠二街6巷14號;4樓",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.51987,24.87233",
+            "new_value": "121.62416,25.07610",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.路樹倒塌影響交通，已通知工務組依權責辦理",
+            "new_value": "1.住戶表示鐵皮快掉落",
+            "timestamp": "2026-10-23 13:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 13:11:03"
         }
     ]
 }
