@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】有人放置大型廢棄物，因為風大的原因，把東西吹到馬路中間，有沙發墊子*1、小木椅*2、塑膠花盆*1，壞掉的雨傘*1，民眾已經撿回來放置於北投區大同街228巷巷口，人面對巷口左邊，在路燈桿旁圍牆的路邊，請單位協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "高宏仁",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 13:31:04"
+        }
+    ]
 }
