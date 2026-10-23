@@ -12,7 +12,7 @@
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "呂育銓",
-    "INJURED_NO": 1,
+    "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-23 19:01:06"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 1,
+            "new_value": 0,
+            "timestamp": "2026-10-23 22:51:06"
         }
     ]
 }

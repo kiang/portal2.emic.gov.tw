@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064601663",
-    "CASE_DT": "2026\/8\/9 下午 03:44:00",
+    "CASE_DT": "2026\/10\/23 下午 09:29:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區民安西路257號",
+    "TOWN_N": "泰山區",
+    "CASE_LOC": "泰山區仁義路、新北大道五段交叉口",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.42624,25.01333",
-    "DISASTER_MAIN_TYPE": "廣告招牌災情",
-    "DISASTER_SUB_TYPE": "廣告招牌欲墜",
-    "CASE_DESCRIPTION": "1.新莊區民安西路257號「長昇事務所」廣告招牌快要掉落，請單位派員處理。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.43735,25.05060",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "CASE_DESCRIPTION": "1.泰山區仁義路、新北大道五段交叉口，位於新北大道五段的交通號誌燈故障、只亮紅燈，目前有造成交通堵塞。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "桃園119-0978811684",
     "INJURED_NO": 0,
@@ -61,6 +61,54 @@
             "old_value": "1.2026-07-11 14:28:47  報案人( 0978****84 )表示有路災害-路樹傾倒  2.樹傾斜，已處理，不影響",
             "new_value": "1.新莊區民安西路257號「長昇事務所」廣告招牌快要掉落，請單位派員處理。",
             "timestamp": "2026-08-09 16:51:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 03:44:00",
+            "new_value": "2026\/10\/23 下午 09:29:00",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "泰山區",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區民安西路257號",
+            "new_value": "泰山區仁義路、新北大道五段交叉口",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.42624,25.01333",
+            "new_value": "121.43735,25.05060",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "廣告招牌災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "廣告招牌欲墜",
+            "new_value": "交通號誌損壞",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新莊區民安西路257號「長昇事務所」廣告招牌快要掉落，請單位派員處理。",
+            "new_value": "1.泰山區仁義路、新北大道五段交叉口，位於新北大道五段的交通號誌燈故障、只亮紅燈，目前有造成交通堵塞。",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 22:51:06"
         }
     ]
 }

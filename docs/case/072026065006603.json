@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/10\/23 21:58:08 - 地點描述：桃園市龜山區龜山分局龜山區【東萬壽路／寶石街口】大型路樹占住兩個車道，請派員協處。110轉報人員：李重佑",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-23 22:41:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 22:51:06"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064601734",
-    "CASE_DT": "2026\/8\/9 下午 03:59:31",
+    "CASE_DT": "2026\/10\/23 下午 09:32:39",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區新北市林口區中山路677號 頂樓",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區新北市汐止區大同路二段184巷2號;3樓之5",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.37875,25.08296",
-    "DISASTER_MAIN_TYPE": "建物毀損",
-    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "1.桃園119(張學姐)來電，有民眾擔心頂樓的鐵板會掉落，需要請人員前往為封鎖線，避免發生危險",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.65334,25.06373",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.報案人:窗戶快掉落",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃建邦",
     "INJURED_NO": 0,
@@ -85,6 +85,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 17:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 03:59:31",
+            "new_value": "2026\/10\/23 下午 09:32:39",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "汐止區",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區新北市林口區中山路677號 頂樓",
+            "new_value": "汐止區新北市汐止區大同路二段184巷2號;3樓之5",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.37875,25.08296",
+            "new_value": "121.65334,25.06373",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "建物毀損",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "圍牆倒塌(含籬及鐵皮)",
+            "new_value": "其他",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.桃園119(張學姐)來電，有民眾擔心頂樓的鐵板會掉落，需要請人員前往為封鎖線，避免發生危險",
+            "new_value": "1.報案人:窗戶快掉落",
+            "timestamp": "2026-10-23 22:51:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 22:51:06"
         }
     ]
 }
