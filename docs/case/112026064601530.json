@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064601530",
-    "CASE_DT": "2026\/8\/9 下午 02:18:00",
+    "CASE_DT": "2026\/10\/23 下午 09:12:47",
     "COUNTY_N": "新北市",
     "TOWN_N": "永和區",
-    "CASE_LOC": "永和區警光街1巷",
+    "CASE_LOC": "永和區新北市永和區永和路二段233號;10樓之4",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.52005,25.00928",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.永和區警光街1巷，該巷底有一路樹傾倒，請立即派員處理。(此為中正橋派出所員警通報)",
+    "COORDINATE": "121.51547,25.01417",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.屋主表示窗戶快掉落，無法處理需要幫忙。",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "錢錦彬",
@@ -67,6 +67,42 @@
             "old_value": "1.停電詳照片",
             "new_value": "1.永和區警光街1巷，該巷底有一路樹傾倒，請立即派員處理。(此為中正橋派出所員警通報)",
             "timestamp": "2026-08-09 15:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 下午 02:18:00",
+            "new_value": "2026\/10\/23 下午 09:12:47",
+            "timestamp": "2026-10-23 22:31:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "永和區警光街1巷",
+            "new_value": "永和區新北市永和區永和路二段233號;10樓之4",
+            "timestamp": "2026-10-23 22:31:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.52005,25.00928",
+            "new_value": "121.51547,25.01417",
+            "timestamp": "2026-10-23 22:31:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-23 22:31:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "其他",
+            "timestamp": "2026-10-23 22:31:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.永和區警光街1巷，該巷底有一路樹傾倒，請立即派員處理。(此為中正橋派出所員警通報)",
+            "new_value": "1.屋主表示窗戶快掉落，無法處理需要幫忙。",
+            "timestamp": "2026-10-23 22:31:05"
         }
     ]
 }
