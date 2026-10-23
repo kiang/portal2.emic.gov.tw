@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065004760",
-    "CASE_DT": "2026\/10\/23 下午 07:35:28",
+    "CASE_DT": "2026\/10\/23 下午 07:35:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
-    "CASE_LOC": "吳興街２６９巷１弄１號",
+    "CASE_LOC": "吳興街269巷1弄1號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.564316,25.027134",
+    "COORDINATE": "121.564318,25.027135",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "【一般案件】反映上述地點疑似是因為颱風關係導致停水，請相關單位派員前往協助。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "曾玟綺",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 07:35:28",
+            "new_value": "2026\/10\/23 下午 07:35:00",
+            "timestamp": "2026-10-23 21:41:10"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "吳興街２６９巷１弄１號",
+            "new_value": "吳興街269巷1弄1號",
+            "timestamp": "2026-10-23 21:41:10"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.564316,25.027134",
+            "new_value": "121.564318,25.027135",
+            "timestamp": "2026-10-23 21:41:10"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:41:10"
+        }
+    ]
 }

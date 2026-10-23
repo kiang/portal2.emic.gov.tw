@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "1.蘆洲區正和街96巷40號2樓，該址雨遮上方鐵片遭強風掀起，鐵片懸掛於半空中，憂後續風勢較強恐會吹落地面。  2.單位加派：(新增單位)工務局  3.案件類別更改：其他->圍籬及鐵皮倒塌損壞該址雨遮上方鐵片遭強風掀起，鐵片懸掛於半空中",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 21:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 21:41:10"
         }
     ]
 }
