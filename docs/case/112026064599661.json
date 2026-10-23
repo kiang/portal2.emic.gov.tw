@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064599661",
-    "CASE_DT": "2026\/8\/21 下午 05:51:00",
+    "CASE_DT": "2026\/10\/23 上午 10:12:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區中山路及竹林路口",
+    "TOWN_N": "雙溪區",
+    "CASE_LOC": "雙溪區北42線、雙坪產業道路27.5K",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.46554,25.01228",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.林口區中山路及竹林路口，4向交通號誌全熄。",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.79838,24.99349",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.雙溪區北42線、雙坪產業道路27.5K，該處靠近人工蓄水池，現有路樹倒塌，雙向無法通行，請單位清除。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -55,6 +55,54 @@
             "old_value": "1.蔡家排骨前路樹倒塌有壓到電線擔心會停電  2.路樹倒塌壓到電纜線  3.併案案號48",
             "new_value": "1.林口區中山路及竹林路口，4向交通號誌全熄。",
             "timestamp": "2026-08-21 18:51:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/21 下午 05:51:00",
+            "new_value": "2026\/10\/23 上午 10:12:00",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "雙溪區",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區中山路及竹林路口",
+            "new_value": "雙溪區北42線、雙坪產業道路27.5K",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.46554,25.01228",
+            "new_value": "121.79838,24.99349",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.林口區中山路及竹林路口，4向交通號誌全熄。",
+            "new_value": "1.雙溪區北42線、雙坪產業道路27.5K，該處靠近人工蓄水池，現有路樹倒塌，雙向無法通行，請單位清除。",
+            "timestamp": "2026-10-23 11:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 11:21:05"
         }
     ]
 }
