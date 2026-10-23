@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "南區復興三段208號，選舉帆布及牆面固定鐵架被風吹起，請派員到場處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "第三分局正義派出所陳先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 00:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 09:51:04"
         }
     ]
 }

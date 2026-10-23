@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.汐止區汐萬路三段318巷口，該址於路燈(編號:520528)旁有一路樹倒塌並有勾住電線，導致電線掉落，影響全線通行，故請單位前往移除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "119轉入",
     "INJURED_NO": 0,
@@ -151,6 +151,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 08:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 09:51:04"
         }
     ]
 }

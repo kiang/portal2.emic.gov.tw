@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "（一）經員警到場查處，有1路樹橫躺車道，現場員警實施交通管制、疏導。 （二）權責單位已到場排除中。 （三）現場已於115年10月23日09時07分排除完畢、車輛恢復通行。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "孫祿順",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "",
             "new_value": "孫祿順",
             "timestamp": "2026-10-23 09:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 09:51:04"
         }
     ]
 }
