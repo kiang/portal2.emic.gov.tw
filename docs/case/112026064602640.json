@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064602640",
-    "CASE_DT": "2026\/7\/11 下午 05:59:00",
+    "CASE_DT": "2026\/10\/23 下午 10:21:02",
     "COUNTY_N": "新北市",
-    "TOWN_N": "林口區",
-    "CASE_LOC": "林口區下福里8-11鄰",
+    "TOWN_N": "中和區",
+    "CASE_LOC": "中和區新北市中和區景平路161號;9樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.30958,25.11506",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.下福里8-11鄰停電",
+    "COORDINATE": "121.51245,24.99237",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
+    "CASE_DESCRIPTION": "1.民眾表示:窗戶快掉落了",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李美玉",
@@ -37,6 +37,48 @@
             "old_value": "[現場狀況]1.下福里8-11鄰停電  [各單位處置作為]@警察局：已派員處理@林口區公所：已請台電派工搶修@電力維護組：已復電。@經濟發展局：已復電@消防局：已復電(本案件已處理完畢。)",
             "new_value": "1.下福里8-11鄰停電",
             "timestamp": "2026-07-11 22:31:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 05:59:00",
+            "new_value": "2026\/10\/23 下午 10:21:02",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "林口區",
+            "new_value": "中和區",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "林口區下福里8-11鄰",
+            "new_value": "中和區新北市中和區景平路161號;9樓",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.30958,25.11506",
+            "new_value": "121.51245,24.99237",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電力停電",
+            "new_value": "其他",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.下福里8-11鄰停電",
+            "new_value": "1.民眾表示:窗戶快掉落了",
+            "timestamp": "2026-10-23 23:31:04"
         }
     ]
 }

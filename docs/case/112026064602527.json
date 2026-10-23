@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064602527",
-    "CASE_DT": "2026\/7\/11 下午 05:40:00",
+    "CASE_DT": "2026\/10\/23 下午 10:17:10",
     "COUNTY_N": "新北市",
-    "TOWN_N": "汐止區",
-    "CASE_LOC": "汐止區秀山路68巷",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區(路燈:板橋區;021427) 參考地址:新北市板橋區南雅南路二段114號，實際地址以派遣令地圖為主",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.66743,25.05813",
+    "COORDINATE": "121.45325,25.00071",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.汐止區秀山路68巷，該巷底有路樹傾斜，請單位查處。",
-    "CASE_STATUS": "已處理",
+    "CASE_DESCRIPTION": "1.110轉報大樹倒",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張志民",
     "INJURED_NO": 0,
@@ -19,5 +19,42 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 05:40:00",
+            "new_value": "2026\/10\/23 下午 10:17:10",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "汐止區",
+            "new_value": "板橋區",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "汐止區秀山路68巷",
+            "new_value": "板橋區(路燈:板橋區;021427) 參考地址:新北市板橋區南雅南路二段114號，實際地址以派遣令地圖為主",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.66743,25.05813",
+            "new_value": "121.45325,25.00071",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.汐止區秀山路68巷，該巷底有路樹傾斜，請單位查處。",
+            "new_value": "1.110轉報大樹倒",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:31:04"
+        }
+    ]
 }

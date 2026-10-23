@@ -6,10 +6,10 @@
     "CASE_LOC": "台中市新社區永源里東山街１８之１１號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.794954439766,24.218342653201",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線短路、起火",
     "CASE_DESCRIPTION": "新社區東山街18之11號，有一截電線垂掛在半空中且持續晃動，目前用電正常，電線也沒有火花，不確定該線路是否會造成危險，故希望派員檢修。",
-    "CASE_STATUS": "未指派",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "黃小姐",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線短路、起火",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "未指派",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:31:04"
+        }
+    ]
 }

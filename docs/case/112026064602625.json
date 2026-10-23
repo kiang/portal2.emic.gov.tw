@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064602625",
-    "CASE_DT": "2026\/7\/11 下午 05:59:00",
+    "CASE_DT": "2026\/10\/23 下午 10:22:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "八里區",
-    "CASE_LOC": "八里區龍形二街16號",
+    "TOWN_N": "蘆洲區",
+    "CASE_LOC": "蘆洲區民族路422巷33弄",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.45064,25.13262",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "1.八里區龍形二街16號，位於籃球場旁有一棵路樹傾倒且壓到汽車。 (本案係由龍源派出所員警通報)",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.47318,25.09358",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "1.蘆洲區民族路422巷33弄沿線，現不明原因電力中斷，請權責單位派員修復。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林哲宇",
     "INJURED_NO": 0,
@@ -19,5 +19,54 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 05:59:00",
+            "new_value": "2026\/10\/23 下午 10:22:00",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "八里區",
+            "new_value": "蘆洲區",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "八里區龍形二街16號",
+            "new_value": "蘆洲區民族路422巷33弄",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.45064,25.13262",
+            "new_value": "121.47318,25.09358",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "電力停電",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.八里區龍形二街16號，位於籃球場旁有一棵路樹傾倒且壓到汽車。 (本案係由龍源派出所員警通報)",
+            "new_value": "1.蘆洲區民族路422巷33弄沿線，現不明原因電力中斷，請權責單位派員修復。",
+            "timestamp": "2026-10-23 23:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 23:31:04"
+        }
+    ]
 }
