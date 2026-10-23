@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "鷹架倒塌",
     "CASE_DESCRIPTION": "2026\/10\/23 16:38:12 - 地點描述：台南市鹽水區台19線  飯店路段大型招牌及鷹架倒塌110轉報人員：黃建鈞",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "110轉報人員：黃建鈞",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "110轉報人員：黃建鈞",
             "timestamp": "2026-10-23 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:41:05"
         }
     ]
 }
