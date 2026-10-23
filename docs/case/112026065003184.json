@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065003184",
-    "CASE_DT": "2026\/10\/23 下午 05:23:51",
+    "CASE_DT": "2026\/10\/23 下午 05:23:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "臺北市松山區撫遠街399巷2號1樓",
+    "CASE_LOC": "臺北市松山區撫遠街399巷2號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.56581,25.065405",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "樓上盆栽掉落砸到汽車擋風玻璃，需警協助「薔琵颱風」 ，110轉報人員：蘇皇銘，義消*車*人",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 0,
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 05:23:51",
+            "new_value": "2026\/10\/23 下午 05:23:00",
+            "timestamp": "2026-10-23 19:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市松山區撫遠街399巷2號1樓",
+            "new_value": "臺北市松山區撫遠街399巷2號",
+            "timestamp": "2026-10-23 19:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 19:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 19:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:51:04"
+        }
+    ]
 }

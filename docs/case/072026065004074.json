@@ -11,8 +11,8 @@
     "CASE_DESCRIPTION": "2026\/10\/23 18:36:29 受傷1人 - 透過電力座標(K2661,DC8500)轉換GIS座標,透過電力座標(K2661,ED8500)轉換GIS座標2026\/10\/23 18:40:47 受傷1人 - 機車被掉落的電線絆倒，1人受傷。透過電力座標(K2661,ED8500)轉換GIS座標",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "民眾",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 19:01:06"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "民眾",
+            "timestamp": "2026-10-23 19:51:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 19:51:04"
         }
     ]
 }

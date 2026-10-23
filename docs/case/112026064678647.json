@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "1.民眾在五股地方社群反映蓬萊路6巷幼兒園前面的公園,施工圍欄倒塌，器具散落四處",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王品念",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 19:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 19:51:04"
         }
     ]
 }

@@ -11,13 +11,26 @@
     "CASE_DESCRIPTION": "2026\/10\/23 13:13:11 - 地點描述：台中市外埔區甲后路937巷3號迷失老人，跌倒，已通知救護110轉報人員：張綺君",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "不清楚",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "不清楚",
+            "timestamp": "2026-10-23 19:51:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 19:51:05"
+        }
+    ]
 }
