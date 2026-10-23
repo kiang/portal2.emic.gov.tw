@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600396",
-    "CASE_DT": "2026\/8\/9 上午 12:15:53",
+    "CASE_DT": "2026\/10\/23 下午 12:40:16",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新店區",
-    "CASE_LOC": "新店區新北市新店區光明街 北新路一段交叉路口 公車站牌處",
+    "TOWN_N": "汐止區",
+    "CASE_LOC": "汐止區新北市汐止區忠孝東路236號;2樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.54056,24.96525",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
-    "CASE_DESCRIPTION": "1.新北市新店區光明街 北新路一段交叉路口 公車站牌處 ，報案人表示該處交通號誌被吹到歪斜報案電話0925****34",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.66258,25.06697",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
+    "CASE_DESCRIPTION": "1.2026-10-23 12:41:11  報案人表示招牌快要掉落",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "莊幃閎",
     "INJURED_NO": 0,
@@ -61,6 +61,54 @@
             "old_value": "1.林口區東湖路與育林街交叉路口，2棵路樹倒塌，雖占用一線車道，暫未影響車輛通行。",
             "new_value": "1.新北市新店區光明街 北新路一段交叉路口 公車站牌處 ，報案人表示該處交通號誌被吹到歪斜報案電話0925****34",
             "timestamp": "2026-08-09 10:21:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 12:15:53",
+            "new_value": "2026\/10\/23 下午 12:40:16",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新店區",
+            "new_value": "汐止區",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新店區新北市新店區光明街 北新路一段交叉路口 公車站牌處",
+            "new_value": "汐止區新北市汐止區忠孝東路236號;2樓",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.54056,24.96525",
+            "new_value": "121.66258,25.06697",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新北市新店區光明街 北新路一段交叉路口 公車站牌處 ，報案人表示該處交通號誌被吹到歪斜報案電話0925****34",
+            "new_value": "1.2026-10-23 12:41:11  報案人表示招牌快要掉落",
+            "timestamp": "2026-10-23 13:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 13:51:05"
         }
     ]
 }
