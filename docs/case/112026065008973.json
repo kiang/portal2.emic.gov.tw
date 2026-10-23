@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "鐵皮不穩固",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "葉小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "建物輕微受損",
             "new_value": "圍牆倒塌(含籬及鐵皮)",
             "timestamp": "2026-10-24 02:21:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 03:01:04"
         }
     ]
 }

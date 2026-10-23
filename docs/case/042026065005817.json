@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【1999 報災情】民眾通報路樹倒塌在道路上，安樂區基金一路208巷，往大武崙砲台方向，超過長庚醫院情人湖院區不遠處，希派員改善。　／　2026\/10\/23 20:50:03 - 情人湖院區前馬路路樹倒塌有壓到車子",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "0",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 03:01:04"
+        }
+    ]
 }
