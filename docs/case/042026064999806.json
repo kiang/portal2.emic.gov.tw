@@ -8,7 +8,7 @@
     "COORDINATE": "120.506271,24.002665",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "路樹傾斜、枝葉壓到電線",
+    "CASE_DESCRIPTION": "路樹傾斜、枝葉壓到電線(災情已排除)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "劉永淯",
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-10-23 11:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹傾斜、枝葉壓到電線",
+            "new_value": "路樹傾斜、枝葉壓到電線(災情已排除)",
+            "timestamp": "2026-10-23 11:51:05"
         }
     ]
 }
