@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "1.淡水區商工路1.5K處(往淡水區北新路二段與三芝區方向、過了「大屯高爾夫球場」大門口)，該處有一棵路樹傾倒、攔腰折斷，上半部懸掛在半空中，已影響行車安全，請相關單位儘快派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "蔡靜儀",
     "INJURED_NO": 0,
@@ -67,6 +67,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 13:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 14:01:04"
         }
     ]
 }
