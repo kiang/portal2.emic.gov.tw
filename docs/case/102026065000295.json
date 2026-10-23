@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "派工民眾通報反射鏡鬆脫，位於南區萬年七街與萬年五街400巷交叉口，目前風大有持續晃動狀況，擔心倒塌望單位派員修復，煩請相關單位卓處",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-23 12:21:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 13:21:05"
         }
     ]
 }
