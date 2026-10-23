@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "【1999報災情】仁愛區忠一路24號3樓空屋(仁祥診所進去)，鐵皮搖搖欲墜，煩請協處。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "忠二派出所值班台",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "仁愛區忠一路24號3樓空屋(仁祥診所進去)，鐵皮搖搖欲墜，煩請協處。",
             "new_value": "【1999報災情】仁愛區忠一路24號3樓空屋(仁祥診所進去)，鐵皮搖搖欲墜，煩請協處。",
             "timestamp": "2026-10-23 18:11:03"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 18:31:04"
         }
     ]
 }
