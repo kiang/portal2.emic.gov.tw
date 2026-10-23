@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【1999 報災情】民眾反映亂丟大型家具被吹飛，在七堵區崇廉街20巷與永富路的交叉路口，目前被人堆積家具，因為風很大，有些家具都被吹飛",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "0",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "其他",
             "new_value": "環境汙染",
             "timestamp": "2026-10-23 18:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 18:51:05"
         }
     ]
 }
