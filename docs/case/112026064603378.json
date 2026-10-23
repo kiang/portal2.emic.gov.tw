@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064603378",
-    "CASE_DT": "2026\/7\/11 下午 08:26:08",
+    "CASE_DT": "2026\/10\/23 下午 10:53:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新莊區",
-    "CASE_LOC": "新莊區新北市新莊區中環路二段 領航路交叉路口",
+    "TOWN_N": "板橋區",
+    "CASE_LOC": "板橋區民權路與縣民大道二段",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.44189,25.03840",
+    "COORDINATE": "121.46191,25.01140",
     "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹傾斜",
-    "CASE_DESCRIPTION": "1.路樹傾倒",
-    "CASE_STATUS": "已處理",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "CASE_DESCRIPTION": "1.板橋區民權路與縣民大道二段至民權路與中山路，多處路樹傾倒，請單位協處。",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "先生",
     "INJURED_NO": 0,
@@ -37,6 +37,48 @@
             "old_value": "[現場狀況]1.路樹傾倒   [各單位處置作為]@環境保護局：公所已派員處理@警察局：通知轄區所員警到場協助管制。@農業局：案400及案405災情地點及內容相同，公所已排除交通障礙，建請併案解列。@新莊區公所：已處理完畢@消防局：以處理完畢(本案件已處理完畢。)",
             "new_value": "1.路樹傾倒",
             "timestamp": "2026-07-11 22:31:03"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 08:26:08",
+            "new_value": "2026\/10\/23 下午 10:53:00",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新莊區",
+            "new_value": "板橋區",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新莊區新北市新莊區中環路二段 領航路交叉路口",
+            "new_value": "板橋區民權路與縣民大道二段",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.44189,25.03840",
+            "new_value": "121.46191,25.01140",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹傾斜",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.路樹傾倒",
+            "new_value": "1.板橋區民權路與縣民大道二段至民權路與中山路，多處路樹傾倒，請單位協處。",
+            "timestamp": "2026-10-24 00:11:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 00:11:06"
         }
     ]
 }
