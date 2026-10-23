@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "2026\/10\/23 14:08:38 - 地點描述：雲林縣虎尾鎮高鐵站前方中央分隔島工地鐵皮圍籬上述地點門晃動、快掉了，恐生危險，已通知119處理，請速派員處理並注意本身安全及到達時間。 110轉報人員：蘇哲授　／　門晃動、快掉了，恐生危險，已通知119",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "110",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-23 20:01:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 20:11:05"
         }
     ]
 }

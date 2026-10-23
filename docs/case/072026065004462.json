@@ -11,13 +11,26 @@
     "CASE_DESCRIPTION": "2026\/10\/23 12:19:01 - 清 跌倒頭部受傷流血2026\/10\/23 12:21:48 - 清 跌倒頭部受傷流血\/回撥電話未接",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "不詳",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "不詳",
+            "timestamp": "2026-10-23 20:11:05"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 20:11:05"
+        }
+    ]
 }
