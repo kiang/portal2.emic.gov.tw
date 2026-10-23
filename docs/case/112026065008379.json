@@ -3,13 +3,13 @@
     "CASE_DT": "2026\/10\/23 下午 11:35:59",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中正區",
-    "CASE_LOC": "忠孝東路二段２７號",
+    "CASE_LOC": "忠孝東路二段27號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.527797602455,25.043910911948",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "COORDINATE": "121.527798,25.043911",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "【一般案件】頂樓有電線斷落冒火花",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林柏甫",
     "INJURED_NO": 0,
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "忠孝東路二段２７號",
+            "new_value": "忠孝東路二段27號",
+            "timestamp": "2026-10-24 04:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.527797602455,25.043910911948",
+            "new_value": "121.527798,25.043911",
+            "timestamp": "2026-10-24 04:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 04:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2026-10-24 04:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 04:51:04"
+        }
+    ]
 }

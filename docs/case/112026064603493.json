@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹傾斜",
     "CASE_DESCRIPTION": "1.板橋區華江三路200號，該址有路樹傾倒，請單位檢修。  2.現場路樹倒塌，影響交通",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "蘇延育",
     "INJURED_NO": 0,
@@ -79,6 +79,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 00:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 04:51:04"
         }
     ]
 }
