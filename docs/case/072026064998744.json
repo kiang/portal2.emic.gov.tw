@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "2026\/10\/23 08:30:33 - 地點描述：彰化縣花壇鄉番花路烏秋檳榔攤附近謝宗華競選廣告倒塌影響安全。已通知119110轉報人員：邱圳潭",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "0970318663",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "0970318663",
             "timestamp": "2026-10-23 09:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 10:51:03"
         }
     ]
 }
