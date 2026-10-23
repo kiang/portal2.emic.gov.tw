@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026064602722",
-    "CASE_DT": "2026\/7\/11 下午 07:04:00",
+    "CASE_DT": "2026\/10\/23 下午 10:38:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "新店區",
-    "CASE_LOC": "新店區新店區北宜路二段",
+    "TOWN_N": "瑞芳區",
+    "CASE_LOC": "瑞芳區瑞芳區頌德里",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.55902,24.95426",
+    "COORDINATE": "121.83776,25.11123",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.新店區北宜路新店區北宜路二段，該路段的路燈、住戶停電，請單位檢修。",
+    "CASE_DESCRIPTION": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳信雄",
@@ -18,6 +18,43 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": false,
-    "logs": []
+    "IS_SERIOUS": true,
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/7\/11 下午 07:04:00",
+            "new_value": "2026\/10\/23 下午 10:38:00",
+            "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "新店區",
+            "new_value": "瑞芳區",
+            "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新店區新店區北宜路二段",
+            "new_value": "瑞芳區瑞芳區頌德里",
+            "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.55902,24.95426",
+            "new_value": "121.83776,25.11123",
+            "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.新店區北宜路新店區北宜路二段，該路段的路燈、住戶停電，請單位檢修。",
+            "new_value": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。",
+            "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": false,
+            "new_value": true,
+            "timestamp": "2026-10-24 00:01:05"
+        }
+    ]
 }
