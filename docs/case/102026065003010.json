@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "派工民眾通報位於永康區中華路607號，稍早招牌遭吹落，目前一半民眾自行拆除，另一半仍懸掛在上面，擔心稍後風大會影響安全，望單位派員處理，惠請相關單位卓處，承辦可聯繫民眾，並請承辦人員結案時將處理結果以電話方式回復民眾。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "郭小姐",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-10-23 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 18:11:04"
         }
     ]
 }
