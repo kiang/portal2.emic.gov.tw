@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "台電轉報：地點：楓林步道上，靠近第五觀景台事由：反映上述地點有樹木倒塌，目前台電人員無法進入搶修電線，煩請相關單位協助。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "陳先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-10-23 15:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 17:21:05"
         }
     ]
 }
