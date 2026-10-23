@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026064600789",
-    "CASE_DT": "2026\/8\/9 上午 06:17:35",
+    "CASE_DT": "2026\/10\/23 下午 03:46:00",
     "COUNTY_N": "新北市",
-    "TOWN_N": "汐止區",
-    "CASE_LOC": "汐止區新北市汐止區仁愛路 新台五路一段交叉路口",
+    "TOWN_N": "泰山區",
+    "CASE_LOC": "泰山區中港西路和楓江路46巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.65891,25.06442",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "電線（桿）毀損",
-    "CASE_DESCRIPTION": "1.電線垂落，跟新台五路的路口，汐止區公所前面",
-    "CASE_STATUS": "已處理",
+    "COORDINATE": "121.43811,25.05728",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
+    "CASE_DESCRIPTION": "1.泰山區中港西路和楓江路46巷口的都更案，圍籬倒向路面。  2.單位加派：(新增單位)地政局",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃建邦",
     "INJURED_NO": 0,
@@ -79,6 +79,54 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-08-09 10:31:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/8\/9 上午 06:17:35",
+            "new_value": "2026\/10\/23 下午 03:46:00",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "汐止區",
+            "new_value": "泰山區",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "汐止區新北市汐止區仁愛路 新台五路一段交叉路口",
+            "new_value": "泰山區中港西路和楓江路46巷",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.65891,25.06442",
+            "new_value": "121.43811,25.05728",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "電線（桿）毀損",
+            "new_value": "圍牆倒塌(含籬及鐵皮)",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.電線垂落，跟新台五路的路口，汐止區公所前面",
+            "new_value": "1.泰山區中港西路和楓江路46巷口的都更案，圍籬倒向路面。  2.單位加派：(新增單位)地政局",
+            "timestamp": "2026-10-23 16:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-23 16:51:04"
         }
     ]
 }
