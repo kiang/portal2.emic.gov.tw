@@ -6,8 +6,8 @@
     "CASE_LOC": "經國二路52號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.298440083894,25.0294236258481",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "11510240020、電箱冒火花、民眾反映地點：桃園區經國二路52號事由：電箱冒火花(現在不確定有沒有火花)，現場沒停電，煩請前往修復本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
@@ -25,6 +25,18 @@
             "old_value": "未指派",
             "new_value": "處理中",
             "timestamp": "2026-10-24 01:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 06:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線（桿）毀損",
+            "timestamp": "2026-10-24 06:51:04"
         }
     ]
 }
