@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.五股區孝義路12號再往前約60公尺處，有一棵路樹傾倒並到斷電線，現該路段附近住戶停電中，請單位協助派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "劉先生",
     "INJURED_NO": 0,
@@ -121,6 +121,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 22:11:10"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 23:51:07"
         }
     ]
 }

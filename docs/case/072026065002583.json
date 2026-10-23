@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "2026\/10\/23 16:18:42 - 有一塊廣告看板已經有一半掉落，有危險之虞",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "李秋瑩",
     "INJURED_NO": 0,
@@ -73,6 +73,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 19:21:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 23:51:07"
         }
     ]
 }
