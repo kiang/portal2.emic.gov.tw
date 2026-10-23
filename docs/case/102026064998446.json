@@ -6,8 +6,8 @@
     "CASE_LOC": "花蓮縣吉安鄉",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.151623,22.756157",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "地點：1.吉安鄉七腳川758號。2.吉安鄉七腳川與明義四街處。3.吉安鄉七腳川與明義五街處。4. 吉安鄉七腳川與中山路四段事由：太昌派出所反映上述路段皆有路樹倒塌情形，煩請相關單位協助處理，如位置有不瞭解之處可致電詢問。",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-23 08:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-23 08:41:04"
+        }
+    ]
 }
