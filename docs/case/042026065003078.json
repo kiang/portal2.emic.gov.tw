@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "鄰居通報隔壁二層半的房子，房東聯繫不上，承租人未上班，頂層鐵皮屋的屋頂已掀一半快飛走。　／　稍早民眾通報隔壁二層半的房子，頂層鐵皮屋的屋頂已掀一半快飛走，房東聯繫不上，承租人未上班，民眾反映尚未處理，再次通報單位協助處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "蔡先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "圍牆倒塌(含籬及鐵皮)",
             "timestamp": "2026-10-23 19:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 20:41:06"
         }
     ]
 }
