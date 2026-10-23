@@ -11,8 +11,8 @@
     "CASE_DESCRIPTION": "2026\/10\/23 14:32:43 受傷1人 - 機車騎士主訴遭路樹砸傷，目前兩側上肢及腰部疼痛、清醒。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
-    "INJURED_NO": 0,
+    "PERSON_ID": "徐子芸",
+    "INJURED_NO": 1,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
     "MISSING_NO": 0,
@@ -31,6 +31,18 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 18:01:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "徐子芸",
+            "timestamp": "2026-10-23 18:21:04"
+        },
+        {
+            "field": "INJURED_NO",
+            "old_value": 0,
+            "new_value": 1,
+            "timestamp": "2026-10-23 18:21:04"
         }
     ]
 }

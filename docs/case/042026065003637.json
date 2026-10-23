@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "2026\/10\/23 17:36:20 - 廣告帆布吹落　／　陳情民眾通報六甲頂（中華北路往奇美方向的路口）金紙行的帆布脫落，搖搖欲墜煩請相關單位卓處(承辦若不清楚，可聯繫民眾)　／　派工大橋派出所許警官通報：永康區中華路與中央路交叉路口，富山檀香（店家）的帆布招牌，搖搖欲墜，惠請相關單位卓處，承辦若不清楚，可聯繫警方。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "119消防署派遣系統",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-23 18:21:04"
+        }
+    ]
 }
