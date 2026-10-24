@@ -8,8 +8,8 @@
     "COORDINATE": "121.49684,25.07245",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
-    "CASE_DESCRIPTION": "1.2026-10-23 23:29:18  報案人表示招牌快掉下來",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.2026-10-23 23:29:18  報案人表示招牌快掉下來  2. 三重區龍門路71號，招牌快掉落，請單位協處。  3.併案案號460",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張丞毅",
     "INJURED_NO": 0,
@@ -79,6 +79,18 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.2026-10-23 23:29:18  報案人表示招牌快掉下來",
+            "new_value": "1.2026-10-23 23:29:18  報案人表示招牌快掉下來  2. 三重區龍門路71號，招牌快掉落，請單位協處。  3.併案案號460",
+            "timestamp": "2026-10-24 08:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 08:41:05"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "掉落物影響交通　／　2026\/10\/23 17:47:18 - 地點描述：宜蘭縣礁溪鄉淇武蘭三路礁溪320民宿據報案人稱上述地點有掉落物(招牌、廣告物)妨礙交通，請派員前往並通知業務主管機關派人處理排除。 110轉報人員：連盈智",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "礁溪派出所林先生",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 07:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 08:41:05"
         }
     ]
 }

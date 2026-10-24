@@ -6,8 +6,8 @@
     "CASE_LOC": "台中市大里區新里里大里路４１６號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.675454566252,24.0978869190348",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電線短路、起火",
     "CASE_DESCRIPTION": "大里區大里路416號前，剛才通報過電線冒煙，現在還冒火花，建請協助派員處理。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 08:41:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電線短路、起火",
+            "timestamp": "2026-10-24 08:41:04"
+        }
+    ]
 }
