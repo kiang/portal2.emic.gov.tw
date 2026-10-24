@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "11510230335、電線斷掉起火、民眾反映地點：八德區新生路100巷巷口事由：巷口處有兩條電線斷掉在地面上，電線有燃燒起火的情況，周邊亦有其他電線斷掉，請盡速派員檢修，本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "吳振豪",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 13:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:41:05"
         }
     ]
 }
