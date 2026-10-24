@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065014620",
-    "CASE_DT": "2026\/10\/24 下午 12:34:04",
+    "CASE_DT": "2026\/10\/24 下午 12:34:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "忠誠路二段２１巷４５弄１０號",
+    "CASE_LOC": "忠誠路二段21巷45弄10號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.533064495723,25.110417734289",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 12:34:04",
+            "new_value": "2026\/10\/24 下午 12:34:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "忠誠路二段２１巷４５弄１０號",
+            "new_value": "忠誠路二段21巷45弄10號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

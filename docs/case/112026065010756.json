@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065010756",
-    "CASE_DT": "2026\/10\/24 上午 06:43:52",
+    "CASE_DT": "2026\/10\/24 上午 06:43:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
     "CASE_LOC": "堤頂大道二段-樂群二路",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 06:43:52",
+            "new_value": "2026\/10\/24 上午 06:43:00",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

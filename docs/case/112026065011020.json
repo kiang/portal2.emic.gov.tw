@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065011020",
-    "CASE_DT": "2026\/10\/24 上午 06:53:21",
+    "CASE_DT": "2026\/10\/24 上午 06:53:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
-    "CASE_LOC": "康寧路三段１８９巷１５９弄１號",
+    "CASE_LOC": "康寧路三段189巷159弄1號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.612366,25.075293",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 06:53:21",
+            "new_value": "2026\/10\/24 上午 06:53:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "康寧路三段１８９巷１５９弄１號",
+            "new_value": "康寧路三段189巷159弄1號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

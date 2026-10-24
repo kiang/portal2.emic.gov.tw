@@ -5,11 +5,11 @@
     "TOWN_N": "北投區",
     "CASE_LOC": "中和街525巷10弄",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.492584,25.144718",
+    "COORDINATE": "121.49326,25.144544",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】此處無門牌，在國防大學圍牆旁邊，路燈編號1200746旁邊，有路樹倒塌，車輛完全無法通行，請單位派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張聰盛",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "COORDINATE",
+            "old_value": "121.492584,25.144718",
+            "new_value": "121.49326,25.144544",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

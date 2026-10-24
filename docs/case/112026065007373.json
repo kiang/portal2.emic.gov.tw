@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065007373",
-    "CASE_DT": "2026\/10\/23 下午 10:36:39",
+    "CASE_DT": "2026\/10\/23 下午 10:36:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "東華街二段１８０號",
+    "CASE_LOC": "東華街二段180號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.511086,25.120188",
+    "COORDINATE": "121.511084,25.120187",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點因為颱風的因素導致倒塌在路面上，目前僅剩下一個車道，請單位協助處理。(永明派出所。)",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 10:36:39",
+            "new_value": "2026\/10\/23 下午 10:36:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "東華街二段１８０號",
+            "new_value": "東華街二段180號",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.511086,25.120188",
+            "new_value": "121.511084,25.120187",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

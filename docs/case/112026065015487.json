@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "【一般案件】上述雅歌SPA店家在1樓屋簷上方有設置橫式廣告招牌，廣告招牌被吹落的鐵皮屋頂砸到，廣告招牌整個搖搖欲墜（鐵皮屋頂已經處理掉），請單位儘快派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "徐月燕",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.533356,25.11903",
             "new_value": "121.533359,25.119029",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:05"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065013420",
-    "CASE_DT": "2026\/10\/24 上午 10:26:28",
+    "CASE_DT": "2026\/10\/24 上午 10:26:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "新園街１２巷６弄３號",
+    "CASE_LOC": "新園街12巷6弄3號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.55303,25.150589",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 10:26:28",
+            "new_value": "2026\/10\/24 上午 10:26:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新園街１２巷６弄３號",
+            "new_value": "新園街12巷6弄3號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

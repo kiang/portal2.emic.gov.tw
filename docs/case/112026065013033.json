@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065013033",
-    "CASE_DT": "2026\/10\/24 上午 09:21:10",
+    "CASE_DT": "2026\/10\/24 上午 09:21:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "懷德街",
+    "CASE_LOC": "懷德街66巷至56巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.519336431573,25.11162247725",
+    "COORDINATE": "121.519994,25.110188",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地址66巷至56巷因颱風造成路樹倒塌影響通行",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 09:21:10",
+            "new_value": "2026\/10\/24 上午 09:21:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "懷德街",
+            "new_value": "懷德街66巷至56巷",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.519336431573,25.11162247725",
+            "new_value": "121.519994,25.110188",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

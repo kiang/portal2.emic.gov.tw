@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】上述地點的巷子道路因颱風關係有鐵架及住家種植的樹木需要清除，麻煩派員前往協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳湘柔",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.50732,25.091518",
             "new_value": "121.507316,25.091518",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:05"
         }
     ]
 }

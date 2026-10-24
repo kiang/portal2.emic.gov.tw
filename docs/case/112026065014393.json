@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】上述地點巷弄內因為颱風，目前有鐵皮屋頂被吹落在路中間擋住通行",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "賴賜郎",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "121.52514,25.122849",
             "new_value": "121.525004,25.123034",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:05"
         }
     ]
 }

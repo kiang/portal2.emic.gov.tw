@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065012140",
-    "CASE_DT": "2026\/10\/24 上午 08:56:08",
+    "CASE_DT": "2026\/10\/24 上午 08:56:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "天母西路１６號",
+    "CASE_LOC": "天母西路16號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52795,25.118332",
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "【一般案件】上述地點在元大銀行前方因為颱風，目前道路上有一個坑洞(深度20公分，直徑大約40公分以上，摩托車經過可能會翻過去)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "馮麗芬",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 08:56:08",
+            "new_value": "2026\/10\/24 上午 08:56:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "天母西路１６號",
+            "new_value": "天母西路16號",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

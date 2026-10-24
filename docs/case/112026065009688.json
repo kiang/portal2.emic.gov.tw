@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026065009688",
-    "CASE_DT": "2026\/10\/24 上午 01:58:04",
+    "CASE_DT": "2026\/10\/24 上午 01:58:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "新園街１１巷２號",
+    "CASE_LOC": "新園街11巷2號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.55261,25.151012",
-    "DISASTER_MAIN_TYPE": "積淹水災情",
-    "DISASTER_SUB_TYPE": "房屋積淹水",
-    "CASE_DESCRIPTION": "【一般案件】住家因為颱風的關係，屋頂被吹走了，現在是室內有積淹水，請單位協助排水。(請單位先跟民眾聯絡，何時會前往協助，目前是只剩下市內電話，請單位響鈴久一點，或是直接敲門)(士林區新園街１１巷２號。)",
+    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
+    "DISASTER_SUB_TYPE": "電力停電",
+    "CASE_DESCRIPTION": "【一般案件】住家因為颱風的關係，屋頂被吹走了，現在是室內有積淹水，請單位協助排水。",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "簡孟涵",
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 01:58:04",
+            "new_value": "2026\/10\/24 上午 01:58:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新園街１１巷２號",
+            "new_value": "新園街11巷2號",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "積淹水災情",
+            "new_value": "民生、基礎設施災情",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "房屋積淹水",
+            "new_value": "電力停電",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "【一般案件】住家因為颱風的關係，屋頂被吹走了，現在是室內有積淹水，請單位協助排水。(請單位先跟民眾聯絡，何時會前往協助，目前是只剩下市內電話，請單位響鈴久一點，或是直接敲門)(士林區新園街１１巷２號。)",
+            "new_value": "【一般案件】住家因為颱風的關係，屋頂被吹走了，現在是室內有積淹水，請單位協助排水。",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

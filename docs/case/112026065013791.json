@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 11:03:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "南港區",
-    "CASE_LOC": "園區街６２號",
+    "CASE_LOC": "園區街62號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.61146,25.059208",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "交通號誌損壞",
             "timestamp": "2026-10-24 15:01:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "園區街６２號",
+            "new_value": "園區街62號",
+            "timestamp": "2026-10-24 17:21:05"
         }
     ]
 }

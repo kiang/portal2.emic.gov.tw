@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065000307",
-    "CASE_DT": "2026\/10\/23 下午 12:00:09",
+    "CASE_DT": "2026\/10\/23 下午 12:00:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
     "CASE_LOC": "內湖路二段-麗山街",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.58162,25.079449",
+    "COORDINATE": "121.579132,25.078721",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】內湖國小校內建物，靠近上述路口的建物鐵皮因為颱風飛落到道路上，還有一片鐵皮搖搖欲墜",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王懿馨",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 12:00:09",
+            "new_value": "2026\/10\/23 下午 12:00:00",
+            "timestamp": "2026-10-24 17:21:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.58162,25.079449",
+            "new_value": "121.579132,25.078721",
+            "timestamp": "2026-10-24 17:21:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:21:06"
+        }
+    ]
 }

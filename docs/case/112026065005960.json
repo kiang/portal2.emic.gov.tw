@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065005960",
-    "CASE_DT": "2026\/10\/23 下午 09:18:57",
+    "CASE_DT": "2026\/10\/23 下午 09:18:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "承德路四段２４６號",
+    "CASE_LOC": "承德路四段246號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52076,25.089039",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 09:18:57",
+            "new_value": "2026\/10\/23 下午 09:18:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "承德路四段２４６號",
+            "new_value": "承德路四段246號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

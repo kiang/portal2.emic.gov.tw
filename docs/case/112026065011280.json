@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065011280",
-    "CASE_DT": "2026\/10\/24 上午 07:44:13",
+    "CASE_DT": "2026\/10\/24 上午 07:44:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "南港區",
-    "CASE_LOC": "舊莊街二段３２６號",
+    "CASE_LOC": "舊莊街二段326號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.56378380955331,25.037522995494044",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 07:44:13",
+            "new_value": "2026\/10\/24 上午 07:44:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "舊莊街二段３２６號",
+            "new_value": "舊莊街二段326號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

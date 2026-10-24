@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065011266",
-    "CASE_DT": "2026\/10\/24 上午 07:36:25",
+    "CASE_DT": "2026\/10\/24 上午 07:36:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "德行東路３３８巷２２號",
+    "CASE_LOC": "德行東路338巷22號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.54188,25.107964",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 07:36:25",
+            "new_value": "2026\/10\/24 上午 07:36:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "德行東路３３８巷２２號",
+            "new_value": "德行東路338巷22號",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }

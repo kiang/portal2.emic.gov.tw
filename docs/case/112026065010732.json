@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065010732",
-    "CASE_DT": "2026\/10\/24 上午 06:41:35",
+    "CASE_DT": "2026\/10\/24 上午 06:19:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "11172台灣臺北市士林區延平北路七段106巷132弄6號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.4959951,25.0996691",
+    "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 壓損房屋- 半倒- 其他補述：本里延平北路七段106巷132弄13號前，路樹傾倒連根拔起壓到民宅",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 06:41:35",
+            "new_value": "2026\/10\/24 上午 06:19:00",
+            "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.4959951,25.0996691",
+            "new_value": ",",
+            "timestamp": "2026-10-24 17:21:05"
+        }
+    ]
 }
