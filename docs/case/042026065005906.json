@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌無法通行，壓到電線。上興里長及本所委外廠商前往處理，目前已作交維並恢復單向通車，清潔隊明早派員清除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "賴小姐",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "路樹倒塌無法通行，壓到電線",
             "new_value": "路樹倒塌無法通行，壓到電線。上興里長及本所委外廠商前往處理，目前已作交維並恢復單向通車，清潔隊明早派員清除。",
             "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 11:01:05"
         }
     ]
 }
