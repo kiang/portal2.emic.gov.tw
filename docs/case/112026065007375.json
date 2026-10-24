@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065007375",
-    "CASE_DT": "2026\/10\/23 下午 10:37:39",
+    "CASE_DT": "2026\/10\/23 下午 10:37:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "大安區",
     "CASE_LOC": "臺北市大安區忠孝東路三段217巷7弄",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.539024,25.043848",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "大樓磁磚脫落，車輛有遭磁磚砸落、受損狀況不清楚、滿地都磁磚，需員警到場拉封鎖線。【薔琵颱風】轉報地址：臺北市大安區忠孝東路三段217巷忠孝東路三段217巷7弄 交叉口110轉報人員：劉政憲.員警在場.",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "翁先生先生\/女士",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 10:37:39",
+            "new_value": "2026\/10\/23 下午 10:37:00",
+            "timestamp": "2026-10-24 17:01:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-24 17:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物輕微受損",
+            "timestamp": "2026-10-24 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:01:04"
+        }
+    ]
 }

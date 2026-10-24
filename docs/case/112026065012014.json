@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065012014",
-    "CASE_DT": "2026\/10\/24 上午 08:44:26",
+    "CASE_DT": "2026\/10\/24 上午 08:44:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "中社路一段11巷",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "【一般案件】11巷內靠近20號旁邊有一棵樟樹壓到電箱，導致中社路一段11巷都停電，從昨晚到現在，請電力公司來修復恢復供電",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王桂美",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 08:44:26",
+            "new_value": "2026\/10\/24 上午 08:44:00",
+            "timestamp": "2026-10-24 17:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:01:04"
+        }
+    ]
 }
