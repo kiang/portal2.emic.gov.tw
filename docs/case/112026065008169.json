@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點前方有路樹因颱風關係倒塌，麻煩派員前往協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "劉宇鎮",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "內湖路二段１７９巷４８弄１６號",
             "new_value": "內湖路二段179巷48弄16號",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 20:21:05"
         }
     ]
 }
