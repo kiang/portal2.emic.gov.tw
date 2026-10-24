@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "陳情人是富世村村民，表示今日前往崇德海邊走走，前往時並沒有看到警戒，也沒有被驅趕，後續碰到海巡署人員，被攔下來直接開單，開單事由為：『經處分而不從，仍強行進入』，民眾表示並未碰到勸導，且海巡人員態度不佳，希望縣府提供協助。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "金統啟",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-24 15:01:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:31:04"
         }
     ]
 }
