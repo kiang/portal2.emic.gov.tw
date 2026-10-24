@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "2026\/10\/22 22:59:49 - 地點描述：彰化縣彰化市中華路21號(工地的圍牆整個倒塌)(工地的圍牆整個倒塌)110轉報人員：黃雅玉",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "報案人",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "",
             "new_value": "報案人",
             "timestamp": "2026-10-23 10:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:01:05"
         }
     ]
 }
