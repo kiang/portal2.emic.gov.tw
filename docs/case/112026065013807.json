@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065013807",
-    "CASE_DT": "2026\/10\/24 上午 11:06:34",
+    "CASE_DT": "2026\/10\/24 上午 11:06:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "萬華區",
-    "CASE_LOC": "忠孝西路二段３８號",
+    "CASE_LOC": "忠孝西路二段38號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.50788,25.048328",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】上述地址有屋頂鐵皮因颱風被吹掀目前搖搖欲墜",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "民眾",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 11:06:34",
+            "new_value": "2026\/10\/24 上午 11:06:00",
+            "timestamp": "2026-10-24 12:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "忠孝西路二段３８號",
+            "new_value": "忠孝西路二段38號",
+            "timestamp": "2026-10-24 12:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 12:41:04"
+        }
+    ]
 }
