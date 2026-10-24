@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "路燈故障",
     "CASE_DESCRIPTION": "地點:台9線 235K處南下及北上路段事由:民眾是玉里工務段進線，反映在上述地點南下及北上路段的路燈各斷掉一盞(總共兩盞)，橫躺在馬路上，已經用三角錐圍起來，不會影響交通，再請相關單位協助處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "饒先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "路燈故障",
             "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 12:31:05"
         }
     ]
 }
