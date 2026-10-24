@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "樹枝斷裂",
     "CASE_DESCRIPTION": "東勢坑農路62-1號周遭樹木橫臥於纜線上，且沿路樹枝樹葉眾多行車易打滑，另土石滑落造成水溝嚴重淤塞",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "林姿均",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 14:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:31:04"
         }
     ]
 }

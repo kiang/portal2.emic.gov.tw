@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "路基流失",
     "CASE_DESCRIPTION": "【一般案件】民眾反映光復南路和八德路三段交叉路口，位於光復南路這一側的斑馬線旁邊的馬路上，疑似因颱風因素，柏油路上有出現一個大小約30之50公分，深度約10公分的空洞，要求相關單位介入修補處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳本玲",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:31:04"
+        }
+    ]
 }
