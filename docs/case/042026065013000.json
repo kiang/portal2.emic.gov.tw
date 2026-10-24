@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "有鐵皮掉落掛在電線上，機車經過恐有碰撞的危險，巷子的路燈受影響也不亮了",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "楊淑琪",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "圍牆倒塌(含籬及鐵皮)",
             "timestamp": "2026-10-24 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:21:04"
         }
     ]
 }

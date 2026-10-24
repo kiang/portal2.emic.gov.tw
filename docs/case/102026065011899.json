@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "北屯區柳陽東街與遼寧路一段交叉口，「平興公園」一棵樹木倒在公園內，弄壞景觀燈與告示牌，人員到場處理時，需聯絡通報人到場會同。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "平興里里長黃先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:21:04"
         }
     ]
 }
