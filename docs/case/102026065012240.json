@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "承115-B156573(建設局)，北屯區太原路三段1299號，該社區車道口有一棵路樹已枯死，擔心會被風吹倒壓傷住戶；10\/24陳情人再次來電，表示夾子車剛才經過，未處理直接駛離，擔心倒塌影響安全，建請儘速協助移除。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "邱先生",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 09:31:08"
+        }
+    ]
 }
