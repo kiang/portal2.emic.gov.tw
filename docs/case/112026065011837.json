@@ -3,15 +3,15 @@
     "CASE_DT": "2026\/10\/24 上午 08:36:37",
     "COUNTY_N": "新竹市",
     "TOWN_N": "北區",
-    "CASE_LOC": "南寮國小旁彭氏祖祠",
-    "GEOMETRY_TYPE": "點",
-    "COORDINATE": "120.926011,24.851631",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌影響交通",
-    "CASE_STATUS": "處理中",
-    "CASE_TYPE": "縣市報災情",
-    "PERSON_ID": "南寮國小",
+    "CASE_LOC": "",
+    "GEOMETRY_TYPE": "新竹市東大路三段439巷18之5號",
+    "COORDINATE": "點",
+    "DISASTER_MAIN_TYPE": "120.926011,24.851631",
+    "DISASTER_SUB_TYPE": "路樹災情",
+    "CASE_DESCRIPTION": "路樹倒塌",
+    "CASE_STATUS": "路樹倒塌影響交通",
+    "CASE_TYPE": "處理中",
+    "PERSON_ID": "縣市報災情",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,60 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "南寮國小旁彭氏祖祠",
+            "new_value": "",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "GEOMETRY_TYPE",
+            "old_value": "點",
+            "new_value": "新竹市東大路三段439巷18之5號",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "120.926011,24.851631",
+            "new_value": "點",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "120.926011,24.851631",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌影響交通",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "路樹倒塌影響交通",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "CASE_TYPE",
+            "old_value": "縣市報災情",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "南寮國小",
+            "new_value": "縣市報災情",
+            "timestamp": "2026-10-24 09:51:04"
+        }
+    ]
 }
