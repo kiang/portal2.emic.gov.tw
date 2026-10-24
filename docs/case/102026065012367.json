@@ -6,8 +6,8 @@
     "CASE_LOC": "壽山路144號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.326805405134,24.9954716497913",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "建物毀損",
+    "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "11510240090、鐵皮屋頂隨時飛走、民眾反映地點:龜山區壽山路144號事由:龜山區公所工務課通報，該址為民宅，鐵皮屋頂目前隨時會飛走，請建管處處理。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 09:41:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "建物毀損",
+            "timestamp": "2026-10-24 10:01:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
+            "timestamp": "2026-10-24 10:01:04"
         }
     ]
 }
