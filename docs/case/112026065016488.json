@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065016488",
-    "CASE_DT": "2026\/10\/24 下午 05:23:38",
+    "CASE_DT": "2026\/10\/24 下午 05:23:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "東和公園,參考地址：臺北市士林區中山北路七段114巷23之13號",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點公園內的魚池旁邊有一棵樹木倒塌",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "楊先生",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 05:23:38",
+            "new_value": "2026\/10\/24 下午 05:23:00",
+            "timestamp": "2026-10-24 20:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 20:41:04"
+        }
+    ]
 }
