@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "11510240114、台61路名牌快掉落通報、民眾反映地點：台61(18.5K，桃園往八里方向)事由：上址綠色路名指示牌已向下彎折且持續搖晃，，請派員儘速前往查看，並先移除。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "魏福興",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-24 12:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 13:51:04"
         }
     ]
 }

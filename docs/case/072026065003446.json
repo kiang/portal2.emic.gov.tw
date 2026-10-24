@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "2026\/10\/23 17:47:21 - 地點描述：桃園市楊梅區自立街284號楊梅分局楊梅區【自立街284號】電線冒火花，需警協助請派員110轉報人員：陳法印",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-24 13:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 13:51:04"
         }
     ]
 }
