@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065015022",
-    "CASE_DT": "2026\/10\/24 下午 01:29:29",
+    "CASE_DT": "2026\/10\/24 下午 01:29:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
-    "CASE_LOC": "信義路五段150巷",
+    "CASE_LOC": "信義路五段150巷433號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.57317,25.022736",
+    "COORDINATE": "121.570922,25.02816",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點約400多號的信義路150巷平面停車場這邊，民眾的車子(RFA-0621)被因颱風關係掉落的路樹大樹幹砸到，請派員處理，請回電民眾是否告知可以移車",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "方秉中",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 01:29:29",
+            "new_value": "2026\/10\/24 下午 01:29:00",
+            "timestamp": "2026-10-24 14:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "信義路五段150巷",
+            "new_value": "信義路五段150巷433號",
+            "timestamp": "2026-10-24 14:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.57317,25.022736",
+            "new_value": "121.570922,25.02816",
+            "timestamp": "2026-10-24 14:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:51:04"
+        }
+    ]
 }

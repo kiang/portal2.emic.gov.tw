@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "2026\/10\/24 00:29:51 - 地點描述：宜蘭縣壯圍鄉新社路69號稱房屋漏水需協助撤離110轉報人員：游挺叡；一樓鐵皮快吹走(報案人表示先跟警察報備)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "林先生(110轉報)",
     "INJURED_NO": 0,
@@ -67,6 +67,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:51:05"
         }
     ]
 }

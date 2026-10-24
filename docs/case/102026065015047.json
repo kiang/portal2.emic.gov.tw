@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "積淹水災情",
     "DISASTER_SUB_TYPE": "道路積淹水",
     "CASE_DESCRIPTION": "11510240216、道路積淹水、民眾反映地點:桃園區溫州一路286號事由:上址對面風禾公園池塘水溢出，水位高度約腳踝處，影響交通，請派員清理。10\/18-13:28通報110處理。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "巫懿倫",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:51:04"
+        }
+    ]
 }
