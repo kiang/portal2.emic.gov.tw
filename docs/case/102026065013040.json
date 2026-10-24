@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "11510240113、中央分隔島上架設的國旗旗桿鬆脫、民眾反映地點:桃園區文中路168號事由:該址中央分隔島上架設的國旗旗桿因颱風風大有脫落風險，請派員前往移除。本案不清楚可與民眾聯繫，民眾電話僅供承辦單位業務聯繫",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "吳詩涵",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-24 10:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 10:51:06"
         }
     ]
 }

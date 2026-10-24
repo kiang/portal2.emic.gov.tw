@@ -8,7 +8,7 @@
     "COORDINATE": "120.682242,24.131003",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "樹枝斷裂",
-    "CASE_DESCRIPTION": "樹枝斷裂",
+    "CASE_DESCRIPTION": "樹枝斷裂(另外這棵樹需要檢視修剪一下  週邊樹枝看起來很不安全)",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "何湞惠里長",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "樹枝斷裂",
+            "new_value": "樹枝斷裂(另外這棵樹需要檢視修剪一下  週邊樹枝看起來很不安全)",
+            "timestamp": "2026-10-24 10:51:06"
+        }
+    ]
 }
