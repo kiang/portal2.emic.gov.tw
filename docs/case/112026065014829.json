@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "【一般案件】歸綏街186號和188號連棟的建物，可能是3樓以上有設置疑似是大型帆布(面積約兩公尺)的廣告，目前垂掛在約2-3樓之間的上空，搖搖欲墜可能隨時會掉下來。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳世隆",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.512120463395,25.058088298297",
             "new_value": "121.51212,25.058088",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 22:21:04"
         }
     ]
 }
