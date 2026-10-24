@@ -8,7 +8,7 @@
     "COORDINATE": "121.1389495,24.578054",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "民眾下山車輛無法通行",
+    "CASE_DESCRIPTION": "民眾下山車輛無法通行\/11點45分通報廠商處理",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "簡雅慧",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-24 10:01:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "民眾下山車輛無法通行",
+            "new_value": "民眾下山車輛無法通行\/11點45分通報廠商處理",
+            "timestamp": "2026-10-24 12:11:05"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "【1999 報災情】民眾反映圍籬倒塌占據車道，在中正區調和街與和豐街口，表示有不明圍籬倒塌在道路上占據一個車道，現場已有員警指揮，員警告知已有通報市府單位協助但至今都沒有改善，嚴重抱怨希相關單位盡速妥處並處理後需回覆市民李先生。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "李先生",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "未指派",
             "new_value": "待處理",
             "timestamp": "2026-10-24 10:51:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 12:11:05"
         }
     ]
 }
