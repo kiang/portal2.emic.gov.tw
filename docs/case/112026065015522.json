@@ -8,8 +8,8 @@
     "COORDINATE": "121.527277,25.043638",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "里長通報，改址為建案，圍籬被強風吹倒，向外佔到人行道，恐影響行人通行",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "里長通報，該址為建案，圍籬被強風吹倒，向外佔到人行道，恐影響行人通行",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "里長通報，改址為建案，圍籬被強風吹倒，向外佔到人行道，恐影響行人通行",
+            "new_value": "里長通報，該址為建案，圍籬被強風吹倒，向外佔到人行道，恐影響行人通行",
+            "timestamp": "2026-10-24 16:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:51:04"
+        }
+    ]
 }

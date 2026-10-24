@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065009965",
-    "CASE_DT": "2026\/10\/24 上午 03:26:46",
+    "CASE_DT": "2026\/10\/24 上午 03:26:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "111台灣臺北市士林區福安里延平北路七段106巷156號",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 道路- 壓損車輛- 斷枝- 其他補述：路數斷裂壓到車輛及阻礙交通",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "蔡伯偉",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 03:26:46",
+            "new_value": "2026\/10\/24 上午 03:26:00",
+            "timestamp": "2026-10-24 16:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:51:04"
+        }
+    ]
 }

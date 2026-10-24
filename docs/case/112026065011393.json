@@ -8,8 +8,8 @@
     "COORDINATE": "121.64571,25.10576",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.汐止區瑞松街22號一帶，於10\/23 22:00左右開始停電，請單位派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.汐止區瑞松街22號一帶，於10\/23 22:00左右開始停電，請單位派員處理。  2.汐止區瑞松街148巷，沿線住家於10\/23 22:00許停電至今，請單位派員處理。  3.併案案號630",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王伯輝",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.汐止區瑞松街22號一帶，於10\/23 22:00左右開始停電，請單位派員處理。",
+            "new_value": "1.汐止區瑞松街22號一帶，於10\/23 22:00左右開始停電，請單位派員處理。  2.汐止區瑞松街148巷，沿線住家於10\/23 22:00許停電至今，請單位派員處理。  3.併案案號630",
+            "timestamp": "2026-10-24 16:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:51:04"
+        }
+    ]
 }

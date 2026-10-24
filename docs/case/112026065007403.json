@@ -5,11 +5,11 @@
     "TOWN_N": "士林區",
     "CASE_LOC": "延平北路七段106巷132弄13號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.496178,25.099931",
+    "COORDINATE": ",",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹傾倒+停電",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "COORDINATE",
+            "old_value": "121.496178,25.099931",
+            "new_value": ",",
+            "timestamp": "2026-10-24 16:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:51:05"
+        }
+    ]
 }
