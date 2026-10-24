@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065017127",
-    "CASE_DT": "2026\/10\/24 下午 07:42:55",
+    "CASE_DT": "2026\/10\/24 下午 07:42:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "大安區",
-    "CASE_LOC": "永康街１５號",
+    "CASE_LOC": "永康街15號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.529816,25.032503",
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】上址人行道有一片160公分*20公分的不明鐵片，請單位協助清除",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "賴威光",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 07:42:55",
+            "new_value": "2026\/10\/24 下午 07:42:00",
+            "timestamp": "2026-10-24 21:51:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "永康街１５號",
+            "new_value": "永康街15號",
+            "timestamp": "2026-10-24 21:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:51:05"
+        }
+    ]
 }
