@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 09:36:00",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "二崙鄉",
-    "CASE_LOC": "雲林縣二崙鄉義庄村新庄路1-3號(義庄21A K2570 FB41)",
+    "CASE_LOC": "雲林縣二崙鄉義庄村新庄路1-3號(義庄21A K2570 FB3436)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.424362,23.817571",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣二崙鄉義庄村新庄路1-3號(義庄21A K2570 FB41)",
+            "new_value": "雲林縣二崙鄉義庄村新庄路1-3號(義庄21A K2570 FB3436)",
+            "timestamp": "2026-10-24 13:01:04"
+        }
+    ]
 }

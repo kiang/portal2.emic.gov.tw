@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線掉落、垂落",
     "CASE_DESCRIPTION": "第四台電視及網路電纜垂落，慢車道騎士行徑已遭甩傷瘀青，更怕高速行徑遭割頸斷頭（大楊所員警現場巡視）　／　2026\/10\/22 23:33:28 - 第四台電視及網路電纜垂落，慢車道騎士行徑已遭甩傷瘀青2026\/10\/22 23:34:11 - 第四台電視及網路電纜垂落，慢車道騎士行徑已遭甩傷瘀青已派遣救護車前往",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "呂啟瑞",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 13:01:05"
+        }
+    ]
 }
