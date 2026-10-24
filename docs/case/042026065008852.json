@@ -8,7 +8,7 @@
     "COORDINATE": "120.539546,24.098749",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌影響車道",
+    "CASE_DESCRIPTION": "路樹倒塌影響車道,已請開口廠商清除完成",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "1999",
@@ -37,6 +37,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 07:51:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌影響車道",
+            "new_value": "路樹倒塌影響車道,已請開口廠商清除完成",
+            "timestamp": "2026-10-24 08:01:05"
         }
     ]
 }
