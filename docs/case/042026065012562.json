@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "中正路656巷45號旁走道的民宅旁堆置的物品，颱風掃盪後有些危險，以免倒下壓到路人",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "朱展鋒",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "中正區中正里中正路656巷的民宅旁堆置的物品，颱風掃盪後有些危險，以免倒下壓到路人",
             "new_value": "中正路656巷45號旁走道的民宅旁堆置的物品，颱風掃盪後有些危險，以免倒下壓到路人",
             "timestamp": "2026-10-24 13:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 14:31:06"
         }
     ]
 }

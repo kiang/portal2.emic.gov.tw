@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065010149",
-    "CASE_DT": "2026\/10\/24 上午 03:57:39",
+    "CASE_DT": "2026\/10\/24 上午 03:57:00",
     "COUNTY_N": "臺北市",
-    "TOWN_N": "大安區",
-    "CASE_LOC": "104台灣臺北市大安區朱崙里建國南路一段41號二樓之5號",
+    "TOWN_N": "中山區",
+    "CASE_LOC": "104台灣臺北市中山區朱崙里建國南路一段41號二樓之5號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5369643,25.048122",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 道路- 行道樹- 斷枝",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "徐嘉佑",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 03:57:39",
+            "new_value": "2026\/10\/24 上午 03:57:00",
+            "timestamp": "2026-10-24 14:31:06"
+        },
+        {
+            "field": "TOWN_N",
+            "old_value": "大安區",
+            "new_value": "中山區",
+            "timestamp": "2026-10-24 14:31:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "104台灣臺北市大安區朱崙里建國南路一段41號二樓之5號",
+            "new_value": "104台灣臺北市中山區朱崙里建國南路一段41號二樓之5號",
+            "timestamp": "2026-10-24 14:31:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:31:06"
+        }
+    ]
 }
