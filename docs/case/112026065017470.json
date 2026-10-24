@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065017470",
-    "CASE_DT": "2026\/10\/24 下午 08:58:27",
+    "CASE_DT": "2026\/10\/24 下午 08:58:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "文林路５０１號",
+    "CASE_LOC": "文林路501號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.52411,25.096554",
+    "COORDINATE": "121.524111,25.096554",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "【一般案件】上述店家在1樓建物外牆有設置廣告看板，廣告看板被颱風吹落，民眾把廣告看板移放到騎樓處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張玉萍",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 08:58:27",
+            "new_value": "2026\/10\/24 下午 08:58:00",
+            "timestamp": "2026-10-24 22:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "文林路５０１號",
+            "new_value": "文林路501號",
+            "timestamp": "2026-10-24 22:51:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.52411,25.096554",
+            "new_value": "121.524111,25.096554",
+            "timestamp": "2026-10-24 22:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 22:51:04"
+        }
+    ]
 }

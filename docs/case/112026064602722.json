@@ -8,8 +8,8 @@
     "COORDINATE": "121.83776,25.11123",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。  2.災害程度更改：重大敏感->輕微修正為輕微",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳信雄",
     "INJURED_NO": 0,
@@ -18,7 +18,7 @@
     "MISSING_NO": 0,
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
-    "IS_SERIOUS": true,
+    "IS_SERIOUS": false,
     "logs": [
         {
             "field": "CASE_DT",
@@ -55,6 +55,24 @@
             "old_value": false,
             "new_value": true,
             "timestamp": "2026-10-24 00:01:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。",
+            "new_value": "1.瑞芳區九份全里停電包括頌德里、永慶里、崇文、基山等九份為國際觀光景點 里內商家眾多期能盡快復電。  2.災害程度更改：重大敏感->輕微修正為輕微",
+            "timestamp": "2026-10-24 22:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 22:51:05"
+        },
+        {
+            "field": "IS_SERIOUS",
+            "old_value": true,
+            "new_value": false,
+            "timestamp": "2026-10-24 22:51:05"
         }
     ]
 }

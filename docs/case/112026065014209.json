@@ -8,8 +8,8 @@
     "COORDINATE": "121.69757,24.97757",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
-    "CASE_DESCRIPTION": "1.石碇區南勢坑6號，周邊疑似因颱風導致該里別全部停電。",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "1.石碇區南勢坑6號，周邊疑似因颱風導致該里別全部停電。  2.石碇區豐田里6鄰?頭路7之1號，10\/23 20:00停電至今未復電。  3.併案案號777",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "許進東",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "1.石碇區南勢坑6號，周邊疑似因颱風導致該里別全部停電。",
+            "new_value": "1.石碇區南勢坑6號，周邊疑似因颱風導致該里別全部停電。  2.石碇區豐田里6鄰?頭路7之1號，10\/23 20:00停電至今未復電。  3.併案案號777",
+            "timestamp": "2026-10-24 22:51:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 22:51:05"
+        }
+    ]
 }
