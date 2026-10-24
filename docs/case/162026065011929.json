@@ -3,12 +3,12 @@
     "CASE_DT": "2026\/10\/24 上午 08:41:34",
     "COUNTY_N": "基隆市",
     "TOWN_N": "中正區",
-    "CASE_LOC": "基隆市中正區",
+    "CASE_LOC": "基隆市中正區正義路2巷46四樓頂樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.7783549,25.1436575",
+    "COORDINATE": "121.747183,25.132863",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
-    "CASE_DESCRIPTION": "正義路2巷46四樓頂樓鐵皮飛到中正山莊社區，且頂樓快坍塌及繩索已鬆動",
+    "CASE_DESCRIPTION": "基隆市正義路2巷46四樓頂樓鐵皮飛到中正山莊社區，且頂樓快坍塌及繩索已鬆動",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "LINE災情通報",
     "PERSON_ID": "黃旻慧",
@@ -25,6 +25,24 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "基隆市中正區",
+            "new_value": "基隆市中正區正義路2巷46四樓頂樓",
+            "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.7783549,25.1436575",
+            "new_value": "121.747183,25.132863",
+            "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "正義路2巷46四樓頂樓鐵皮飛到中正山莊社區，且頂樓快坍塌及繩索已鬆動",
+            "new_value": "基隆市正義路2巷46四樓頂樓鐵皮飛到中正山莊社區，且頂樓快坍塌及繩索已鬆動",
+            "timestamp": "2026-10-24 10:31:05"
         }
     ]
 }

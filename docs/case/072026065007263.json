@@ -6,12 +6,12 @@
     "CASE_LOC": "宜蘭縣宜蘭市嵐峰路一段3號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.755626812574,24.7434019649802",
-    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_MAIN_TYPE": "道路、隧道災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/10\/23 22:32:07 - 地點描述：宜蘭縣宜蘭市嵐峰路一段3號路邊停車格繳費機傾倒110轉報人員：游挺叡",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "沈冠勳",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -25,6 +25,18 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "道路、隧道災情",
+            "timestamp": "2026-10-24 10:31:06"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "沈冠勳",
+            "timestamp": "2026-10-24 10:31:06"
         }
     ]
 }

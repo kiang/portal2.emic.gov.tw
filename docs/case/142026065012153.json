@@ -6,12 +6,12 @@
     "CASE_LOC": "270015 宜蘭縣蘇澳鎮蘇新路101號",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.814800,24.619560",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "蘇澳工程處圍欄有大樹倒塌壓到電線",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "NCDR公民通報",
-    "PERSON_ID": "",
+    "PERSON_ID": "紀昆宏",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "紀昆宏",
+            "timestamp": "2026-10-24 10:31:05"
+        }
+    ]
 }
