@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【1999報災情】14:08民眾反映頂樓雨水槽問題搖搖欲墜，在安樂區基金一路135巷5弄32號7樓，陳述10\/23有來電反應雨水槽在半空中搖搖欲墜，目前還未處理，希業務單位查處改善。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "劉先生",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "0",
             "new_value": "劉先生",
             "timestamp": "2026-10-24 14:31:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:01:05"
         }
     ]
 }

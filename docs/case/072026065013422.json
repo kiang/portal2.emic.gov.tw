@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "2026\/10\/24 10:40:16 - 地點描述：基隆市中山區中山三路103巷內變電所上方電纜線電纜線懸掛一片面積約一台汽車大之鐵皮(含鋼架)搖搖欲墜，有危害之虞請派員處理。(另通知119消防局)110轉報人員：陳國堯",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:01:05"
+        }
+    ]
 }
