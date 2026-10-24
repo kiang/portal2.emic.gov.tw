@@ -6,8 +6,8 @@
     "CASE_LOC": "高雄市新興區玉衡里玉竹二街與中山一路口",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.302833,22.624471",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "告示牌倒地",
     "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
@@ -25,6 +25,18 @@
             "old_value": "處理中",
             "new_value": "已處理",
             "timestamp": "2026-10-24 09:51:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-24 10:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-24 10:11:04"
         }
     ]
 }
