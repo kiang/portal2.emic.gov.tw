@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065006252",
-    "CASE_DT": "2026\/10\/23 下午 09:37:25",
+    "CASE_DT": "2026\/10\/23 下午 09:37:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "臺北市士林區承德路四段80巷69號5樓",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52216,25.083399",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "鐵皮飛落.【薔琵颱風】.請回傳處理前及處理後照片.\/無人受傷，有\/無車輛受損，(描述影響交通、其他財損...等資訊)，(現場處理單位)。義消出動X車X人。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "暫不提供資料",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 09:37:25",
+            "new_value": "2026\/10\/23 下午 09:37:00",
+            "timestamp": "2026-10-24 16:41:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-24 16:41:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-24 16:41:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:41:05"
+        }
+    ]
 }
