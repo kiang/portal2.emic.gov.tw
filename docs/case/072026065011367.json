@@ -8,10 +8,10 @@
     "COORDINATE": "120.43995497782,23.7099984617391",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
-    "CASE_DESCRIPTION": "2026\/10\/24 07:51:42 受傷1人",
+    "CASE_DESCRIPTION": "2026\/10\/24 07:51:42",
     "CASE_STATUS": "待處理",
     "CASE_TYPE": "119消防署派遣系統",
-    "PERSON_ID": "",
+    "PERSON_ID": "葉士毅",
     "INJURED_NO": 0,
     "DEATH_NO": 0,
     "TRAPPED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "2026\/10\/24 07:51:42 受傷1人",
+            "new_value": "2026\/10\/24 07:51:42",
+            "timestamp": "2026-10-24 08:21:05"
+        },
+        {
+            "field": "PERSON_ID",
+            "old_value": "",
+            "new_value": "葉士毅",
+            "timestamp": "2026-10-24 08:21:05"
+        }
+    ]
 }

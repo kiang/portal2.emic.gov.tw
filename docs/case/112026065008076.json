@@ -3,13 +3,13 @@
     "CASE_DT": "2026\/10\/23 下午 07:57:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "台北益昌電動工具五金建材百貨",
+    "CASE_LOC": "新東里民生東路五段262號(台北益昌電動工具五金建材百貨)",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.56729888916016,25.058990478515625",
-    "DISASTER_MAIN_TYPE": "其他災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "COORDINATE": "121.567283,25.05902",
+    "DISASTER_MAIN_TYPE": "路樹災情",
+    "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,36 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "台北益昌電動工具五金建材百貨",
+            "new_value": "新東里民生東路五段262號(台北益昌電動工具五金建材百貨)",
+            "timestamp": "2026-10-24 08:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.56729888916016,25.058990478515625",
+            "new_value": "121.567283,25.05902",
+            "timestamp": "2026-10-24 08:21:05"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "其他災情",
+            "new_value": "路樹災情",
+            "timestamp": "2026-10-24 08:21:05"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-24 08:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 08:21:05"
+        }
+    ]
 }
