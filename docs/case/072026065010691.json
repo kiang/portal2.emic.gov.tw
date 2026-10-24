@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "2026\/10\/24 06:37:57 - 家附近有工地，防颱措施未作好，數片鐵片飛到家門前附近，要請人來處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "沈冠勳",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "沈冠勳",
             "timestamp": "2026-10-24 10:31:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:41:05"
         }
     ]
 }

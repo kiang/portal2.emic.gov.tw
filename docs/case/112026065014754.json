@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 半倒- 其他補述：路樹歪斜 尚不影響交通",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳郁傑",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.580327,25.045219",
             "new_value": "121.580355,25.045211",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:41:04"
         }
     ]
 }
