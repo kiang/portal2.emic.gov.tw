@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065012924",
-    "CASE_DT": "2026\/10\/24 上午 09:58:35",
+    "CASE_DT": "2026\/10\/24 上午 09:58:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
     "CASE_LOC": "松山路656巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.578145315017,25.030967350928",
+    "COORDINATE": "121.578014,25.031686",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點土地宮廟上去後，會看到路樹被颱風風雨吹到傾倒的情形，目前路樹剛好擋住馬路的中間，有影響交通的情況，希望請單位派員去做處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "施明谷",
     "INJURED_NO": 0,
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 09:58:35",
+            "new_value": "2026\/10\/24 上午 09:58:00",
+            "timestamp": "2026-10-24 14:11:09"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.578145315017,25.030967350928",
+            "new_value": "121.578014,25.031686",
+            "timestamp": "2026-10-24 14:11:09"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 14:11:09"
+        }
+    ]
 }
