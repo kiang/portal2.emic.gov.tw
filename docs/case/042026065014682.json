@@ -8,7 +8,7 @@
     "COORDINATE": "120.499313,24.058261",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌",
+    "CASE_DESCRIPTION": "路樹倒塌(已派員前往清除)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "馬鳴派出所陳先生",
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 13:31:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌",
+            "new_value": "路樹倒塌(已派員前往清除)",
+            "timestamp": "2026-10-24 13:41:05"
         }
     ]
 }

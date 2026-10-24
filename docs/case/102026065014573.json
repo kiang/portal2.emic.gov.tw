@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 下午 12:30:41",
     "COUNTY_N": "桃園市",
     "TOWN_N": "蘆竹區",
-    "CASE_LOC": "南山路三段26巷",
+    "CASE_LOC": "南山路三段26巷路燈編號1314659\/為養工處權屬範圍，請轉知",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.285913018614,25.0785076411063",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "南山路三段26巷",
+            "new_value": "南山路三段26巷路燈編號1314659\/為養工處權屬範圍，請轉知",
+            "timestamp": "2026-10-24 13:41:05"
+        }
+    ]
 }
