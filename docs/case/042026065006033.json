@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
     "CASE_DESCRIPTION": "2026\/10\/23 21:01:19 - 鐵皮掉落卡到電線很危險 面積很大       10*10　／　2026\/10\/23 21:07:28 - 獅球路37巷獅球教會前鐵皮掉落    現場已拉封鎖線",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "0909102862",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "其他",
             "new_value": "建物屋頂掀飛(含鐵皮及非鐵皮屋頂)",
             "timestamp": "2026-10-23 21:41:10"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:21:05"
         }
     ]
 }

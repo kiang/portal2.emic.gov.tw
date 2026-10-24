@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "其他災情",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【一般案件】民眾反映上述公園內的公廁旁邊水管疑似因為颱風因素有破裂漏水的狀況，要求相關單位介入修繕處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "周弘翊",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "自來水管破裂、毀損",
             "new_value": "其他",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:21:05"
         }
     ]
 }
