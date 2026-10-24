@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "2026\/10\/24 14:32:28 - 地點描述：基隆市信義區深美街200巷11號車輛遭風災吹落物品砸損，無人受傷，請派員前往查處。110轉報人員：吳道剛　／　【1999報災情】14:17民眾通報路樹倒塌，在信義區深美街200巷10號正對面，陳述車子停在路邊被倒塌的路樹壓住，希業務單位清除。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 15:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "待處理",
+            "timestamp": "2026-10-24 15:41:04"
         }
     ]
 }

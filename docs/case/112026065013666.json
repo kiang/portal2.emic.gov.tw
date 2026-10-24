@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065013666",
-    "CASE_DT": "2026\/10\/24 上午 10:59:22",
+    "CASE_DT": "2026\/10\/24 上午 10:59:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
-    "CASE_LOC": "信安街４６號",
+    "CASE_LOC": "信安街46號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.55811,25.027294",
+    "COORDINATE": "121.558113,25.027293",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】該地點對面 路樹傾倒路邊車格內(陳情人為信義分局六張犁派出所員警。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陸逸安",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 10:59:22",
+            "new_value": "2026\/10\/24 上午 10:59:00",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "信安街４６號",
+            "new_value": "信安街46號",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.55811,25.027294",
+            "new_value": "121.558113,25.027293",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:41:04"
+        }
+    ]
 }

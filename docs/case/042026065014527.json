@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "【1999 報災情】民眾反映鐵窗搖搖欲墜，在仁愛區龍安街220巷12之7號，表示二樓住戶的鐵窗搖搖欲墜聯繫不到屋主，希相關單位派員妥處。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "1999",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "待處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 12:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:41:04"
         }
     ]
 }

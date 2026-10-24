@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065014317",
-    "CASE_DT": "2026\/10\/24 上午 11:47:27",
+    "CASE_DT": "2026\/10\/24 上午 11:47:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "懷德街７５巷８號",
+    "CASE_LOC": "懷德街75巷8號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.5192,25.11371",
+    "COORDINATE": "121.519201,25.11371",
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】面對上述地點公寓左側的車道斜坡上有因為颱風的關係吹落的建物鐵皮屋頂、還有許多木材跟波浪板，皆占用整個車道，請派員處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "沈文修",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 11:47:27",
+            "new_value": "2026\/10\/24 上午 11:47:00",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "懷德街７５巷８號",
+            "new_value": "懷德街75巷8號",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.5192,25.11371",
+            "new_value": "121.519201,25.11371",
+            "timestamp": "2026-10-24 15:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 15:41:04"
+        }
+    ]
 }
