@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 壓損車輛- 行道樹",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "呂雕龍",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.56943173370009,25.034378448001608",
             "new_value": "121.560436,25.035762",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:01:05"
         }
     ]
 }

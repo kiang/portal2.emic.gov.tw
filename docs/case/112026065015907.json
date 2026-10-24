@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "1.雙溪區牡丹里102線28.70K(路燈編號:621339)、雙溪區魚行里102線33.00K(路燈編號:626205)至「丁子蘭坑」附近(路燈編號:626416)，沿線單側路樹傾倒在地，已阻擋往雙溪方向的車輛通行，請相關單位儘快派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "吳明益",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:01:04"
+        }
+    ]
 }

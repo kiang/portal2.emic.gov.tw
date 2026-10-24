@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "【一般案件】因颱風因素，上址路口往中山北路五段282巷內有梅莊營區圍牆倒榻，水泥塊倒於車道上，無人受傷",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "蘇偉智",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "2026\/10\/24 下午 01:50:14",
             "new_value": "2026\/10\/24 下午 01:50:00",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:01:04"
         }
     ]
 }
