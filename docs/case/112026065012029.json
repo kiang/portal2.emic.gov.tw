@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065012029",
-    "CASE_DT": "2026\/10\/24 上午 08:36:16",
+    "CASE_DT": "2026\/10\/24 上午 08:36:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "天母北路１０１巷９號",
+    "CASE_LOC": "天母北路101巷9號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.527557822945,25.123440628303",
+    "COORDINATE": "121.527558,25.123441",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "自來水停水",
     "CASE_DESCRIPTION": "【一般案件】上址用戶因颱風的關係突然停水",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李春陽",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 08:36:16",
+            "new_value": "2026\/10\/24 上午 08:36:00",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "天母北路１０１巷９號",
+            "new_value": "天母北路101巷9號",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.527557822945,25.123440628303",
+            "new_value": "121.527558,25.123441",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 11:51:06"
+        }
+    ]
 }

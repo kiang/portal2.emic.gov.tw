@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065011638",
-    "CASE_DT": "2026\/10\/24 上午 07:59:57",
+    "CASE_DT": "2026\/10\/24 上午 07:59:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "雨聲街１０５號",
+    "CASE_LOC": "雨聲街105號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.53156,25.105194",
+    "COORDINATE": "121.531566,25.105194",
     "DISASTER_MAIN_TYPE": "環境汙染",
     "DISASTER_SUB_TYPE": "環境汙染",
     "CASE_DESCRIPTION": "【一般案件】上址為陽明院區，位於出口處有許多被颱風吹落下來的樹枝與樹葉，請單位處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳家寶",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 07:59:57",
+            "new_value": "2026\/10\/24 上午 07:59:00",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "雨聲街１０５號",
+            "new_value": "雨聲街105號",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.53156,25.105194",
+            "new_value": "121.531566,25.105194",
+            "timestamp": "2026-10-24 11:51:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 11:51:06"
+        }
+    ]
 }

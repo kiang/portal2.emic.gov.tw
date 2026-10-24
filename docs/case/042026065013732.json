@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 10:57:00",
     "COUNTY_N": "雲林縣",
     "TOWN_N": "西螺鎮",
-    "CASE_LOC": "雲林縣西螺鎮  台電電桿  新社161西7K2656EE65  路燈編號25419",
+    "CASE_LOC": "雲林縣西螺鎮  台電電桿  新社161西7K2656EE68  路燈編號25419",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "120.4580795,23.77942109",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "雲林縣西螺鎮  台電電桿  新社161西7K2656EE65  路燈編號25419",
+            "new_value": "雲林縣西螺鎮  台電電桿  新社161西7K2656EE68  路燈編號25419",
+            "timestamp": "2026-10-24 11:51:05"
+        }
+    ]
 }
