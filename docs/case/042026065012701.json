@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線短路、起火",
     "CASE_DESCRIPTION": "烏麻村電線杆(烏麻電線杆號-烏麻46-K4655BC25)(永昌3-K4656FB28)(烏麻50-K4555HB6)等3處-電線走火",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "烏麻村長詹飛聲",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "烏麻村長",
             "new_value": "烏麻村長詹飛聲",
             "timestamp": "2026-10-24 10:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-24 11:21:04"
         }
     ]
 }

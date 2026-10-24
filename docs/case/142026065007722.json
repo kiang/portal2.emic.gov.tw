@@ -3,11 +3,11 @@
     "CASE_DT": "2026\/10\/23 下午 07:57:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "台北益昌電動工具五金建材百貨",
+    "CASE_LOC": "台北益昌電動工具五金建材百貨(CCTV-警察局)",
     "GEOMETRY_TYPE": "",
     "COORDINATE": "121.567300,25.058990",
-    "DISASTER_MAIN_TYPE": "路樹災情",
-    "DISASTER_SUB_TYPE": "路樹倒塌",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "路樹倒塌",
     "CASE_STATUS": "未指派",
     "CASE_TYPE": "NCDR公民通報",
@@ -31,6 +31,24 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-24 06:41:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "台北益昌電動工具五金建材百貨",
+            "new_value": "台北益昌電動工具五金建材百貨(CCTV-警察局)",
+            "timestamp": "2026-10-24 11:21:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "路樹災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-24 11:21:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "路樹倒塌",
+            "new_value": "其他",
+            "timestamp": "2026-10-24 11:21:04"
         }
     ]
 }

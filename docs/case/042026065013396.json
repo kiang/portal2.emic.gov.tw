@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 10:36:00",
     "COUNTY_N": "宜蘭縣",
     "TOWN_N": "冬山鄉",
-    "CASE_LOC": "宜蘭縣冬山鄉大埤二路238號路樹傾斜",
+    "CASE_LOC": "宜蘭縣冬山鄉大埤二路238號路樹傾斜(民宅住家範圍)",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.728309,24.646481",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "宜蘭縣冬山鄉大埤二路238號路樹傾斜",
+            "new_value": "宜蘭縣冬山鄉大埤二路238號路樹傾斜(民宅住家範圍)",
+            "timestamp": "2026-10-24 11:21:04"
+        }
+    ]
 }
