@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "1.樹林區環漢路五段全線，整排路燈及交通號誌皆未亮燈，疑似因電力中斷所致，恐影響道路照明及交通安全，請權責單位派員前往檢查並儘速修復。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "鄭玉萍",
     "INJURED_NO": 0,
@@ -79,6 +79,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-23 23:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 10:41:04"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "1.林口區竹林路268號1樓，該址招牌快掉落，請單位檢修。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "黃先生",
     "INJURED_NO": 0,
@@ -61,6 +61,12 @@
             "old_value": "1.新店區北宜路二段485號，目前18:30左右起有停電情形，請單位檢修。",
             "new_value": "1.林口區竹林路268號1樓，該址招牌快掉落，請單位檢修。",
             "timestamp": "2026-10-23 23:51:07"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 10:41:04"
         }
     ]
 }
