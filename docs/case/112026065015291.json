@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "【一般案件】上述地點行車號誌一直顯示紅燈，不會變換燈",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "曾正男",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "延壽街４００號一樓",
             "new_value": "延壽街400號一樓",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 19:51:06"
         }
     ]
 }
