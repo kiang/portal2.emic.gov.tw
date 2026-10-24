@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065016049",
-    "CASE_DT": "2026\/10\/24 下午 04:21:53",
+    "CASE_DT": "2026\/10\/24 下午 04:21:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
     "CASE_LOC": "116台灣臺北市文山區博嘉里木柵路五段110號",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "- 道路- 人行道- 其他補述：指南客運新光站鐵皮圍籬倒塌，影響人行道，嚴重佔用人行道空間",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張仲德",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 04:21:53",
+            "new_value": "2026\/10\/24 下午 04:21:00",
+            "timestamp": "2026-10-24 18:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 18:51:04"
+        }
+    ]
 }
