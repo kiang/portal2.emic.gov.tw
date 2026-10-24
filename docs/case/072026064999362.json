@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "2026\/10\/23 10:08:08 - 地點描述：彰化縣彰化市彰南路彰興路災害案件補登並通報119，快官所，災害內容 許雅琳競選帆布鬆落影響行車安全110轉報人員：鄭暉琛",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "7381006",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "",
             "new_value": "7381006",
             "timestamp": "2026-10-23 10:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 13:31:05"
         }
     ]
 }

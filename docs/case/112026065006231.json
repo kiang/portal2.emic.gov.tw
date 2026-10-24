@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065006231",
-    "CASE_DT": "2026\/10\/23 下午 09:33:40",
+    "CASE_DT": "2026\/10\/23 下午 09:33:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
     "CASE_LOC": "和平東路三段",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】往捷運麟光站方向，靠近名門社區附近，在莊敬隧道口，有颱風路樹倒塌，請單位處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王初瑜",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 09:33:40",
+            "new_value": "2026\/10\/23 下午 09:33:00",
+            "timestamp": "2026-10-24 13:31:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 13:31:05"
+        }
+    ]
 }
