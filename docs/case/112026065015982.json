@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】星巴克的前面靠近信義路上的綠地，有一棵大樟樹已經傾斜快倒了，目前前後用黃布條先圍起來",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳金發",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.56677,25.032587",
             "new_value": "121.566773,25.032586",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 21:21:09"
         }
     ]
 }
