@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065014388",
-    "CASE_DT": "2026\/10\/24 上午 11:57:05",
+    "CASE_DT": "2026\/10\/24 上午 11:57:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "至善路三段３３６巷４５號",
+    "CASE_LOC": "至善路三段336巷45號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.592613706639,25.132319281791",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 11:57:05",
+            "new_value": "2026\/10\/24 上午 11:57:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "至善路三段３３６巷４５號",
+            "new_value": "至善路三段336巷45號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065012846",
-    "CASE_DT": "2026\/10\/24 上午 09:45:21",
+    "CASE_DT": "2026\/10\/24 上午 09:45:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "111台灣臺北市士林區福安里延平北路八段2巷153弄",
+    "CASE_LOC": "士林區福安里延平北路八段2巷153弄",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.4836959,25.1102232",
+    "COORDINATE": "121.486352,25.10957",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 壓倒供電線路(桿)- 斷枝- 其他補述：本里延平北路八段2巷153弄，竹子斷枝壓到電線",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 09:45:21",
+            "new_value": "2026\/10\/24 上午 09:45:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "111台灣臺北市士林區福安里延平北路八段2巷153弄",
+            "new_value": "士林區福安里延平北路八段2巷153弄",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.4836959,25.1102232",
+            "new_value": "121.486352,25.10957",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

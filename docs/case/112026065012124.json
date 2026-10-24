@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065012124",
-    "CASE_DT": "2026\/10\/24 上午 08:29:58",
+    "CASE_DT": "2026\/10\/24 上午 08:29:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "中山北路七段(地址資訊登載於個資欄位)",
+    "CASE_LOC": "中山北路七段190巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.532371495352,25.123817985739",
+    "COORDINATE": "121.533137,25.125077",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】住家前一點路上的龍眼樹倒塌，已經影響交通(中山北路七段１９０巷１２５號。)",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 08:29:58",
+            "new_value": "2026\/10\/24 上午 08:29:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中山北路七段(地址資訊登載於個資欄位)",
+            "new_value": "中山北路七段190巷",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.532371495352,25.123817985739",
+            "new_value": "121.533137,25.125077",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065015292",
-    "CASE_DT": "2026\/10\/24 下午 01:51:03",
+    "CASE_DT": "2026\/10\/24 下午 01:51:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "新園街６７號",
+    "CASE_LOC": "新園街67號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.55402,25.151995",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 01:51:03",
+            "new_value": "2026\/10\/24 下午 01:51:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "新園街６７號",
+            "new_value": "新園街67號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

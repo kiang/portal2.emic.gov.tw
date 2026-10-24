@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065013674",
-    "CASE_DT": "2026\/10\/24 上午 11:00:23",
+    "CASE_DT": "2026\/10\/24 上午 11:00:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "陽明路一段３２之１號",
+    "CASE_LOC": "陽明路一段32之1號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.549745618761,25.149236548963",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 11:00:23",
+            "new_value": "2026\/10\/24 上午 11:00:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "陽明路一段３２之１號",
+            "new_value": "陽明路一段32之1號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

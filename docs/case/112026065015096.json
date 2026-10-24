@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065015096",
-    "CASE_DT": "2026\/10\/24 下午 01:32:43",
+    "CASE_DT": "2026\/10\/24 下午 01:32:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
-    "CASE_LOC": "內湖路三段３４８巷６號",
+    "CASE_LOC": "內湖路三段348巷6號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.58346,25.091412",
+    "COORDINATE": "121.583455,25.091411",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "【一般案件】上述地點一整棟及附近都停電",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 01:32:43",
+            "new_value": "2026\/10\/24 下午 01:32:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "內湖路三段３４８巷６號",
+            "new_value": "內湖路三段348巷6號",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.58346,25.091412",
+            "new_value": "121.583455,25.091411",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

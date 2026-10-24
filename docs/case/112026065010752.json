@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065010752",
-    "CASE_DT": "2026\/10\/24 上午 06:44:45",
+    "CASE_DT": "2026\/10\/24 上午 06:44:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "中山北路六段２９０巷１９號",
+    "CASE_LOC": "中山北路六段290巷19號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52623,25.10971",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 06:44:45",
+            "new_value": "2026\/10\/24 上午 06:44:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中山北路六段２９０巷１９號",
+            "new_value": "中山北路六段290巷19號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -7,7 +7,7 @@
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.528448,25.130231",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "其他",
+    "DISASTER_SUB_TYPE": "電信停話",
     "CASE_DESCRIPTION": "中華電信電信箱被吹倒到道路中央",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -25,6 +25,12 @@
             "old_value": "其他災情",
             "new_value": "民生、基礎設施災情",
             "timestamp": "2026-10-24 14:51:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "其他",
+            "new_value": "電信停話",
+            "timestamp": "2026-10-24 17:11:04"
         }
     ]
 }

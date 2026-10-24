@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065005760",
-    "CASE_DT": "2026\/10\/23 下午 08:57:04",
+    "CASE_DT": "2026\/10\/23 下午 08:57:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
-    "CASE_LOC": "成功路二段２３５號",
+    "CASE_LOC": "成功路二段235號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.590911120593,25.06775373809",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 08:57:04",
+            "new_value": "2026\/10\/23 下午 08:57:00",
+            "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "成功路二段２３５號",
+            "new_value": "成功路二段235號",
+            "timestamp": "2026-10-24 17:11:05"
+        }
+    ]
 }

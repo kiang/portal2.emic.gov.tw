@@ -1,6 +1,6 @@
 {
     "CASE_ID": "112026065008152",
-    "CASE_DT": "2026\/10\/23 下午 11:25:02",
+    "CASE_DT": "2026\/10\/23 下午 11:25:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "111台灣臺北市士林區忠誠里德行東路104巷31號1",
@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "- 巷弄- 其他補述：該建築物1樓的牆壁和門被颱風吹爆了，物品和碎片散落到外面。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張哲嘉",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 11:25:02",
+            "new_value": "2026\/10\/23 下午 11:25:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 02:20:24",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "新園街３８號",
+    "CASE_LOC": "新園街38號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.553166610097,25.151372603845",
     "DISASTER_MAIN_TYPE": "建物毀損",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "新園街３８號",
+            "new_value": "新園街38號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

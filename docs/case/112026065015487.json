@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065015487",
-    "CASE_DT": "2026\/10\/24 下午 02:25:04",
+    "CASE_DT": "2026\/10\/24 下午 02:25:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "中山北路七段１４巷３０弄１０號1樓",
+    "CASE_LOC": "中山北路七段14巷30弄10號1樓",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.533356,25.11903",
+    "COORDINATE": "121.533359,25.119029",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "【一般案件】上述雅歌SPA店家在1樓屋簷上方有設置橫式廣告招牌，廣告招牌被吹落的鐵皮屋頂砸到，廣告招牌整個搖搖欲墜（鐵皮屋頂已經處理掉），請單位儘快派員處理。",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 02:25:04",
+            "new_value": "2026\/10\/24 下午 02:25:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "中山北路七段１４巷３０弄１０號1樓",
+            "new_value": "中山北路七段14巷30弄10號1樓",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.533356,25.11903",
+            "new_value": "121.533359,25.119029",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

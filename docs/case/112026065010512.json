@@ -8,8 +8,8 @@
     "COORDINATE": "121.56113,25.036968",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
-    "CASE_DESCRIPTION": "youbike站旁圍籬傾倒",
-    "CASE_STATUS": "處理中",
+    "CASE_DESCRIPTION": "youbike站防護網倒塌",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "",
     "INJURED_NO": 0,
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "youbike站旁圍籬傾倒",
+            "new_value": "youbike站防護網倒塌",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -1,13 +1,13 @@
 {
     "CASE_ID": "112026065013959",
-    "CASE_DT": "2026\/10\/24 上午 11:09:39",
+    "CASE_DT": "2026\/10\/24 上午 11:09:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
     "CASE_LOC": "114台灣臺北市內湖區湖元里堤頂大道一段215 號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.5737316,25.0590559",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "DISASTER_MAIN_TYPE": "其他災情",
+    "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "- 道路- 其他補述：交通反射鏡傾倒(已移置分隔島上，不影響交通)",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -31,6 +31,24 @@
             "old_value": "其他",
             "new_value": "交通號誌損壞",
             "timestamp": "2026-10-24 15:01:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 11:09:39",
+            "new_value": "2026\/10\/24 上午 11:09:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "其他災情",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "其他",
+            "timestamp": "2026-10-24 17:11:04"
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
     "CASE_ID": "112026065015509",
-    "CASE_DT": "2026\/10\/24 下午 02:44:39",
+    "CASE_DT": "2026\/10\/24 下午 02:44:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
     "CASE_LOC": "臺北市內湖區南京東路六段459號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.587425,25.061066",
-    "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
-    "DISASTER_SUB_TYPE": "交通號誌損壞",
+    "DISASTER_MAIN_TYPE": "廣告招牌災情",
+    "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "停車場限高架掉落",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
@@ -31,6 +31,24 @@
             "old_value": "其他",
             "new_value": "交通號誌損壞",
             "timestamp": "2026-10-24 15:11:04"
+        },
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 02:44:39",
+            "new_value": "2026\/10\/24 下午 02:44:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "DISASTER_MAIN_TYPE",
+            "old_value": "民生、基礎設施災情",
+            "new_value": "廣告招牌災情",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "DISASTER_SUB_TYPE",
+            "old_value": "交通號誌損壞",
+            "new_value": "廣告招牌掉落",
+            "timestamp": "2026-10-24 17:11:04"
         }
     ]
 }

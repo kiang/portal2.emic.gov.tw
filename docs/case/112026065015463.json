@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065015463",
-    "CASE_DT": "2026\/10\/24 下午 02:18:51",
+    "CASE_DT": "2026\/10\/24 下午 02:18:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "111台灣臺北市士林區蘭興里克強路10巷1號",
+    "CASE_LOC": "士林區蘭興里克強路10巷1號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.5236265,25.1105988",
+    "COORDINATE": "121.52448,25.108964",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "- 巷弄- 人行道- 壓損房屋- 公園樹- 全倒- 其他補述：湳雅福安宮旁大路樹倒塌，很多民眾反應，壓廁所",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 02:18:51",
+            "new_value": "2026\/10\/24 下午 02:18:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "111台灣臺北市士林區蘭興里克強路10巷1號",
+            "new_value": "士林區蘭興里克強路10巷1號",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.5236265,25.1105988",
+            "new_value": "121.52448,25.108964",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

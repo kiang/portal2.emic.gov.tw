@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 09:39:35",
     "COUNTY_N": "臺北市",
     "TOWN_N": "萬華區",
-    "CASE_LOC": "西寧南路２５７號",
+    "CASE_LOC": "西寧南路257號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.506241435083,25.03981521329",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "西寧南路２５７號",
+            "new_value": "西寧南路257號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065000303",
-    "CASE_DT": "2026\/10\/23 下午 12:03:54",
+    "CASE_DT": "2026\/10\/23 下午 12:03:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
     "CASE_LOC": "至善路一段138巷-臨溪路",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.54331,25.096163",
+    "COORDINATE": "121.539773,25.097169",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "【一般案件】上述地點周遭目前因為颱風關係導致停電，民眾表示變電箱在上述地點交叉口",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 12:03:54",
+            "new_value": "2026\/10\/23 下午 12:03:00",
+            "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.54331,25.096163",
+            "new_value": "121.539773,25.097169",
+            "timestamp": "2026-10-24 17:11:05"
+        }
+    ]
 }

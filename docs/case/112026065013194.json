@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065013194",
-    "CASE_DT": "2026\/10\/24 上午 10:19:51",
+    "CASE_DT": "2026\/10\/24 上午 10:19:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "信義區",
-    "CASE_LOC": "信安街(民眾住家詳細登載於陳情人欄位)",
+    "CASE_LOC": "信安街115巷",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.55676,25.024597",
+    "COORDINATE": "121.556245,25.024792",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點旁山坡上的路樹因颱風關係倒塌，壓到民眾住家窗戶，請單位協助清除(信安街１１５巷１９號。)",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 10:19:51",
+            "new_value": "2026\/10\/24 上午 10:19:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "信安街(民眾住家詳細登載於陳情人欄位)",
+            "new_value": "信安街115巷",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.55676,25.024597",
+            "new_value": "121.556245,25.024792",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

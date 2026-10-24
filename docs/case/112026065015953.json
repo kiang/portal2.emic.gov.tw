@@ -1,9 +1,9 @@
 {
     "CASE_ID": "112026065015953",
-    "CASE_DT": "2026\/10\/24 下午 03:58:56",
+    "CASE_DT": "2026\/10\/24 下午 03:58:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "士林區",
-    "CASE_LOC": "文林路４６０號",
+    "CASE_LOC": "文林路460號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.52456,25.09564",
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
@@ -19,5 +19,18 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 03:58:56",
+            "new_value": "2026\/10\/24 下午 03:58:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "文林路４６０號",
+            "new_value": "文林路460號",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

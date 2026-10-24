@@ -1,14 +1,14 @@
 {
     "CASE_ID": "112026065009043",
-    "CASE_DT": "2026\/10\/24 上午 12:50:54",
+    "CASE_DT": "2026\/10\/24 上午 12:50:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "臺北市中山區明水路618號",
+    "CASE_LOC": "明水路618號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.55139,25.082535",
+    "COORDINATE": "121.551389,25.082536",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
-    "CASE_DESCRIPTION": "路樹倒塌.義消0車0人",
+    "CASE_DESCRIPTION": "路樹倒塌",
     "CASE_STATUS": "處理中",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "台北市政府警察局中山分局",
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 12:50:54",
+            "new_value": "2026\/10\/24 上午 12:50:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "臺北市中山區明水路618號",
+            "new_value": "明水路618號",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.55139,25.082535",
+            "new_value": "121.551389,25.082536",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_DESCRIPTION",
+            "old_value": "路樹倒塌.義消0車0人",
+            "new_value": "路樹倒塌",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

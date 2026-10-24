@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065004011",
-    "CASE_DT": "2026\/10\/23 下午 06:34:29",
+    "CASE_DT": "2026\/10\/23 下午 06:34:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "松山區",
-    "CASE_LOC": "八德路四段２４５巷１８號",
+    "CASE_LOC": "八德路四段245巷18號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.5646,25.049656",
+    "COORDINATE": "121.564595,25.049655",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "【一般案件】反映上述大樓旁邊有個地下停車場，停車場的建築上有一條不明電纜線，因為颱風關係導致被吹斷垂落一直打到住戶的窗戶，請相關單位派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "郭興民",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/23 下午 06:34:29",
+            "new_value": "2026\/10\/23 下午 06:34:00",
+            "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "八德路四段２４５巷１８號",
+            "new_value": "八德路四段245巷18號",
+            "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.5646,25.049656",
+            "new_value": "121.564595,25.049655",
+            "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 17:11:05"
+        }
+    ]
 }

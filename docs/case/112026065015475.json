@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065015475",
-    "CASE_DT": "2026\/10\/24 下午 02:32:28",
+    "CASE_DT": "2026\/10\/24 下午 02:32:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "文山區",
-    "CASE_LOC": "木新路三段１８１號",
+    "CASE_LOC": "木新路三段181號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.560400954256,24.981524400242",
+    "COORDINATE": "121.560401,24.981524",
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "建物輕微受損",
     "CASE_DESCRIPTION": "【一般案件】上述地點頂樓有一塊鐵皮因颱風關係搖搖欲墜，麻煩派員前往協助處理。",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 02:32:28",
+            "new_value": "2026\/10\/24 下午 02:32:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "木新路三段１８１號",
+            "new_value": "木新路三段181號",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.560400954256,24.981524400242",
+            "new_value": "121.560401,24.981524",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }

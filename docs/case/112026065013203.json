@@ -1,11 +1,11 @@
 {
     "CASE_ID": "112026065013203",
-    "CASE_DT": "2026\/10\/24 上午 10:08:08",
+    "CASE_DT": "2026\/10\/24 上午 10:08:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "內湖區",
-    "CASE_LOC": "康樂街２９７號",
+    "CASE_LOC": "康樂街297號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.61089,25.098269",
+    "COORDINATE": "121.610893,25.098268",
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "【一般案件】上述地點有有用戶停電，敬請相關權責單位協助修復處理。",
@@ -19,5 +19,24 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 10:08:08",
+            "new_value": "2026\/10\/24 上午 10:08:00",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "康樂街２９７號",
+            "new_value": "康樂街297號",
+            "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.61089,25.098269",
+            "new_value": "121.610893,25.098268",
+            "timestamp": "2026-10-24 17:11:04"
+        }
+    ]
 }
