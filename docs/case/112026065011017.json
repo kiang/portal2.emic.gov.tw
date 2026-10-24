@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065011017",
-    "CASE_DT": "2026\/10\/24 上午 06:56:54",
+    "CASE_DT": "2026\/10\/24 上午 06:56:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "萬華區",
-    "CASE_LOC": "開封街二段３９號",
+    "CASE_LOC": "開封街二段39號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.50643,25.04714",
+    "COORDINATE": "121.506431,25.047141",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】因為颱風大樹倒塌，位於社宅老樹區，影響人通行，請單位協助移除",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "施文傑",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 上午 06:56:54",
+            "new_value": "2026\/10\/24 上午 06:56:00",
+            "timestamp": "2026-10-24 16:21:06"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "開封街二段３９號",
+            "new_value": "開封街二段39號",
+            "timestamp": "2026-10-24 16:21:06"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.50643,25.04714",
+            "new_value": "121.506431,25.047141",
+            "timestamp": "2026-10-24 16:21:06"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-24 16:21:06"
+        }
+    ]
 }
