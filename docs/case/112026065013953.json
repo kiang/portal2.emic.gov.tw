@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "- 整區不亮- 其他補述：已從115\/10\/23晚上10點左右停電迄今（115\/10\/24上午11:20）都停電，超過12小時以上，影響家用電器包含冰箱儲藏食材部分已有需處理等民生不便情況。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "游倩雯",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "2026\/10\/24 上午 11:22:47",
             "new_value": "2026\/10\/24 上午 11:22:00",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:31:04"
         }
     ]
 }

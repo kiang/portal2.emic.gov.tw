@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "交通號誌損壞",
     "CASE_DESCRIPTION": "【一般案件】（本案地點座標異常，機關收辦時請以「發生地址、發生地點」所載資訊為準）南港區舊莊街二段30號到南港區舊莊街二段326號，沿路反射鏡因颱風關係，有的角度都被吹到歪斜，有的鏡子被吹斷掉在路旁。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "余文騰",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "舊莊街二段３２６號",
             "new_value": "舊莊街二段326號",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:31:04"
         }
     ]
 }

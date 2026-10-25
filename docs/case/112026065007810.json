@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "路樹倒塌，影響交通，請派員管制，並通知相關單位到場。【薔琵颱風】 轉報地址：臺北市內湖區舊宗路二段213巷舊宗路二段 交叉口110轉報人員：劉政憲",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "未具名先生\/女士",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "2026\/10\/23 下午 11:03:42",
             "new_value": "2026\/10\/23 下午 11:03:00",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:31:04"
         }
     ]
 }
