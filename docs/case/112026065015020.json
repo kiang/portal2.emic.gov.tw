@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 下午 01:25:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "石牌路2段322號",
+    "CASE_LOC": "石牌路二段322號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.522963,25.120802",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -43,6 +43,12 @@
             "old_value": "樹枝斷裂",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "石牌路2段322號",
+            "new_value": "石牌路二段322號",
+            "timestamp": "2026-10-25 15:21:06"
         }
     ]
 }
