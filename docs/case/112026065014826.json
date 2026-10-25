@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地址的對面因颱風因素有路樹倒塌，並且砸到民眾停在路邊的車輛，要求相關單位儘快介入處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李沛霖",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "承德路四段６巷６９號",
             "new_value": "承德路四段6巷69號",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:11:04"
         }
     ]
 }
