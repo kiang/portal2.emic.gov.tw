@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】（本案地點座標異常，機關收辦時請以「發生地址、發生地點」所載資訊為準）亞尼克餐廳前有一棵樹倒壓到民眾的車，請單位處理前先與民眾聯繫",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "陳家宜",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "121.543788184596,25.137613473422",
             "new_value": "121.54387,25.137015",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

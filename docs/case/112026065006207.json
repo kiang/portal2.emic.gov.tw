@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "【一般案件】上述地點受颱風影響導致招牌搖搖欲墜快掉落，請單位協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "崔華銘",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.565330300676,25.06294011966",
             "new_value": "121.56533,25.06294",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

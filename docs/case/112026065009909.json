@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】停車場外圍的人行道上樹木因颱風造成倒塌在馬路上，有影響車輛通行。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "李育棋",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "劍潭路７１號",
             "new_value": "劍潭路71號",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

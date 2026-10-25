@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上址1樓沒住人，疑似住戶搬去國外，庭院種的九重葛枝條過長，疑似因颱風情形，樹已傾斜壓在鐵欄杆上，枝條垂下會掃到路人或車子，敬請單位派員處理",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "楊勝全",
     "INJURED_NO": 0,
@@ -43,6 +43,12 @@
             "old_value": "其他",
             "new_value": "路樹倒塌",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:05"
         }
     ]
 }

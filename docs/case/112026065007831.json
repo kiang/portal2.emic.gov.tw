@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌掉落",
     "CASE_DESCRIPTION": "【一般案件】上述地點有一塊很大塊的廣告招牌掉落在馬路上，請單位派員處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "趙黎縈",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "中山北路七段１４巷３０弄１０號",
             "new_value": "中山北路七段14巷30弄10號",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】台灣戲曲中心前兩側道路有路樹倒了，一側在德行西路口，樹倒影響單線通行；一側在福國路旁，稍微影響交通",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "林淑惠",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.519443679072,25.102789905888",
             "new_value": "121.519443,25.102789",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

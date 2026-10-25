@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】因颱風造成上述地點前方有一顆路樹傾倒在車道上，倒下來的樹木後續又被風吹移靠在一輛汽車上，目前倒下來的樹木在最外側車道上，占用一線車道，現場車輛可以通行，但是民眾擔心樹木會再被風吹移到其他地方影響車行安全，現場沒有員警疏導交通，希望相關單位派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "孟偉傑",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "成功路二段２３５號",
             "new_value": "成功路二段235號",
             "timestamp": "2026-10-24 17:11:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

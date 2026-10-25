@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】正對面空地私人停車場外面社區小公園(應是公家的地，有公家機關來修剪樹木過)樹木倒塌在私人停車場內，占用停車格位子。造成停車格車主無法停車。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "周郁涵",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "士東路２６６巷６弄１１號1樓",
             "new_value": "士東路266巷6弄11號1樓",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:06"
         }
     ]
 }

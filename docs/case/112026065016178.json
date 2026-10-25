@@ -1,15 +1,15 @@
 {
     "CASE_ID": "112026065016178",
-    "CASE_DT": "2026\/10\/24 下午 04:35:19",
+    "CASE_DT": "2026\/10\/24 下午 04:35:00",
     "COUNTY_N": "臺北市",
     "TOWN_N": "北投區",
-    "CASE_LOC": "明德路３８巷１６號",
+    "CASE_LOC": "明德路38巷16號",
     "GEOMETRY_TYPE": "點",
-    "COORDINATE": "121.518524,25.107029",
+    "COORDINATE": "121.518525,25.10703",
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】上述地點對面人行道上有一棵路樹，路樹已經倒塌卡在電線上，擔心路樹會倒下，請單位派員前往處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "張瓊芬",
     "INJURED_NO": 0,
@@ -19,5 +19,30 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_DT",
+            "old_value": "2026\/10\/24 下午 04:35:19",
+            "new_value": "2026\/10\/24 下午 04:35:00",
+            "timestamp": "2026-10-25 11:21:05"
+        },
+        {
+            "field": "CASE_LOC",
+            "old_value": "明德路３８巷１６號",
+            "new_value": "明德路38巷16號",
+            "timestamp": "2026-10-25 11:21:05"
+        },
+        {
+            "field": "COORDINATE",
+            "old_value": "121.518524,25.107029",
+            "new_value": "121.518525,25.10703",
+            "timestamp": "2026-10-25 11:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 11:21:05"
+        }
+    ]
 }

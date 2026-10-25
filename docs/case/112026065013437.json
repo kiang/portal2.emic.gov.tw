@@ -3,7 +3,7 @@
     "CASE_DT": "2026\/10\/24 上午 10:41:37",
     "COUNTY_N": "臺北市",
     "TOWN_N": "中山區",
-    "CASE_LOC": "北安路４５８巷４１弄３１號",
+    "CASE_LOC": "北安路458巷41弄31號",
     "GEOMETRY_TYPE": "點",
     "COORDINATE": "121.54599,25.079018",
     "DISASTER_MAIN_TYPE": "路樹災情",
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_LOC",
+            "old_value": "北安路４５８巷４１弄３１號",
+            "new_value": "北安路458巷41弄31號",
+            "timestamp": "2026-10-25 11:21:06"
+        }
+    ]
 }
