@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】反映上述地點巷口的道路上有一棵路樹，因為風災關係導致倒塌，目前雙向車道都無法通行，因新園街裡面都是長者，如果有需要就醫的話救護車會無法進出，請相關單位儘速派員前往協助處理。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "于國泱",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "2026\/10\/24 上午 12:56:37",
             "new_value": "2026\/10\/24 上午 12:56:00",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 12:41:05"
         }
     ]
 }

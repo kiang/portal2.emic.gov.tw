@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電線（桿）毀損",
     "CASE_DESCRIPTION": "- 道路- 電力線掉落，恐有安全之虞- 第四台電纜線掉落，恐有安全之虞- 其他補述：纜線垂落橫越道路，恐生危險，請盡速轉知台電或第四台人員等相關單位查處，警方已到場放置三角錐！",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "廖建凱",
     "INJURED_NO": 0,
@@ -25,6 +25,12 @@
             "old_value": "2026\/10\/24 上午 11:04:19",
             "new_value": "2026\/10\/24 上午 11:04:00",
             "timestamp": "2026-10-24 17:21:05"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-25 12:41:05"
         }
     ]
 }
