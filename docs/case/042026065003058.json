@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "2026\/10\/23 17:05:58 - 地點描述：雲林縣虎尾鎮清雲二路99號上述地點住家前因隔壁工地圍籬鐵片倒下，妨礙出入，已通知119，請速派員處理並注意本身安全及到達時間。 110轉報人員：蘇哲授　／　上述地點住家前因隔壁工地圍籬鐵片倒下，已通知119",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "災情查報",
     "PERSON_ID": "119",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "",
             "new_value": "119",
             "timestamp": "2026-10-23 19:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-26 20:11:05"
         }
     ]
 }
