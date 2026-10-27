@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "1.汐止區茄苳路225巷9弄3號2樓，民眾10\/23 20:41左右發現該址受颱風影響造成大範圍停電，請相關單位儘快派員前往處理。  2.汐止區茄苳路一帶，目前停電，請單位協處。  3.併案案號235  4.汐止區茄苳路208號，該社區停電。  5.併案案號222  6.汐止區茄苳路，整段路停電，請單位檢修。  7.併案案號495",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "鄭景云",
     "INJURED_NO": 0,
@@ -19,5 +19,12 @@
     "SHELTER_NO": 0,
     "IS_TRAFFIC": false,
     "IS_SERIOUS": false,
-    "logs": []
+    "logs": [
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-27 13:41:05"
+        }
+    ]
 }

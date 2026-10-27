@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "民生、基礎設施災情",
     "DISASTER_SUB_TYPE": "電力停電",
     "CASE_DESCRIPTION": "1.新店區永業路81巷9弄，整條巷子停電。",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "鄭伯軒",
     "INJURED_NO": 0,
@@ -79,6 +79,12 @@
             "old_value": "已處理",
             "new_value": "處理中",
             "timestamp": "2026-10-24 00:51:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-27 13:41:05"
         }
     ]
 }
