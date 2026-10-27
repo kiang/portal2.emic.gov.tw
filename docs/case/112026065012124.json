@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "路樹災情",
     "DISASTER_SUB_TYPE": "路樹倒塌",
     "CASE_DESCRIPTION": "【一般案件】住家前一點路上的龍眼樹倒塌，已經影響交通(中山北路七段１９０巷１２５號。)",
-    "CASE_STATUS": "處理中",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "縣市報災情",
     "PERSON_ID": "王心悅",
     "INJURED_NO": 0,
@@ -37,6 +37,12 @@
             "old_value": "121.532371495352,25.123817985739",
             "new_value": "121.533137,25.125077",
             "timestamp": "2026-10-24 17:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "處理中",
+            "new_value": "已處理",
+            "timestamp": "2026-10-27 12:11:05"
         }
     ]
 }
