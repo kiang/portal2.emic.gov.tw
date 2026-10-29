@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "建物毀損",
     "DISASTER_SUB_TYPE": "圍牆倒塌(含籬及鐵皮)",
     "CASE_DESCRIPTION": "2026\/10\/23 12:31:01 - 光復鄉大華街7巷口平交道附近有鐵皮掉到馬路上，佔馬路的一半,透過經緯度轉換GIS座標(23.6688,121.4215)",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "處理中",
     "CASE_TYPE": "119消防署派遣系統",
     "PERSON_ID": "1999",
     "INJURED_NO": 0,
@@ -49,6 +49,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-23 14:31:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "處理中",
+            "timestamp": "2026-10-29 15:31:05"
         }
     ]
 }

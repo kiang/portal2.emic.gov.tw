@@ -50190,24 +50190,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.151623,
-                    22.756157
-                ]
-            },
-            "properties": {
-                "CASE_ID": "102026065011359",
-                "CASE_DT": "2026\/10\/24 上午 07:51:42",
-                "DISASTER_MAIN_TYPE": "車輛、交通事故",
-                "CASE_STATUS": "待處理",
-                "IS_TRAFFIC": false,
-                "IS_SERIOUS": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     120.43995497782,
                     23.7099984617391
                 ]
@@ -100598,7 +100580,7 @@
                 "CASE_ID": "042026065005115",
                 "CASE_DT": "2026\/10\/23 下午 08:04:00",
                 "DISASTER_MAIN_TYPE": "道路、隧道災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -121784,7 +121766,7 @@
                 "CASE_ID": "042026065002551",
                 "CASE_DT": "2026\/10\/23 下午 04:10:00",
                 "DISASTER_MAIN_TYPE": "路樹災情",
-                "CASE_STATUS": "處理中",
+                "CASE_STATUS": "已處理",
                 "IS_TRAFFIC": true,
                 "IS_SERIOUS": false
             }
@@ -129272,7 +129254,7 @@
                 "CASE_ID": "072026065001715",
                 "CASE_DT": "2026\/10\/23 下午 02:44:59",
                 "DISASTER_MAIN_TYPE": "其他災情",
-                "CASE_STATUS": "已處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
@@ -140864,7 +140846,7 @@
                 "CASE_ID": "072026065000520",
                 "CASE_DT": "2026\/10\/23 下午 12:31:01",
                 "DISASTER_MAIN_TYPE": "建物毀損",
-                "CASE_STATUS": "已處理",
+                "CASE_STATUS": "處理中",
                 "IS_TRAFFIC": false,
                 "IS_SERIOUS": false
             }
