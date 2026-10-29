@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "車輛、交通事故",
     "DISASTER_SUB_TYPE": "其他",
     "CASE_DESCRIPTION": "地點：台11線61K處(豐濱鄉人定勝天路)事由：派出所邱警員通報，上述地點有大約三公尺寬的道路坑洞，請相關單位協助後續修繕。",
-    "CASE_STATUS": "已處理",
+    "CASE_STATUS": "待處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "邱警員",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "待處理",
             "new_value": "已處理",
             "timestamp": "2026-10-24 15:11:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "已處理",
+            "new_value": "待處理",
+            "timestamp": "2026-10-29 15:21:05"
         }
     ]
 }
