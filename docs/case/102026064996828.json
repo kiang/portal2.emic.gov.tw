@@ -9,7 +9,7 @@
     "DISASTER_MAIN_TYPE": "廣告招牌災情",
     "DISASTER_SUB_TYPE": "廣告招牌欲墜",
     "CASE_DESCRIPTION": "地點：新城鄉大漢村大漢街，靠近大漢早餐店的區域經查詢大漢早餐地址：971花蓮縣新城鄉大漢村大漢街54號事由：民眾表示颱風即將襲台，目前颳起強陣風，但候選人的選舉布條卻都沒有收，上述路段有被插了好多支，民眾擔心越晚會越嚴重，到時布條會鐵絲外露或是只剩竹竿形成危險，煩請相關單位處理。",
-    "CASE_STATUS": "待處理",
+    "CASE_STATUS": "已處理",
     "CASE_TYPE": "1999報災情",
     "PERSON_ID": "葉先生",
     "INJURED_NO": 0,
@@ -31,6 +31,12 @@
             "old_value": "其他",
             "new_value": "廣告招牌欲墜",
             "timestamp": "2026-10-23 08:41:04"
+        },
+        {
+            "field": "CASE_STATUS",
+            "old_value": "待處理",
+            "new_value": "已處理",
+            "timestamp": "2026-10-29 15:51:05"
         }
     ]
 }
