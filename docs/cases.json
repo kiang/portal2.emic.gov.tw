@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4138359,
+                    25.1381276
+                ]
+            },
+            "properties": {
+                "CASE_ID": "172026065053863",
+                "CASE_DT": "2026\/11\/3 上午 09:58:35",
+                "DISASTER_MAIN_TYPE": "其他災情",
+                "CASE_STATUS": "未受理",
+                "IS_TRAFFIC": false,
+                "IS_SERIOUS": false
+            }
+        }
+    ]
 }
